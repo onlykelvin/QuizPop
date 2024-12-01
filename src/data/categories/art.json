@@ -1,0 +1,20 @@
+{
+  "category": "Art",
+  "questions": [
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Michelangelo"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "Which art movement is Salvador Dalí associated with?",
+      "options": ["Surrealism", "Impressionism", "Cubism", "Pop Art"],
+      "answer": "Surrealism"
+    },
+    {
+      "question": "In which city is the Louvre Museum located?",
+      "options": ["Paris", "London", "New York", "Rome"],
+      "answer": "Paris"
+    }
+  ]
+}

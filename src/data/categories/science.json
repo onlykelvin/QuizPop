@@ -1,0 +1,20 @@
+{
+  "category": "Science",
+  "questions": [
+    {
+      "question": "What is H2O commonly known as?",
+      "options": ["Water", "Salt", "Sugar", "Sand"],
+      "answer": "Water"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "answer": "Mars"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Ag", "Fe", "Au", "Cu"],
+      "answer": "Au"
+    }
+  ]
+}
