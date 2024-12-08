@@ -1,15 +1,3 @@
-import { create } from 'zustand';
-import { AudioState } from '../types';
-
-interface AudioStore extends AudioState {
-  playCorrect: () => void;
-  playIncorrect: () => void;
-  toggleMute: () => void;
-  setVolume: (volume: number) => void;
-  nextTrack: () => void;
-  initializeAudio: () => void;
-}
-
 export const useAudioStore = create<AudioStore>((set, get) => {
   let musicTracks: HTMLAudioElement[] = [];
   let currentAudio: HTMLAudioElement | null = null;
@@ -17,31 +5,28 @@ export const useAudioStore = create<AudioStore>((set, get) => {
   const incorrectSound = new Audio('./assets/audio/sfx/incorrect.mp3');
 
   const loadMusicTracks = async () => {
-    try {
-      // This will be populated when music files are added to the assets folder
-      const musicFiles = import.meta.glob('./assets/audio/music/*.mp3');
-      
-      for (const path in musicFiles) {
-        const audio = new Audio(path);
-        audio.loop = true;
-        musicTracks.push(audio);
-      }
-    } catch (error) {
-      console.error('Failed to load music tracks:', error);
-    }
+    const paths = [
+      './assets/audio/music/track1.mp3',
+      './assets/audio/music/track2.mp3',
+      './assets/audio/music/track3.mp3',
+    ];
+    paths.forEach((path) => {
+      const audio = new Audio(path);
+      audio.loop = true;
+      musicTracks.push(audio);
+    });
   };
 
   return {
     isMuted: false,
     volume: 0.5,
     currentTrack: 0,
-    
+
     initializeAudio: async () => {
       await loadMusicTracks();
       if (musicTracks.length > 0) {
         currentAudio = musicTracks[0];
         currentAudio.volume = get().volume;
-        currentAudio.play().catch(console.error);
       }
     },
 
@@ -62,7 +47,7 @@ export const useAudioStore = create<AudioStore>((set, get) => {
     toggleMute: () => {
       const newMuted = !get().isMuted;
       set({ isMuted: newMuted });
-      
+
       if (currentAudio) {
         currentAudio.volume = newMuted ? 0 : get().volume;
       }
@@ -77,7 +62,7 @@ export const useAudioStore = create<AudioStore>((set, get) => {
 
     nextTrack: () => {
       if (musicTracks.length === 0) return;
-      
+
       if (currentAudio) {
         currentAudio.pause();
         currentAudio.currentTime = 0;
@@ -85,7 +70,7 @@ export const useAudioStore = create<AudioStore>((set, get) => {
 
       const nextTrackIndex = (get().currentTrack + 1) % musicTracks.length;
       set({ currentTrack: nextTrackIndex });
-      
+
       currentAudio = musicTracks[nextTrackIndex];
       if (currentAudio && !get().isMuted) {
         currentAudio.volume = get().volume;
