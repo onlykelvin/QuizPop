@@ -13,19 +13,27 @@ interface AudioStore extends AudioState {
 export const useAudioStore = create<AudioStore>((set, get) => {
   let musicTracks: HTMLAudioElement[] = [];
   let currentAudio: HTMLAudioElement | null = null;
-  const correctSound = new Audio('/QuizPop/assets/audio/sfx/correct.mp3'); // Fixed path
-  const incorrectSound = new Audio('/QuizPop/assets/audio/sfx/incorrect.mp3'); // Fixed path
+  const correctSound = new Audio('/QuizPop/assets/audio/sfx/correct.mp3');
+  const incorrectSound = new Audio('/QuizPop/assets/audio/sfx/incorrect.mp3');
 
-  const loadMusicTracks = async () => {
+  const loadMusicTracks = () => {
     try {
-      // Corrected path for dynamic imports
-      const musicFiles = import.meta.glob('/assets/audio/music/*.mp3', { eager: true });
+      // Hardcoded paths for the music tracks
+      const musicPaths = [
+        '/QuizPop/assets/audio/music/track1.mp3',
+        '/QuizPop/assets/audio/music/track2.mp3',
+        '/QuizPop/assets/audio/music/track3.mp3',
+        '/QuizPop/assets/audio/music/track4.mp3',
+        '/QuizPop/assets/audio/music/track5.mp3',
+      ];
 
-      for (const [path, module] of Object.entries(musicFiles)) {
-        const audio = new Audio(module.default as string);
+      musicPaths.forEach((path) => {
+        const audio = new Audio(path);
         audio.loop = true;
         musicTracks.push(audio);
-      }
+      });
+
+      console.log("Music tracks loaded:", musicTracks);
     } catch (error) {
       console.error('Failed to load music tracks:', error);
     }
@@ -36,26 +44,32 @@ export const useAudioStore = create<AudioStore>((set, get) => {
     volume: 0.5,
     currentTrack: 0,
 
-    initializeAudio: async () => {
-      await loadMusicTracks();
+    initializeAudio: () => {
+      loadMusicTracks();
       if (musicTracks.length > 0) {
         currentAudio = musicTracks[0];
         currentAudio.volume = get().volume;
-        currentAudio.play().catch(console.error);
+        currentAudio.play().catch((err) =>
+          console.error("Failed to play initial track:", err)
+        );
       }
     },
 
     playCorrect: () => {
       if (!get().isMuted) {
         correctSound.volume = get().volume;
-        correctSound.play().catch(console.error);
+        correctSound.play().catch((err) =>
+          console.error("Failed to play correct sound:", err)
+        );
       }
     },
 
     playIncorrect: () => {
       if (!get().isMuted) {
         incorrectSound.volume = get().volume;
-        incorrectSound.play().catch(console.error);
+        incorrectSound.play().catch((err) =>
+          console.error("Failed to play incorrect sound:", err)
+        );
       }
     },
 
@@ -89,7 +103,9 @@ export const useAudioStore = create<AudioStore>((set, get) => {
       currentAudio = musicTracks[nextTrackIndex];
       if (currentAudio && !get().isMuted) {
         currentAudio.volume = get().volume;
-        currentAudio.play().catch(console.error);
+        currentAudio.play().catch((err) =>
+          console.error("Failed to play next track:", err)
+        );
       }
     },
   };
