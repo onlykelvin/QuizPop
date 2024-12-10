@@ -16,13 +16,13 @@ interface AudioStore extends AudioState {
 
 export const useAudioStore = create<AudioStore>((set, get) => {
   const musicTracks = [
-    '/src/assets/audio/music/track1.mp3',
-    '/src/assets/audio/music/track2.mp3',
-    '/src/assets/audio/music/track3.mp3',
-    '/src/assets/audio/music/track4.mp3',
-    '/src/assets/audio/music/track5.mp3',
-    '/src/assets/audio/music/track6.mp3',
-    '/src/assets/audio/music/track7.mp3',
+    '/QuizPop/src/assets/audio/music/track1.mp3',
+    '/QuizPop/src/assets/audio/music/track2.mp3',
+    '/QuizPop/src/assets/audio/music/track3.mp3',
+    '/QuizPop/src/assets/audio/music/track4.mp3',
+    '/QuizPop/src/assets/audio/music/track5.mp3',
+    '/QuizPop/src/assets/audio/music/track6.mp3',
+    '/QuizPop/src/assets/audio/music/track7.mp3',
   ].map((path) => {
     const audio = new Audio(path);
     audio.loop = true;
@@ -30,8 +30,8 @@ export const useAudioStore = create<AudioStore>((set, get) => {
   });
 
   let currentAudio: HTMLAudioElement | null = null;
-  const correctSound = new Audio('/src/assets/audio/sfx/correct.mp3');
-  const incorrectSound = new Audio('/src/assets/audio/sfx/incorrect.mp3');
+  const correctSound = new Audio('/QuizPop/src/assets/audio/sfx/correct.mp3');
+  const incorrectSound = new Audio('/QuizPop/src/assets/audio/sfx/incorrect.mp3');
 
   return {
     isMuted: false,
