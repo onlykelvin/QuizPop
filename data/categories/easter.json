@@ -1,0 +1,27 @@
+{
+  "category": "Easter",
+  "description": "Learn about Easter traditions, symbols, and celebrations worldwide",
+  "questions": [
+    {
+      "question": "Which country is credited with starting the tradition of Easter eggs?",
+      "options": ["Germany", "Persia", "Egypt", "Greece"],
+      "answer": "Persia",
+      "funFact": "The tradition of decorating eggs dates back over 2,500 years!",
+      "story": "The ancient Persians painted eggs for Nowruz, their New Year celebration, which falls on the Spring equinox. This tradition spread along trade routes and was eventually incorporated into Christian Easter celebrations, with eggs symbolizing new life and resurrection."
+    },
+    {
+      "question": "What is the traditional Easter bread of Italy called?",
+      "options": ["Panettone", "Colomba", "Ciabatta", "Focaccia"],
+      "answer": "Colomba",
+      "funFact": "Colomba is shaped like a dove to symbolize peace and the Holy Spirit!",
+      "story": "The Colomba di Pasqua (Easter Dove) dates back to the 6th century in Lombardy. According to legend, it was created to commemorate a peace offering made by a dove during a battle. The bread is similar to panettone but shaped like a dove and topped with almonds and pearl sugar."
+    },
+    {
+      "question": "Which flower is most associated with Easter?",
+      "options": ["Rose", "Lily", "Tulip", "Daisy"],
+      "answer": "Lily",
+      "funFact": "White lilies are known as 'Easter Lilies' because they symbolize purity and new life!",
+      "story": "The Easter lily became associated with the holiday in the late 1800s when they were brought to the United States from Bermuda. According to Christian tradition, lilies are said to have grown where Jesus's sweat fell to the ground in his final hours."
+    }
+  ]
+}

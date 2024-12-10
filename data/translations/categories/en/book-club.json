@@ -1,0 +1,27 @@
+{
+  "category": "Book Club",
+  "description": "Explore literary classics, book discussions, and reading culture",
+  "questions": [
+    {
+      "question": "Which book club selection by Oprah Winfrey sold over 2 million copies after being chosen?",
+      "options": ["The Deep End of the Ocean", "The Road", "The Corrections", "A Million Little Pieces"],
+      "answer": "The Deep End of the Ocean",
+      "funFact": "Oprah's Book Club has featured over 90 books since its inception in 1996!",
+      "story": "When Oprah selected 'The Deep End of the Ocean' by Jacquelyn Mitchard as her first book club pick in 1996, it created what publishers call 'The Oprah Effect'. The phenomenon demonstrated the immense influence book clubs can have on reading culture and book sales."
+    },
+    {
+      "question": "What is the term for a group reading and discussing a book together online?",
+      "options": ["E-club", "Virtual book club", "Digital reading circle", "Cyber library"],
+      "answer": "Virtual book club",
+      "funFact": "The first major virtual book club started on AOL in 1996!",
+      "story": "Virtual book clubs gained massive popularity during the digital age, allowing readers worldwide to connect and discuss literature. During the 2020 pandemic, virtual book clubs saw a 219% increase in participation, revolutionizing how people engage with books and fellow readers."
+    },
+    {
+      "question": "Which classic novel was first published as a book club selection in 1936?",
+      "options": ["Gone with the Wind", "Of Mice and Men", "Rebecca", "The Hobbit"],
+      "answer": "Gone with the Wind",
+      "funFact": "The Book of the Month Club's selection of 'Gone with the Wind' helped it sell over one million copies in its first year!",
+      "story": "Margaret Mitchell's 'Gone with the Wind' was chosen as a Book of the Month Club selection in 1936, helping launch it to massive success. The book club's endorsement was crucial in establishing the novel as a bestseller before it won the Pulitzer Prize in 1937."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "category": "Santa Claus",
+  "description": "Discover the history, legends, and traditions of Santa Claus around the world",
+  "questions": [
+    {
+      "question": "What was Santa Claus's original name?",
+      "options": ["Saint Nicholas", "Kris Kringle", "Father Christmas", "Pere Noel"],
+      "answer": "Saint Nicholas",
+      "funFact": "Saint Nicholas was a real person who lived in the 4th century in modern-day Turkey!",
+      "story": "Saint Nicholas was a Christian bishop known for his generosity and gift-giving, especially to the poor. The most famous story tells of him providing dowries for three poor sisters by throwing gold coins through their window at night, which landed in stockings drying by the fire."
+    },
+    {
+      "question": "What color was Santa's suit before Coca-Cola advertisements?",
+      "options": ["Green", "Brown", "Blue", "Various colors"],
+      "answer": "Various colors",
+      "funFact": "Santa wore green, brown, tan, and even purple before the red suit became standard!",
+      "story": "While Coca-Cola didn't invent the red-suited Santa, their 1930s advertisements by artist Haddon Sundblom helped standardize his appearance. Before then, Santa's outfit varied widely, often reflecting local traditions and artists' interpretations."
+    },
+    {
+      "question": "In which country do children leave carrots for Santa's reindeer in wooden shoes?",
+      "options": ["Germany", "Netherlands", "Denmark", "Sweden"],
+      "answer": "Netherlands",
+      "funFact": "Dutch children leave hay and carrots in their shoes for Sinterklaas's horse, not reindeer!",
+      "story": "In Dutch tradition, Sinterklaas (the basis for Santa Claus) arrives by steamboat from Spain and rides a white horse named Amerigo. Children leave their shoes out with carrots and hay for the horse, hoping to find them filled with treats the next morning."
+    }
+  ]
+}

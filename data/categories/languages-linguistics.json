@@ -1,0 +1,27 @@
+{
+  "category": "Languages & Linguistics",
+  "description": "Discover the fascinating world of languages, words, and communication",
+  "questions": [
+    {
+      "question": "Which is the most spoken language in the world by native speakers?",
+      "options": ["English", "Spanish", "Hindi", "Mandarin Chinese"],
+      "answer": "Mandarin Chinese",
+      "funFact": "Mandarin Chinese has over 50,000 characters, but you only need to know about 2,000 to read a newspaper!",
+      "story": "Mandarin became China's official language in the early 20th century. The standardization of Mandarin was crucial for unifying a country where people spoke many different dialects. Today, it's the native language of over 900 million people."
+    },
+    {
+      "question": "What is the longest word in the English language that contains no letter more than once?",
+      "options": ["Uncopyrightable", "Dermatoglyphics", "Misconjugate", "Ambidextrous"],
+      "answer": "Uncopyrightable",
+      "funFact": "This 15-letter word is the longest isogram (word with no repeating letters) in English!",
+      "story": "The word 'uncopyrightable' refers to something that cannot be protected by copyright law. It's particularly interesting because it contains 15 different letters, making it a perfect example of an isogram, a word where no letter appears more than once."
+    },
+    {
+      "question": "Which ancient writing system used pictographic symbols called hieroglyphs?",
+      "options": ["Chinese", "Egyptian", "Sumerian", "Greek"],
+      "answer": "Egyptian",
+      "funFact": "There are over 1,000 distinct hieroglyphs, some representing sounds and others representing complete words!",
+      "story": "Egyptian hieroglyphs remained a mystery until the discovery of the Rosetta Stone in 1799. This stone contained the same text in hieroglyphs, Demotic script, and ancient Greek, allowing scholars to finally decode the ancient Egyptian writing system after over 1,400 years."
+    }
+  ]
+}

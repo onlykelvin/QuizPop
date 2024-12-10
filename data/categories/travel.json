@@ -1,0 +1,27 @@
+{
+  "category": "Travel",
+  "description": "Test your knowledge of destinations, travel tips, and world cultures",
+  "questions": [
+    {
+      "question": "Which city is known as the 'City of Light'?",
+      "options": ["London", "New York", "Paris", "Tokyo"],
+      "answer": "Paris",
+      "funFact": "Paris got this nickname not just for its early adoption of street lighting, but also for its role in the Age of Enlightenment!",
+      "story": "Paris earned its nickname 'La Ville Lumière' (The City of Light) in the 1860s when it became one of the first European cities to adopt gas street lighting. The nickname also reflects Paris's role as a center of education, ideas, and enlightenment during the Age of Reason."
+    },
+    {
+      "question": "What is the world's longest commercial flight route?",
+      "options": ["New York to Singapore", "Dubai to Auckland", "Singapore to New York", "London to Perth"],
+      "answer": "Singapore to New York",
+      "funFact": "The flight covers 9,537 miles and takes around 18 hours and 50 minutes!",
+      "story": "Singapore Airlines operates the world's longest commercial flight between Singapore and New York. The route uses an Airbus A350-900ULR (Ultra Long Range) specially designed for such distances. The aircraft carries extra fuel and fewer passengers to make the journey possible."
+    },
+    {
+      "question": "Which famous trail follows the ancient Inca path to Machu Picchu?",
+      "options": ["Appalachian Trail", "Inca Trail", "Camino de Santiago", "Pacific Crest Trail"],
+      "answer": "Inca Trail",
+      "funFact": "The Inca Trail includes over 50,000 stone steps!",
+      "story": "The Inca Trail was part of a vast network of roads built by the Inca Empire to connect their territories. The classic four-day trek to Machu Picchu follows ancient stone paths, passes through cloud forests, and includes visits to several other Inca ruins before reaching the famous 'lost city'."
+    }
+  ]
+}
