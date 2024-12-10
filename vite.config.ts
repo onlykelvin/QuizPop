@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/my-app/', // add this line
+  base: "/QuizPop", // replace with your actual repository name
 });
