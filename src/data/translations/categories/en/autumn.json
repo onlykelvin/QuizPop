@@ -1,0 +1,27 @@
+{
+  "category": "Autumn",
+  "description": "Learn about fall colors, harvest traditions, and autumnal phenomena",
+  "questions": [
+    {
+      "question": "What pigment gives leaves their orange color in autumn?",
+      "options": ["Chlorophyll", "Carotene", "Anthocyanin", "Xanthophyll"],
+      "answer": "Carotene",
+      "funFact": "Carotene is the same pigment that gives carrots their orange color!",
+      "story": "During autumn, trees stop producing chlorophyll (the green pigment), revealing other pigments that were there all along. Carotene, which produces orange colors, was present in the leaves throughout the growing season but was masked by the green chlorophyll."
+    },
+    {
+      "question": "Which harvest festival marks the end of autumn in the United States?",
+      "options": ["Halloween", "Labor Day", "Thanksgiving", "Columbus Day"],
+      "answer": "Thanksgiving",
+      "funFact": "The first Thanksgiving celebration lasted three days!",
+      "story": "The first Thanksgiving was celebrated in 1621 by the Pilgrims after their first harvest in the New World. The feast was attended by both the colonists and the Wampanoag people, who had helped them learn to cultivate native crops like corn, squash, and beans."
+    },
+    {
+      "question": "What is the autumnal equinox?",
+      "options": ["First frost", "Equal day and night", "First harvest", "Longest night"],
+      "answer": "Equal day and night",
+      "funFact": "The word 'equinox' comes from Latin meaning 'equal night'!",
+      "story": "The autumnal equinox occurs when the sun crosses the celestial equator, making day and night nearly equal in length. Many ancient cultures built monuments aligned with the equinoxes, such as the Great Sphinx of Egypt, which faces directly toward the rising sun on the equinox."
+    }
+  ]
+}

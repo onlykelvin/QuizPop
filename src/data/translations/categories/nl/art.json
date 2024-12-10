@@ -1,0 +1,13 @@
+{
+  "category": "Kunst",
+  "description": "Ontdek de schoonheid en betekenis achter beroemde kunstwerken en kunstenaars",
+  "questions": [
+    {
+      "question": "Wie schilderde de Mona Lisa?",
+      "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Michelangelo"],
+      "answer": "Leonardo da Vinci",
+      "funFact": "De Mona Lisa heeft geen wenkbrauwen! Het was in het Florence van de Renaissance mode voor vrouwen om hun gezichtshaar te epileren.",
+      "story": "Da Vinci werkte meer dan 15 jaar aan de Mona Lisa en nam het overal mee naartoe. Hij beschouwde het als onvoltooid en heeft het nooit afgeleverd aan de persoon die het had besteld."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "category": "Art",
+  "description": "Discover the beauty and meaning behind famous artworks and artists",
+  "questions": [
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Michelangelo"],
+      "answer": "Leonardo da Vinci",
+      "funFact": "The Mona Lisa has no eyebrows! It was fashionable in Renaissance Florence for women to pluck their facial hair.",
+      "story": "Da Vinci worked on the Mona Lisa for over 15 years, carrying it with him wherever he went. He considered it unfinished and never delivered it to the person who commissioned it."
+    }
+  ]
+}

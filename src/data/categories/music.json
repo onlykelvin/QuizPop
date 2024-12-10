@@ -1,0 +1,97 @@
+{
+  "category": "Music",
+  "description": "Test your knowledge of musical history, theory, and artists",
+  "questions": [
+    {
+      "question": "Which composer wrote 'Symphony No. 5'?",
+      "options": ["Mozart", "Bach", "Beethoven", "Tchaikovsky"],
+      "answer": "Beethoven",
+      "funFact": "Beethoven was almost completely deaf when he composed his Ninth Symphony!",
+      "story": "The famous opening of Beethoven's Fifth Symphony (da-da-da-dum) is often called 'fate knocking at the door'. He began working on it in 1804, during a time when he was coming to terms with his increasing deafness, making its triumphant nature even more poignant."
+    },
+    {
+      "question": "What instrument is known as the 'King of Instruments'?",
+      "options": ["Piano", "Organ", "Violin", "Guitar"],
+      "answer": "Organ",
+      "funFact": "The largest pipe organ in the world has over 33,000 pipes!",
+      "story": "The pipe organ earned this title due to its complexity and power. Mozart called it the 'king of instruments' because it could imitate an entire orchestra. The largest one is in the Boardwalk Hall Auditorium Organ in Atlantic City, built in 1932."
+    },
+    {
+      "question": "Which decade is known as the 'British Invasion' in music?",
+      "options": ["1950s", "1960s", "1970s", "1980s"],
+      "answer": "1960s",
+      "funFact": "The Beatles' first US TV appearance was watched by 73 million viewers!",
+      "story": "The British Invasion began when The Beatles appeared on The Ed Sullivan Show in February 1964. This cultural phenomenon saw British rock bands like The Beatles, The Rolling Stones, and The Who dominate American music charts, forever changing popular music."
+    },
+    {
+      "question": "Who is known as the 'Queen of Soul'?",
+      "options": ["Aretha Franklin", "Diana Ross", "Whitney Houston", "Tina Turner"],
+      "answer": "Aretha Franklin",
+      "funFact": "Aretha Franklin was the first woman inducted into the Rock and Roll Hall of Fame!",
+      "story": "Aretha Franklin's hits like 'Respect' and 'Think' became anthems for civil rights and feminism. Her powerful voice and influence earned her the title 'Queen of Soul'."
+    },
+    {
+      "question": "Which famous guitarist is known for songs like 'Purple Haze' and 'Hey Joe'?",
+      "options": ["Eric Clapton", "Jimi Hendrix", "Carlos Santana", "Slash"],
+      "answer": "Jimi Hendrix",
+      "funFact": "Hendrix was left-handed but played a right-handed guitar flipped upside down!",
+      "story": "Jimi Hendrix revolutionized guitar playing with his innovative techniques and electrifying performances. His legendary set at Woodstock in 1969 included a mind-blowing rendition of 'The Star-Spangled Banner'."
+    },
+    {
+      "question": "What musical term means 'to play softly'?",
+      "options": ["Forte", "Piano", "Mezzo", "Allegro"],
+      "answer": "Piano",
+      "funFact": "The word 'piano' comes from the Italian 'pianoforte', which means 'soft-loud'.",
+      "story": "The dynamic markings 'piano' (soft) and 'forte' (loud) originated in classical music. They help performers convey emotion by varying the volume of their playing."
+    },
+    {
+      "question": "Which iconic album is by Pink Floyd?",
+      "options": ["Abbey Road", "Rumours", "The Dark Side of the Moon", "Hotel California"],
+      "answer": "The Dark Side of the Moon",
+      "funFact": "This album spent over 950 weeks on the Billboard charts!",
+      "story": "Released in 1973, 'The Dark Side of the Moon' explores themes of life, death, and mental illness. Its innovative sound and philosophical lyrics made it a cultural milestone."
+    },
+    {
+      "question": "What is the highest female voice type in classical music?",
+      "options": ["Mezzo-soprano", "Soprano", "Alto", "Contralto"],
+      "answer": "Soprano",
+      "funFact": "Famous sopranos include Maria Callas and Renée Fleming.",
+      "story": "The soprano voice is celebrated for its ability to hit the highest notes in operatic and choral music. Roles like the Queen of the Night in Mozart's 'The Magic Flute' are notoriously challenging but awe-inspiring."
+    },
+    {
+      "question": "Who is often called the 'King of Pop'?",
+      "options": ["Michael Jackson", "Elvis Presley", "Prince", "Justin Timberlake"],
+      "answer": "Michael Jackson",
+      "funFact": "Michael Jackson's 'Thriller' is the best-selling album of all time!",
+      "story": "Michael Jackson transformed music, dance, and music videos with hits like 'Billie Jean' and 'Beat It'. His groundbreaking 'Moonwalk' dance move debuted in 1983."
+    },
+    {
+      "question": "Which classical composer started composing at the age of five?",
+      "options": ["Bach", "Mozart", "Chopin", "Haydn"],
+      "answer": "Mozart",
+      "funFact": "Mozart wrote over 600 works in his short life!",
+      "story": "Wolfgang Amadeus Mozart was a prodigy who toured Europe as a child, astounding audiences with his skill. His music remains a cornerstone of the classical repertoire."
+    },
+    {
+      "question": "Which band released the album 'Rumours'?",
+      "options": ["Fleetwood Mac", "The Eagles", "The Rolling Stones", "Led Zeppelin"],
+      "answer": "Fleetwood Mac",
+      "funFact": "'Rumours' has sold over 40 million copies worldwide!",
+      "story": "Recorded during a period of personal turmoil among band members, 'Rumours' features hits like 'Go Your Own Way' and 'Dreams'. It remains a masterpiece of rock history."
+    },
+    {
+      "question": "Which jazz musician is famous for his trumpet playing and hits like 'What a Wonderful World'?",
+      "options": ["Louis Armstrong", "Miles Davis", "Dizzy Gillespie", "John Coltrane"],
+      "answer": "Louis Armstrong",
+      "funFact": "Louis Armstrong's nickname was 'Satchmo', short for 'Satchel Mouth'!",
+      "story": "Louis Armstrong's gravelly voice and virtuosic trumpet skills brought jazz to mainstream audiences. His infectious joy in performances made him a global ambassador for the genre."
+    },
+    {
+      "question": "What scale is often used in blues music?",
+      "options": ["Major scale", "Minor scale", "Pentatonic scale", "Chromatic scale"],
+      "answer": "Pentatonic scale",
+      "funFact": "The pentatonic scale has five notes and is found in many world music traditions!",
+      "story": "The pentatonic scale gives blues its distinctive sound, often with added 'blue notes' for expressiveness. It's also a favorite for improvisation in genres like rock and jazz."
+    }
+  ]
+}

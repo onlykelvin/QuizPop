@@ -1,0 +1,27 @@
+{
+  "category": "Mythology & Folklore",
+  "description": "Explore ancient myths, legends, and cultural stories from around the world",
+  "questions": [
+    {
+      "question": "In Norse mythology, what is the name of Thor's hammer?",
+      "options": ["Gungnir", "Mjolnir", "Gram", "Hofund"],
+      "answer": "Mjolnir",
+      "funFact": "Mjolnir means 'crusher' or 'grinder' in Old Norse!",
+      "story": "According to Norse mythology, Mjolnir was forged by dwarven brothers Eitri and Brokkr. During its creation, Loki transformed into a fly and stung Eitri, causing the hammer's handle to be shorter than intended. Despite this flaw, it became Thor's most powerful weapon."
+    },
+    {
+      "question": "Which creature from Greek mythology had the head of a bull and the body of a man?",
+      "options": ["Centaur", "Minotaur", "Chimera", "Hydra"],
+      "answer": "Minotaur",
+      "funFact": "The Minotaur was kept in a labyrinth designed by Daedalus, the same inventor who created the wings of Icarus!",
+      "story": "The Minotaur was born to Pasiphaë, wife of King Minos of Crete, after she fell in love with a bull sent by Poseidon. The creature was kept in an elaborate maze and was eventually slain by the hero Theseus, who found his way out using Ariadne's thread."
+    },
+    {
+      "question": "In Japanese folklore, what is a Kitsune?",
+      "options": ["A dragon", "A fox spirit", "A thunder god", "A mountain demon"],
+      "answer": "A fox spirit",
+      "funFact": "Kitsune are said to grow additional tails as they age, with nine tails being the maximum!",
+      "story": "In Japanese folklore, Kitsune are intelligent foxes with magical abilities that increase with their age. They can shapeshift into human form, often appearing as beautiful women. Some Kitsune serve as messengers of Inari, the Shinto deity of fertility and rice."
+    }
+  ]
+}

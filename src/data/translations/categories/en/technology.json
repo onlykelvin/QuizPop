@@ -1,0 +1,27 @@
+{
+  "category": "Technology",
+  "description": "Test your knowledge of computers, gadgets, and digital innovation",
+  "questions": [
+    {
+      "question": "Who is considered the father of modern computer science?",
+      "options": ["Bill Gates", "Steve Jobs", "Alan Turing", "Mark Zuckerberg"],
+      "answer": "Alan Turing",
+      "funFact": "Turing's work helped break the Nazi Enigma code during World War II, potentially shortening the war by several years!",
+      "story": "Alan Turing developed the concept of the Turing machine, which became the foundation for modern computing. His work during WWII at Bletchley Park was kept secret for many years, and he was finally granted a posthumous pardon in 2013 for his conviction under historical anti-LGBT laws."
+    },
+    {
+      "question": "What was the first popular web browser?",
+      "options": ["Internet Explorer", "Netscape Navigator", "Mozilla Firefox", "Google Chrome"],
+      "answer": "Netscape Navigator",
+      "funFact": "Netscape's IPO in 1995 saw its stock price rise from $28 to $75 in a single day!",
+      "story": "Netscape Navigator, released in 1994, made the internet accessible to everyday users. Its success sparked the browser wars with Microsoft's Internet Explorer, ultimately leading to significant innovations in web technology that we still benefit from today."
+    },
+    {
+      "question": "In what year was the first iPhone released?",
+      "options": ["2005", "2006", "2007", "2008"],
+      "answer": "2007",
+      "funFact": "The original iPhone had just 128MB of RAM and couldn't even copy and paste text!",
+      "story": "Steve Jobs unveiled the first iPhone on January 9, 2007, at the Macworld conference. The device combined an iPod, phone, and internet communicator, revolutionizing mobile technology and changing how we interact with computers forever."
+    }
+  ]
+}

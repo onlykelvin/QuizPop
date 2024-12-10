@@ -1,0 +1,27 @@
+{
+  "category": "Winter",
+  "description": "Explore the wonders, traditions, and science of the winter season",
+  "questions": [
+    {
+      "question": "What causes the Northern Lights (Aurora Borealis)?",
+      "options": ["Solar winds", "City lights", "Moon reflection", "Atmospheric pressure"],
+      "answer": "Solar winds",
+      "funFact": "The Southern Lights (Aurora Australis) are the Antarctic counterpart to the Northern Lights!",
+      "story": "The spectacular light show occurs when charged particles from the sun collide with gases in Earth's atmosphere. These collisions create the dancing lights we see. The different colors come from different types of gas particles: oxygen produces green and red, while nitrogen creates blue and purple."
+    },
+    {
+      "question": "Which animal's heart rate slows to 2-3 beats per minute during hibernation?",
+      "options": ["Black Bear", "Groundhog", "Arctic Fox", "Hedgehog"],
+      "answer": "Groundhog",
+      "funFact": "A groundhog's body temperature can drop from 99°F to as low as 37°F during hibernation!",
+      "story": "During hibernation, groundhogs enter a state of deep sleep where their bodily functions slow dramatically. This allows them to survive winter months when food is scarce. They can lose up to half their body weight during this period."
+    },
+    {
+      "question": "What is a snow roller?",
+      "options": ["A snowplow", "A naturally formed snowball", "A winter sport", "A type of sled"],
+      "answer": "A naturally formed snowball",
+      "funFact": "Snow rollers are also called 'snow doughnuts' because of their shape!",
+      "story": "Snow rollers are a rare meteorological phenomenon where wind blows a chunk of snow along the ground, gathering more snow around it like a natural snowball. They require very specific conditions: wet snow, temperatures near freezing, and strong winds."
+    }
+  ]
+}
