@@ -19,7 +19,8 @@ export function useNavigationHandler() {
     window.addEventListener('popstate', handlePopState);
     window.addEventListener('beforeunload', handleBeforeUnload);
 
-
+    // Push initial state
+    window.history.pushState({ page: 'home' }, '', window.location.href);
 
     return () => {
       window.removeEventListener('popstate', handlePopState);
