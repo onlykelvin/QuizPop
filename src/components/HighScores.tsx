@@ -10,7 +10,7 @@ export function HighScores() {
   if (highScores.length === 0) {
     return (
       <div className="max-w-3xl mx-auto px-4 mt-12">
-        <div className="bg-white rounded-2xl shadow-xl p-8">
+        <div className="bg-white rounded-2xl shadow-xl p-8 style={{ marginBottom: '2rem' }}">
           <div className="flex items-center gap-3 mb-6">
             <Trophy className="w-8 h-8 text-yellow-400" />
             <h2 className="text-2xl font-bold text-gray-900">{t('highScores.title')}</h2>
