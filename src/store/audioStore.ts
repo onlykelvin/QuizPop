@@ -19,21 +19,21 @@ interface AudioStore extends AudioState {
 
 export const useAudioStore = create<AudioStore>((set, get) => {
   const musicTracks = [
-    '/assets/audio/music/track1.mp3',
-    '/assets/audio/music/track2.mp3',
-    '/assets/audio/music/track3.mp3',
-    '/assets/audio/music/track4.mp3',
-    '/assets/audio/music/track5.mp3',
-    '/assets/audio/music/track6.mp3',
-    '/assets/audio/music/track7.mp3',
+    '/QuizPop/assets/audio/music/track1.mp3',
+    '/QuizPop/assets/audio/music/track2.mp3',
+    '/QuizPop/assets/audio/music/track3.mp3',
+    '/QuizPop/assets/audio/music/track4.mp3',
+    '/QuizPop/assets/audio/music/track5.mp3',
+    '/QuizPop/assets/audio/music/track6.mp3',
+    '/QuizPop/assets/audio/music/track7.mp3',
   ].map((path) => {
     const audio = new Audio(path);
     return audio;
   });
 
   let currentAudio: HTMLAudioElement | null = null;
-  const correctSound = new Audio('/assets/audio/sfx/correct.mp3');
-  const incorrectSound = new Audio('/assets/audio/sfx/incorrect.mp3');
+  const correctSound = new Audio('/QuizPop/assets/audio/sfx/correct.mp3');
+  const incorrectSound = new Audio('/QuizPop/assets/audio/sfx/incorrect.mp3');
   let shuffledIndices: number[] = [];
 
   const getNextShuffledIndex = () => {
