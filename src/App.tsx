@@ -26,10 +26,10 @@ function App() {
         <Header />
         <main className="flex-grow">
           <Routes>
-            <Route path="/about" element={<AboutUs />} />
-            <Route path="/how-it-works" element={<HowItWorks />} />
-            <Route path="/contact" element={<Contact />} />
-            <Route path="/" element={
+            <Route path="/QuizPop/about" element={<AboutUs />} />
+            <Route path="/QuizPop/how-it-works" element={<HowItWorks />} />
+            <Route path="/QuizPop/contact" element={<Contact />} />
+            <Route path="/QuizPop" element={
               selectedCategory ? (
                 gameMode === 'classic' ? <Quiz /> : <QuizMaster />
               ) : (
