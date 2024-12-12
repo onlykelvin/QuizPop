@@ -1,0 +1,41 @@
+{
+  "category": "Geography",
+  "description": "Explore the world's landscapes, cultures, and natural wonders",
+  "questions": [
+    {
+      "question": "Which lake changes color?",
+      "options": ["Hillier", "Natron", "Retba", "Kelimutu"],
+      "answer": "Hillier",
+      "funFact": "The shade is constant!",
+      "story": "Lake Hillier in Australia maintains its bright pink color year-round due to the presence of Dunaliella salina microalgae and high salinity levels."
+    },
+    {
+      "question": "Which cave glows blue?",
+      "options": ["Waitomo", "Jenolan", "Luray", "Mammoth"],
+      "answer": "Waitomo",
+      "funFact": "The display is natural!",
+      "story": "New Zealand's Waitomo Caves host thousands of bioluminescent glowworms that create a stunning blue light display on the cave ceilings."
+    },
+    {
+      "question": "Which desert flowers most?",
+      "options": ["Atacama", "Sahara", "Mojave", "Gobi"],
+      "answer": "Atacama",
+      "funFact": "The event is rare!",
+      "story": "Chile's Atacama Desert, the world's driest non-polar desert, bursts into colorful blooms of over 200 flower species after rare rainfall events."
+    },
+    {
+      "question": "Which island moves fastest?",
+      "options": ["Surtsey", "Sholan", "Zalzala", "Norderoog"],
+      "answer": "Surtsey",
+      "funFact": "The changes are visible!",
+      "story": "Iceland's Surtsey Island, formed by volcanic eruption in 1963, is eroding at such a rapid rate that it loses several meters of coastline each year."
+    },
+    {
+      "question": "Which mountain grows tallest?",
+      "options": ["Nanga Parbat", "K2", "Everest", "Denali"],
+      "answer": "Nanga Parbat",
+      "funFact": "The uplift is measurable!",
+      "story": "Pakistan's Nanga Parbat is rising faster than any other mountain on Earth, gaining height at a rate of 7 millimeters per year due to tectonic activity."
+    }
+  ]
+}

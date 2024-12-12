@@ -1,0 +1,76 @@
+{
+  "category": "Health & Wellness",
+  "description": "Learn about physical and mental well-being, nutrition, and healthy living",
+  "questions": [
+    {
+      "question": "How many hours of sleep does the average adult need per night?",
+      "options": ["4-5 hours", "6-7 hours", "7-9 hours", "10-12 hours"],
+      "answer": "7-9 hours",
+      "funFact": "Humans are the only mammals that willingly delay sleep!",
+      "story": "The recommendation for 7-9 hours of sleep comes from extensive research by the National Sleep Foundation. During sleep, the brain performs crucial maintenance tasks, including clearing out toxic proteins that build up during waking hours. This 'brain cleaning' process was only discovered in 2013."
+    },
+    {
+      "question": "What is the main function of vitamin D?",
+      "options": ["Energy production", "Bone health", "Blood clotting", "Vision"],
+      "answer": "Bone health",
+      "funFact": "Your body can produce vitamin D when your skin is exposed to sunlight!",
+      "story": "Vitamin D was discovered in the early 1920s during research on rickets, a bone disease common in children. The discovery that sunlight could prevent and treat rickets led to the fortification of milk with vitamin D, which virtually eliminated the disease in many countries."
+    },
+    {
+      "question": "What is mindfulness?",
+      "options": ["Sleeping well", "Being present in the moment", "Exercise routine", "Eating healthy"],
+      "answer": "Being present in the moment",
+      "funFact": "Studies show that people spend 47% of their waking hours thinking about something other than what they're doing!",
+      "story": "Mindfulness has roots in Buddhist meditation practices dating back over 2,500 years. It was introduced to Western medicine by Jon Kabat-Zinn in the 1970s through his Mindfulness-Based Stress Reduction program, which has since been scientifically proven to reduce anxiety and depression."
+    },
+    {
+      "question": "Which organ can regenerate itself completely?",
+      "options": ["Liver", "Heart", "Brain", "Kidney"],
+      "answer": "Liver",
+      "funFact": "This remarkable organ performs over 500 different functions!",
+      "story": "The liver's regenerative ability was first documented in ancient Greek mythology with the story of Prometheus. Modern science has confirmed that the liver can regrow to its full size from as little as 25% of its original tissue. This unique ability helps it maintain vital functions while healing from injury or disease."
+    },
+    {
+      "question": "Which exercise was originally created as a rehabilitation technique?",
+      "options": ["Pilates", "Yoga", "Zumba", "CrossFit"],
+      "answer": "Pilates",
+      "funFact": "The inventor developed this system while interned during World War I!",
+      "story": "Joseph Pilates developed his exercise system while working as a nurse in an internment camp during World War I. He helped bedridden patients maintain their strength by attaching springs to their hospital beds, creating resistance exercises. This innovation later evolved into the modern Pilates reformer machine."
+    },
+    {
+      "question": "Which plant heals burns?",
+      "options": ["Aloe Vera", "Lavender", "Calendula", "Comfrey"],
+      "answer": "Aloe Vera",
+      "funFact": "The gel is complex!",
+      "story": "Aloe vera contains over 75 potentially active compounds, including vitamins, minerals, enzymes, and amino acids that promote wound healing."
+    },
+    {
+      "question": "Which therapy uses cold?",
+      "options": ["Cryotherapy", "Ice Bath", "Cold Plunge", "Frost Therapy"],
+      "answer": "Cryotherapy",
+      "funFact": "The treatment is brief!",
+      "story": "Whole-body cryotherapy exposes the body to temperatures as low as -240°F for 2-4 minutes, triggering anti-inflammatory responses."
+    },
+    {
+      "question": "Which massage uses sound?",
+      "options": ["Tibetan Bowls", "Gong Bath", "Sound Wave", "Sonic Touch"],
+      "answer": "Tibetan Bowls",
+      "funFact": "The vibrations travel!",
+      "story": "Traditional Tibetan singing bowl massage uses metal bowls placed on the body, creating vibrations that penetrate deep into tissues."
+    },
+    {
+      "question": "Which yoga floats?",
+      "options": ["AntiGravity", "Aerial Flow", "Sky Yoga", "Float Form"],
+      "answer": "AntiGravity",
+      "funFact": "The silk is strong!",
+      "story": "AntiGravity Yoga, developed by Christopher Harrison, uses specialized hammocks to support practitioners in zero-compression inversions."
+    },
+    {
+      "question": "Which meditation moves?",
+      "options": ["Kinhin", "Walking Zen", "Move Mind", "Path Peace"],
+      "answer": "Kinhin",
+      "funFact": "The pace varies!",
+      "story": "Kinhin is a form of walking meditation in Zen Buddhism, practiced between periods of seated meditation, with precise steps coordinated with breathing."
+    }
+  ]
+}
