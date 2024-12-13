@@ -1,0 +1,191 @@
+{
+  "nav": {
+    "about": "About Us",
+    "howItWorks": "How It Works",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "QuizPop",
+    "subtitle": "Quiz magic Awaits! Cozy trivia or action-packed sessions. Play, learn, and create memories with friends."
+  },
+  "modes": {
+    "classic": {
+      "title": "Classic Mode",
+      "description": "Quick-fire trivia with fun hints and engaging stories. Perfect for solo or group play!",
+      "randomMix": "Random Mix",
+      "chooseCategory": "Choose Category"
+    },
+    "quizMaster": {
+      "title": "QuizMaster Mode",
+      "description": "Let one player be the QuizMaster. The first to buzz in gets the spotlight—creating thrilling and team-friendly trivia moments.",
+      "randomMix": "Random Mix",
+      "chooseCategory": "Choose Category"
+    }
+  },
+  "quiz": {
+    "score": "Score",
+    "question": "Question",
+    "funFact": "Fun Fact",
+    "story": "Story",
+    "actions": {
+      "next": "Next Question",
+      "finish": "Finish Quiz",
+      "quit": "Quit Quiz",
+      "reveal": "Reveal Answer"
+    }
+  },
+  "categoryModal": {
+    "title": "Choose a Category",
+    "mainCategories": "Main Categories",
+    "specialCategories": "Special Categories",
+    "showMore": "See All",
+    "showLess": "Show Less"
+  },
+  "highScores": {
+    "title": "High Scores",
+    "mode": "Mode",
+    "date": "Date",
+    "score": "Score",
+    "percentage": "Percentage",
+    "noScores": "No high scores yet. Start playing to set some records!"
+  },
+  "stats": {
+    "title": "Quiz Complete!",
+    "category": "Category",
+    "score": "Score",
+    "greatJob": "Great job! You're mastering this category!",
+    "actions": {
+      "home": "Back to Home",
+      "share": "Share best score!"
+    },
+    "shareText": "🎯 I just scored {score}/{total} ({percentage}%) on the {category} quiz in QuizPop! Can you beat my score?"
+  },
+  "about": {
+    "title": "About Us",
+    "description1": "At QuizPop, we're all about creating meaningful connections through fun and learning. Our mission is to deliver innovative ways to bring people together, spark joy, and add a touch of discovery to every interaction.",
+    "description2": "From the sleek design of our QuizPop buttons to the thoughtfully crafted quiz webapp, everything we create is rooted in our passion for unique experiences that entertain and inspire. Whether it's a casual game night or a lively family gathering, QuizPop turns moments into memories."
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Interactive Fun Meets Memorable Learning",
+    "description": "Transform your quiz nights with QuizPop's intuitive design. Featuring five vibrant buttons and a sleek mastercontrol, QuizPop creates a seamless way to play, learn, and laugh together. Perfect for family nights, team building, classrooms, or parties, QuizPop brings people closer while creating unforgettable moments.",
+    "features": {
+      "gameplay": "Immersive gameplay experience",
+      "gameplayDesc": "Feel the excitement as players buzz in with their answers using QuizPop's physical buttons.",
+      "control": "Easy-to-use mastercontrol",
+      "controlDesc": "The QuizMaster takes charge effortlessly with the remote-style mastercontrol.",
+      "groups": "Perfect for groups",
+      "groupsDesc": "Designed for 2 to 6+ players, from casual fun to competitive quizzes.",
+      "learning": "Endless learning and entertainment",
+      "learningDesc": "Use with the QuizPop web app to access a treasure trove of categories, questions, and facts."
+    },
+    "setup": {
+      "title": "How It Works",
+      "subtitle": "Setting up QuizPop is as simple as it is fun:",
+      "steps": {
+        "step1": "Gather your team: Each player gets one of the five buttons.",
+        "step2": "QuizMaster in control: Use the mastercontrol to manage the game and reveal answers on the big screen.",
+        "step3": "Buzz in to answer: The first to press their button gets to answer.",
+        "step4": "Have fun and learn: Whether answers are right or wrong, each question comes with exciting facts and context."
+      }
+    },
+    "gameModes": {
+      "classic": {
+        "title": "Classic Mode",
+        "description": "Perfect for casual quiz play, this mode lets everyone answer multiple-choice questions, enjoy fun facts, and learn new things after each answer."
+      },
+      "quizMaster": {
+        "title": "QuizMaster Mode",
+        "description": "The ultimate experience! The QuizMaster uses the mastercontrol to manage gameplay, while players buzz in to answer. After revealing the correct answer, the QuizMaster lights up the winning player's button with green—or gives a red light to signal wrong answers."
+      }
+    },
+    "why": {
+      "title": "Why QuizPop?",
+      "description": "At QuizPop, we believe in bringing people together through fun, learning, and shared experiences. Whether you're testing your knowledge or sparking friendly competition, QuizPop is designed to create unforgettable moments."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Have questions? Need support? Want to share your QuizPop stories with us? We'd love to hear from you!",
+    "email": {
+      "title": "Email Us",
+      "description": "Send us your questions, feedback, or just say hello!",
+      "address": "contact@quizpop.com"
+    },
+    "support": {
+      "title": "Support",
+      "description": "Need technical help or have questions about your order?",
+      "address": "support@quizpop.com"
+    }
+  },
+  "footer": {
+    "mainCategories": "Main Categories",
+    "specialCategories": "Special Categories",
+    "about": "About",
+    "connect": "Connect",
+    "shareWebsite": "Share this website",
+    "rights": "© 2024 QuizPop. All rights reserved."
+  },
+  "categories": {
+    "main": {
+      "science": "Science",
+      "history": "History",
+      "art": "Art",
+      "literature": "Literature",
+      "music": "Music",
+      "geography": "Geography",
+      "technology": "Technology",
+      "sports": "Sports",
+      "foodDrink": "Food & Drink",
+      "nature": "Nature & Environment",
+      "popCulture": "Pop Culture",
+      "mythology": "Mythology & Folklore",
+      "languages": "Languages & Linguistics"
+    },
+    "special": {
+      "newYear": "New Year",
+      "christmas": "Christmas",
+      "easter": "Easter",
+      "santaClaus": "Santa Claus",
+      "winter": "Winter",
+      "summer": "Summer",
+      "autumn": "Autumn",
+      "spring": "Spring",
+      "bookClub": "Book Club",
+      "travel": "Travel",
+      "sciFiFantasy": "Sci-Fi & Fantasy",
+      "videoGames": "Video Games",
+      "health": "Health & Wellness",
+      "fashion": "Fashion & Style"
+    }
+  },
+  "productShowcase": {
+    "title": "Introducing QuizPop",
+    "subtitle": "Bring the fun and excitement of interactive quizzes to life with QuizPop, the ultimate combination of digital gameplay and physical interaction.",
+    "description": "Designed for memorable moments, QuizPop's buttons and mastercontrol turn any gathering into a thrilling, knowledge-packed experience.",
+    "features": {
+      "title": "Interactive Fun Meets Memorable Learning",
+      "description": "Transform your quiz nights with QuizPop's intuitive design. Featuring five vibrant buttons and a sleek mastercontrol, QuizPop creates a seamless way to play, learn, and laugh together. QuizPop brings people closer while creating unforgettable moments.",
+      "list": {
+        "gameplay": "Immersive gameplay experience. - Feel the excitement as players buzz in with their answers using QuizPop's physical buttons.",
+        "control": "Easy-to-use mastercontrol. - The QuizMaster takes charge effortlessly with the QuizPop mastercontrol.",
+        "groups": "Perfect for groups. - Designed for 2 to 6+ players, from casual fun to competitive quizzes.",
+        "learning": "Endless learning and entertainment. - Use with the QuizPop web app to access a treasure trove of categories, questions, and facts."
+      }
+    },
+    "specs": {
+      "whatsInside": {
+        "title": "What's Inside",
+        "description": "5 buzz-in buttons, 1 mastercontrol, access to the QuizPop web app."
+      },
+      "howItWorks": {
+        "title": "How It Works",
+        "description": "Setting up QuizPop is as simple as it is fun. See 'How it works' at the bottom of this page."
+      },
+      "perfectFor": {
+        "title": "Perfect For",
+        "description": "Family game nights, classrooms, team building, parties and gatherings."
+      }
+    }
+  }
+}
