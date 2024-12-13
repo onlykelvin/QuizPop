@@ -1,0 +1,272 @@
+{
+  "category": "Book Club",
+  "description": "Explore literary classics, book discussions, and reading culture",
+  "questions": [
+    {
+      "question": "Which book club selection by Oprah Winfrey sold over 2 million copies after being chosen?",
+      "options": ["The Deep End of the Ocean", "The Road", "The Corrections", "A Million Little Pieces"],
+      "answer": "The Deep End of the Ocean",
+      "funFact": "Oprah's Book Club has featured over 90 books since its inception in 1996!",
+      "story": "When Oprah selected 'The Deep End of the Ocean' by Jacquelyn Mitchard as her first book club pick in 1996, it created what publishers call 'The Oprah Effect'. The phenomenon demonstrated the immense influence book clubs can have on reading culture and book sales."
+    },
+    {
+      "question": "What is the term for a group reading and discussing a book together online?",
+      "options": ["E-club", "Virtual book club", "Digital reading circle", "Cyber library"],
+      "answer": "Virtual book club",
+      "funFact": "The first major one started on AOL in 1996!",
+      "story": "Virtual book clubs gained massive popularity during the digital age, allowing readers worldwide to connect and discuss literature. During the 2020 pandemic, virtual book clubs saw a 219% increase in participation, revolutionizing how people engage with books and fellow readers."
+    },
+    {
+      "question": "Which classic novel was first published as a book club selection in 1936?",
+      "options": ["Gone with the Wind", "Of Mice and Men", "Rebecca", "The Hobbit"],
+      "answer": "Gone with the Wind",
+      "funFact": "The Book of the Month Club's selection helped it sell over one million copies in its first year!",
+      "story": "Margaret Mitchell's 'Gone with the Wind' was chosen as a Book of the Month Club selection in 1936, helping launch it to massive success. The book club's endorsement was crucial in establishing the novel as a bestseller before it won the Pulitzer Prize in 1937."
+    },
+    {
+      "question": "Which author wrote 'The Catcher in the Rye'?",
+      "options": ["J.D. Salinger", "F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck"],
+      "answer": "J.D. Salinger",
+      "funFact": "'The Catcher in the Rye' was published in 1951 and has sold over 65 million copies worldwide!",
+      "story": "'The Catcher in the Rye' is a novel by J.D. Salinger that follows the story of Holden Caulfield, a teenager navigating life in New York City after being expelled from prep school. The book explores themes of identity, belonging, and alienation, and has become a classic of American literature."
+    },
+    {
+      "question": "What is the term for a book written by an author under a different name?",
+      "options": ["Pseudonym", "Alias", "Pen name", "Nom de plume"],
+      "answer": "Pseudonym",
+      "funFact": "Many famous authors, including Mark Twain and George Orwell, wrote under pseudonyms!",
+      "story": "A pseudonym, or pen name, is a fictitious name used by an author to conceal their identity or to separate different genres of their work. For example, Samuel Clemens wrote under the name Mark Twain, and Eric Blair used the pseudonym George Orwell."
+    },
+    {
+      "question": "Which book is the first in the 'Harry Potter' series?",
+      "options": ["Harry Potter and the Chamber of Secrets", "Harry Potter and the Prisoner of Azkaban", "Harry Potter and the Sorcerer's Stone", "Harry Potter and the Goblet of Fire"],
+      "answer": "Harry Potter and the Sorcerer's Stone",
+      "funFact": "The 'Harry Potter' series has sold over 500 million copies worldwide!",
+      "story": "'Harry Potter and the Sorcerer's Stone', also known as 'Harry Potter and the Philosopher's Stone' in some regions, is the first book in J.K. Rowling's beloved series. It introduces readers to the magical world of Hogwarts and follows Harry as he discovers his true identity as a wizard."
+    },
+    {
+      "question": "Which author wrote 'To Kill a Mockingbird'?",
+      "options": ["Harper Lee", "Toni Morrison", "Alice Walker", "Maya Angelou"],
+      "answer": "Harper Lee",
+      "funFact": "'To Kill a Mockingbird' won the Pulitzer Prize for Fiction in 1961!",
+      "story": "'To Kill a Mockingbird' is a novel by Harper Lee that explores themes of racial injustice and moral growth in the American South during the 1930s. The story is told through the eyes of Scout Finch, a young girl whose father, Atticus Finch, is a lawyer defending a black man accused of raping a white woman."
+    },
+    {
+      "question": "What is the genre of a book that focuses on futuristic technology and space exploration?",
+      "options": ["Fantasy", "Science Fiction", "Mystery", "Romance"],
+      "answer": "Science Fiction",
+      "funFact": "Science fiction often explores themes of technology, space travel, and the future!",
+      "story": "Science fiction is a genre of literature that explores imaginative and futuristic concepts, often involving advanced technology, space exploration, time travel, and extraterrestrial life. It allows readers to explore the possibilities of the future and the impact of scientific advancements on society."
+    },
+    {
+      "question": "Which author created the fictional detective Sherlock Holmes?",
+      "options": ["Agatha Christie", "Arthur Conan Doyle", "Edgar Allan Poe", "Raymond Chandler"],
+      "answer": "Arthur Conan Doyle",
+      "funFact": "Sherlock Holmes first appeared in the novel 'A Study in Scarlet' in 1887!",
+      "story": "Sherlock Holmes is a fictional detective created by Sir Arthur Conan Doyle. Known for his keen observation and logical reasoning, Holmes solves complex cases with the help of his friend Dr. John Watson. The character has become an iconic figure in detective fiction and has been adapted into numerous films and television series."
+    },
+    {
+      "question": "What is the term for a book that is part of a series?",
+      "options": ["Volume", "Edition", "Installment", "Sequel"],
+      "answer": "Installment",
+      "funFact": "Many popular book series, such as 'The Lord of the Rings' and 'The Hunger Games', are published in installments!",
+      "story": "An installment is a single book in a series, which is a collection of related works that share common characters, settings, or themes. Readers often follow a series to see the development of characters and storylines over multiple books."
+    },
+    {
+      "question": "Which book is known as the first modern novel?",
+      "options": ["Don Quixote", "Pride and Prejudice", "Moby-Dick", "The Great Gatsby"],
+      "answer": "Don Quixote",
+      "funFact": "'Don Quixote' was written by Miguel de Cervantes and published in two parts in 1605 and 1615!",
+      "story": "'Don Quixote' is a novel by Miguel de Cervantes that tells the story of a nobleman who becomes a self-styled knight-errant. The book is considered one of the greatest works of literature and is often regarded as the first modern novel due to its complex characters and narrative style."
+    },
+    {
+      "question": "Which author wrote '1984'?",
+      "options": ["Aldous Huxley", "Ray Bradbury", "George Orwell", "Philip K. Dick"],
+      "answer": "George Orwell",
+      "funFact": "'1984' was published in 1949 and has been translated into over 65 languages!",
+      "story": "'1984' is a dystopian novel by George Orwell that explores themes of totalitarianism, surveillance, and censorship. The story is set in a future society where the government, led by Big Brother, exercises complete control over its citizens. The novel has become a classic of political literature and remains relevant in discussions about privacy and freedom."
+    },
+    {
+      "question": "What is the term for a book that is based on true events or a person's life?",
+      "options": ["Fiction", "Non-fiction", "Biography", "Autobiography"],
+      "answer": "Non-fiction",
+      "funFact": "Non-fiction books can include biographies, memoirs, and historical accounts!",
+      "story": "Non-fiction is a genre of literature that presents factual information about real events, people, or subjects. It encompasses a wide range of works, including biographies, memoirs, essays, and historical accounts. Non-fiction allows readers to learn about the world and gain insights into different perspectives and experiences."
+    },
+    {
+      "question": "Which author wrote 'Pride and Prejudice'?",
+      "options": ["Jane Austen", "Charlotte Brontë", "Emily Dickinson", "Mary Shelley"],
+      "answer": "Jane Austen",
+      "funFact": "'Pride and Prejudice' was originally titled 'First Impressions'!",
+      "story": "'Pride and Prejudice' is a classic novel written by Jane Austen, first published in 1813. The novel explores themes of love, class, and reputation through the story of Elizabeth Bennet and Mr. Darcy. Austen's witty and insightful portrayal of early 19th-century society has made 'Pride and Prejudice' one of the most beloved works of English literature."
+    },
+    {
+      "question": "Which novel begins with the line 'Call me Ishmael'?",
+      "options": ["Moby-Dick", "The Great Gatsby", "1984", "To Kill a Mockingbird"],
+      "answer": "Moby-Dick",
+      "funFact": "'Moby-Dick' was inspired by real-life whaling expeditions!",
+      "story": "'Moby-Dick' is a novel by Herman Melville, published in 1851. The story follows the obsessive quest of Captain Ahab to hunt down the elusive white whale, Moby Dick. The novel is known for its detailed descriptions of whaling and its exploration of complex themes such as obsession, revenge, and the human condition. Despite its initial poor reception, 'Moby-Dick' is now considered a masterpiece of American literature."
+    },
+    {
+      "question": "Who is the author of '1984'?",
+      "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Kurt Vonnegut"],
+      "answer": "George Orwell",
+      "funFact": "'1984' introduced the concept of 'Big Brother'!",
+      "story": "'1984' is a dystopian novel written by George Orwell, published in 1949. The story is set in a totalitarian society ruled by the Party and its leader, Big Brother. The novel explores themes of surveillance, censorship, and individuality, and has become a seminal work in the genre of dystopian fiction. Orwell's chilling portrayal of a future where freedom is suppressed continues to provoke thought and debate."
+    },
+    {
+      "question": "Which book features the character Atticus Finch?",
+      "options": ["To Kill a Mockingbird", "The Catcher in the Rye", "The Grapes of Wrath", "The Great Gatsby"],
+      "answer": "To Kill a Mockingbird",
+      "funFact": "Atticus Finch is considered one of the greatest literary heroes!",
+      "story": "'To Kill a Mockingbird' is a novel by Harper Lee, published in 1960. Set in the racially charged atmosphere of the American South during the 1930s, the story follows young Scout Finch and her brother Jem as they navigate issues of race and justice. Their father, Atticus Finch, serves as a moral compass and is celebrated for his integrity and compassion. The novel won the Pulitzer Prize and remains a powerful exploration of prejudice and moral courage."
+    },
+    {
+      "question": "Who wrote 'The Great Gatsby'?",
+      "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck", "William Faulkner"],
+      "answer": "F. Scott Fitzgerald",
+      "funFact": "'The Great Gatsby' is often seen as a critique of the American Dream!",
+      "story": "'The Great Gatsby' is a novel by F. Scott Fitzgerald, published in 1925. Set during the Roaring Twenties, the story follows the mysterious millionaire Jay Gatsby and his obsession with the beautiful Daisy Buchanan. The novel explores themes of wealth, love, and the American Dream, and is considered one of the greatest works of American literature. Fitzgerald's vivid portrayal of the Jazz Age has captivated readers for generations."
+    },
+    {
+      "question": "Which novel features the character Holden Caulfield?",
+      "options": ["The Catcher in the Rye", "The Great Gatsby", "Lord of the Flies", "Brave New World"],
+      "answer": "The Catcher in the Rye",
+      "funFact": "Holden Caulfield has become an iconic symbol of teenage rebellion!",
+      "story": "'The Catcher in the Rye' is a novel by J.D. Salinger, published in 1951. The story is narrated by Holden Caulfield, a teenager who has been expelled from prep school and is disillusioned with the adult world. The novel explores themes of identity, alienation, and the challenges of growing up. Holden's candid voice and rebellious spirit have resonated with readers, making the novel a classic of American literature."
+    },
+    {
+      "question": "Who is the author of 'Brave New World'?",
+      "options": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "H.G. Wells"],
+      "answer": "Aldous Huxley",
+      "funFact": "'Brave New World' envisions a future of genetic engineering and social control!",
+      "story": "'Brave New World' is a dystopian novel written by Aldous Huxley, published in 1932. The story is set in a technologically advanced society where individuality is suppressed, and people are conditioned to conform. The novel explores themes of technology, control, and the loss of humanity, offering a cautionary tale about the potential consequences of unchecked scientific progress. Huxley's vision of a future dominated by technology continues to provoke thought and debate."
+    },
+    {
+      "question": "Which book features the character Jay Gatsby?",
+      "options": ["The Great Gatsby", "The Catcher in the Rye", "1984", "To Kill a Mockingbird"],
+      "answer": "The Great Gatsby",
+      "funFact": "Jay Gatsby is known for his extravagant parties and mysterious past!",
+      "story": "'The Great Gatsby' is a novel by F. Scott Fitzgerald, published in 1925. The story follows the enigmatic millionaire Jay Gatsby and his pursuit of the elusive Daisy Buchanan. Set against the backdrop of the Jazz Age, the novel explores themes of love, wealth, and the American Dream. Gatsby's lavish parties and mysterious persona have made him one of literature's most intriguing characters."
+    },
+    {
+      "question": "Who wrote 'The Grapes of Wrath'?",
+      "options": ["John Steinbeck", "Ernest Hemingway", "F. Scott Fitzgerald", "William Faulkner"],
+      "answer": "John Steinbeck",
+      "funFact": "'The Grapes of Wrath' won the Pulitzer Prize in 1940!",
+      "story": "'The Grapes of Wrath' is a novel by John Steinbeck, published in 1939. The story follows the Joad family as they journey from Oklahoma to California during the Great Depression in search of a better life. The novel explores themes of poverty, injustice, and resilience, and is celebrated for its powerful depiction of the human spirit in the face of adversity. Steinbeck's poignant narrative continues to resonate with readers today."
+    },
+    {
+      "question": "Which novel features the character Elizabeth Bennet?",
+      "options": ["Pride and Prejudice", "Sense and Sensibility", "Emma", "Mansfield Park"],
+      "answer": "Pride and Prejudice",
+      "funFact": "Elizabeth Bennet is known for her wit and independence!",
+      "story": "'Pride and Prejudice' is a novel by Jane Austen, first published in 1813. The story follows Elizabeth Bennet, a spirited young woman navigating issues of class, family, and romance in early 19th-century England. Elizabeth's intelligence and strong will have made her one of literature's most beloved heroines. Austen's keen social commentary and engaging narrative continue to captivate readers worldwide."
+    },
+    {
+      "question": "Which novel features the character Winston Smith?",
+      "options": ["1984", "Brave New World", "Fahrenheit 451", "Animal Farm"],
+      "answer": "1984",
+      "funFact": "The novel's working title was 'The Last Man in Europe'!",
+      "story": "George Orwell's dystopian masterpiece follows Winston Smith, a low-ranking party member in a totalitarian state. The novel, written in 1948, presents a world of perpetual war, omnipresent government surveillance, and historical negationism. Orwell drew inspiration from totalitarian regimes of his time, creating a powerful warning about the dangers of totalitarianism that remains relevant today."
+    },
+    {
+      "question": "Who wrote 'One Hundred Years of Solitude'?",
+      "options": ["Gabriel García Márquez", "Isabel Allende", "Jorge Luis Borges", "Pablo Neruda"],
+      "answer": "Gabriel García Márquez",
+      "funFact": "The author was inspired by his grandmother's storytelling style!",
+      "story": "Gabriel García Márquez's masterpiece follows seven generations of the Buendía family in the mythical town of Macondo. The novel, published in 1967, pioneered magical realism, blending fantastic elements with realistic situations. Márquez spent 18 months writing the novel, drawing from his childhood memories and the stories his grandmother told him."
+    },
+    {
+      "question": "Which Shakespeare play features the line 'To be, or not to be'?",
+      "options": ["Hamlet", "Macbeth", "King Lear", "Othello"],
+      "answer": "Hamlet",
+      "funFact": "This famous soliloquy contains over 260 words!",
+      "story": "Hamlet's soliloquy in Act 3, Scene 1 is perhaps the most famous passage in English literature. The speech explores themes of mortality, suffering, and the nature of existence. Shakespeare wrote Hamlet around 1600, creating a complex psychological portrait of a prince struggling with grief, betrayal, and moral duty."
+    },
+    {
+      "question": "Which novel begins with 'It was the best of times, it was the worst of times'?",
+      "options": ["A Tale of Two Cities", "Great Expectations", "Oliver Twist", "David Copperfield"],
+      "answer": "A Tale of Two Cities",
+      "funFact": "The novel's final chapter was inspired by a stage play!",
+      "story": "Charles Dickens' historical novel, set in London and Paris before and during the French Revolution, was published in 1859. The story follows several characters caught in the violent turmoil of revolutionary Paris. The famous opening lines set up the novel's themes of duality, contrasting the parallel lives of characters in two very different cities."
+    },
+    {
+      "question": "Who wrote 'The Canterbury Tales'?",
+      "options": ["Geoffrey Chaucer", "William Langland", "John Gower", "Thomas Malory"],
+      "answer": "Geoffrey Chaucer",
+      "funFact": "The original manuscript was written in Middle English dialect!",
+      "story": "Geoffrey Chaucer wrote The Canterbury Tales in the late 14th century, creating a masterpiece that provides a vivid glimpse into medieval life. The collection follows a group of pilgrims who tell stories while traveling to Canterbury Cathedral. Each tale reflects the social class and personality of its narrator, creating a rich tapestry of medieval English society."
+    },
+    {
+      "question": "Which author created the detective Hercule Poirot?",
+      "options": ["Agatha Christie", "Arthur Conan Doyle", "Dorothy L. Sayers", "Raymond Chandler"],
+      "answer": "Agatha Christie",
+      "funFact": "This character appeared in 33 novels and 54 short stories!",
+      "story": "Agatha Christie created Hercule Poirot, the fastidious Belgian detective, in 1920. The character was inspired by Belgian refugees Christie observed during World War I. Poirot's distinctive personality traits, including his egg-shaped head and magnificent mustaches, became iconic in detective fiction. Christie later admitted she found him insufferable but knew readers loved him."
+    },
+    {
+      "question": "Which Russian novel features the character Anna Karenina?",
+      "options": ["Anna Karenina", "War and Peace", "Crime and Punishment", "Doctor Zhivago"],
+      "answer": "Anna Karenina",
+      "funFact": "The author revised this work seventeen times before publication!",
+      "story": "Leo Tolstoy's Anna Karenina, published between 1875 and 1877, tells the tragic story of a married aristocrat and her affair with Count Vronsky. The novel explores themes of love, marriage, faith, and Russian society. Tolstoy considered it his first true novel, spending years perfecting its intricate plot and complex characters."
+    },
+    {
+      "question": "Which author wrote 'The Color Purple'?",
+      "options": ["Alice Walker", "Toni Morrison", "Maya Angelou", "Zora Neale Hurston"],
+      "answer": "Alice Walker",
+      "funFact": "The manuscript was written in pencil in several notebooks!",
+      "story": "Alice Walker's Pulitzer Prize-winning novel was published in 1982. Written in an epistolary format through letters to God, the story follows Celie, a young African American girl growing up in Georgia. Walker drew from her own family's stories and her experiences in the rural South to create this powerful narrative about resilience and self-discovery."
+    },
+    {
+      "question": "Who wrote 'Don Quixote'?",
+      "options": ["Miguel de Cervantes", "Federico García Lorca", "Pablo Neruda", "Gabriel García Márquez"],
+      "answer": "Miguel de Cervantes",
+      "funFact": "The author wrote much of this work while in prison!",
+      "story": "Miguel de Cervantes published Don Quixote in two parts (1605 and 1615), creating what is often called the first modern novel. The story follows an aging nobleman who, after reading too many chivalric romances, loses his sanity and decides to become a knight-errant. The novel's humor and social commentary revolutionized literature and continue to influence writers today."
+    },
+    {
+      "question": "Which poet wrote 'The Raven'?",
+      "options": ["Edgar Allan Poe", "Walt Whitman", "Emily Dickinson", "Robert Frost"],
+      "answer": "Edgar Allan Poe",
+      "funFact": "The author spent over a decade perfecting his theory of poetry before writing this piece!",
+      "story": "Edgar Allan Poe published 'The Raven' in 1845, creating one of the most famous poems in American literature. The narrative poem tells the story of a talking raven's mysterious visit to a distraught lover, who is lamenting the loss of his love, Lenore. Poe carefully crafted the poem's meter and sound devices to create its haunting atmosphere."
+    },
+    {
+      "question": "Which library floats?",
+      "options": ["Word on Water", "Book Barge", "River Read", "Float Books"],
+      "answer": "Word on Water",
+      "funFact": "The vessel is historic!",
+      "story": "Word on Water is London's only floating bookshop, housed in a 100-year-old Dutch barge that travels along Regent's Canal, offering books and cultural events."
+    },
+    {
+      "question": "Which library lends seeds?",
+      "options": ["Seed Library", "Plant Bank", "Grow Books", "Garden Reads"],
+      "answer": "Seed Library",
+      "funFact": "The collection grows yearly!",
+      "story": "The Seed Library at Oakland Public Library lends vegetable and flower seeds to patrons, who can 'return' seeds from their grown plants."
+    },
+    {
+      "question": "Which bookstore glows?",
+      "options": ["Zhongshuge", "Luminous", "Bright Books", "Glow Read"],
+      "answer": "Zhongshuge",
+      "funFact": "The design is unique!",
+      "story": "China's Zhongshuge bookstore features mirrored ceilings and LED-lit bookshelves creating an infinite illusion of books stretching into space."
+    },
+    {
+      "question": "Which library climbs?",
+      "options": ["Book Mountain", "Peak Pages", "Summit Shelf", "High Books"],
+      "answer": "Book Mountain",
+      "funFact": "The shape is pyramid-like!",
+      "story": "Book Mountain in Spijkenisse, Netherlands, is a glass pyramid with a continuous path of bookshelves spiraling up to its peak."
+    },
+    {
+      "question": "Which library moves books?",
+      "options": ["Joe and Rika", "Moving Pages", "Book Flow", "Shelf Shift"],
+      "answer": "Joe and Rika",
+      "funFact": "The system is automated!",
+      "story": "The Joe and Rika Mansueto Library at University of Chicago uses robotic cranes to retrieve books from a five-story underground storage vault."
+    }
+  ]
+}

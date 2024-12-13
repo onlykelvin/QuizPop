@@ -1,0 +1,822 @@
+{
+  "category": "Mode en stijl",
+  "description": "Test je kennis van modegeschiedenis, trends en iconische ontwerpers",
+  "questions": [
+    {
+      "question": "Wie heeft het ‘kleine zwarte jurkje’ uitgevonden?",
+      "options": [
+        "Christelijke Dior",
+        "Coco Chanel",
+        "Yves Saint Laurent",
+        "Gegevenchy"
+      ],
+      "answer": "Coco Chanel",
+      "funFact": "Het tijdschrift Vogue noemde het kleine zwarte jurkje 'Chanel's Ford' omdat het, net als de Model T, toegankelijk was voor vrouwen van alle klassen!",
+      "story": "In 1926 publiceerde Coco Chanel een eenvoudige zwarte jurk tot op de kuit in Vogue. "
+    },
+    {
+      "question": "Welke ontwerper introduceerde de 'New Look' voor het eerst in 1947?",
+      "options": [
+        "Christelijke Dior",
+        "Balenciaga",
+        "Pierre Balmain",
+        "Elsa Schiaparelli"
+      ],
+      "answer": "Christelijke Dior",
+      "funFact": "De 'New Look' gebruikte bijna 20 meter stof voor één jurk, wat mensen choqueerde tijdens de naoorlogse rantsoenering!",
+      "story": "De 'New Look' van Christian Dior zorgde voor een revolutie in de mode na de Tweede Wereldoorlog. "
+    },
+    {
+      "question": "Van welk materiaal is de eerste Levi's jeans gemaakt?",
+      "options": [
+        "Denim",
+        "Canvas",
+        "Katoen",
+        "Zeildoek"
+      ],
+      "answer": "Canvas",
+      "funFact": "De originele Levi's werden 'taille-overalls' genoemd in plaats van jeans!",
+      "story": "In 1873 patenteerden Levi Strauss en Jacob Davis de eerste spijkerbroek, waarbij ze canvas tentmateriaal gebruikten. "
+    },
+    {
+      "question": "Welke modeontwerper staat bekend om de wikkeljurk?",
+      "options": [
+        "Coco Chanel",
+        "Diane von Fürstenberg",
+        "Donatella Versace",
+        "Ralph Lauren"
+      ],
+      "answer": "Diane von Fürstenberg",
+      "funFact": "De wikkeljurk werd in de jaren zeventig een symbool van de vrouwenbevrijding!",
+      "story": "Diane von Furstenberg introduceerde de wikkeljurk in 1974 en deze werd al snel een modesensatie. "
+    },
+    {
+      "question": "Wat is de term voor een kledingstijl die oversized en comfortabel is?",
+      "options": [
+        "Couture",
+        "Boheems",
+        "Athleisure",
+        "Loungekleding"
+      ],
+      "answer": "Loungekleding",
+      "funFact": "Loungewear werd vooral populair tijdens de COVID-19-pandemie!",
+      "story": "Loungewear is een kledingstijl die is ontworpen voor comfort en ontspanning, vaak met loszittende kledingstukken gemaakt van zachte stoffen. "
+    },
+    {
+      "question": "Welk mode-item staat bekend als de ‘little black dress’?",
+      "options": [
+        "Avondjurk",
+        "Cocktailjurk",
+        "Baljurk",
+        "Maxi-jurk"
+      ],
+      "answer": "Cocktailjurk",
+      "funFact": "Het kleine zwarte jurkje werd in de jaren twintig populair door Coco Chanel!",
+      "story": "De kleine zwarte jurk, of LBD, is een veelzijdig en tijdloos mode-item dat voor verschillende gelegenheden zowel chic als casual kan worden gedragen. "
+    },
+    {
+      "question": "Wat is de term voor een modeshow waarin een voorproefje wordt gegeven van aankomende collecties?",
+      "options": [
+        "Trunk-show",
+        "Runway-show",
+        "Modeweek",
+        "Lookboek"
+      ],
+      "answer": "Modeweek",
+      "funFact": "Fashionweken worden gehouden in grote steden als New York, Parijs en Milaan!",
+      "story": "Fashionweek is een reeks evenementen waarbij ontwerpers hun nieuwste collecties presenteren aan kopers, media en het publiek. "
+    },
+    {
+      "question": "Welke ontwerper staat bekend om de iconische schoenen met rode zolen?",
+      "options": [
+        "Jimmy Choo",
+        "Christian Louboutin",
+        "Manolo Blahnik",
+        "Giuseppe Zanotti"
+      ],
+      "answer": "Christian Louboutin",
+      "funFact": "De rode zolen van Christian Louboutin zijn een kenmerk van luxe schoenen geworden!",
+      "story": "Christian Louboutin is een Franse modeontwerper die bekend staat om zijn hoogwaardige stilettoschoenen met opvallende rode zolen. "
+    },
+    {
+      "question": "Wat is de term voor een modetrend die van korte duur is?",
+      "options": [
+        "Klassiek",
+        "Rommel",
+        "Vintage",
+        "Retro"
+      ],
+      "answer": "Rommel",
+      "funFact": "Rages worden vaak snel populair, maar verdwijnen net zo snel!",
+      "story": "Een rage is een modetrend die gedurende een korte periode een sterke stijging in populariteit ervaart voordat deze snel verdwijnt. "
+    },
+    {
+      "question": "Welk modehuis staat bekend om het in elkaar grijpende 'CC'-logo?",
+      "options": [
+        "Gucci",
+        "Chanel",
+        "Prada",
+        "Dior"
+      ],
+      "answer": "Chanel",
+      "funFact": "Het in elkaar grijpende 'CC'-logo is een symbool van elegantie en luxe!",
+      "story": "Het in elkaar grijpende 'CC'-logo is het iconische symbool van het modehuis Chanel en vertegenwoordigt de initialen van de oprichter, Coco Chanel. "
+    },
+    {
+      "question": "Wat is de term voor een stijl die vintage en moderne elementen combineert?",
+      "options": [
+        "Boho",
+        "Eclectisch",
+        "Minimalistisch",
+        "Grunge"
+      ],
+      "answer": "Eclectisch",
+      "funFact": "Eclectische stijl zorgt voor creatieve expressie door verschillende tijdperken en invloeden te mixen!",
+      "story": "Eclectische stijl is een modebenadering die elementen uit verschillende tijdsperioden, stijlen en culturen combineert om een ​​unieke en persoonlijke look te creëren. "
+    },
+    {
+      "question": "Welke modeontwerper staat bekend om het 'New Look'-silhouet?",
+      "options": [
+        "Yves Saint Laurent",
+        "Christelijke Dior",
+        "Karl Lagerfeld",
+        "Alexander McQueen"
+      ],
+      "answer": "Christelijke Dior",
+      "funFact": "Het 'New Look'-silhouet bracht een revolutie teweeg in de damesmode in de jaren veertig!",
+      "story": "Christian Dior introduceerde het 'New Look'-silhouet in 1947, gekenmerkt door een nauwsluitende taille, volle rok en zachte schouders. "
+    },
+    {
+      "question": "Wat is de term voor een modestijl die is geïnspireerd door de muziekcultuur?",
+      "options": [
+        "Boheems",
+        "Punk",
+        "Preppy",
+        "Gotisch"
+      ],
+      "answer": "Punk",
+      "funFact": "Punkmode ontstond in de jaren zeventig als een rebelse en anti-establishmentstijl!",
+      "story": "Punkmode is een stijl die in de jaren zeventig uit de punkmuziekscene voortkwam en wordt gekenmerkt door een rebelse en anti-establishment houding. "
+    },
+    {
+      "question": "Welke oude beschaving heeft hoge hakken uitgevonden?",
+      "options": [
+        "Perzisch",
+        "Egyptische",
+        "Romeins",
+        "Grieks"
+      ],
+      "answer": "Perzisch",
+      "funFact": "Deze schoenen zijn oorspronkelijk ontworpen voor praktische doeleinden in de 10e eeuw!",
+      "story": "Hoge hakken werden voor het eerst gedragen door Perzische cavaleriekrijgers in de 10e eeuw. "
+    },
+    {
+      "question": "Welke stof werd oorspronkelijk gebruikt voor jeans?",
+      "options": [
+        "Serge de Nîmes",
+        "Katoenen keperstof",
+        "Denim",
+        "Canvas"
+      ],
+      "answer": "Serge de Nîmes",
+      "funFact": "De naam van deze stof werd door Amerikaanse kooplieden ingekort!",
+      "story": "De stof die werd gebruikt voor de eerste jeans heette 'Serge de Nîmes', afkomstig uit Nîmes, Frankrijk. "
+    },
+    {
+      "question": "Welke ontwerper introduceerde de 'New Look' in 1947?",
+      "options": [
+        "Christelijke Dior",
+        "Coco Chanel",
+        "Elsa Schiaparelli",
+        "Cristóbal Balenciaga"
+      ],
+      "answer": "Christelijke Dior",
+      "funFact": "Deze revolutionaire stijl gebruikte een ongekende hoeveelheid stof!",
+      "story": "De 'New Look' werd op 12 februari 1947 in Parijs onthuld en markeerde een dramatische verandering in de naoorlogse mode. "
+    },
+    {
+      "question": "Welk traditioneel Japans kledingstuk inspireerde het moderne kimono-jasje?",
+      "options": [
+        "Haori",
+        "Yukata",
+        "Hakama",
+        "Kosode"
+      ],
+      "answer": "Haori",
+      "funFact": "Deze kledingstukken werden oorspronkelijk alleen gedragen door mannen van een bepaalde sociale klasse!",
+      "story": "De haori was traditioneel een heup- of dijlengte jasje dat door Japanse mannen over een kimono werd gedragen. "
+    },
+    {
+      "question": "Welke eeuwenoude textieltechniek creëert patronen vóór het verven?",
+      "options": [
+        "Ikat",
+        "Batik",
+        "Tie-dye",
+        "Blok afdrukken"
+      ],
+      "answer": "Ikat",
+      "funFact": "Dit complexe proces kan maanden duren om één stuk te voltooien!",
+      "story": "Ikat is een eeuwenoude verftechniek waarbij patronen worden gecreëerd door draden te binden en te verven voordat het weven begint. "
+    },
+    {
+      "question": "Van welk materiaal waren de eerste knopen gemaakt?",
+      "options": [
+        "Schelpen",
+        "Hout",
+        "Metaal",
+        "Bot"
+      ],
+      "answer": "Schelpen",
+      "funFact": "De oudst bekende exemplaren zijn ruim 5000 jaar oud!",
+      "story": "De vroegst bekende knopen werden ontdekt in de beschaving van de Indusvallei, die teruggaat tot ongeveer 2800 v.Chr. "
+    },
+    {
+      "question": "Welke cultuur heeft de techniek van het plooien van stof uitgevonden?",
+      "options": [
+        "Egyptische",
+        "Grieks",
+        "Romeins",
+        "Perzisch"
+      ],
+      "answer": "Egyptische",
+      "funFact": "Sommige oude voorbeelden bestaan ​​al meer dan 2000 jaar!",
+      "story": "De oude Egyptenaren ontwikkelden een complexe plooitechniek die permanente, accordeonachtige plooien in linnen kledingstukken creëerde. "
+    },
+    {
+      "question": "Welk natuurlijk materiaal werd voor het eerst gebruikt om kleding paars te verven?",
+      "options": [
+        "Murex-slakken",
+        "Bessen",
+        "Bloemen",
+        "Boomschors"
+      ],
+      "answer": "Murex-slakken",
+      "funFact": "Er waren duizenden van deze wezens nodig om ook maar één gram kleurstof te produceren!",
+      "story": "Tyrisch paars, afgeleid van Murex-zeeslakken, was een van de duurste kleurstoffen in de antieke wereld. "
+    },
+    {
+      "question": "Welk modeaccessoire was oorspronkelijk een militaire uitvinding?",
+      "options": [
+        "Polshorloge",
+        "Stropdas",
+        "Riem",
+        "Zonnebril"
+      ],
+      "answer": "Polshorloge",
+      "funFact": "Vroege versies werden belachelijk gemaakt als vrouwelijk accessoire!",
+      "story": "Het polshorloge werd eind 19e eeuw voor het eerst ontwikkeld voor militair gebruik, omdat zakhorloges tijdens gevechten onpraktisch waren. "
+    },
+    {
+      "question": "Welke traditionele stof wordt gemaakt van boomschors?",
+      "options": [
+        "Tapa",
+        "Linnen",
+        "Katoen",
+        "Hennep"
+      ],
+      "answer": "Tapa",
+      "funFact": "Dit materiaal kan volledig waterdicht gemaakt worden!",
+      "story": "Tapadoek, ook bekend als schorsdoek, is een traditioneel textiel uit de Stille Oceaan, gemaakt door de binnenbast van bepaalde bomen te slaan en te vilten. "
+    },
+    {
+      "question": "Welk mode-item was ooit illegaal?",
+      "options": [
+        "Hoge hakken",
+        "Lippenstift",
+        "Paarse kleding",
+        "Zijden sjaals"
+      ],
+      "answer": "Hoge hakken",
+      "funFact": "Ze waren oorspronkelijk gemaakt voor Perzische cavalerie!",
+      "story": "In het Engeland van de 17e eeuw beperkte een wet de hakhoogte tot 2 inch. "
+    },
+    {
+      "question": "Welke ontwerper heeft nooit leren naaien?",
+      "options": [
+        "Coco Chanel",
+        "Christelijke Dior",
+        "Yves Saint Laurent",
+        "Giorgio Armani"
+      ],
+      "answer": "Coco Chanel",
+      "funFact": "Ze begon haar carrière als hoedenmaakster!",
+      "story": "Ondanks een revolutie in de mode heeft Coco Chanel nooit geleerd om ontwerpen te naaien of te schetsen. "
+    },
+    {
+      "question": "Welk modemerk begon met regenjassen?",
+      "options": [
+        "Burberry",
+        "Gucci",
+        "Prada",
+        "Louis Vuitton"
+      ],
+      "answer": "Burberry",
+      "funFact": "De oprichter werd geïnspireerd door herders!",
+      "story": "Thomas Burberry vond de gabardinestof uit in 1879 nadat hij de weerbestendige kleding van herders had geobserveerd. "
+    },
+    {
+      "question": "Welk mode-icoon was een verpleegster?",
+      "options": [
+        "Maria Kwant",
+        "Vivienne Westwood",
+        "Vera Wang",
+        "Diane von Fürstenberg"
+      ],
+      "answer": "Maria Kwant",
+      "funFact": "Met geleend geld opende ze haar eerste winkel!",
+      "story": "Voordat Mary Quant een revolutie teweegbracht in de mode van de jaren zestig met de minirok, volgde ze een opleiding tot verpleegster. "
+    },
+    {
+      "question": "Welk modehuis is begonnen met trunks?",
+      "options": [
+        "Louis Vuitton",
+        "Hermes",
+        "Fendi",
+        "Gucci"
+      ],
+      "answer": "Louis Vuitton",
+      "funFact": "De oprichter liep 472 mijl om zijn carrière te beginnen!",
+      "story": "Op 13-jarige leeftijd liep Louis Vuitton van zijn geboorteplaats naar Parijs, waar hij twee jaar over deed en onderweg klusjes deed. "
+    },
+    {
+      "question": "Welke schoen is geïnspireerd op een wafelijzer?",
+      "options": [
+        "Nike wafeltrainer",
+        "Adidas-superster",
+        "PUMA-suède",
+        "Converse Chuck Taylor"
+      ],
+      "answer": "Nike wafeltrainer",
+      "funFact": "Het originele strijkijzer staat nu in een bedrijfsmuseum!",
+      "story": "Bill Bowerman, de mede-oprichter van Nike, vernielde het wafelijzer van zijn vrouw terwijl hij experimenteerde met schoenzoolontwerpen. "
+    },
+    {
+      "question": "Welke modetrend begon in de gevangenis?",
+      "options": [
+        "Tatoeageafdrukken",
+        "Gestreepte overhemden",
+        "Oranje jumpsuits",
+        "Spijkerjassen"
+      ],
+      "answer": "Gestreepte overhemden",
+      "funFact": "Het patroon is gekozen vanwege de zichtbaarheid!",
+      "story": "In de 19e eeuw droegen gevangenen zwart-witte strepen om ze gemakkelijk zichtbaar te maken als ze ontsnapten. "
+    },
+    {
+      "question": "Welke ontwerper was een autocoureur?",
+      "options": [
+        "Ralph Lauren",
+        "Tom Ford",
+        "Calvijn Klein",
+        "Marc Jacobs"
+      ],
+      "answer": "Ralph Lauren",
+      "funFact": "Hij bezit een van de zeldzaamste autocollecties ter wereld!",
+      "story": "Voordat Ralph Lauren (geboren Ralph Lifshitz) een mode-icoon werd, racete hij met Europese sportwagens. "
+    },
+    {
+      "question": "Welk mode-item bevat echt goud?",
+      "options": [
+        "Kimono-draad",
+        "Indiase Sari",
+        "Schotse Kilt",
+        "Hawaiiaanse Lei"
+      ],
+      "answer": "Kimono-draad",
+      "funFact": "Het kan jaren duren voordat deze kledingstukken zijn voltooid!",
+      "story": "Traditionele Japanse kimono's zijn vaak voorzien van draad gemaakt van echt bladgoud dat om zijde is gewikkeld. "
+    },
+    {
+      "question": "Welk parfum is per ongeluk ontstaan?",
+      "options": [
+        "Chanel nr. 5",
+        "Vreugde",
+        "Shalimar",
+        "L'Air du Temps"
+      ],
+      "answer": "Chanel nr. 5",
+      "funFact": "De formule wordt bewaard in een kluis in Parijs!",
+      "story": "In 1921 voegde een laboratoriumassistent per ongeluk tien keer de beoogde hoeveelheid aldehyden aan het parfummengsel toe. "
+    },
+    {
+      "question": "Welke jurk veranderde van kleur op foto's?",
+      "options": [
+        "De jurk",
+        "Kleurverschuiving",
+        "Optische jurk",
+        "Lichte jurk"
+      ],
+      "answer": "De jurk",
+      "funFact": "De foto ging viraal in 2015!",
+      "story": "Een foto van een jurk leidde tot een wereldwijd debat over kleurperceptie. "
+    },
+    {
+      "question": "Welke schoenen waren verboden op luchthavens?",
+      "options": [
+        "Lichtgevende hakken",
+        "Magnetische laarzen",
+        "Krachtige sneakers",
+        "Gloed stappen"
+      ],
+      "answer": "Lichtgevende hakken",
+      "funFact": "In de schoenen zaten speciale batterijen!",
+      "story": "Een lijn hoge hakken met LED-verlichting werd op sommige luchthavens tijdelijk verboden omdat de batterijcomponenten beveiligingssensoren activeerden, wat tot talloze valse alarmen leidde."
+    },
+    {
+      "question": "Welke ontwerper heeft nooit leren naaien?",
+      "options": [
+        "Vera Wang",
+        "Calvijn Klein",
+        "Ralph Lauren",
+        "Coco Chanel"
+      ],
+      "answer": "Vera Wang",
+      "funFact": "Ze begon haar carrière in een ander vakgebied!",
+      "story": "Voordat ze modeontwerpster werd, was ze kunstschaatser en journalist. "
+    },
+    {
+      "question": "Welke stof reinigt zichzelf?",
+      "options": [
+        "Nanotech zijde",
+        "Slim katoen",
+        "Automatische reiniging",
+        "Zelf wassen"
+      ],
+      "answer": "Nanotech zijde",
+      "funFact": "De stof gebruikt zonlicht om te werken!",
+      "story": "Wetenschappers hebben een speciale textielcoating ontwikkeld die vuil en vlekken afbreekt bij blootstelling aan zonlicht. "
+    },
+    {
+      "question": "Welke hoed was illegaal om te dragen?",
+      "options": [
+        "Kachelpijp",
+        "Bowler",
+        "Fedora",
+        "Hoge hoed"
+      ],
+      "answer": "Kachelpijp",
+      "funFact": "De wet bestond al meer dan 50 jaar!",
+      "story": "In de 19e eeuw werden in sommige steden bepaalde hoge hoeden verboden omdat ze paniek veroorzaakten bij paarden en het zicht in theaters blokkeerden, wat tot openbare ongeregeldheden leidde."
+    },
+    {
+      "question": "Welk jasje roept noodoproep?",
+      "options": [
+        "Slimme slijtage",
+        "Levenslijn",
+        "Beschermjas",
+        "Veilig jasje"
+      ],
+      "answer": "Slimme slijtage",
+      "funFact": "Het ontwerp heeft meerdere prijzen gewonnen!",
+      "story": "Een ontwerper creëerde een jas met ingebouwde sensoren die vallen en ongebruikelijke bewegingen detecteren. "
+    },
+    {
+      "question": "Welk parfum is in de ruimte gemaakt?",
+      "options": [
+        "Zenit",
+        "Kosmos",
+        "Sterrengeur",
+        "Melkweg"
+      ],
+      "answer": "Zenit",
+      "funFact": "Het duurde jaren om de formule te ontwikkelen!",
+      "story": "Een geurbedrijf stuurde ingrediënten naar het internationale ruimtestation om te bestuderen hoe geurmoleculen zich gedragen in gewichtloosheid, wat leidde tot een unieke parfumsamenstelling."
+    },
+    {
+      "question": "Welke schoenen worden groter?",
+      "options": [
+        "De schoen die groeit",
+        "Breid schoenen uit",
+        "Maatverschuiving",
+        "Laarzen laten groeien"
+      ],
+      "answer": "De schoen die groeit",
+      "funFact": "Het ontwerp helpt kinderen wereldwijd!",
+      "story": "Dankzij een innovatief schoenontwerp kunnen de schoenen tot vijf maten worden uitgebreid, waardoor kinderen in ontwikkelingslanden die snel uit hun schoenen groeien, worden geholpen."
+    },
+    {
+      "question": "Welke jurk is gemaakt van chocolade?",
+      "options": [
+        "Cacao Couture",
+        "Zoete jurk",
+        "Choc-jurk",
+        "Snoep slijtage"
+      ],
+      "answer": "Cacao Couture",
+      "funFact": "De jurk had speciale opbergruimte nodig!",
+      "story": "Een ontwerper creëerde voor een modeshow een draagbare jurk volledig gemaakt van chocolade. "
+    },
+    {
+      "question": "Welk pak leest gedachten?",
+      "options": [
+        "Neuroslijtage",
+        "Denkpak",
+        "Denk aan slijtage",
+        "Hersenen jurk"
+      ],
+      "answer": "Neuroslijtage",
+      "funFact": "De technologie maakt gebruik van speciale sensoren!",
+      "story": "Japanse ontwerpers creëerden een pak dat van kleur verandert op basis van de hersengolven van de drager, met behulp van EEG-sensoren ingebed in de kraag om mentale toestanden te detecteren."
+    },
+    {
+      "question": "Op welke jurk groeien bloemen?",
+      "options": [
+        "Bloom jurk",
+        "Flora-jurk",
+        "Tuinkleding",
+        "Plantengewaad"
+      ],
+      "answer": "Bloom jurk",
+      "funFact": "De stof is duurzaam!",
+      "story": "Deze innovatieve jurk is gemaakt van levende stof waaruit de hele dag kleine bloemen groeien, waardoor een steeds veranderend natuurlijk patroon ontstaat."
+    },
+    {
+      "question": "Welke schoenen schilderen licht?",
+      "options": [
+        "Ray Stap",
+        "Gloed wandeling",
+        "Lichte schoen",
+        "Balk voet"
+      ],
+      "answer": "Ray Stap",
+      "funFact": "De technologie is draadloos!",
+      "story": "Deze futuristische schoenen creëren lichtsporen terwijl je loopt en schilderen tijdelijke verlichte patronen die na verloop van tijd vervagen."
+    },
+    {
+      "question": "Welke hoed verandert het weer?",
+      "options": [
+        "Stormkap",
+        "Weer Kroon",
+        "Wolkenhoed",
+        "Hemeltop"
+      ],
+      "answer": "Stormkap",
+      "funFact": "Het ontwerp is gepatenteerd!",
+      "story": "Deze opmerkelijke hoed creëert een persoonlijk microklimaat rond de drager en beschermt hem tegen verschillende weersomstandigheden."
+    },
+    {
+      "question": "Welke sjaal zingt wind?",
+      "options": [
+        "Windlied",
+        "Luchtnoot",
+        "Breeze melodie",
+        "Vloeiende muziek"
+      ],
+      "answer": "Windlied",
+      "funFact": "Het materiaal is lichtgewicht!",
+      "story": "Deze speciale sjaal creëert muzieknoten terwijl hij beweegt in de wind, waardoor zachte briesjes worden omgezet in melodieuze deuntjes."
+    },
+    {
+      "question": "Welke jas bouwt warmte op?",
+      "options": [
+        "Warmte maken",
+        "Warm ambacht",
+        "Tijdelijke opbouw",
+        "Gezellige vorm"
+      ],
+      "answer": "Warmte maken",
+      "funFact": "Het systeem is efficiënt!",
+      "story": "Deze innovatieve jas genereert en slaat warmte op door lichaamsbeweging, waardoor een zichzelf onderhoudend verwarmingssysteem ontstaat."
+    },
+    {
+      "question": "Welke ring vormt dromen?",
+      "options": [
+        "Droomband",
+        "Visiering",
+        "Slaap vorm",
+        "Geestelijke cirkel"
+      ],
+      "answer": "Droomband",
+      "funFact": "Het metaal is zeldzaam!",
+      "story": "Deze unieke ring beïnvloedt de dromen van de drager door middel van subtiele trillingen, waardoor positievere droomervaringen ontstaan."
+    },
+    {
+      "question": "Welke band beweegt de tijd?",
+      "options": [
+        "Tijdlus",
+        "Klokband",
+        "Uuromslag",
+        "Chrono stropdas"
+      ],
+      "answer": "Tijdlus",
+      "funFact": "Het apparaat is compact!",
+      "story": "Deze revolutionaire riem creëert een persoonlijk tijddilatatieveld, waardoor de tijd voor de drager langzamer of sneller aanvoelt."
+    },
+    {
+      "question": "Welke handschoen verft lucht?",
+      "options": [
+        "Lucht trekken",
+        "Hemel verf",
+        "Windkunst",
+        "Wolkenkleur"
+      ],
+      "answer": "Lucht trekken",
+      "funFact": "De bediening is intuïtief!",
+      "story": "Deze speciale handschoenen kunnen met behulp van geavanceerde deeltjestechnologie en bewegingssensoren zichtbare patronen in de lucht creëren."
+    },
+    {
+      "question": "Welke ketting leest emoties?",
+      "options": [
+        "Voel ketting",
+        "Hart gevoel",
+        "Stemmingslink",
+        "Geest kraal"
+      ],
+      "answer": "Voel ketting",
+      "funFact": "De weergave is subtiel!",
+      "story": "Deze innovatieve ketting verandert van uiterlijk op basis van de emotionele toestand van de drager, waardoor een visuele weergave van gevoelens ontstaat."
+    },
+    {
+      "question": "Welke stof bouwt schilden?",
+      "options": [
+        "Bewakingsweefsel",
+        "Schilddoek",
+        "Bescherm vezels",
+        "Defensie tekst"
+      ],
+      "answer": "Bewakingsweefsel",
+      "funFact": "Het materiaal is lichtgewicht!",
+      "story": "Deze geavanceerde stof kan onmiddellijk uitharden tot een beschermend schild wanneer het inkomende schokken of gevaarlijke omstandigheden detecteert."
+    },
+    {
+      "question": "Welke jurk verandert van maat?",
+      "options": [
+        "Kinematica",
+        "Morfotex",
+        "Intimiteit",
+        "Bubelle"
+      ],
+      "answer": "Kinematica",
+      "funFact": "Het ontwerp is 3D-geprint!",
+      "story": "De Kinematics-jurk van Nervous System maakt gebruik van 3D-geprinte gelede panelen waardoor het kan uitzetten en samentrekken, zich aanpassend aan de lichaamsbeweging."
+    },
+    {
+      "question": "Welke stof stoot water af?",
+      "options": [
+        "Nanotex",
+        "GoreTex",
+        "Sympatex",
+        "evenement"
+      ],
+      "answer": "Nanotex",
+      "funFact": "De coating is microscopisch klein!",
+      "story": "Nanotex maakt gebruik van snorharen van nanoformaat om een ​​oppervlak te creëren dat water en vlekken afstoot en toch ademend en comfortabel blijft."
+    },
+    {
+      "question": "Welke schoen past zich aan het terrein aan?",
+      "options": [
+        "Ploegkleding",
+        "Adapterra",
+        "Morphix",
+        "Terraform"
+      ],
+      "answer": "Ploegkleding",
+      "funFact": "De zool is elektronisch!",
+      "story": "Shiftwear-schoenen maken gebruik van adaptieve zooltechnologie die de grippatronen verandert op basis van het terrein, waardoor optimale tractie onder verschillende omstandigheden wordt geboden."
+    },
+    {
+      "question": "Welke stof blokkeert straling?",
+      "options": [
+        "Demron",
+        "Radschild",
+        "Nukeguard",
+        "AtomBlok"
+      ],
+      "answer": "Demron",
+      "funFact": "Het materiaal is lichtgewicht!",
+      "story": "Demron is een lichtgewicht, flexibel weefsel dat nucleaire straling blokkeert, ontwikkeld voor medische toepassingen en noodhulptoepassingen."
+    },
+    {
+      "question": "Welke jas geneest krassen?",
+      "options": [
+        "Zelfreparatie",
+        "HealTex",
+        "AutoFix",
+        "ReparatieSlijtage"
+      ],
+      "answer": "Zelfreparatie",
+      "funFact": "Het proces duurt minuten!",
+      "story": "Chemisch bedrijf BASF heeft een zelfherstellende coating ontwikkeld die micro-ingekapselde genezende middelen gebruikt om krassen automatisch te herstellen."
+    },
+    {
+      "question": "Welke jurk kost het meeste?",
+      "options": [
+        "Nachtegaal",
+        "Pauw",
+        "Zwaan",
+        "Phoenix"
+      ],
+      "answer": "Nachtegaal",
+      "funFact": "Het duurde twee jaar om te maken!",
+      "story": "De Nachtegaal van Kuala Lumpur, gemaakt door Faisol Abdullah in 2009, is met een waarde van $30 miljoen de duurste jurk ter wereld, met 751 diamanten en meer dan 1.000 parels."
+    },
+    {
+      "question": "Welke landingsbaan is het langst?",
+      "options": [
+        "Sjanghai",
+        "Parijs",
+        "Milaan",
+        "New York"
+      ],
+      "answer": "Sjanghai",
+      "funFact": "De show brak records!",
+      "story": "Tijdens de Shanghai Fashion Week 2020 was met 3,3 kilometer de langste modebaan ter wereld aanwezig, die zich uitstrekte langs de historische waterkant van de stad, en 150 ontwerpers presenteerde."
+    },
+    {
+      "question": "Welke stof verandert van kleur?",
+      "options": [
+        "Chromaat",
+        "Ploegkleding",
+        "KleurFlex",
+        "Tintverschuiving"
+      ],
+      "answer": "Chromaat",
+      "funFact": "Geen kleurstoffen nodig!",
+      "story": "De kleurveranderende stof van Chromat maakt gebruik van microscopisch kleine prisma's die reageren op temperatuur en beweging, waardoor dynamische patronen ontstaan ​​zonder chemische kleurstoffen of elektronica."
+    },
+    {
+      "question": "Welke hoed is het grootst?",
+      "options": [
+        "Slot & Co",
+        "Borsalino",
+        "Stetson",
+        "Christys'"
+      ],
+      "answer": "Slot & Co",
+      "funFact": "Hij is groter dan zijn drager!",
+      "story": "Lock & Co Hatters creëerde in 2010 's werelds hoogste hoge hoed, met een lengte van 1,95 meter, om hun 340ste verjaardag als 's werelds oudste hoedenwinkel te vieren."
+    },
+    {
+      "question": "Welke knop is het oudst?",
+      "options": [
+        "Mohenjodaro",
+        "Egyptische",
+        "Chinese",
+        "Romeins"
+      ],
+      "answer": "Mohenjodaro",
+      "funFact": "Het is gemaakt van zeeschelp!",
+      "story": "De oudst bekende knop werd ontdekt in Mohenjo-daro, Pakistan, en dateert uit de beschaving van de Indusvallei (2800-2600 v.Chr.), Uitgesneden uit een gebogen schaal met twee gaten."
+    },
+    {
+      "question": "Welke jurk weegt het meeste?",
+      "options": [
+        "Koninklijke trein",
+        "Kristallen jurk",
+        "Metalen jurk",
+        "Parel gewaad"
+      ],
+      "answer": "Koninklijke trein",
+      "funFact": "De trein vereist meerdere handlers!",
+      "story": "De zwaarste bruidsjurktrein is gemaakt door Gienchi Studio, met een gewicht van 380 kg. "
+    },
+    {
+      "question": "Welke modeshow duurt het langst?",
+      "options": [
+        "Vietnam-show",
+        "Dubai-mode",
+        "Week van Parijs",
+        "Milaan evenement"
+      ],
+      "answer": "Vietnam-show",
+      "funFact": "Het liep 24 uur achter elkaar!",
+      "story": "De langste modeshow werd gehouden in Vietnam en duurde 24 uur en 11 minuten. "
+    },
+    {
+      "question": "Welke stof kost het meest?",
+      "options": [
+        "Sjahtoesh",
+        "Vicuña",
+        "Qiviut",
+        "Cervelt"
+      ],
+      "answer": "Sjahtoesh",
+      "funFact": "Het is ongelooflijk zeldzaam en beschermd!",
+      "story": "Shahtoosh, gemaakt van het haar van de Tibetaanse antilope, is 's werelds duurste stof. "
+    },
+    {
+      "question": "Welke hoed verkoopt het best?",
+      "options": [
+        "Chapeau d'Amour",
+        "Koninklijke Ascot",
+        "Derby-kroon",
+        "Couture-kap"
+      ],
+      "answer": "Chapeau d'Amour",
+      "funFact": "Het is gemaakt met zeldzame materialen!",
+      "story": "De Chapeau d'Amour, ontworpen door Louis Mariette, is 's werelds duurste hoed, ter waarde van $ 2,7 miljoen. "
+    },
+    {
+      "question": "Welke landingsbaan strekt zich het verst uit?",
+      "options": [
+        "Grote Muurshow",
+        "Dubai-toren",
+        "Kanaal van Venetië",
+        "Arctisch ijs"
+      ],
+      "answer": "Grote Muurshow",
+      "funFact": "Modellen liepen historische stappen!",
+      "story": "De langste modebaan werd in 2007 aangelegd op de Chinese Muur, toen Fendi een show organiseerde die 88 meter van het eeuwenoude bouwwerk besloeg. "
+    }
+  ]
+}

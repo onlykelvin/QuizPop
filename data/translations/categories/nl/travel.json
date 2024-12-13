@@ -1,0 +1,366 @@
+{
+  "category": "Reis",
+  "description": "Test uw kennis van bestemmingen, reistips en wereldculturen",
+  "questions": [
+    {
+      "question": "Welke stad staat bekend als de ‘Stad van het Licht’?",
+      "options": [
+        "Londen",
+        "New York",
+        "Parijs",
+        "Tokio"
+      ],
+      "answer": "Parijs",
+      "funFact": "Deze stad kreeg deze bijnaam niet alleen vanwege de vroege adoptie van straatverlichting, maar ook vanwege haar rol in het tijdperk van de Verlichting!",
+      "story": "Parijs kreeg zijn bijnaam 'La Ville Lumière' (de lichtstad) in de jaren 1860 toen het een van de eerste Europese steden werd die straatverlichting op gas toepaste. "
+    },
+    {
+      "question": "Wat is 's werelds langste commerciële vluchtroute?",
+      "options": [
+        "New York naar Singapore",
+        "Dubai naar Auckland",
+        "Singapore naar New York",
+        "Londen naar Perth"
+      ],
+      "answer": "Singapore naar New York",
+      "funFact": "De vlucht beslaat 15.537 mijl en duurt ongeveer 18 uur en 50 minuten!",
+      "story": "Singapore Airlines voert 's werelds langste commerciële vlucht uit tussen Singapore en New York. "
+    },
+    {
+      "question": "Welk beroemde pad volgt het oude Incapad naar Machu Picchu?",
+      "options": [
+        "Appalachische route",
+        "Inca-pad",
+        "Camino de Santiago",
+        "Pacific Crest-pad"
+      ],
+      "answer": "Inca-pad",
+      "funFact": "Het omvat meer dan 50.000 stenen treden!",
+      "story": "De Inca Trail maakte deel uit van een uitgebreid netwerk van wegen die door het Inca-rijk waren aangelegd om hun territoria met elkaar te verbinden. "
+    },
+    {
+      "question": "Welk land heeft bewegende zandduinen?",
+      "options": [
+        "Brazilië",
+        "Marokko",
+        "Australië",
+        "China"
+      ],
+      "answer": "Brazilië",
+      "funFact": "Deze duinen creëren unieke muzikale geluiden als je erop loopt!",
+      "story": "De Lençóis Maranhenses in Brazilië beschikt over uitgestrekte witte zandduinen die tot 20 meter per jaar kunnen bewegen. "
+    },
+    {
+      "question": "Welke stad heeft ondergrondse straten?",
+      "options": [
+        "Seattle",
+        "Londen",
+        "Parijs",
+        "Rome"
+      ],
+      "answer": "Seattle",
+      "funFact": "Deze passages waren ooit de belangrijkste straten van de stad!",
+      "story": "Na de Grote Brand van Seattle in 1889 werd de stad een verdieping hoger herbouwd om overstromingen te voorkomen. "
+    },
+    {
+      "question": "Welk land heeft een hotel gemaakt van zout?",
+      "options": [
+        "Bolivia",
+        "Peru",
+        "Chili",
+        "Argentinië"
+      ],
+      "answer": "Bolivia",
+      "funFact": "Gasten worden verzocht de muren van dit unieke bouwwerk niet te likken!",
+      "story": "Het Palacio de Sal hotel aan de Salar de Uyuni in Bolivia is volledig gebouwd uit zoutblokken, inclusief de muren, vloeren en meubels. "
+    },
+    {
+      "question": "Welke stad heeft drijvende postkantoren?",
+      "options": [
+        "Detroit",
+        "Venetië",
+        "Amsterdam",
+        "Stockholm"
+      ],
+      "answer": "Detroit",
+      "funFact": "Deze schepen zijn al bijna een eeuw in de vaart!",
+      "story": "De J.W. "
+    },
+    {
+      "question": "Welk land heeft een meer dat van kleur verandert?",
+      "options": [
+        "Senegal",
+        "Australië",
+        "Indië",
+        "Mexico"
+      ],
+      "answer": "Senegal",
+      "funFact": "Lokale legendes zeggen dat het meer genezende eigenschappen heeft!",
+      "story": "Het Retba-meer in Senegal lijkt roze vanwege de unieke algen die gedijen in het extreem zoute water. "
+    },
+    {
+      "question": "Welke stad heeft een gigantische ondergrondse stad?",
+      "options": [
+        "Montréal",
+        "Tokio",
+        "Moskou",
+        "Seoel"
+      ],
+      "answer": "Montréal",
+      "funFact": "Dit netwerk wordt dagelijks door meer dan een half miljoen mensen gebruikt!",
+      "story": "Montreal's RÉSO, ook wel bekend als de ondergrondse stad, is een uitgebreid netwerk van tunnels die winkelcentra, metrostations, hotels en kantoren met elkaar verbinden. "
+    },
+    {
+      "question": "Welk land heeft bruggen gemaakt van levende wortels?",
+      "options": [
+        "Indië",
+        "Thailand",
+        "Vietnam",
+        "Indonesië"
+      ],
+      "answer": "Indië",
+      "funFact": "Sommige van deze bouwwerken hebben meerdere eeuwen overleefd!",
+      "story": "In Meghalaya, India, creëren de Khasi-mensen bruggen door de luchtwortels van rubberen vijgenbomen over rivieren te leiden. "
+    },
+    {
+      "question": "Welke stad heeft regenboogbergen?",
+      "options": [
+        "Zhangye",
+        "Cuzco",
+        "Phoenix",
+        "Denver"
+      ],
+      "answer": "Zhangye",
+      "funFact": "Het duurde meer dan 24 miljoen jaar voordat deze formaties ontstonden!",
+      "story": "De Zhangye Danxia-landvorm in China heeft prachtige gestreepte bergen gecreëerd door lagen van verschillende gekleurde zandsteen en mineralen. "
+    },
+    {
+      "question": "Welk land heeft een museum van verbroken relaties?",
+      "options": [
+        "Kroatië",
+        "Frankrijk",
+        "België",
+        "Nederland"
+      ],
+      "answer": "Kroatië",
+      "funFact": "Mensen doneren spullen van over de hele wereld aan deze unieke collectie!",
+      "story": "Het Museum van Verbroken Relaties in Zagreb toont persoonlijke voorwerpen die zijn geschonken door mensen na mislukte relaties. "
+    },
+    {
+      "question": "Welke stad heeft straten waar muziek speelt?",
+      "options": [
+        "Lancaster",
+        "Boedapest",
+        "Wenen",
+        "Praag"
+      ],
+      "answer": "Lancaster",
+      "funFact": "De groeven van de weg zijn nauwkeurig ontworpen door een wiskundige!",
+      "story": "De Civic Musical Road in Lancaster, Californië, heeft speciale groeven in het asfalt gesneden die de William Tell Overture spelen wanneer auto's er met de maximumsnelheid overheen rijden. "
+    },
+    {
+      "question": "Welk hotel groeit dagelijks?",
+      "options": [
+        "Levende herberg",
+        "Groei verblijf",
+        "Plantenhotel",
+        "Groene Loge"
+      ],
+      "answer": "Levende herberg",
+      "funFact": "Er wordt gebruik gemaakt van bijzondere materialen!",
+      "story": "De muren van dit unieke hotel zijn gemaakt van levende planten die blijven groeien en van vorm veranderen, waardoor er het hele jaar door nieuwe kamers en gangen ontstaan."
+    },
+    {
+      "question": "Welke trein verandert van kleur?",
+      "options": [
+        "Regenboog spoor",
+        "Kleurspoor",
+        "Hue Express",
+        "Prisma trein"
+      ],
+      "answer": "Regenboog spoor",
+      "funFact": "De technologie is baanbrekend!",
+      "story": "De buitenkant van deze innovatieve trein reageert op temperatuurveranderingen en verandert in verschillende kleuren terwijl hij door verschillende klimaatzones reist."
+    },
+    {
+      "question": "Welke brug speelt muziek?",
+      "options": [
+        "Liedspanne",
+        "Stem Kruis",
+        "Opmerking brug",
+        "Melodie manier"
+      ],
+      "answer": "Liedspanne",
+      "funFact": "Het ontwerp duurde tientallen jaren!",
+      "story": "Wanneer voertuigen deze brug oversteken, activeert hun beweging muzieknoten, waardoor verschillende melodieën ontstaan, afhankelijk van de verkeerspatronen."
+    },
+    {
+      "question": "Welke luchthaven zweeft in de wolken?",
+      "options": [
+        "Hemel haven",
+        "Lucht hub",
+        "Wolkenpoort",
+        "Mistveld"
+      ],
+      "answer": "Hemel haven",
+      "funFact": "De structuur maakt gebruik van unieke technologie!",
+      "story": "Deze futuristische luchthaven lijkt op wolken te zweven en maakt gebruik van geavanceerde techniek om de illusie te wekken dat hij in de lucht zweeft."
+    },
+    {
+      "question": "Welk pad verlicht de nacht?",
+      "options": [
+        "Lichte manier",
+        "Gloedweg",
+        "Licht pad",
+        "Balkpad"
+      ],
+      "answer": "Lichte manier",
+      "funFact": "Het materiaal is milieuvriendelijk!",
+      "story": "Dit innovatieve wandelpad absorbeert overdag zonlicht en straalt 's nachts een zachte gloed uit, waardoor een magische nachtelijke ervaring ontstaat."
+    },
+    {
+      "question": "Welk eiland draait de tijd om?",
+      "options": [
+        "Tijd eiland",
+        "Klokland",
+        "Uur kust",
+        "Afgelopen strand"
+      ],
+      "answer": "Tijd eiland",
+      "funFact": "Het fenomeen komt dagelijks voor!",
+      "story": "Door de ligging op het kruispunt van meerdere tijdzones kunnen bezoekers van dit eiland tweemaal hetzelfde uur op één dag meemaken."
+    },
+    {
+      "question": "Welke grot schildert schaduwen?",
+      "options": [
+        "Schaduwkunst",
+        "Donkere tekening",
+        "Schaduwverf",
+        "Nachtborstel"
+      ],
+      "answer": "Schaduwkunst",
+      "funFact": "Het effect vereist specifieke voorwaarden!",
+      "story": "De minerale formaties van deze unieke grot creëren kleurrijke schaduwen die lijken te bewegen en van vorm veranderen terwijl de zon langs de hemel beweegt."
+    },
+    {
+      "question": "Welk resort bouwt dromen?",
+      "options": [
+        "Droom verblijf",
+        "Slaap loge",
+        "Visie Inn",
+        "Rust opbouwen"
+      ],
+      "answer": "Droom verblijf",
+      "funFact": "De technologie is gepatenteerd!",
+      "story": "Dit innovatieve resort maakt gebruik van geavanceerde technologie om de dromen van gasten vast te leggen en deze opnieuw te creëren als meeslepende virtual reality-ervaringen."
+    },
+    {
+      "question": "Welke stad laat water lopen?",
+      "options": [
+        "Zwevende stad",
+        "Waterwandeling",
+        "Zee stap",
+        "Wave stad"
+      ],
+      "answer": "Zwevende stad",
+      "funFact": "De techniek is revolutionair!",
+      "story": "De gebouwen van deze opmerkelijke stad kunnen loskomen van hun fundamenten en over het water bewegen, waarbij ze zichzelf herschikken als zwevende puzzelstukjes."
+    },
+    {
+      "question": "Welke tuin zingt zonsondergang?",
+      "options": [
+        "Zonnelied",
+        "Schemering Muziek",
+        "Eva Opmerking",
+        "Lichte melodie"
+      ],
+      "answer": "Zonnelied",
+      "funFact": "Het concert gebeurt natuurlijk!",
+      "story": "Terwijl de zon ondergaat, creëren de speciaal ontworpen planten en structuren van deze tuin muzieknoten door de interactie van licht en wind."
+    },
+    {
+      "question": "Welk hotel is volledig van ijs gemaakt?",
+      "options": [
+        "IJshotel",
+        "Kakslauttanen",
+        "Sorrisniva",
+        "Sneeuwkasteel"
+      ],
+      "answer": "IJshotel",
+      "funFact": "Het hotel wordt elke winter herbouwd!",
+      "story": "Het Zweedse IJshotel in Jukkasjärvi wordt elke winter herbouwd met ijs uit de rivier de Torne. "
+    },
+    {
+      "question": "Welke trein reist onder water?",
+      "options": [
+        "Kanaaltunnel",
+        "Seikan-tunnel",
+        "Marmaray",
+        "Transbay-buis"
+      ],
+      "answer": "Kanaaltunnel",
+      "funFact": "Het is de langste onderzeese tunnel ter wereld!",
+      "story": "De Kanaaltunnel die Engeland en Frankrijk verbindt, loopt 80 meter onder de zeebodem en is 50 kilometer lang. "
+    },
+    {
+      "question": "Welke brug draait volledig?",
+      "options": [
+        "Gateshead-Millennium",
+        "Falkirk-wiel",
+        "Slauerhoffbrug",
+        "Torenbrug"
+      ],
+      "answer": "Gateshead-Millennium",
+      "funFact": "Het heeft de bijnaam 'Blinking Eye Bridge'!",
+      "story": "De Gateshead Millennium Bridge in Engeland is 's werelds eerste en enige kantelbrug, die 40 graden kan draaien zodat schepen eronder kunnen passeren terwijl voetgangers en fietsers oversteken."
+    },
+    {
+      "question": "Welke luchthaven heeft overdekte watervallen?",
+      "options": [
+        "Changi",
+        "Dubai",
+        "Incheon",
+        "Hongkong"
+      ],
+      "answer": "Changi",
+      "funFact": "De belangrijkste waterval is 40 meter hoog!",
+      "story": "Singapore's Changi Airport beschikt over 's werelds hoogste overdekte waterval, de Rain Vortex, omgeven door een vier verdiepingen tellend overdekt bos genaamd de Shiseido Forest Valley."
+    },
+    {
+      "question": "Welk pad licht natuurlijk op?",
+      "options": [
+        "Vaadhoo",
+        "San Diego",
+        "Puerto Rico",
+        "Tasmanië"
+      ],
+      "answer": "Vaadhoo",
+      "funFact": "Het fenomeen wordt veroorzaakt door plankton!",
+      "story": "De stranden van het eiland Vaadhoo op de Malediven zijn voorzien van bioluminescerend fytoplankton dat 's nachts een natuurlijk 'Zee van Sterren'-effect creëert, waardoor de kustlijn helderblauw gloeit."
+    },
+    {
+      "question": "Welk eiland beweegt dagelijks?",
+      "options": [
+        "Majuli",
+        "Uros",
+        "Spiraalvormig eiland",
+        "Ko Panyee"
+      ],
+      "answer": "Majuli",
+      "funFact": "Het is het grootste riviereiland ter wereld!",
+      "story": "Het Majuli-eiland in de Indiase Brahmaputra-rivier verandert voortdurend van vorm en grootte als gevolg van erosie en sedimentatie, waardoor het een uniek voorbeeld is van een dynamisch ecosysteem van riviereilanden."
+    },
+    {
+      "question": "Welke grot gloeit van nature?",
+      "options": [
+        "Wachtomo",
+        "Jenolan",
+        "Ontmoedigend",
+        "Natuurlijke brug"
+      ],
+      "answer": "Wachtomo",
+      "funFact": "Miljoenen glimwormen creëren het licht!",
+      "story": "In de Waitomo-grotten in Nieuw-Zeeland bevinden zich duizenden Arachnocampa luminosa-glimwormen die een natuurlijk plafond van blauwgroen licht creëren, dat lijkt op een sterrenhemel."
+    }
+  ]
+}

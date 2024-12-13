@@ -1,0 +1,222 @@
+{
+  "category": "Winter",
+  "description": "Ontdek de wonderen, tradities en wetenschap van het winterseizoen",
+  "questions": [
+    {
+      "question": "Wat veroorzaakt het noorderlicht (Aurora Borealis)?",
+      "options": [
+        "Zonnewinden",
+        "Stadslichten",
+        "Reflectie van de maan",
+        "Atmosferische druk"
+      ],
+      "answer": "Zonnewinden",
+      "funFact": "Het Zuiderlicht (Aurora Australis) is de Antarctische tegenhanger van het Noorderlicht!",
+      "story": "De spectaculaire lichtshow vindt plaats wanneer geladen deeltjes van de zon in botsing komen met gassen in de atmosfeer van de aarde. "
+    },
+    {
+      "question": "Bij welk dier vertraagt ​​de hartslag tot 2-3 slagen per minuut tijdens de winterslaap?",
+      "options": [
+        "Zwarte beer",
+        "Groundhog",
+        "Poolvos",
+        "Egel"
+      ],
+      "answer": "Groundhog",
+      "funFact": "De lichaamstemperatuur kan tijdens de winterslaap dalen van 99°F tot wel 37°F!",
+      "story": "Tijdens de winterslaap komen groundhogs in een staat van diepe slaap terecht, waarin hun lichaamsfuncties dramatisch vertragen. "
+    },
+    {
+      "question": "Wat is een sneeuwroller?",
+      "options": [
+        "Een sneeuwploeg",
+        "Een natuurlijk gevormde sneeuwbal",
+        "Een wintersport",
+        "Een soort slee"
+      ],
+      "answer": "Een natuurlijk gevormde sneeuwbal",
+      "funFact": "Ze worden vanwege hun vorm ook wel ‘sneeuwdonuts’ genoemd!",
+      "story": "Sneeuwwalsen zijn een zeldzaam meteorologisch fenomeen waarbij de wind een stuk sneeuw over de grond blaast, waardoor er meer sneeuw omheen wordt verzameld als een natuurlijke sneeuwbal. "
+    },
+    {
+      "question": "Welk dier verandert van kleur in de winter?",
+      "options": [
+        "Poolvos",
+        "Ijsbeer",
+        "Sneeuwluipaard",
+        "Arctische Haas"
+      ],
+      "answer": "Poolvos",
+      "funFact": "Deze dieren kunnen temperaturen tot -50°C overleven!",
+      "story": "De poolvos ondergaat een van de meest dramatische seizoenstransformaties in het dierenrijk. "
+    },
+    {
+      "question": "Welke wintersport is uitgevonden in de gevangenis?",
+      "options": [
+        "Volleybal",
+        "Ijshockey",
+        "Krullen",
+        "Skiën"
+      ],
+      "answer": "Volleybal",
+      "funFact": "Deze indoor winteractiviteit is gemaakt om mensen actief te houden!",
+      "story": "William G. Morgan vond volleybal uit bij de Holyoke YMCA in 1895 tijdens de wintermaanden. "
+    },
+    {
+      "question": "Welke stad ziet nooit winterzonlicht?",
+      "options": [
+        "Tromso",
+        "Reykjavik",
+        "Helsinki",
+        "Oslo"
+      ],
+      "answer": "Tromso",
+      "funFact": "Bewoners vieren hier de terugkeer van de zon met een festival!",
+      "story": "Tromsø, Noorwegen ervaart een poolnachtperiode waarin de zon ongeveer twee maanden niet boven de horizon uitkomt. "
+    },
+    {
+      "question": "Op welk winterfestival is er ijszwemmen?",
+      "options": [
+        "Harbin",
+        "Québec",
+        "Sapporo",
+        "Oslo"
+      ],
+      "answer": "Harbin",
+      "funFact": "Deelnemers trainen maandenlang om zich voor te bereiden op het ijskoude water!",
+      "story": "Tijdens het Harbin International Ice and Snow Festival in China kun je in de winter zwemmen in de Songhua-rivier, waar de temperatuur kan dalen tot -35°C. "
+    },
+    {
+      "question": "Welk land heeft warme chocolademelk uitgevonden?",
+      "options": [
+        "Mexico",
+        "Zwitserland",
+        "België",
+        "Nederland"
+      ],
+      "answer": "Mexico",
+      "funFact": "Het originele recept bevatte chilipepers!",
+      "story": "De Azteken creëerden een bittere, kruidige drank genaamd 'xocolatl' met behulp van cacaobonen, die heel anders was dan moderne warme chocolademelk. "
+    },
+    {
+      "question": "Welk winterpaleis wordt elk jaar herbouwd?",
+      "options": [
+        "Kemi",
+        "Québec",
+        "Sapporo",
+        "Harbin"
+      ],
+      "answer": "Kemi",
+      "funFact": "Voor de constructie is meer dan 20.000 ton sneeuw nodig!",
+      "story": "Het Sneeuwkasteel van Kemi in Finland wordt elke winter herbouwd met een ander architectonisch ontwerp. "
+    },
+    {
+      "question": "Bij welke wintersport wordt een steen gebruikt?",
+      "options": [
+        "Krullen",
+        "Het schaatsen",
+        "Skiën",
+        "Hockey"
+      ],
+      "answer": "Krullen",
+      "funFact": "Deze bijzondere items zijn gemaakt van zeldzaam graniet!",
+      "story": "Curling vindt zijn oorsprong in het middeleeuwse Schotland, waar spelers stenen over bevroren vijvers lieten glijden. "
+    },
+    {
+      "question": "Bij welke wintertraditie hoort een augurk?",
+      "options": [
+        "Weihnachtsgurke",
+        "Krampuslauf",
+        "Sinterklaas",
+        "Befana"
+      ],
+      "answer": "Weihnachtsgurke",
+      "funFact": "Deze traditie werd gepopulariseerd door kooplieden uit het Victoriaanse tijdperk!",
+      "story": "Bij de Christmas Pickle, of Weihnachtsgurke, wordt een augurkvormig ornament in een kerstboom verborgen. "
+    },
+    {
+      "question": "Welke winterstad is ondergronds gebouwd?",
+      "options": [
+        "Coober Pedy",
+        "Alice Springs",
+        "Gebroken Heuvel",
+        "Berg Jes"
+      ],
+      "answer": "Coober Pedy",
+      "funFact": "Buurtbewoners wonen in omgebouwde mijnschachten!",
+      "story": "Coober Pedy in Zuid-Australië werd ondergronds gebouwd om aan extreme temperaturen te ontsnappen. "
+    },
+    {
+      "question": "Welk wintervoertuig is uitgevonden door een tiener?",
+      "options": [
+        "Sneeuwscooter",
+        "Skilift",
+        "Sneeuwblazer",
+        "IJs-dweiler"
+      ],
+      "answer": "Sneeuwscooter",
+      "funFact": "De uitvinder heeft het gemaakt om medicijnen te helpen leveren!",
+      "story": "Joseph-Armand Bombardier bouwde zijn eerste sneeuwscooter-prototype op 15-jarige leeftijd in 1922. Hij werd gemotiveerd door de dood van zijn jonge zoon, die tijdens een winterstorm een ​​ziekenhuis niet kon bereiken. "
+    },
+    {
+      "question": "Welk wintermeer bevriest nooit?",
+      "options": [
+        "Hornindalsvatnet",
+        "Superieur",
+        "Baikal",
+        "Genève"
+      ],
+      "answer": "Hornindalsvatnet",
+      "funFact": "De diepte is ongelooflijk!",
+      "story": "Het Noorse meer Hornindalsvatnet, het diepste meer van Europa op 514 meter, bevriest nooit vanwege de unieke diepte- en watercirculatiepatronen, zelfs niet tijdens strenge Arctische winters."
+    },
+    {
+      "question": "Welke wintergrot schittert het meest?",
+      "options": [
+        "Eisriesenwelt",
+        "Kungur",
+        "Dobsinska",
+        "Scarisoara"
+      ],
+      "answer": "Eisriesenwelt",
+      "funFact": "De formaties zijn enorm!",
+      "story": "De Oostenrijkse Eisriesenwelt is 's werelds grootste ijsgrottensysteem, dat zich uitstrekt over 42 kilometer, met spectaculaire ijsformaties die in de loop van duizenden jaren zijn gegroeid."
+    },
+    {
+      "question": "Welke winterstorm gloeit blauw?",
+      "options": [
+        "Sint-Elmusvuur",
+        "Aurora",
+        "Bliksem",
+        "Sneeuwstorm"
+      ],
+      "answer": "Sint-Elmusvuur",
+      "funFact": "Zeelieden vonden het magisch!",
+      "story": "St. Elmo's Fire is een winterweerfenomeen waarbij puntige voorwerpen tijdens stormen blauwwit licht uitstralen, veroorzaakt door atmosferische elektriciteit, wat vaak te zien is op schepen en vliegtuigen."
+    },
+    {
+      "question": "Welk winterbos bevriest onmiddellijk?",
+      "options": [
+        "Ojmjakon",
+        "Jakoetsk",
+        "Verchojansk",
+        "Delyankir"
+      ],
+      "answer": "Ojmjakon",
+      "funFact": "De temperatuur daalt snel!",
+      "story": "In Oymyakon, Rusland, de koudste bewoonde plek ter wereld, bevriest water tijdens de winter in de lucht onmiddellijk, waardoor spectaculaire ijskristallen ontstaan."
+    },
+    {
+      "question": "Welke winterberg groeit 's nachts?",
+      "options": [
+        "Berg Bakker",
+        "regenachtiger",
+        "Kap",
+        "Shasta"
+      ],
+      "answer": "Berg Bakker",
+      "funFact": "De sneeuwval is recordbrekend!",
+      "story": "Mount Baker in Washington heeft het wereldrecord voor de meeste sneeuwval in een seizoen en ontving in 1998-99 30 meter sneeuw, waardoor de berg van de ene op de andere dag dramatisch leek te groeien."
+    }
+  ]
+}

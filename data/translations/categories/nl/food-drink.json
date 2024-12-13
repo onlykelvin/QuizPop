@@ -1,0 +1,342 @@
+{
+  "category": "Eten en drinken",
+  "description": "Ontdek culinaire tradities, kooktechnieken en drankkennis",
+  "questions": [
+    {
+      "question": "Wat is het hoofdingrediënt in traditionele Japanse misosoep?",
+      "options": [
+        "Zeewier",
+        "Tofu",
+        "Gefermenteerde sojabonenpasta",
+        "Rijst"
+      ],
+      "answer": "Gefermenteerde sojabonenpasta",
+      "funFact": "Er zijn meer dan 1.300 soorten misopasta in Japan!",
+      "story": "Miso is al meer dan 1300 jaar een belangrijk onderdeel van de Japanse keuken. "
+    },
+    {
+      "question": "Welk land is de geboorteplaats van koffie?",
+      "options": [
+        "Brazilië",
+        "Colombia",
+        "Ethiopië",
+        "Jemen"
+      ],
+      "answer": "Ethiopië",
+      "funFact": "Koffie werd ontdekt door een geitenherder die merkte dat zijn geiten energiek werden na het eten van koffiebessen!",
+      "story": "Volgens de legende ontdekte een Ethiopische geitenherder genaamd Kaldi in de 9e eeuw koffie nadat hij had opgemerkt dat zijn geiten energiek dansten nadat ze bessen uit bepaalde struiken hadden gegeten. "
+    },
+    {
+      "question": "Wat geeft zuurdesembrood zijn kenmerkende smaak?",
+      "options": [
+        "Azijn",
+        "Melkzuurbacteriën",
+        "Extra zout",
+        "Oude bloem"
+      ],
+      "answer": "Melkzuurbacteriën",
+      "funFact": "Sommige zuurdesemstarters zijn meer dan 100 jaar oud en worden van generatie op generatie doorgegeven!",
+      "story": "Zuurdesem is een van de oudste vormen van broodrijsmiddel, die teruggaat tot het oude Egypte. "
+    },
+    {
+      "question": "Welk kruid was ooit qua gewicht meer waard dan goud?",
+      "options": [
+        "Saffraan",
+        "Zwarte peper",
+        "Kardemom",
+        "Vanille"
+      ],
+      "answer": "Saffraan",
+      "funFact": "Voor deze specerij zijn meer dan 150 bloemen nodig om slechts één gram te produceren!",
+      "story": "De hoge waarde van Saffraan komt voort uit het arbeidsintensieve oogstproces. "
+    },
+    {
+      "question": "Voor welke kaas geldt een wettelijke vereiste over waar deze mag rijpen?",
+      "options": [
+        "Roquefort",
+        "Brie",
+        "Cheddar",
+        "Gouda"
+      ],
+      "answer": "Roquefort",
+      "funFact": "De rijpingsgrotten voor deze kaas behouden het hele jaar door een constante temperatuur!",
+      "story": "Volgens de Franse wet moet deze kaas rijpen in de natuurlijke Combalou-grotten van Roquefort-sur-Soulzon. "
+    },
+    {
+      "question": "Welke vrucht inspireerde het ontwerp van de eerste kunstmatige hartklep?",
+      "options": [
+        "Banaan",
+        "Appel",
+        "Peer",
+        "Oranje"
+      ],
+      "answer": "Banaan",
+      "funFact": "De uitvinder van dit medische apparaat was een fervent tuinier!",
+      "story": "In 1927 merkte Dr. Charles Hufnagel op hoe de schil van een banaan zich bij het schillen op natuurlijke wijze in drie delen splitst. "
+    },
+    {
+      "question": "Welke drank werd oorspronkelijk als medicijn voorgeschreven?",
+      "options": [
+        "Tonisch water",
+        "Coca-cola",
+        "Gemberbier",
+        "Wortelbier"
+      ],
+      "answer": "Tonisch water",
+      "funFact": "Dit drankje is ontwikkeld in tropische Britse koloniën!",
+      "story": "Tonic water werd in de 19e eeuw gecreëerd als een manier om kinine, een middel tegen malaria, smakelijker te maken. "
+    },
+    {
+      "question": "Welke gewone groente was oorspronkelijk paars?",
+      "options": [
+        "Wortel",
+        "Aardappel",
+        "Maïs",
+        "Selderij"
+      ],
+      "answer": "Wortel",
+      "funFact": "Deze groenten werden meer dan 5000 jaar geleden gedomesticeerd!",
+      "story": "De originele wortelen die in Afghanistan werden gedomesticeerd waren paars en geel. "
+    },
+    {
+      "question": "Welk land heeft ijshoorntjes uitgevonden?",
+      "options": [
+        "Syrië",
+        "Italië",
+        "Frankrijk",
+        "Verenigde Staten"
+      ],
+      "answer": "Syrië",
+      "funFact": "Deze lekkernijen werden gepopulariseerd op een beroemde wereldtentoonstelling!",
+      "story": "Het ijshoorntje is afkomstig van een Syrische banketbakker, Ernest Hamwi, op de Wereldtentoonstelling van St. Louis in 1904. "
+    },
+    {
+      "question": "Welke beschaving heeft kauwgom uitgevonden?",
+      "options": [
+        "Maya's",
+        "Grieken",
+        "Egyptenaren",
+        "Chinese"
+      ],
+      "answer": "Maya's",
+      "funFact": "Oude versies van dit product werden gebruikt voor mondhygiëne!",
+      "story": "De oude Maya's kauwden al 2000 jaar geleden op chicle, een natuurlijke boomgom van de sapodillaboom. "
+    },
+    {
+      "question": "Welk voedsel werd voor het eerst per ongeluk in een gevangenis gemaakt?",
+      "options": [
+        "Cornflakes",
+        "Chips",
+        "Ijslolly's",
+        "Chocoladekoekjes"
+      ],
+      "answer": "Cornflakes",
+      "funFact": "De uitvinder probeerde een gezondheidsvoedsel voor patiënten te maken!",
+      "story": "Will Keith Kellogg ontdekte cornflakes toen hij als kok werkte in het Battle Creek Sanitarium, een kuuroord gerund door zijn broer. "
+    },
+    {
+      "question": "Welk veelgebruikt keukengereedschap is uitgevonden door een horlogemaker?",
+      "options": [
+        "Blikopener",
+        "Kurketrekker",
+        "Aardappel dunschiller",
+        "Garde"
+      ],
+      "answer": "Blikopener",
+      "funFact": "Deze uitvinding kwam bijna 50 jaar na de uitvinding van ingeblikt voedsel!",
+      "story": "De eerste blikopener werd in 1858 gepatenteerd door Ezra Warner, een horlogemaker uit Waterbury, Connecticut. "
+    },
+    {
+      "question": "Welke vrucht verandert van kleur op basis van de pH van de bodem?",
+      "options": [
+        "Hortensia",
+        "Bosbes",
+        "Aardbei",
+        "Framboos"
+      ],
+      "answer": "Hortensia",
+      "funFact": "Tuinders kunnen de groeiomstandigheden manipuleren om verschillende kleuren te verkrijgen!",
+      "story": "Hoewel het technisch gezien een bloem is, kunnen de bloemen van de Hortensia van kleur veranderen op basis van de pH-waarde van de grond. "
+    },
+    {
+      "question": "Welke stad heeft drijvende restaurants?",
+      "options": [
+        "Amsterdam",
+        "Venetië",
+        "Kopenhagen",
+        "Stockholm"
+      ],
+      "answer": "Amsterdam",
+      "funFact": "De boten waren oorspronkelijk vrachtschepen!",
+      "story": "Deze unieke eetgelegenheden zijn gehuisvest in omgebouwde vrachtboten die ooit goederen door de beroemde grachten van de stad vervoerden. "
+    },
+    {
+      "question": "Welk restaurant serveert in volledige duisternis?",
+      "options": [
+        "Dans le Noir",
+        "Donkere tafel",
+        "Nachtzicht",
+        "Blinde smaak"
+      ],
+      "answer": "Dans le Noir",
+      "funFact": "De obers zijn speciaal opgeleid!",
+      "story": "Dit unieke restaurantconcept vindt zijn oorsprong in Parijs, waar gasten in het pikkedonker eten om hun zintuiglijke smaak- en geurbeleving te versterken."
+    },
+    {
+      "question": "Welke drank verandert van kleur als hij gemengd wordt?",
+      "options": [
+        "Vlindererwtenthee",
+        "Regenboog druppel",
+        "Kleurverschuiving",
+        "Prisma Giet"
+      ],
+      "answer": "Vlindererwtenthee",
+      "funFact": "De plant komt oorspronkelijk uit Zuidoost-Azië!",
+      "story": "Deze fascinerende drank begint met een diepblauwe kleur en verandert in paars of roze wanneer deze wordt gemengd met citrusvruchten als gevolg van een natuurlijke pH-reactie."
+    },
+    {
+      "question": "Welk dessert zweeft in de lucht?",
+      "options": [
+        "Wolk Negen",
+        "Hemel zoet",
+        "Zwevende traktatie",
+        "Lucht snoep"
+      ],
+      "answer": "Wolk Negen",
+      "funFact": "Het dessert maakt gebruik van speciale technologie!",
+      "story": "Dit innovatieve dessert maakt gebruik van magnetische levitatietechnologie om de illusie van drijvend voedsel te creëren, geserveerd op een speciaal bord dat de lekkernij in de lucht houdt."
+    },
+    {
+      "question": "Welk restaurant kookt met vulkanen?",
+      "options": [
+        "El Diablo",
+        "Vuurpiek",
+        "Lava-grill",
+        "Hittegolf"
+      ],
+      "answer": "El Diablo",
+      "funFact": "Het restaurant werd geopend in 1970!",
+      "story": "Dit restaurant, gelegen in Lanzarote, Spanje, maakt gebruik van de natuurlijke hitte van een slapende vulkaan om zijn kenmerkende gerechten te bereiden, met een grill die direct boven een vulkanische warmteafvoer wordt geplaatst."
+    },
+    {
+      "question": "Welk ijs smelt nooit?",
+      "options": [
+        "Kanazawa-ijs",
+        "Voor altijd vorst",
+        "Eeuwige primeur",
+        "Blijf koud"
+      ],
+      "answer": "Kanazawa-ijs",
+      "funFact": "Wetenschappers hebben er jaren aan gewerkt om het te ontwikkelen!",
+      "story": "Japanse wetenschappers hebben dit unieke ijs gemaakt met behulp van polyfenol gewonnen uit aardbeien, waardoor de bevroren vorm zelfs bij warme temperaturen behouden blijft."
+    },
+    {
+      "question": "Welk restaurant serveert op achtbanen?",
+      "options": [
+        "Achtbaanrestaurant",
+        "Volg Diner",
+        "Coaster Café",
+        "Luslunch"
+      ],
+      "answer": "Achtbaanrestaurant",
+      "funFact": "Het railsysteem overspant meerdere verdiepingen!",
+      "story": "In dit unieke restaurant gaan de bestellingen over steile paden en loop-the-loops voordat ze bij de tafels van de klanten arriveren, waarbij dineren wordt gecombineerd met entertainment."
+    },
+    {
+      "question": "Welke koffie groeit onder water?",
+      "options": [
+        "Zee koffie",
+        "Oceaan brouwsel",
+        "Aqua-boon",
+        "Golf gebraden"
+      ],
+      "answer": "Zee koffie",
+      "funFact": "Het proces duurt enkele maanden!",
+      "story": "Deze koffiebonen worden onder water gerijpt in speciale containers onder druk, waar de unieke omstandigheden en druk een uitgesproken zacht smaakprofiel creëren."
+    },
+    {
+      "question": "Welk restaurant serveert eten in reageerbuisjes?",
+      "options": [
+        "Laboratorium 22",
+        "Wetenschap plaat",
+        "Proefkeuken",
+        "Experiment"
+      ],
+      "answer": "Laboratorium 22",
+      "funFact": "Het menu verandert maandelijks!",
+      "story": "Dit moleculaire gastronomische restaurant serveert gerechten en cocktails in laboratoriumapparatuur, waardoor een meeslepende ervaring ontstaat die wetenschap combineert met dineren."
+    },
+    {
+      "question": "Welk brood geeft licht in het donker?",
+      "options": [
+        "Biobrood",
+        "Nachtbrood",
+        "Gloeideeg",
+        "Lichte plak"
+      ],
+      "answer": "Biobrood",
+      "funFact": "De ingrediënten zijn allemaal natuurlijk!",
+      "story": "Wetenschappers hebben dit unieke brood gemaakt met behulp van natuurlijk bioluminescerende ingrediënten afgeleid van kwalleneiwitten, waardoor het in het donker een zachte blauwe gloed afgeeft."
+    },
+    {
+      "question": "Welke kaas rijpt het langst?",
+      "options": [
+        "Vintage Gouda",
+        "Oude Cheddar",
+        "Parmezaanse kaas",
+        "Gruyère"
+      ],
+      "answer": "Vintage Gouda",
+      "funFact": "De kristallen zijn gewaardeerd!",
+      "story": "Dutch Vintage Gouda kan tot 12 jaar rijpen en ontwikkelt eiwitkristallen en complexe smaken via een zorgvuldig gecontroleerd proces."
+    },
+    {
+      "question": "Welke koffie groeit het hoogst?",
+      "options": [
+        "Boliviaanse koninklijke",
+        "Ethiopische Yirgacheffe",
+        "Colombiaanse oppermachtig",
+        "Jamaicaans blauw"
+      ],
+      "answer": "Boliviaanse koninklijke",
+      "funFact": "De boerderijen zijn afgelegen!",
+      "story": "Boliviaanse Royal-koffie groeit op hoogten van meer dan 1800 meter in het Andesgebergte, waardoor het een van de hoogst verbouwde koffiesoorten ter wereld is."
+    },
+    {
+      "question": "Welk restaurant drijft?",
+      "options": [
+        "Ithaa",
+        "Sub zes",
+        "Parel",
+        "Neptunus"
+      ],
+      "answer": "Ithaa",
+      "funFact": "Het uitzicht is spectaculair!",
+      "story": "Het Ithaa Undersea Restaurant op de Malediven ligt 5 meter onder de zeespiegel en biedt door de transparante acrylwanden een uitzicht van 180 graden op het zeeleven."
+    },
+    {
+      "question": "Welk kruid kost het meest?",
+      "options": [
+        "Saffraan",
+        "Vanille",
+        "Kardemom",
+        "Kaneel"
+      ],
+      "answer": "Saffraan",
+      "funFact": "De oogst is delicaat!",
+      "story": "Saffraan heeft 150-170 bloemen nodig om slechts één gram te produceren, waarbij de stempels van elke bloem zorgvuldig met de hand worden geoogst tijdens een korte jaarlijkse bloeiperiode."
+    },
+    {
+      "question": "Welke wijn rijpt onder water?",
+      "options": [
+        "Crusoë",
+        "Neptunus",
+        "Poseidon",
+        "Atlantis"
+      ],
+      "answer": "Crusoë",
+      "funFact": "De druk is intens!",
+      "story": "Wijnmakerij Crusoe Treasure laat zijn wijnen rijpen in een gespecialiseerde onderwaterkelder voor de Spaanse kust, waar constante temperatuur en druk unieke smaken creëren."
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "category": "New Year",
+  "description": "Explore traditions, celebrations, and history of New Year around the world",
+  "questions": [
+    {
+      "question": "Which city is famous for its New Year's Eve ball drop?",
+      "options": ["London", "Paris", "New York", "Tokyo"],
+      "answer": "New York",
+      "funFact": "The Times Square Ball weighs 11,875 pounds and is covered with 2,688 Waterford Crystal triangles!",
+      "story": "The first New Year's Eve Ball drop in Times Square happened in 1907. The tradition was started by The New York Times owner Adolph Ochs as a replacement for the fireworks that had been banned by city officials. The original ball was made of iron and wood and lit with 100 25-watt bulbs."
+    },
+    {
+      "question": "What is the traditional Spanish New Year's custom of eating 12 what at midnight?",
+      "options": ["Chocolates", "Grapes", "Nuts", "Cookies"],
+      "answer": "Grapes",
+      "funFact": "The tradition began in the 1890s when Madrid's growers had a bumper harvest!",
+      "story": "Las doce uvas de la suerte (The Twelve Grapes of Luck) is a Spanish tradition that involves eating one grape with each bell strike at midnight. Each grape represents good luck for one month of the coming year. The tradition has spread to many Spanish-speaking countries."
+    },
+    {
+      "question": "Which calendar celebrates New Year in February?",
+      "options": ["Islamic Calendar", "Chinese Calendar", "Hebrew Calendar", "Persian Calendar"],
+      "answer": "Chinese Calendar",
+      "funFact": "Their New Year celebration lasts for 15 days!",
+      "story": "The Chinese New Year, also known as the Spring Festival, is based on the lunar calendar. Each year is associated with one of 12 zodiac animals. The celebration involves thorough house cleaning to sweep away bad luck, red decorations for good fortune, and family feasts."
+    },
+    {
+      "question": "Which culture celebrates New Year for 15 days?",
+      "options": ["Chinese", "Thai", "Vietnamese", "Korean"],
+      "answer": "Chinese",
+      "funFact": "Each day of this celebration has its own special traditions!",
+      "story": "The Chinese New Year, also known as Spring Festival, is celebrated for 15 days with different customs and activities each day. From family reunions and temple visits to lantern festivals, each day holds special significance. The celebration concludes with the Yuan Xiao Festival, featuring lanterns and sweet rice balls."
+    },
+    {
+      "question": "Which country drops a giant pine cone on New Year's Eve?",
+      "options": ["Arizona", "Florida", "California", "Texas"],
+      "answer": "Arizona",
+      "funFact": "This tradition started in the 1990s to honor local heritage!",
+      "story": "Flagstaff, Arizona, drops a 6-foot-tall, 70-pound illuminated pine cone at midnight on New Year's Eve. The tradition began as a way to celebrate the city's location in the world's largest ponderosa pine forest. The pine cone is lowered from the historic Weatherford Hotel."
+    },
+    {
+      "question": "Which culture celebrates New Year in April?",
+      "options": ["Thai", "Indian", "Persian", "Ethiopian"],
+      "answer": "Thai",
+      "funFact": "This celebration involves a nationwide water festival!",
+      "story": "Songkran, the Thai New Year, is celebrated in April with the world's largest water festival. The water symbolizes purification and the washing away of sins and bad luck. The festival includes traditional ceremonies, family gatherings, and visiting temples."
+    },
+    {
+      "question": "Which animal represents the first New Year celebration?",
+      "options": ["Rat", "Dragon", "Ox", "Tiger"],
+      "answer": "Rat",
+      "funFact": "This creature is associated with wealth and surplus!",
+      "story": "In Chinese zodiac legend, the Rat won the race to determine the order of zodiac animals by riding on the Ox's back and jumping off at the last moment to cross the finish line first. This cleverness earned it the first position in the 12-year cycle."
+    },
+    {
+      "question": "Which country celebrates New Year with 108 bell rings?",
+      "options": ["Japan", "Korea", "China", "Vietnam"],
+      "answer": "Japan",
+      "funFact": "This ritual takes place at Buddhist temples nationwide!",
+      "story": "Japanese temples ring their bells 108 times on New Year's Eve in a tradition called Joya no Kane. Each ring represents one of the 108 earthly desires or temptations that humans must overcome to achieve enlightenment according to Buddhist teachings."
+    },
+    {
+      "question": "Which culture predicts the year ahead using molten metal?",
+      "options": ["Finnish", "German", "Russian", "Swedish"],
+      "answer": "Finnish",
+      "funFact": "This tradition dates back to the Viking Age!",
+      "story": "In Finland, people practice 'molybdomancy' on New Year's Eve by melting tin and quickly dropping it into cold water. The resulting shapes are interpreted to predict events in the coming year. The shadows cast by the hardened metal are also part of the divination."
+    },
+    {
+      "question": "Which country celebrates New Year with empty suitcases?",
+      "options": ["Colombia", "Brazil", "Argentina", "Chile"],
+      "answer": "Colombia",
+      "funFact": "This tradition is believed to bring adventure in the coming year!",
+      "story": "Colombians celebrate New Year's Eve by walking around the block with empty suitcases at midnight. This tradition is believed to ensure a year filled with travel and adventures. Some people even add items representing their travel wishes into the suitcases."
+    },
+    {
+      "question": "Which culture burns scarecrows for New Year?",
+      "options": ["Ecuadorian", "Mexican", "Peruvian", "Venezuelan"],
+      "answer": "Ecuadorian",
+      "funFact": "These effigies are often made to look like public figures!",
+      "story": "In Ecuador, people create scarecrow-like effigies called 'años viejos' (old years) that are burned at midnight on New Year's Eve. These effigies represent the old year and any bad memories or experiences that people want to leave behind."
+    },
+    {
+      "question": "Which fruit is traditionally eaten at midnight in Spain?",
+      "options": ["Grapes", "Oranges", "Figs", "Pomegranates"],
+      "answer": "Grapes",
+      "funFact": "This tradition began due to a surplus harvest in the 1800s!",
+      "story": "Spanish New Year's celebrations include eating twelve grapes at midnight, one with each chime of the clock. The tradition began in 1895 when grape growers in Alicante needed to find a way to sell their excess harvest, leading to this now-widespread custom."
+    },
+    {
+      "question": "Which country celebrates New Year by smashing plates?",
+      "options": ["Denmark", "Greece", "Germany", "Netherlands"],
+      "answer": "Denmark",
+      "funFact": "The more broken dishes, the more popular you are considered!",
+      "story": "In Denmark, people save their old plates throughout the year to break them against friends' doors on New Year's Eve. The more broken dishes on your doorstep, the more friends and good fortune you're said to have in the coming year."
+    },
+    {
+      "question": "Which city celebrates underwater?",
+      "options": ["Key Largo", "Miami Beach", "Coral Cove", "Pearl Bay"],
+      "answer": "Key Largo",
+      "funFact": "The celebration started in 1990!",
+      "story": "This unique New Year's celebration features divers who descend to an underwater stage where they participate in festivities including a countdown and champagne toast."
+    },
+    {
+      "question": "Which town races beds?",
+      "options": ["Sheet Run", "Pillow Race", "Bed Sprint", "Sleep Dash"],
+      "answer": "Sheet Run",
+      "funFact": "The tradition is decades old!",
+      "story": "In this quirky New Year tradition, teams decorate beds with wheels and race them through town streets, wearing pajamas and competing for various themed prizes."
+    },
+    {
+      "question": "Which city freezes time?",
+      "options": ["Ice Clock", "Frost Time", "Snow Watch", "Crystal Hour"],
+      "answer": "Ice Clock",
+      "funFact": "The sculpture takes weeks to create!",
+      "story": "Artists in this city create a massive clock made entirely of ice, which dramatically shatters at midnight on New Year's Eve, symbolizing the fresh start."
+    },
+    {
+      "question": "Which village floats lanterns?",
+      "options": ["Sky Hope", "Light Float", "Star Rise", "Glow Wish"],
+      "answer": "Sky Hope",
+      "funFact": "The event requires special permits!",
+      "story": "This community celebrates by releasing thousands of biodegradable lanterns into the night sky, each carrying written hopes and dreams for the coming year."
+    },
+    {
+      "question": "Which town builds snow maze?",
+      "options": ["Frost Path", "Snow Way", "Ice Maze", "Winter Walk"],
+      "answer": "Frost Path",
+      "funFact": "The maze changes yearly!",
+      "story": "This town creates an elaborate maze from snow and ice, which people must navigate before midnight to ensure good luck in the coming year."
+    },
+    {
+      "question": "Which city reverses time?",
+      "options": ["Back Clock", "Time Turn", "Hour Flip", "Reverse Watch"],
+      "answer": "Back Clock",
+      "funFact": "The event draws thousands!",
+      "story": "This city celebrates by running all clocks backwards for the final hour of the year, with festivities moving in reverse until the countdown begins."
+    },
+    {
+      "question": "Which island plants dreams?",
+      "options": ["Dream Isle", "Hope Plant", "Wish Garden", "Future Grow"],
+      "answer": "Dream Isle",
+      "funFact": "The tradition is centuries old!",
+      "story": "Residents of this island plant special seeds at midnight, believing the height of the plants that grow will predict their fortune in the coming year."
+    },
+    {
+      "question": "Which town paints sunrise?",
+      "options": ["Dawn Art", "Sun Paint", "Light Draw", "Morning Color"],
+      "answer": "Dawn Art",
+      "funFact": "The event attracts artists worldwide!",
+      "story": "Artists gather in this town to paint the first sunrise of the new year, creating a gallery of interpretations that are displayed throughout the year."
+    },
+    {
+      "question": "Which city builds bridges?",
+      "options": ["Link Town", "Bridge Build", "Connect City", "Span Place"],
+      "answer": "Link Town",
+      "funFact": "The bridges use special materials!",
+      "story": "Citizens construct temporary bridges between buildings on New Year's Eve, symbolizing connections they hope to make in the coming year."
+    },
+    {
+      "question": "Which village melts time?",
+      "options": ["Time Flow", "Melt Watch", "Hour Stream", "Clock Drop"],
+      "answer": "Time Flow",
+      "funFact": "The sculpture weighs tons!",
+      "story": "This village creates a massive ice sculpture of the old year's number, which is gradually melted throughout New Year's Eve using various artistic methods."
+    }
+  ]
+}

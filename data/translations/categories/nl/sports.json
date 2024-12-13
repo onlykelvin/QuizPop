@@ -1,0 +1,402 @@
+{
+  "category": "Sport",
+  "description": "Test je kennis van sportgeschiedenis, regels en legendarische atleten",
+  "questions": [
+    {
+      "question": "Welk land won het eerste FIFA Wereldkampioenschap in 1930?",
+      "options": [
+        "Brazilië",
+        "Argentinië",
+        "Uruguay",
+        "Italië"
+      ],
+      "answer": "Uruguay",
+      "funFact": "Dit land won het toernooi op eigen bodem en versloeg Argentinië met 4-2 in de finale!",
+      "story": "Het eerste WK werd geheel in Montevideo, Uruguay gespeeld. "
+    },
+    {
+      "question": "In welke sport zou jij een 'slam dunk' uitvoeren?",
+      "options": [
+        "Volleybal",
+        "Basketbal",
+        "Tennis",
+        "Voetbal"
+      ],
+      "answer": "Basketbal",
+      "funFact": "De slam dunk werd van 1967 tot 1976 op de universiteit verboden, grotendeels vanwege de dominantie van Kareem Abdul-Jabbar!",
+      "story": "De term 'slam dunk' werd in 1972 bedacht door Chick Hearn, omroeper van de Los Angeles Lakers. Voordien heette het simpelweg een 'dunk shot'. "
+    },
+    {
+      "question": "Hoeveel Olympische ringen zijn er?",
+      "options": [
+        "Vier",
+        "Vijf",
+        "Zes",
+        "Zeven"
+      ],
+      "answer": "Vijf",
+      "funFact": "De ringen vertegenwoordigen de unie van de vijf continenten en de ontmoeting van atleten van over de hele wereld!",
+      "story": "De Olympische ringen zijn ontworpen door Baron Pierre de Coubertin in 1912. De kleuren (blauw, geel, zwart, groen en rood) zijn gekozen omdat op dat moment minstens één van deze kleuren op de vlag van elk land stond."
+    },
+    {
+      "question": "Welke Olympische sport wordt nooit nat?",
+      "options": [
+        "Waterpolo",
+        "Duiken",
+        "Zwemmen",
+        "Synchroonzwemmen"
+      ],
+      "answer": "Waterpolo",
+      "funFact": "Spelers kunnen tijdens één spel tot 5 kilometer zwemmen!",
+      "story": "Waterpolo ontstond eind 19e eeuw in Groot-Brittannië als een vorm van rugby die in rivieren en meren werd gespeeld. "
+    },
+    {
+      "question": "Welke sport werd er op de maan beoefend?",
+      "options": [
+        "Golf",
+        "Honkbal",
+        "Voetbal",
+        "Tennis"
+      ],
+      "answer": "Golf",
+      "funFact": "De bal reisde veel verder dan op aarde!",
+      "story": "Tijdens de Apollo 14-missie in 1971 werd astronaut Alan Shepard de eerste persoon die golf speelde op de maan. "
+    },
+    {
+      "question": "Welke sport heeft vierkante banen?",
+      "options": [
+        "Jai Alai",
+        "Racketbal",
+        "Squash",
+        "Badminton"
+      ],
+      "answer": "Jai Alai",
+      "funFact": "Deze sport is houder van het wereldrecord voor balsnelheid!",
+      "story": "Jai Alai, afkomstig uit de Baskische regio, wordt gespeeld op een driemuurs speelveld dat een fronton wordt genoemd. "
+    },
+    {
+      "question": "Welke sport heeft nooit banden?",
+      "options": [
+        "Tafeltennis",
+        "Volleybal",
+        "Basketbal",
+        "Voetbal"
+      ],
+      "answer": "Tafeltennis",
+      "funFact": "Deze sport was ooit verboden in de Sovjet-Unie!",
+      "story": "Tafeltenniswedstrijden leveren altijd een winnaar op vanwege het scoresysteem. "
+    },
+    {
+      "question": "Welke sport is ontstaan ​​in de gevangenis?",
+      "options": [
+        "Basketbal",
+        "Honkbal",
+        "Voetbal",
+        "Rugby"
+      ],
+      "answer": "Basketbal",
+      "funFact": "Het originele spel gebruikte fruitmanden in plaats van netten!",
+      "story": "Dr. James Naismith vond basketbal uit in 1891 op een YMCA-trainingsschool om atleten tijdens de winter binnen te houden. "
+    },
+    {
+      "question": "Welke sport heeft de oudste trofee?",
+      "options": [
+        "Amerika's beker",
+        "Stanley Cup",
+        "FIFA Wereldbeker",
+        "Wimbledon-trofee"
+      ],
+      "answer": "Amerika's beker",
+      "funFact": "De trofee werd ooit gebruikt om ijs te serveren!",
+      "story": "De America's Cup, voor het eerst uitgereikt in 1851, is de oudste trofee in de internationale sport. "
+    },
+    {
+      "question": "Welke sport maakt gebruik van een keuken?",
+      "options": [
+        "Picklebal",
+        "Tennis",
+        "Badminton",
+        "Squash"
+      ],
+      "answer": "Picklebal",
+      "funFact": "Deze sport is uitgevonden om verveelde kinderen te vermaken!",
+      "story": "Pickleball, opgericht in 1965 op Bainbridge Island, Washington, beschikt over een 'keuken' - een niet-volleyzone vlakbij het net. "
+    },
+    {
+      "question": "Welke sport kent geen tijdslimiet?",
+      "options": [
+        "Krekel",
+        "Voetbal",
+        "Hockey",
+        "Basketbal"
+      ],
+      "answer": "Krekel",
+      "funFact": "De langste wedstrijd van deze sport duurde 12 dagen!",
+      "story": "Testcricketwedstrijden kunnen maximaal vijf dagen duren zonder gegarandeerd resultaat. "
+    },
+    {
+      "question": "Welke sport heeft cheerleading uitgevonden?",
+      "options": [
+        "Voetbal",
+        "Basketbal",
+        "Honkbal",
+        "Hockey"
+      ],
+      "answer": "Voetbal",
+      "funFact": "De eerste cheerleaders waren allemaal mannen!",
+      "story": "Cheerleading begon in 1898 aan de Universiteit van Minnesota toen student Johnny Campbell de menigte leidde bij het juichen bij een voetbalwedstrijd. "
+    },
+    {
+      "question": "Welke sport gebruikt nooit nieuwe ballen?",
+      "options": [
+        "Echt tennis",
+        "Tennis",
+        "Squash",
+        "Racketbal"
+      ],
+      "answer": "Echt tennis",
+      "funFact": "Deze sport wordt gespeeld door Britse royalty's!",
+      "story": "Real Tennis, de originele vorm van tennis, maakt gebruik van handgemaakte ballen die met de jaren beter worden. "
+    },
+    {
+      "question": "Welke sport werd in pyjama beoefend?",
+      "options": [
+        "Tennis",
+        "Krekel",
+        "Badminton",
+        "Kroket"
+      ],
+      "answer": "Tennis",
+      "funFact": "De originele dresscode was erg streng!",
+      "story": "In de 19e eeuw werd tennis gespeeld in formele nachtkleding omdat het als een ontspannende bezigheid werd beschouwd. "
+    },
+    {
+      "question": "Welke Olympische sport had een kussengevecht?",
+      "options": [
+        "Solo synchroonzwemmen",
+        "Snelwandelen",
+        "Touwtrekken",
+        "Live duiven schieten"
+      ],
+      "answer": "Solo synchroonzwemmen",
+      "funFact": "Het evenement duurde drie Olympische Spelen!",
+      "story": "Solo synchroonzwemmen was een Olympische sport van 1984 tot 1992. Tijdens een gedenkwaardig optreden nam een ​​atleet een kussengevecht op in haar routine, waardoor de grenzen van artistieke interpretatie werden verlegd."
+    },
+    {
+      "question": "Bij welke sport wordt een betonnen bal gebruikt?",
+      "options": [
+        "Jeu de boules",
+        "Jeu de boules",
+        "Kommen",
+        "Kroket"
+      ],
+      "answer": "Jeu de boules",
+      "funFact": "Deze ballen kunnen tot wel 2 kilo wegen!",
+      "story": "Traditionele Italiaanse jeu de boules-ballen werden gemaakt van samengeperst beton bedekt met epoxy. "
+    },
+    {
+      "question": "Bij welke sport is zingen nodig?",
+      "options": [
+        "Kabaddi",
+        "Sepak Takraw",
+        "Jai Alai",
+        "Buzkashi"
+      ],
+      "answer": "Kabaddi",
+      "funFact": "Spelers moeten tijdens het spelen hun adem inhouden!",
+      "story": "In Kabaddi moeten overvallers voortdurend 'kabaddi' zingen terwijl ze zich in vijandelijk gebied bevinden om te bewijzen dat ze niet ademen. "
+    },
+    {
+      "question": "Welke sport heeft vierkante ballen?",
+      "options": [
+        "Boccia",
+        "Poortbal",
+        "Ronders",
+        "Korfbal"
+      ],
+      "answer": "Boccia",
+      "funFact": "Het spel is ontwikkeld in het oude Griekenland!",
+      "story": "Boccia, een paralympische sport, gebruikte in de vroege ontwikkeling oorspronkelijk vierkante leren ballen. "
+    },
+    {
+      "question": "Welke sport begon in de gevangenis?",
+      "options": [
+        "Basketbal",
+        "Volleybal",
+        "Handbal",
+        "Racketbal"
+      ],
+      "answer": "Volleybal",
+      "funFact": "De oorspronkelijke naam was 'Mintonette'!",
+      "story": "Volleybal is uitgevonden door William G. Morgan in de Holyoke YMCA, die was gehuisvest in een voormalig gevangenisgebouw. "
+    },
+    {
+      "question": "Welke sport maakt gebruik van spiegels?",
+      "options": [
+        "Artistiek zwemmen",
+        "Kunstschaatsen",
+        "Ritmische Gymnastiek",
+        "Ballet"
+      ],
+      "answer": "Artistiek zwemmen",
+      "funFact": "Atleten trainen geblinddoekt!",
+      "story": "Artistieke zwemmers gebruiken tijdens de training onderwaterspiegels om hun bewegingen te perfectioneren. "
+    },
+    {
+      "question": "Welke sport heeft bewegende doelen?",
+      "options": [
+        "Kleischieten",
+        "Boogschieten",
+        "Darts",
+        "Biatlon"
+      ],
+      "answer": "Kleischieten",
+      "funFact": "De sport is uitgevonden door kippenboeren!",
+      "story": "Het kleiduivenschieten werd in 1920 in Massachusetts ontwikkeld door kippenboeren die hun jachtdoel wilden verbeteren. "
+    },
+    {
+      "question": "Welke sport maakt gebruik van onzichtbare ballen?",
+      "options": [
+        "Doelbal",
+        "Blinde krekel",
+        "Piep honkbal",
+        "Geluid Tennis"
+      ],
+      "answer": "Doelbal",
+      "funFact": "De baan is gemarkeerd met touw!",
+      "story": "Goalball, een paralympische sport, gebruikt een bal met belletjes erin, maar zonder zichtbare markeringen. "
+    },
+    {
+      "question": "Welke sport vereist stilte?",
+      "options": [
+        "Echt tennis",
+        "Tennisbaan",
+        "Koninklijk Tennis",
+        "Jeu de Paume"
+      ],
+      "answer": "Echt tennis",
+      "funFact": "De sport heeft ongebruikelijke scorevoorwaarden!",
+      "story": "Real Tennis, de originele vorm van tennis gespeeld door royalty's, vereist volledige stilte tijdens het spelen. "
+    },
+    {
+      "question": "Welke sport klimt het hoogst?",
+      "options": [
+        "Bergbeklimmen",
+        "Skiën",
+        "Paragliden",
+        "Snowboarden"
+      ],
+      "answer": "Bergbeklimmen",
+      "funFact": "De prestatie was opmerkelijk!",
+      "story": "De hoogst geregistreerde sportactiviteit was bergbeklimmen op de Mount Everest, waar klimmers zonder aanvullende zuurstof een hoogte van 29.029 voet (8.848 meter) bereikten."
+    },
+    {
+      "question": "Welke sport duikt het diepst?",
+      "options": [
+        "Vrijduiken",
+        "Duiken",
+        "Snorkelen",
+        "Zwemmen"
+      ],
+      "answer": "Vrijduiken",
+      "funFact": "De duik duurde minuten!",
+      "story": "Herbert Nitsch, bekend als 'The Deepest Man on Earth', vestigde het wereldrecord vrijduiken door in 2012 een diepte van 253,2 meter (831 voet) te bereiken."
+    },
+    {
+      "question": "Welke sport duurt het langst?",
+      "options": [
+        "Zelftranscendentie",
+        "Marathon",
+        "Ultramarathon",
+        "Triatlon"
+      ],
+      "answer": "Zelftranscendentie",
+      "funFact": "De race omvat seizoenen!",
+      "story": "De Self-Transcendence 3100 Mile Race is 's werelds langste gecertificeerde hardloopwedstrijd, waarbij hardlopers in 52 dagen 3.100 mijl moeten afleggen rond een enkel blok in Queens, New York."
+    },
+    {
+      "question": "Welke sport draait het snelst?",
+      "options": [
+        "Kunstschaatsen",
+        "Gymnastiek",
+        "IJsdansen",
+        "Ballet"
+      ],
+      "answer": "Kunstschaatsen",
+      "funFact": "De rotatie is ongelooflijk!",
+      "story": "De Russische kunstschaatsster Lucinda Ruh heeft het Guinness Wereldrecord voor de snelste draai op ijs en voltooit 115 rotaties in één enkele draai."
+    },
+    {
+      "question": "Welke sport gooit het verst?",
+      "options": [
+        "Speer",
+        "Discus",
+        "Kogelstoten",
+        "Hamer"
+      ],
+      "answer": "Speer",
+      "funFact": "De afstand is geweldig!",
+      "story": "Jan Železný heeft het wereldrecord speerwerpen op 98,48 meter (323 voet), gevestigd in 1996, wat langer is dan een voetbalveld."
+    },
+    {
+      "question": "Welke sport heeft de oudste speler?",
+      "options": [
+        "Voetbal",
+        "Golf",
+        "Tennis",
+        "Krekel"
+      ],
+      "answer": "Voetbal",
+      "funFact": "Hij speelde professioneel op 55-jarige leeftijd!",
+      "story": "Kazuyoshi Miura, bijgenaamd 'King Kazu', werd op 55-jarige leeftijd 's werelds oudste profvoetballer en speelde in 2022 voor Yokohama FC in de Japanse J-League."
+    },
+    {
+      "question": "Welke sport verandert het meest van ballen?",
+      "options": [
+        "Tennis",
+        "Honkbal",
+        "Krekel",
+        "Golf"
+      ],
+      "answer": "Tennis",
+      "funFact": "Ballen worden elke 7-9 wedstrijden vervangen!",
+      "story": "Bij professionele tenniswedstrijden worden elke zeven tot negen wedstrijden nieuwe ballen gebruikt. "
+    },
+    {
+      "question": "Welke sport heeft de hoogste sprong?",
+      "options": [
+        "Motorcross",
+        "Skateboarden",
+        "BMX",
+        "Snowboarden"
+      ],
+      "answer": "Motorcross",
+      "funFact": "De sprong was hoger dan het Vrijheidsbeeld!",
+      "story": "Robbie Maddison vestigde in 2009 het wereldrecord voor de hoogste motorsprong en bereikte een hoogte van 107 meter tijdens het Red Bull X-Fighters-evenement in Madrid."
+    },
+    {
+      "question": "Welke sport wordt onder water gespeeld?",
+      "options": [
+        "Octopus",
+        "Aquabal",
+        "Hydropolo",
+        "Onderwater"
+      ],
+      "answer": "Octopus",
+      "funFact": "Spelers dragen snorkels!",
+      "story": "Octopush, ook wel bekend als onderwaterhockey, werd in 1954 uitgevonden door Alan Blake in Engeland. "
+    },
+    {
+      "question": "Welke sport heeft de langste wedstrijd?",
+      "options": [
+        "Tennis",
+        "Krekel",
+        "Honkbal",
+        "Schaken"
+      ],
+      "answer": "Tennis",
+      "funFact": "De wedstrijd duurde drie dagen!",
+      "story": "De langste tenniswedstrijd in de geschiedenis werd in 2010 op Wimbledon gespeeld tussen John Isner en Nicolas Mahut en duurde 11 uur en 5 minuten gedurende drie dagen, waarbij Isner met 70-68 won in de laatste set."
+    }
+  ]
+}

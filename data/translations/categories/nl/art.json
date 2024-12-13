@@ -1,0 +1,258 @@
+{
+  "category": "Kunst",
+  "description": "Ontdek de schoonheid en betekenis achter beroemde kunstwerken en kunstenaars",
+  "questions": [
+    {
+      "question": "Wie schilderde de Mona Lisa?",
+      "options": [
+        "Leonardo da Vinci",
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Michelangelo"
+      ],
+      "answer": "Leonardo da Vinci",
+      "funFact": "De Mona Lisa heeft geen wenkbrauwen! ",
+      "story": "Da Vinci heeft ruim vijftien jaar aan de Mona Lisa gewerkt en hem overal mee naartoe genomen. "
+    },
+    {
+      "question": "Met welke kunststroming wordt Salvador Dalí geassocieerd?",
+      "options": [
+        "Surrealisme",
+        "Impressionisme",
+        "Kubisme",
+        "Pop-art"
+      ],
+      "answer": "Surrealisme",
+      "funFact": "Dalí voorkwam dat hij tijdens zijn dutje volledig in slaap viel door een sleutel boven een bord te houden - als hij in slaap viel, werd hij wakker door het gekletter, waardoor hij droombeelden kon vastleggen.",
+      "story": "Het surrealisme kwam voort uit de chaos van de Eerste Wereldoorlog, waarbij kunstenaars als Dalí de onbewuste geest onderzochten door middel van droomachtige beelden, waarbij traditionele artistieke conventies werden uitgedaagd."
+    },
+    {
+      "question": "In welke stad bevindt zich het Louvre?",
+      "options": [
+        "Parijs",
+        "Londen",
+        "New York",
+        "Rome"
+      ],
+      "answer": "Parijs",
+      "funFact": "Het Louvre werd oorspronkelijk gebouwd als fort in de 12e eeuw en diende later als koninklijke residentie voordat het een museum werd.",
+      "story": "Tijdens de Tweede Wereldoorlog gebruikten de nazi's het Louvre als opslagplaats voor gestolen kunst. "
+    },
+    {
+      "question": "Wat is het belangrijkste medium dat wordt gebruikt bij frescoschilderen?",
+      "options": [
+        "Olieverf",
+        "Waterverf",
+        "Tempera",
+        "Gips"
+      ],
+      "answer": "Gips",
+      "funFact": "Fresco schilderen houdt in dat je pigment op nat pleisterwerk aanbrengt, waardoor de kleuren onderdeel worden van de muur!",
+      "story": "Fresco's worden al sinds de oudheid gebruikt om muren en plafonds te versieren. "
+    },
+    {
+      "question": "Welke kunstenaar is bekend van het schilderij 'De Sterrennacht'?",
+      "options": [
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Edvard Munch"
+      ],
+      "answer": "Vincent van Gogh",
+      "funFact": "Van Gogh schilderde 'De Sterrennacht' tijdens zijn verblijf in een psychiatrische inrichting in Frankrijk!",
+      "story": "'De Sterrennacht' is een van de beroemdste werken van Van Gogh, waarin een wervelende nachtelijke hemel boven een rustig stadje wordt afgebeeld. "
+    },
+    {
+      "question": "Welke kunststijl wordt gekenmerkt door vervormde figuren en surrealistische landschappen?",
+      "options": [
+        "Kubisme",
+        "Impressionisme",
+        "Surrealisme",
+        "Expressionisme"
+      ],
+      "answer": "Surrealisme",
+      "funFact": "Surrealisme onderzoekt vaak droomachtige scènes en bizarre beelden!",
+      "story": "Het surrealisme ontstond in het begin van de 20e eeuw als een artistieke beweging die de onbewuste geest tot uitdrukking probeerde te brengen. "
+    },
+    {
+      "question": "Welk beroemde beeldhouwwerk is gemaakt door Michelangelo?",
+      "options": [
+        "De denker",
+        "David",
+        "Venus van Milo",
+        "De Kus"
+      ],
+      "answer": "David",
+      "funFact": "Michelangelo heeft het standbeeld van David uit één blok marmer gesneden!",
+      "story": "De David van Michelangelo is een meesterwerk uit de renaissancebeeldhouwkunst en vertegenwoordigt de bijbelse held David die Goliath versloeg. "
+    },
+    {
+      "question": "Wat is de techniek om kleine kleurpunten te gebruiken om een ​​afbeelding te creëren?",
+      "options": [
+        "Pointillisme",
+        "Impressionisme",
+        "Realisme",
+        "Kubisme"
+      ],
+      "answer": "Pointillisme",
+      "funFact": "Pointillisme vertrouwt op het oog van de kijker om de kleuren vanaf een afstand te laten overvloeien!",
+      "story": "Pointillisme is een schildertechniek die eind 19e eeuw werd ontwikkeld door kunstenaars als Georges Seurat en Paul Signac. "
+    },
+    {
+      "question": "Welke kunstenaar is beroemd om het schilderij 'The Persistence of Memory'?",
+      "options": [
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Claude Monet",
+        "Henri Matisse"
+      ],
+      "answer": "Salvador Dalí",
+      "funFact": "'The Persistence of Memory' bevat smeltende klokken en droomachtige landschappen!",
+      "story": "'The Persistence of Memory' van Salvador Dalí is een kenmerk van het surrealisme, met smeltende klokken gedrapeerd over een desolaat landschap. "
+    },
+    {
+      "question": "Wat is de term voor schilderen op nat gips?",
+      "options": [
+        "Fresco",
+        "Tempera",
+        "Olieverfschilderij",
+        "Waterverf"
+      ],
+      "answer": "Fresco",
+      "funFact": "Fresco's worden al sinds de oudheid gebruikt om muren en plafonds te versieren!",
+      "story": "Fresco-schilderen is een eeuwenoude techniek waarbij pigment op nat pleisterwerk wordt aangebracht, waardoor de kleuren tijdens het drogen deel gaan uitmaken van de muur. "
+    },
+    {
+      "question": "Welke kunstenaar staat bekend om de 'Blauwe Periode'?",
+      "options": [
+        "Henri Matisse",
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Claude Monet"
+      ],
+      "answer": "Pablo Picasso",
+      "funFact": "Picasso's Blauwe Periode werd gekenmerkt door sombere tonen en thema's van armoede en isolatie!",
+      "story": "De Blauwe Periode van Pablo Picasso duurde van 1901 tot 1904, waarin hij werken creëerde die werden gedomineerd door blauwe tinten en melancholische thema's. "
+    },
+    {
+      "question": "Welk materiaal wordt traditioneel gebruikt in batikkunst?",
+      "options": [
+        "Was",
+        "Klei",
+        "Glas",
+        "Metaal"
+      ],
+      "answer": "Was",
+      "funFact": "Deze eeuwenoude kunstvorm dateert al meer dan 2000 jaar!",
+      "story": "Batik is een eeuwenoude kunstvorm die zijn oorsprong vindt in Indonesië, waarbij gebruik wordt gemaakt van wasbestendige verven op textiel. "
+    },
+    {
+      "question": "Welke renaissancekunstenaar staat bekend om het snijden van het 'David'-beeld?",
+      "options": [
+        "Michelangelo",
+        "Leonardo da Vinci",
+        "Rafaël",
+        "Donatello"
+      ],
+      "answer": "Michelangelo",
+      "funFact": "Dit meesterwerk is uit één blok marmer gesneden!",
+      "story": "Het standbeeld van David werd tussen 1501 en 1504 uitgehouwen uit een enorm blok marmer dat door andere beeldhouwers was achtergelaten. "
+    },
+    {
+      "question": "Bij welke schildertechniek worden stippen van pure kleur aangebracht?",
+      "options": [
+        "Pointillisme",
+        "Impasto",
+        "Sfumato",
+        "Clair-obscur"
+      ],
+      "answer": "Pointillisme",
+      "funFact": "Deze techniek is afhankelijk van de ogen van de kijker om kleuren te laten overvloeien!",
+      "story": "Het pointillisme werd in de jaren tachtig van de negentiende eeuw ontwikkeld door Georges Seurat en Paul Signac. "
+    },
+    {
+      "question": "Welke kunstenaar is bekend van het schilderij 'De Sterrennacht'?",
+      "options": [
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Edvard Munch"
+      ],
+      "answer": "Vincent van Gogh",
+      "funFact": "Van Gogh schilderde 'De Sterrennacht' tijdens zijn verblijf in een psychiatrische inrichting in Frankrijk!",
+      "story": "'De Sterrennacht' is een van de beroemdste werken van Van Gogh, waarin een wervelende nachtelijke hemel boven een rustig stadje wordt afgebeeld. "
+    },
+    {
+      "question": "Welke kunstenaar is beroemd om het schilderij 'The Persistence of Memory'?",
+      "options": [
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Claude Monet",
+        "Henri Matisse"
+      ],
+      "answer": "Salvador Dalí",
+      "funFact": "'The Persistence of Memory' bevat smeltende klokken en droomachtige landschappen!",
+      "story": "'The Persistence of Memory' van Salvador Dalí is een kenmerk van het surrealisme, met smeltende klokken gedrapeerd over een desolaat landschap. "
+    },
+    {
+      "question": "Welk beeld beweegt het snelst?",
+      "options": [
+        "Kinetische wind",
+        "Bewegingsgolf",
+        "Snelheid formulier",
+        "Snelle kunst"
+      ],
+      "answer": "Kinetische wind",
+      "funFact": "Het draait als magie!",
+      "story": "Het Kinetic Wind-sculptuur in de Gardens by the Bay in Singapore heeft het record voor de snelst roterende openbare kunstinstallatie. "
+    },
+    {
+      "question": "Welk schilderij reinigt de lucht?",
+      "options": [
+        "Adem van het leven",
+        "Puur canvas",
+        "Verse kunst",
+        "Schone verf"
+      ],
+      "answer": "Adem van het leven",
+      "funFact": "Het lijken wel 30 bomen!",
+      "story": "De 'Breath of Life'-muurschildering in Mexico-Stad maakt gebruik van Pureti-coatingtechnologie om luchtverontreinigende stoffen om te zetten in onschadelijke stoffen. "
+    },
+    {
+      "question": "Welk standbeeld wordt het grootst?",
+      "options": [
+        "Kristallen reus",
+        "Levende steen",
+        "Groeiende genade",
+        "Eco-formulier"
+      ],
+      "answer": "Kristallen reus",
+      "funFact": "Het voegt jaarlijks centimeters toe!",
+      "story": "De Kristallen Reus in de Salar de Uyuni in Bolivia is het eerste groeiende standbeeld ter wereld. "
+    },
+    {
+      "question": "Welk mozaïek verandert van kleur?",
+      "options": [
+        "ChromaTile",
+        "Tintverschuiving",
+        "Kleurstroom",
+        "PrismaArt"
+      ],
+      "answer": "ChromaTile",
+      "funFact": "Het reageert op hitte!",
+      "story": "Het ChromaTile-mozaïek in het Museum of the Future in Dubai maakt gebruik van thermochrome tegels die van kleur veranderen op basis van de temperatuur. "
+    },
+    {
+      "question": "Welke galerij zweeft het hoogst?",
+      "options": [
+        "Wolkenmuseum",
+        "Hemelgalerij",
+        "Luchtruimte",
+        "Vlotter zaal"
+      ],
+      "answer": "Wolkenmuseum",
+      "funFact": "Boven de wolken!",
+      "story": "Het Wolkenmuseum in de Jungfraujoch in Zwitserland is 's werelds hoogste permanente kunstgalerie op 3.466 meter boven zeeniveau. "
+    }
+  ]
+}
