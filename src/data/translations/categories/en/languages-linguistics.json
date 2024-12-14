@@ -1,0 +1,104 @@
+{
+  "category": "Languages & Linguistics",
+  "description": "Discover the fascinating world of languages, words, and communication",
+  "questions": [
+    {
+      "question": "Which is the most spoken language in the world by native speakers?",
+      "options": ["English", "Spanish", "Hindi", "Mandarin Chinese"],
+      "answer": "Mandarin Chinese",
+      "funFact": "This language has over 50,000 characters, but you only need to know about 2,000 to read a newspaper!",
+      "story": "Mandarin became China's official language in the early 20th century. The standardization of Mandarin was crucial for unifying a country where people spoke many different dialects. Today, it's the native language of over 900 million people."
+    },
+    {
+      "question": "What is the longest word in the English language that contains no letter more than once?",
+      "options": ["Uncopyrightable", "Dermatoglyphics", "Misconjugate", "Ambidextrous"],
+      "answer": "Uncopyrightable",
+      "funFact": "This 15-letter word is the longest isogram (word with no repeating letters) in English!",
+      "story": "The word 'uncopyrightable' refers to something that cannot be protected by copyright law. It's particularly interesting because it contains 15 different letters, making it a perfect example of an isogram, a word where no letter appears more than once."
+    },
+    {
+      "question": "Which ancient writing system used pictographic symbols called hieroglyphs?",
+      "options": ["Chinese", "Egyptian", "Sumerian", "Greek"],
+      "answer": "Egyptian",
+      "funFact": "There are over 1,000 distinct hieroglyphs, some representing sounds and others representing complete words!",
+      "story": "Egyptian hieroglyphs remained a mystery until the discovery of the Rosetta Stone in 1799. This stone contained the same text in hieroglyphs, Demotic script, and ancient Greek, allowing scholars to finally decode the ancient Egyptian writing system after over 1,400 years."
+    },
+    {
+      "question": "Which language has no word for 'blue'?",
+      "options": ["Himba", "Maori", "Inuit", "Welsh"],
+      "answer": "Himba",
+      "funFact": "This language has detailed words for various shades of green!",
+      "story": "The Himba people of Namibia have a unique color perception system that doesn't distinguish blue from green. Research has shown that this linguistic difference actually affects how they perceive colors, demonstrating the strong link between language and cognition."
+    },
+    {
+      "question": "Which language has no past tense?",
+      "options": ["Chinese", "Japanese", "Korean", "Vietnamese"],
+      "answer": "Chinese",
+      "funFact": "This language uses context and time markers instead of verb changes!",
+      "story": "Mandarin Chinese doesn't change verb forms to indicate past, present, or future. Instead, it uses time words and context to indicate when something happened. This makes the language very context-dependent but also more flexible in expressing time concepts."
+    },
+    {
+      "question": "Which language has the most words for 'snow'?",
+      "options": ["Scots", "Inuit", "Russian", "Finnish"],
+      "answer": "Scots",
+      "funFact": "This language developed in a climate where snow is a common occurrence!",
+      "story": "While many believe it's Inuit, the Scots language actually has the most recorded words for snow, with over 400 terms. These words describe different types, conditions, and effects of snow, reflecting the importance of weather in Scottish culture and daily life."
+    },
+    {
+      "question": "Which ancient language had no vowels in writing?",
+      "options": ["Hebrew", "Greek", "Latin", "Sanskrit"],
+      "answer": "Hebrew",
+      "funFact": "This writing system is over 3,000 years old!",
+      "story": "Ancient Hebrew was written without vowels, using only consonants. Readers were expected to know the correct pronunciation from context and knowledge of the language. Vowel marks were added much later to help preserve correct pronunciation and meaning."
+    },
+    {
+      "question": "Which language has no word for 'time'?",
+      "options": ["Hopi", "Navajo", "Cherokee", "Apache"],
+      "answer": "Hopi",
+      "funFact": "This language views events as a continuous process rather than discrete moments!",
+      "story": "The Hopi language of Arizona has no words, grammatical forms, or expressions referring to time as we commonly understand it. Instead, it describes events in terms of their sequence and duration, reflecting a fundamentally different way of perceiving reality."
+    },
+    {
+      "question": "Which language family has the most speakers?",
+      "options": ["Indo-European", "Sino-Tibetan", "Afroasiatic", "Austronesian"],
+      "answer": "Indo-European",
+      "funFact": "This language family includes over 400 different languages!",
+      "story": "The Indo-European language family spans from Iceland to Sri Lanka, including most European languages and many Asian ones. It evolved from a single ancestral language spoken around 4500 BCE, and its discovery led to the development of modern historical linguistics."
+    },
+    {
+      "question": "Which language changes fastest?",
+      "options": ["Chasu", "Taa", "Xhosa", "Zulu"],
+      "answer": "Chasu",
+      "funFact": "The shifts are rapid!",
+      "story": "Tanzania's Chasu language shows the fastest documented rate of natural language change, with significant vocabulary shifts occurring within single generations."
+    },
+    {
+      "question": "Which script flows circular?",
+      "options": ["Boustrophedon", "Linear", "Cuneiform", "Hieratic"],
+      "answer": "Boustrophedon",
+      "funFact": "The pattern is unique!",
+      "story": "Ancient Greek Boustrophedon script alternates direction each line, like an ox plowing a field, creating a continuous circular flow of text."
+    },
+    {
+      "question": "Which language clicks most?",
+      "options": ["Taa", "Xhosa", "Zulu", "Nama"],
+      "answer": "Taa",
+      "funFact": "The sounds are complex!",
+      "story": "The Taa language of Botswana has the most click consonants of any known language, with up to 164 distinct click sounds used in speech."
+    },
+    {
+      "question": "Which writing glows?",
+      "options": ["Oracle Bones", "Runes", "Ogham", "Cuneiform"],
+      "answer": "Oracle Bones",
+      "funFact": "The material is ancient!",
+      "story": "Chinese Oracle Bone inscriptions, when examined under special light, reveal fluorescent traces due to the organic materials used in the ancient carving process."
+    },
+    {
+      "question": "Which alphabet sings?",
+      "options": ["Solresol", "Blissymbols", "Visible Speech", "Shavian"],
+      "answer": "Solresol",
+      "funFact": "The system is musical!",
+      "story": "Solresol, invented by François Sudre in 1827, is a musical language using the seven musical notes (do, re, mi, fa, sol, la, si) to form words."
+    }
+  ]
+}

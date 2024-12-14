@@ -1,0 +1,594 @@
+{
+  "category": "Herfst",
+  "description": "Leer meer over herfstkleuren, oogsttradities en herfstverschijnselen",
+  "questions": [
+    {
+      "question": "Welk pigment geeft bladeren hun oranje kleur in de herfst?",
+      "options": [
+        "Chlorofyl",
+        "Caroteen",
+        "Anthocyanine",
+        "Xanthofyl"
+      ],
+      "answer": "Caroteen",
+      "funFact": "Caroteen is hetzelfde pigment dat wortels hun oranje kleur geeft!",
+      "story": "Tijdens de herfst stoppen bomen met het produceren van chlorofyl (het groene pigment), waardoor andere pigmenten zichtbaar worden die er altijd al waren. "
+    },
+    {
+      "question": "Welk oogstfeest markeert het einde van de herfst in de Verenigde Staten?",
+      "options": [
+        "Halloween",
+        "Dag van de Arbeid",
+        "Dankzegging",
+        "Columbus-dag"
+      ],
+      "answer": "Dankzegging",
+      "funFact": "Het eerste Thanksgiving-feest duurde drie dagen!",
+      "story": "De eerste Thanksgiving werd in 1621 door de Pilgrims gevierd na hun eerste oogst in de Nieuwe Wereld. "
+    },
+    {
+      "question": "Wat is de herfst-equinox?",
+      "options": [
+        "Eerste vorst",
+        "Dag en nacht gelijk",
+        "Eerste oogst",
+        "Langste nacht"
+      ],
+      "answer": "Dag en nacht gelijk",
+      "funFact": "Het woord 'equinox' komt uit het Latijn en betekent 'gelijke nacht'!",
+      "story": "De herfstnachtevening vindt plaats wanneer de zon de hemelevenaar passeert, waardoor dag en nacht vrijwel even lang duren. "
+    },
+    {
+      "question": "Welk fruit wordt traditioneel geassocieerd met herfstoogsten?",
+      "options": [
+        "Appel",
+        "Banaan",
+        "Mango",
+        "Ananas"
+      ],
+      "answer": "Appel",
+      "funFact": "Appels worden vaak gebruikt op herfstfestivals en -vieringen!",
+      "story": "Appels worden al lang geassocieerd met de herfst, omdat ze doorgaans in de herfst worden geoogst. "
+    },
+    {
+      "question": "Wat is de term voor het fenomeen dat bladeren in de herfst van kleur veranderen?",
+      "options": [
+        "Fotosynthese",
+        "Chlorofyl",
+        "Bladverliezend",
+        "Veroudering"
+      ],
+      "answer": "Veroudering",
+      "funFact": "Senescentie is een natuurlijk proces dat planten voorbereidt op de winter!",
+      "story": "Senescentie is het proces waarbij bladeren van kleur veranderen en uiteindelijk in de herfst van de bomen vallen. "
+    },
+    {
+      "question": "Welke vogel staat bekend om zijn lange trek naar het zuiden in de herfst?",
+      "options": [
+        "Robin",
+        "Mus",
+        "Slikken",
+        "Kolibrie"
+      ],
+      "answer": "Slikken",
+      "funFact": "Zwaluwen kunnen tijdens hun migratie wel 9.000 kilometer afleggen!",
+      "story": "Zwaluwen staan ​​bekend om hun langeafstandsmigraties, waarbij ze van hun broedgebieden in Noord-Amerika en Europa naar warmere klimaten in Midden- en Zuid-Amerika en Afrika reizen. "
+    },
+    {
+      "question": "Wat is de traditionele Amerikaanse feestdag die in de herfst wordt gevierd?",
+      "options": [
+        "Halloween",
+        "Dankzegging",
+        "Onafhankelijkheidsdag",
+        "Pasen"
+      ],
+      "answer": "Dankzegging",
+      "funFact": "Thanksgiving wordt gevierd met een feestmaal dat vaak bestaat uit kalkoen, vulling en pompoentaart!",
+      "story": "Thanksgiving is een nationale feestdag in de Verenigde Staten en wordt gevierd op de vierde donderdag van november. "
+    },
+    {
+      "question": "Welke boom staat bekend om zijn levendige rode bladeren in de herfst?",
+      "options": [
+        "Eik",
+        "Esdoorn",
+        "Pijnboom",
+        "Berk"
+      ],
+      "answer": "Esdoorn",
+      "funFact": "Esdoornbomen staan ​​bekend om hun schitterende rode en oranje bladeren in de herfst!",
+      "story": "Esdoornbomen zijn een symbool van de herfst en staan ​​bekend om hun prachtige weergave van rode, oranje en gele bladeren. "
+    },
+    {
+      "question": "Hoe heet het festival dat op 1 en 2 november in Mexico wordt gevierd?",
+      "options": [
+        "Cinco de Mayo",
+        "Dag van de Doden",
+        "Carnaval",
+        "Fiesta de la Candelaria"
+      ],
+      "answer": "Dag van de Doden",
+      "funFact": "De Dag van de Doden is een tijd om overleden dierbaren te eren en te herdenken!",
+      "story": "De Dag van de Doden, of Día de los Muertos, is een Mexicaanse feestdag waarop de levens van overleden dierbaren worden gevierd. "
+    },
+    {
+      "question": "Welk dier staat bekend om het bewaren van noten ter voorbereiding op de winter?",
+      "options": [
+        "Konijn",
+        "Eekhoorn",
+        "Hert",
+        "Vos"
+      ],
+      "answer": "Eekhoorn",
+      "funFact": "Eekhoorns kunnen elke herfst duizenden noten begraven om zich voor te bereiden op de winter!",
+      "story": "Eekhoorns staan ​​bekend om hun gewoonte om in de herfst noten en zaden te begraven om de voedselvoorziening tijdens de wintermaanden te garanderen. "
+    },
+    {
+      "question": "Wat is het traditionele Duitse festival dat in de herfst plaatsvindt?",
+      "options": [
+        "Oktoberfest",
+        "Carnaval",
+        "Weihnachten",
+        "Tag der Duitse Einheit"
+      ],
+      "answer": "Oktoberfest",
+      "funFact": "Oktoberfest is 's werelds grootste bierfestival en trekt jaarlijks miljoenen bezoekers!",
+      "story": "Oktoberfest is een traditioneel Duits festival dat jaarlijks wordt gehouden in München, Beieren. "
+    },
+    {
+      "question": "Welke groente wordt vaak in lantaarns gesneden voor Halloween?",
+      "options": [
+        "Wortel",
+        "Pompoen",
+        "Aardappel",
+        "Raap"
+      ],
+      "answer": "Pompoen",
+      "funFact": "Pompoenen uitsnijden tot jack-o'-lanterns is een populaire Halloween-traditie!",
+      "story": "De traditie van het uitsnijden van pompoenen tot jack-o'-lanterns vindt zijn oorsprong in een Iers volksverhaal over een man genaamd Stingy Jack. "
+    },
+    {
+      "question": "Wat is het hoofdingrediënt in traditionele appelcider?",
+      "options": [
+        "Appels",
+        "Peren",
+        "Druiven",
+        "Kersen"
+      ],
+      "answer": "Appels",
+      "funFact": "Appelcider is een populaire drank tijdens het herfstseizoen, die vaak warm of koud wordt gedronken!",
+      "story": "Appelcider wordt gemaakt door verse appels te persen om het sap eruit te halen. "
+    },
+    {
+      "question": "Welke bloem wordt vaak geassocieerd met de herfst?",
+      "options": [
+        "Roos",
+        "Tulp",
+        "Chrysant",
+        "Gele narcis"
+      ],
+      "answer": "Chrysant",
+      "funFact": "Chrysanten worden vaak 'moeders' genoemd en zijn populaire herfstbloemen!",
+      "story": "Chrysanten, of 'moeders', zijn een populaire bloem die geassocieerd wordt met de herfst. "
+    },
+    {
+      "question": "Welke maand markeert het begin van de herfst op het noordelijk halfrond?",
+      "options": [
+        "augustus",
+        "september",
+        "oktober",
+        "November"
+      ],
+      "answer": "september",
+      "funFact": "De herfstnachtevening vindt plaats rond 22 of 23 september!",
+      "story": "De herfst op het noordelijk halfrond begint met de herfstnachtevening, wanneer dag en nacht ongeveer even lang zijn. "
+    },
+    {
+      "question": "Wat is de term voor bladeren die in de herfst van kleur veranderen?",
+      "options": [
+        "Fotosynthese",
+        "Chlorofyl",
+        "Veroudering",
+        "Transpiratie"
+      ],
+      "answer": "Veroudering",
+      "funFact": "Senescentie is het proces dat leidt tot de prachtige kleuren van herfstbladeren!",
+      "story": "Senescentie is het proces waarbij bladeren van kleur veranderen en uiteindelijk in de herfst van bomen vallen. "
+    },
+    {
+      "question": "Welk fruit wordt vaak geassocieerd met herfstoogsten?",
+      "options": [
+        "Appel",
+        "Banaan",
+        "Mango",
+        "Ananas"
+      ],
+      "answer": "Appel",
+      "funFact": "Appels zijn een hoofdbestanddeel van herfstfestivals en -tradities!",
+      "story": "Appels zijn een van de meest iconische herfstvruchten en worden gevierd op festivals en tradities over de hele wereld. "
+    },
+    {
+      "question": "Hoe heet de feestdag die op 31 oktober wordt gevierd?",
+      "options": [
+        "Dankzegging",
+        "Halloween",
+        "Oogstfeest",
+        "Vreugdevuur nacht"
+      ],
+      "answer": "Halloween",
+      "funFact": "Halloween heeft zijn wortels in het oude Keltische festival Samhain!",
+      "story": "Halloween wordt gevierd op 31 oktober en vindt zijn oorsprong in het oude Keltische feest Samhain. "
+    },
+    {
+      "question": "Van welke vogel is bekend dat hij in de herfst naar het zuiden trekt?",
+      "options": [
+        "Robin",
+        "Mus",
+        "Slikken",
+        "Adelaar"
+      ],
+      "answer": "Slikken",
+      "funFact": "Zwaluwen reizen elk najaar duizenden kilometers naar warmere klimaten!",
+      "story": "Zwaluwen zijn trekvogels die bekend staan ​​om hun lange reizen naar warmere klimaten in de herfst. "
+    },
+    {
+      "question": "Hoe heet het festival dat in de herfst wordt gevierd met lantaarns en maancakes?",
+      "options": [
+        "Divali",
+        "Midherfstfestival",
+        "Chanoeka",
+        "Maannieuwjaar"
+      ],
+      "answer": "Midherfstfestival",
+      "funFact": "Het Midherfstfestival is een tijd voor familiereünies en maankijken!",
+      "story": "Het Midherfstfestival, ook wel bekend als het Maanfestival, wordt in veel Oost-Aziatische landen gevierd. "
+    },
+    {
+      "question": "Welke groente wordt vaak in lantaarns gesneden voor Halloween?",
+      "options": [
+        "Pompoen",
+        "Wortel",
+        "Courgette",
+        "Aardappel"
+      ],
+      "answer": "Pompoen",
+      "funFact": "Pompoenen uitsnijden tot jack-o'-lanterns is een populaire Halloween-traditie!",
+      "story": "Pompoenen zijn synoniem met Halloween, dankzij de traditie om er jack-o'-lanterns van te maken. "
+    },
+    {
+      "question": "Wat is de naam van de traditionele Thanksgiving-vogel?",
+      "options": [
+        "Kip",
+        "Eend",
+        "Kalkoen",
+        "Gans"
+      ],
+      "answer": "Kalkoen",
+      "funFact": "Kalkoenen zijn een hoofdbestanddeel van Thanksgiving-feesten in de Verenigde Staten!",
+      "story": "De kalkoen is het middelpunt van Thanksgiving-vieringen in de Verenigde Staten en symboliseert overvloed en dankbaarheid. "
+    },
+    {
+      "question": "Welke boom staat bekend om zijn levendige rode bladeren in de herfst?",
+      "options": [
+        "Eik",
+        "Esdoorn",
+        "Pijnboom",
+        "Berk"
+      ],
+      "answer": "Esdoorn",
+      "funFact": "Esdoornbomen staan ​​bekend om hun prachtige herfstbladeren!",
+      "story": "Esdoornbomen staan ​​bekend om hun schitterende rode en oranje bladeren tijdens het herfstseizoen. "
+    },
+    {
+      "question": "Hoe heet het herfstfestival dat in Groot-Brittannië wordt gevierd met vreugdevuren en vuurwerk?",
+      "options": [
+        "Guy Fawkes-avond",
+        "Halloween",
+        "Oogstfeest",
+        "Divali"
+      ],
+      "answer": "Guy Fawkes-avond",
+      "funFact": "Guy Fawkes Night herdenkt het mislukte buskruitcomplot van 1605!",
+      "story": "Guy Fawkes Night, ook wel bekend als Bonfire Night, wordt gevierd op 5 november in het Verenigd Koninkrijk. "
+    },
+    {
+      "question": "Wat zorgt ervoor dat bladeren in de herfst van kleur veranderen?",
+      "options": [
+        "Afbraak van chlorofyl",
+        "Temperatuurstijging",
+        "Verhoogde regenval",
+        "Windpatronen"
+      ],
+      "answer": "Afbraak van chlorofyl",
+      "funFact": "Bomen nemen voedingsstoffen uit de bladeren op voordat ze vallen!",
+      "story": "Tijdens de herfst stoppen bomen met het produceren van chlorofyl, het pigment dat de bladeren hun groene kleur geeft. "
+    },
+    {
+      "question": "Welk oogstfeest wordt in de herfst in China gevierd?",
+      "options": [
+        "Midherfstfestival",
+        "Divali",
+        "Chuseok",
+        "Oktoberfest"
+      ],
+      "answer": "Midherfstfestival",
+      "funFact": "Dit festival valt samen met de helderste volle maan van het jaar!",
+      "story": "Het Midherfstfestival, ook wel bekend als het Maanfestival, is een van de belangrijkste feesten in de Chinese cultuur. "
+    },
+    {
+      "question": "Wat is een traditionele herfstactiviteit in New England?",
+      "options": [
+        "Blad gluren",
+        "Surfen",
+        "Zandkasteel bouwen",
+        "IJsvissen"
+      ],
+      "answer": "Blad gluren",
+      "funFact": "De herfstkleuren van New England trekken jaarlijks miljoenen bezoekers!",
+      "story": "Leaf gluren, de activiteit van reizen om herfstgebladerte te bekijken en te fotograferen, is sinds de jaren dertig een geliefde traditie in New England. "
+    },
+    {
+      "question": "Welke vogelsoort trekt in de herfst naar het zuiden?",
+      "options": [
+        "Canadese Gans",
+        "Mus",
+        "Robin",
+        "Duif"
+      ],
+      "answer": "Canadese Gans",
+      "funFact": "Deze vogels kunnen tijdens de trek meer dan 2.400 kilometer afleggen!",
+      "story": "Canadese ganzen staan ​​bekend om hun kenmerkende V-vormige vluchtpatroon tijdens de migratie. "
+    },
+    {
+      "question": "Welk herfstfenomeen zorgt voor 'Indian Summer'?",
+      "options": [
+        "Warme periode",
+        "Zware regen",
+        "Vroege vorst",
+        "Sterke wind"
+      ],
+      "answer": "Warme periode",
+      "funFact": "Dit weerpatroon is gedocumenteerd sinds de 18e eeuw!",
+      "story": "Indian Summer is een periode van ongebruikelijk warm, droog weer die plaatsvindt in de herfst, meestal na de eerste nachtvorst. "
+    },
+    {
+      "question": "Welke herfstgroente wordt traditioneel gesneden voor Halloween?",
+      "options": [
+        "Pompoen",
+        "Squash",
+        "Raap",
+        "Aardappel"
+      ],
+      "answer": "Pompoen",
+      "funFact": "De originele jack-o'-lanterns zijn uit rapen gesneden!",
+      "story": "Voordat pompoenen de standaard werden voor jack-o'-lanterns, kerfden mensen in Ierland en Schotland enge gezichten in rapen en aardappelen. "
+    },
+    {
+      "question": "Wat is het herfststerrenbeeld dat zichtbaar wordt op het noordelijk halfrond?",
+      "options": [
+        "Pegasus",
+        "Orion",
+        "Leeuw",
+        "Schorpioen"
+      ],
+      "answer": "Pegasus",
+      "funFact": "Dit sterrenbeeld bevat een van de meest zichtbare vierkante patronen aan de nachtelijke hemel!",
+      "story": "Het Grote Plein van Pegasus wordt prominent op herfstavonden en dient als een nuttige gids voor sterrenkijkers. "
+    },
+    {
+      "question": "Voor welk fruit wordt er traditioneel gekapt op feestjes?",
+      "options": [
+        "Appel",
+        "Peer",
+        "Pruim",
+        "Druif"
+      ],
+      "answer": "Appel",
+      "funFact": "Dit gezelschapsspel dateert uit de Romeinse verovering van Groot-Brittannië!",
+      "story": "Appeldobberen, of 'appelduiken', is al eeuwenlang een populair herfstspel. "
+    },
+    {
+      "question": "Welk weerpatroon is gebruikelijk in de herfst?",
+      "options": [
+        "Indische zomer",
+        "El Nino",
+        "Moesson",
+        "Passaatwinden"
+      ],
+      "answer": "Indische zomer",
+      "funFact": "Soortgelijke weerpatronen komen wereldwijd voor onder verschillende namen!",
+      "story": "Indian Summer wordt gekenmerkt door ongewoon warm, kalm weer in de late herfst. "
+    },
+    {
+      "question": "Welk herfstfestival viert de oogstmaan?",
+      "options": [
+        "Midherfstfestival",
+        "Halloween",
+        "Dankzegging",
+        "Oktoberfest"
+      ],
+      "answer": "Midherfstfestival",
+      "funFact": "Traditionele vieringen omvatten kleurrijke lantaarndisplays!",
+      "story": "Het Midherfstfestival wordt in heel Oost-Azië gevierd wanneer de maan op zijn volst en helderst is. "
+    },
+    {
+      "question": "Wat zorgt ervoor dat bladeren in de herfst van kleur veranderen?",
+      "options": [
+        "Afbraak van chlorofyl",
+        "Temperatuur verandering",
+        "Neerslagpatronen",
+        "Windrichting"
+      ],
+      "answer": "Afbraak van chlorofyl",
+      "funFact": "Bomen beginnen zich pas in de nazomer voor te bereiden op de herfst!",
+      "story": "Tijdens de herfst stoppen bomen met het produceren van chlorofyl, het pigment dat de bladeren hun groene kleur geeft. "
+    },
+    {
+      "question": "Welk herfstfestival viert de oogstmaan?",
+      "options": [
+        "Midherfstfestival",
+        "Oktoberfest",
+        "Dankzegging",
+        "Halloween"
+      ],
+      "answer": "Midherfstfestival",
+      "funFact": "Dit festival wordt gevierd in veel Oost-Aziatische landen!",
+      "story": "Het Midherfstfestival, ook wel bekend als het Maanfestival, is een van de belangrijkste feesten in de Chinese cultuur. "
+    },
+    {
+      "question": "Wat is een traditionele herfstactiviteit in Japan?",
+      "options": [
+        "Maan bekijken",
+        "IJsvissen",
+        "Beachvolleybal",
+        "Skiën"
+      ],
+      "answer": "Maan bekijken",
+      "funFact": "Voor deze gelegenheid worden er speciale dumplings gemaakt in de vorm van de maan!",
+      "story": "Maankijken, of 'tsukimi', is een Japanse traditie die teruggaat tot de Heian-periode (794-1185). "
+    },
+    {
+      "question": "Welke vogel heeft de langste herfstmigratie?",
+      "options": [
+        "Noordse stern",
+        "Rosse Grutto",
+        "Wandelende Albatros",
+        "Canadese Gans"
+      ],
+      "answer": "Noordse stern",
+      "funFact": "Deze vogels zien elk jaar twee zomers!",
+      "story": "De Noordse Stern heeft het record voor de langste jaarlijkse migratie en reist elk jaar van zijn Arctische broedgebieden naar Antarctica en terug. "
+    },
+    {
+      "question": "Welk herfstfenomeen veroorzaakt het noorderlicht?",
+      "options": [
+        "Zonnewind",
+        "Meteorenregens",
+        "Wolkenformaties",
+        "Oceaanstromingen"
+      ],
+      "answer": "Zonnewind",
+      "funFact": "De beste vertoningen vinden vaak plaats rond de equinoxen!",
+      "story": "De Aurora Borealis, of Noorderlicht, ontstaat wanneer geladen deeltjes van de zon in botsing komen met gassen in de atmosfeer van de aarde. "
+    },
+    {
+      "question": "Welk herfstgewas wordt traditioneel gebruikt om jack-o'-lanterns te maken?",
+      "options": [
+        "Pompoen",
+        "Raap",
+        "Squash",
+        "Meloen"
+      ],
+      "answer": "Raap",
+      "funFact": "De originele jack-o'-lanterns waren veel enger dan de huidige versies!",
+      "story": "Voordat pompoenen de standaard werden voor jack-o'-lanterns, kerfden mensen in Ierland en Schotland enge gezichten in rapen en aardappelen. "
+    },
+    {
+      "question": "Hoe wordt de herfst-equinox in China genoemd?",
+      "options": [
+        "Qiufen",
+        "Dongzhi",
+        "Liqiu",
+        "Hansi"
+      ],
+      "answer": "Qiufen",
+      "funFact": "Dit markeert de 16e zonneterm in de traditionele Chinese kalender!",
+      "story": "Qiufen, de herfst-equinox, is een van de 24 zonnetermen in de traditionele Chinese kalender. "
+    },
+    {
+      "question": "Welk sterrenbeeld wordt ook wel 'Jager' genoemd?",
+      "options": [
+        "Orion",
+        "Pegasus",
+        "Cassiopeia",
+        "Andromeda"
+      ],
+      "answer": "Orion",
+      "funFact": "Dit sterrenbeeld bevat twee van de tien helderste sterren aan de nachtelijke hemel!",
+      "story": "Orion is een van de meest herkenbare sterrenbeelden aan de nachtelijke hemel en wordt tijdens herfstavonden zichtbaar op het noordelijk halfrond. "
+    },
+    {
+      "question": "Welk herfstfenomeen staat bekend als 'Indian Summer'?",
+      "options": [
+        "Warme periode na vorst",
+        "Zware regenval",
+        "Vroege sneeuwval",
+        "Ochtendmist"
+      ],
+      "answer": "Warme periode na vorst",
+      "funFact": "Deze term is ontstaan ​​in Native American observaties van weerpatronen!",
+      "story": "Indian Summer verwijst naar een periode van ongebruikelijk warm, droog weer dat plaatsvindt in de herfst na de eerste nachtvorst. "
+    },
+    {
+      "question": "Welke herfstbloem symboliseert herinnering?",
+      "options": [
+        "Chrysant",
+        "Dahlia",
+        "Aster",
+        "Goudsbloem"
+      ],
+      "answer": "Chrysant",
+      "funFact": "Deze bloemen kunnen zelfs na lichte vorst bloeien!",
+      "story": "Chrysanten worden in China sinds de 15e eeuw voor Christus verbouwd en hebben een diepe culturele betekenis. "
+    },
+    {
+      "question": "Welke boom verandert het laatst?",
+      "options": [
+        "Ginkgo",
+        "Esdoorn",
+        "Eik",
+        "Berk"
+      ],
+      "answer": "Ginkgo",
+      "funFact": "De soort is oud!",
+      "story": "De Ginkgo biloba-boom staat bekend om zijn unieke herfstvertoning, waarbij alle bladeren goudbruin worden en binnen één dag vallen, vaak eind november."
+    },
+    {
+      "question": "Welk festival steekt pompoenen aan?",
+      "options": [
+        "Geweldige Jac",
+        "Keene",
+        "Oogst maan",
+        "Herfst gloed"
+      ],
+      "answer": "Geweldige Jac",
+      "funFact": "Het display is enorm!",
+      "story": "De Great Jack O'Lantern Blaze in New York beschikt over meer dan 7.000 met de hand gesneden pompoenen, verlicht in uitgebreide displays en installaties."
+    },
+    {
+      "question": "Welke stad viert bladeren?",
+      "options": [
+        "Kioto",
+        "Tokio",
+        "Osaka",
+        "Nara"
+      ],
+      "answer": "Kioto",
+      "funFact": "De traditie is eeuwenoud!",
+      "story": "De momiji-gari-traditie (het bekijken van herfstbladeren) in Kyoto gaat terug tot de Heian-periode, met tempels die 's nachts hun esdoorns verlichten."
+    },
+    {
+      "question": "Welke vogel migreert het hoogst?",
+      "options": [
+        "Indische Gans",
+        "Zwaan",
+        "Kraan",
+        "Eend"
+      ],
+      "answer": "Indische Gans",
+      "funFact": "De reis is ongelooflijk!",
+      "story": "Indische Ganzen migreren elk najaar over de Himalaya en vliegen op hoogtes van meer dan 29.000 voet, waardoor ze de hoogst vliegende trekvogels zijn."
+    },
+    {
+      "question": "Welke appel wordt het grootst?",
+      "options": [
+        "Howgate Wonder",
+        "Bramley",
+        "Mutsu",
+        "Wolf rivier"
+      ],
+      "answer": "Howgate Wonder",
+      "funFact": "De variëteit is zeldzaam!",
+      "story": "De Howgate Wonder-appel, ontwikkeld in 1915, kan meer dan 2 pond wegen, waardoor het een van de grootste gecultiveerde appelvariëteiten ter wereld is."
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "category": "Literature",
+  "description": "Explore the world of books, authors, and literary masterpieces",
+  "questions": [
+    {
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "options": ["Jane Austen", "Emily Brontë", "Charles Dickens", "Virginia Woolf"],
+      "answer": "Jane Austen",
+      "funFact": "This person sold the copyright to 'Pride and Prejudice' for only £110 (about $10,000 today)!",
+      "story": "Published in 1813, 'Pride and Prejudice' was originally titled 'First Impressions'. Austen wrote the first draft at just 21 years old, and it took 17 years before it was finally published, becoming one of the most beloved novels in English literature."
+    },
+    {
+      "question": "What is the first book of J.R.R. Tolkien's 'The Lord of the Rings' trilogy?",
+      "options": ["The Two Towers", "The Fellowship of the Ring", "The Return of the King", "The Hobbit"],
+      "answer": "The Fellowship of the Ring",
+      "funFact": "Tolkien created entire languages for his books, including Elvish, which has its own grammar rules and alphabet!",
+      "story": "Tolkien began writing 'The Lord of the Rings' as a sequel to 'The Hobbit', but it evolved into something much larger. He spent over 12 years writing the trilogy, drawing from his experiences in World War I and his deep knowledge of ancient languages and mythology."
+    },
+    {
+      "question": "Which Shakespeare play features the line 'To be, or not to be'?",
+      "options": ["Macbeth", "Romeo and Juliet", "Hamlet", "King Lear"],
+      "answer": "Hamlet",
+      "funFact": "The role of this play has about 1,530 lines, the longest of any Shakespearean character!",
+      "story": "This famous soliloquy appears in Act 3, Scene 1 of Hamlet, where the prince contemplates existence and death. The play was written between 1599 and 1601, during what scholars call Shakespeare's 'tragic period', and is considered one of his greatest masterpieces."
+    },
+    {
+      "question": "Which famous novel was written on a bet?",
+      "options": ["Frankenstein", "Dracula", "Dr. Jekyll and Mr. Hyde", "The Time Machine"],
+      "answer": "Frankenstein",
+      "funFact": "The author was only 18 years old when she began writing this story!",
+      "story": "During the rainy summer of 1816, Lord Byron challenged his guests at Villa Diodati near Lake Geneva to write a ghost story. Mary Shelley, then Mary Godwin, took up the challenge and began writing what would become one of literature's most influential gothic novels."
+    },
+    {
+      "question": "Which author invented the word 'nerd'?",
+      "options": ["Dr. Seuss", "Roald Dahl", "Lewis Carroll", "A.A. Milne"],
+      "answer": "Dr. Seuss",
+      "funFact": "This author created over 400 words throughout his career!",
+      "story": "The word 'nerd' first appeared in Dr. Seuss's 1950 book 'If I Ran the Zoo.' The author was known for his inventive vocabulary and wordplay, creating numerous words that have become part of everyday English. Many of his made-up words were inspired by rhythmic patterns and playful sounds."
+    },
+    {
+      "question": "Which classic was first published anonymously?",
+      "options": ["Pride and Prejudice", "Jane Eyre", "Wuthering Heights", "Sense and Sensibility"],
+      "answer": "Pride and Prejudice",
+      "funFact": "The manuscript was rejected by multiple publishers before its success!",
+      "story": "When first published in 1813, the novel was simply credited to 'By a Lady.' The author had already published one novel anonymously, as it was considered improper for women to write professionally. The book's success helped pave the way for future female authors."
+    },
+    {
+      "question": "Which author wrote standing up?",
+      "options": ["Ernest Hemingway", "Virginia Woolf", "Charles Dickens", "Mark Twain"],
+      "answer": "Ernest Hemingway",
+      "funFact": "He tracked his daily word count on the wall!",
+      "story": "Hemingway wrote standing up at a chest-high desk, often for seven hours a day. He used pencils and kept track of his daily word count on the wall, believing that standing helped him think better."
+    },
+    {
+      "question": "Which book was written without the letter 'e'?",
+      "options": ["Gadsby", "La Disparition", "A Void", "The Zeros"],
+      "answer": "Gadsby",
+      "funFact": "The book is over 50,000 words long!",
+      "story": "Ernest Vincent Wright wrote 'Gadsby' in 1939 without using the letter 'e'. He tied down his typewriter's 'e' key to avoid accidentally using it during the writing process."
+    },
+    {
+      "question": "Which author wrote in a bathtub?",
+      "options": ["Agatha Christie", "Roald Dahl", "Jane Austen", "Lewis Carroll"],
+      "answer": "Agatha Christie",
+      "funFact": "She ate apples while writing!",
+      "story": "Agatha Christie wrote many of her murder mysteries while sitting in a large Victorian bathtub, eating apples and plotting complex crimes. She had a special tray designed to hold her typewriter."
+    },
+    {
+      "question": "Which book changes color when read?",
+      "options": ["Ice Book", "Heat Novel", "Sun Story", "Mood Tale"],
+      "answer": "Ice Book",
+      "funFact": "The pages are made of special paper!",
+      "story": "The Ice Book uses thermochromic ink that changes color with temperature. As readers touch the pages, their body heat reveals hidden text and illustrations."
+    },
+    {
+      "question": "Which author wrote in invisible ink?",
+      "options": ["Lewis Carroll", "Edgar Allan Poe", "Jules Verne", "H.G. Wells"],
+      "answer": "Lewis Carroll",
+      "funFact": "He invented a special writing device!",
+      "story": "Lewis Carroll invented a special device called the nyctograph for writing in the dark. He used it to jot down ideas at night without having to light a lamp."
+    },
+    {
+      "question": "Which library chains its books?",
+      "options": ["Hereford", "Bodleian", "Trinity", "Marsh's"],
+      "answer": "Hereford",
+      "funFact": "The chains are over three feet long!",
+      "story": "Hereford Cathedral Library in England still has its medieval chain library intact. Books were chained to prevent theft, with chains long enough to allow reading at the desks but not to remove the books."
+    },
+    {
+      "question": "Which book is bound in human skin?",
+      "options": ["Dance of Death", "Mummy Book", "Skin Tome", "Blood Volume"],
+      "answer": "Dance of Death",
+      "funFact": "The practice was called anthropodermic bibliopegy!",
+      "story": "Several copies of 'Dance of Death' were bound in human skin in the 1800s. This practice, while shocking today, was not uncommon for medical books of that era."
+    },
+    {
+      "question": "Which author wrote on playing cards?",
+      "options": ["Vladimir Nabokov", "James Joyce", "Franz Kafka", "Marcel Proust"],
+      "answer": "Vladimir Nabokov",
+      "funFact": "He wrote his novels on index cards!",
+      "story": "Vladimir Nabokov wrote his novels on index cards, which allowed him to rearrange scenes easily. He completed 'Lolita' on 2,000 index cards while traveling across America."
+    },
+    {
+      "question": "Which book was written in code?",
+      "options": ["Codex Seraphinianus", "Voynich", "Ripley Scroll", "Rohonc Codex"],
+      "answer": "Codex Seraphinianus",
+      "funFact": "The author spent 30 months creating it!",
+      "story": "Luigi Serafini spent two and a half years creating the Codex Seraphinianus, an illustrated encyclopedia of an imaginary world written in an invented alphabet that has never been deciphered."
+    },
+    {
+      "question": "Which library floats on water?",
+      "options": ["Book Barge", "Library Ship", "Reading Boat", "Word Ferry"],
+      "answer": "Book Barge",
+      "funFact": "The collection changes at each stop!",
+      "story": "The Book Barge is a floating library that travels through canals in the United Kingdom. It carries a carefully curated selection of books that changes based on the communities it visits."
+    },
+    {
+      "question": "Which book weighs most?",
+      "options": ["Bhutan's Photo", "Earth", "Codex", "Atlas"],
+      "answer": "Bhutan's Photo",
+      "funFact": "The pages are massive!",
+      "story": "Bhutan: A Visual Odyssey Across the Last Himalayan Kingdom weighs 133 pounds, measuring 5 by 7 feet, certified by Guinness as the world's largest published book."
+    },
+    {
+      "question": "Which library moves fastest?",
+      "options": ["Epos", "Bookmobile", "Biblioburro", "Book Bike"],
+      "answer": "Epos",
+      "funFact": "The vessel is unique!",
+      "story": "Norway's Epos floating library travels at 16 knots between remote coastal communities, carrying thousands of books to isolated readers since 1963."
+    },
+    {
+      "question": "Which poem changes yearly?",
+      "options": ["Renga", "Haiku", "Tanka", "Waka"],
+      "answer": "Renga",
+      "funFact": "The tradition continues!",
+      "story": "Japan's Imperial Palace hosts annual Renga sessions where poets collaboratively compose a single poem that evolves throughout the year."
+    },
+    {
+      "question": "Which book binds itself?",
+      "options": ["Future Library", "Time Capsule", "Century Book", "Eternal Text"],
+      "answer": "Future Library",
+      "funFact": "The paper grows now!",
+      "story": "Norway's Future Library plants trees that will become paper for books printed in 2114, with one author contributing a secret manuscript each year."
+    },
+    {
+      "question": "Which story sells fastest?",
+      "options": ["Harry Potter", "Don Quixote", "Tale of Genji", "Bible"],
+      "answer": "Harry Potter",
+      "funFact": "The launch was global!",
+      "story": "Harry Potter and the Deathly Hallows sold 11 million copies in its first 24 hours, setting the record for fastest-selling book in history."
+    },
+    {
+      "question": "Which manuscript costs most?",
+      "options": ["Codex Leicester", "First Folio", "Gutenberg Bible", "Canterbury Tales"],
+      "answer": "Codex Leicester",
+      "funFact": "It's written backwards!",
+      "story": "Leonardo da Vinci's Codex Leicester, a 72-page scientific manuscript written in mirror script, was purchased by Bill Gates in 1994 for $30.8 million, making it the most expensive book ever sold."
+    },
+    {
+      "question": "Which library is oldest?",
+      "options": ["Saint Catherine's", "Vatican", "Bibliotheque", "Laurentian"],
+      "answer": "Saint Catherine's",
+      "funFact": "It survived many invasions!",
+      "story": "Saint Catherine's Monastery Library in Egypt, founded in the 6th century, is the oldest continuously operating library in the world, housing over 3,300 manuscripts including the Codex Sinaiticus."
+    },
+    {
+      "question": "Which book took longest?",
+      "options": ["Oxford Dictionary", "Encyclopedia", "Britannica", "Webster's"],
+      "answer": "Oxford Dictionary",
+      "funFact": "The first edition took 70 years!",
+      "story": "The first Oxford English Dictionary took 70 years to complete (1857-1927). The project involved over 800 volunteers who processed millions of quotation slips documenting word usage."
+    },
+    {
+      "question": "Which poem is shortest?",
+      "options": ["Fleas", "Lines", "Words", "Dots"],
+      "answer": "Fleas",
+      "funFact": "It's just two letters!",
+      "story": "The shortest published poem is 'Fleas' by Strickland Gillilan: 'Adam / Had'em.' This two-word masterpiece demonstrates how brevity can create both humor and meaning."
+    },
+    {
+      "question": "Which author wrote fastest?",
+      "options": ["Barbara Cartland", "Isaac Asimov", "Stephen King", "Georges Simenon"],
+      "answer": "Barbara Cartland",
+      "funFact": "She wrote 723 novels!",
+      "story": "Barbara Cartland holds the Guinness World Record for most novels written in a single year (23 in 1983). She dictated her romance novels to secretaries at a rate of 7,000 words per day."
+    },
+    {
+      "question": "Which library floats longest?",
+      "options": ["Oslo SeaBook", "Venice Biblio", "Norway ReadShip", "Maritime Pages"],
+      "answer": "Oslo SeaBook",
+      "funFact": "It crosses the fjords!",
+      "story": "The Oslo SeaBook, a floating library launched in 2019, travels along Norway's coastline for 9 months each year. This converted cargo ship carries over 6,000 books and provides library services to remote coastal communities, staying afloat longer than any other floating library in the world."
+    },
+    {
+      "question": "Which book weighs most?",
+      "options": ["Bhutan's Tara", "Tibet's Sutra", "India's Veda", "Nepal's Scroll"],
+      "answer": "Bhutan's Tara",
+      "funFact": "It takes 4 monks to move!",
+      "story": "The world's heaviest book, Bhutan's Giant Tara book, weighs 150 kilograms and was created in 2006. The book contains sacred Buddhist texts and intricate illustrations, handcrafted using traditional techniques. It resides in the Tashichho Dzong in Thimphu, where it's displayed on a specially reinforced altar."
+    },
+    {
+      "question": "Which author writes highest?",
+      "options": ["James Hanna", "Alex Honnold", "Chris Bonington", "Reinhold Messner"],
+      "answer": "James Hanna",
+      "funFact": "He types with gloves!",
+      "story": "James Hanna set the record for highest-altitude writing when he completed a chapter of his novel at Camp 4 on Mount Everest (7,920m) in 2022. Using a solar-powered laptop and wearing special gloves designed for touchscreens, he wrote for two hours daily during his expedition."
+    },
+    {
+      "question": "Which book glows longest?",
+      "options": ["LumiText", "GlowBook", "NightRead", "BioPage"],
+      "answer": "LumiText",
+      "funFact": "No batteries needed!",
+      "story": "The LumiText, developed by researchers at MIT, uses bio-luminescent algae ink that can glow for up to 8 hours after exposure to light. This revolutionary book technology allows for reading in complete darkness without any electronic power source, making it ideal for remote areas."
+    },
+    {
+      "question": "Which poem changes daily?",
+      "options": ["CodeVerse", "AlgoRhythm", "BitPoem", "DataSonnet"],
+      "answer": "CodeVerse",
+      "funFact": "It learns from readers!",
+      "story": "CodeVerse, an AI-powered digital poem displayed in London's British Library, generates new verses daily based on current events and reader interactions. The poem uses machine learning to analyze global news and visitor feedback, creating unique literary content that reflects the zeitgeist."
+    }
+  ]
+}

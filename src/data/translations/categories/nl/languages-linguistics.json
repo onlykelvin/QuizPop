@@ -1,0 +1,174 @@
+{
+  "category": "Talen en taalkunde",
+  "description": "Ontdek de fascinerende wereld van talen, woorden en communicatie",
+  "questions": [
+    {
+      "question": "Wat is de meest gesproken taal ter wereld door moedertaalsprekers?",
+      "options": [
+        "Engels",
+        "Spaans",
+        "Hindi",
+        "Mandarijn Chinees"
+      ],
+      "answer": "Mandarijn Chinees",
+      "funFact": "Deze taal heeft meer dan 50.000 karakters, maar je hoeft er maar ongeveer 2.000 te kennen om een ​​krant te kunnen lezen!",
+      "story": "Het Mandarijn werd begin 20e eeuw de officiële taal van China. "
+    },
+    {
+      "question": "Wat is het langste woord in de Engelse taal dat niet meer dan één letter bevat?",
+      "options": [
+        "Niet auteursrechtelijk beschermd",
+        "dermatoglyfen",
+        "Verkeerd geconjugeerd",
+        "Ambidexter"
+      ],
+      "answer": "Niet auteursrechtelijk beschermd",
+      "funFact": "Dit woord van 15 letters is het langste isogram (woord zonder herhalende letters) in het Engels!",
+      "story": "Het woord 'niet auteursrechtelijk beschermd' verwijst naar iets dat niet door het auteursrecht kan worden beschermd. "
+    },
+    {
+      "question": "Welk oude schrijfsysteem gebruikte pictografische symbolen die hiërogliefen worden genoemd?",
+      "options": [
+        "Chinese",
+        "Egyptische",
+        "Sumerisch",
+        "Grieks"
+      ],
+      "answer": "Egyptische",
+      "funFact": "Er zijn meer dan 1000 verschillende hiërogliefen, waarvan sommige geluiden vertegenwoordigen en andere volledige woorden!",
+      "story": "Egyptische hiërogliefen bleven een mysterie tot de ontdekking van de Steen van Rosetta in 1799. Deze steen bevatte dezelfde tekst in hiërogliefen, Demotisch schrift en Oudgrieks, waardoor geleerden na meer dan 1400 jaar eindelijk het oude Egyptische schrift konden ontcijferen."
+    },
+    {
+      "question": "Welke taal heeft geen woord voor 'blauw'?",
+      "options": [
+        "Himba",
+        "Maori",
+        "Inuit",
+        "Welsh"
+      ],
+      "answer": "Himba",
+      "funFact": "Deze taal heeft gedetailleerde woorden voor verschillende tinten groen!",
+      "story": "De Himba-bevolking in Namibië heeft een uniek kleurperceptiesysteem dat blauw niet van groen onderscheidt. "
+    },
+    {
+      "question": "Welke taal heeft geen verleden tijd?",
+      "options": [
+        "Chinese",
+        "Japanse",
+        "Koreaans",
+        "Vietnamees"
+      ],
+      "answer": "Chinese",
+      "funFact": "Deze taal gebruikt context- en tijdmarkeringen in plaats van werkwoordveranderingen!",
+      "story": "Het Mandarijn Chinees verandert de werkwoordsvormen niet om verleden, heden of toekomst aan te duiden. "
+    },
+    {
+      "question": "Welke taal heeft de meeste woorden voor 'sneeuw'?",
+      "options": [
+        "Schotten",
+        "Inuit",
+        "Russisch",
+        "Fins"
+      ],
+      "answer": "Schotten",
+      "funFact": "Deze taal ontwikkelde zich in een klimaat waar sneeuw veel voorkomt!",
+      "story": "Hoewel velen denken dat het Inuit is, heeft de Schotse taal feitelijk de meest opgenomen woorden voor sneeuw, met meer dan 400 termen. "
+    },
+    {
+      "question": "Welke oude taal had geen schriftelijke klinkers?",
+      "options": [
+        "Hebreeuws",
+        "Grieks",
+        "Latijns",
+        "Sanskriet"
+      ],
+      "answer": "Hebreeuws",
+      "funFact": "Dit schrijfsysteem is meer dan 3000 jaar oud!",
+      "story": "Het oude Hebreeuws werd zonder klinkers geschreven, met alleen medeklinkers. "
+    },
+    {
+      "question": "Welke taal heeft geen woord voor 'tijd'?",
+      "options": [
+        "Hopi",
+        "Navajo",
+        "Cherokee",
+        "Apache"
+      ],
+      "answer": "Hopi",
+      "funFact": "Deze taal beschouwt gebeurtenissen als een continu proces in plaats van afzonderlijke momenten!",
+      "story": "De Hopi-taal van Arizona kent geen woorden, grammaticale vormen of uitdrukkingen die verwijzen naar tijd zoals wij die gewoonlijk begrijpen. "
+    },
+    {
+      "question": "Welke taalfamilie heeft de meeste sprekers?",
+      "options": [
+        "Indo-Europees",
+        "Chinees-Tibetaans",
+        "Afro-Aziatisch",
+        "Austronesisch"
+      ],
+      "answer": "Indo-Europees",
+      "funFact": "Deze taalfamilie omvat meer dan 400 verschillende talen!",
+      "story": "De Indo-Europese taalfamilie strekt zich uit van IJsland tot Sri Lanka en omvat de meeste Europese talen en veel Aziatische talen. "
+    },
+    {
+      "question": "Welke taal verandert het snelst?",
+      "options": [
+        "Chasu",
+        "Taa",
+        "Xhosa",
+        "Zoeloe"
+      ],
+      "answer": "Chasu",
+      "funFact": "De verschuivingen gaan snel!",
+      "story": "De Chasu-taal in Tanzania vertoont de snelste gedocumenteerde snelheid van natuurlijke taalverandering, waarbij binnen enkele generaties aanzienlijke vocabulaire-verschuivingen plaatsvinden."
+    },
+    {
+      "question": "Welk script stroomt circulair?",
+      "options": [
+        "Boustrofedon",
+        "Lineair",
+        "Spijkerschrift",
+        "Hieratisch"
+      ],
+      "answer": "Boustrofedon",
+      "funFact": "Het patroon is uniek!",
+      "story": "Het oude Griekse Boustrofedon-schrift wisselt de richting van elke regel af, zoals een os die een veld ploegt, waardoor een continue cirkelvormige tekststroom ontstaat."
+    },
+    {
+      "question": "Welke taal klikt het meest?",
+      "options": [
+        "Taa",
+        "Xhosa",
+        "Zoeloe",
+        "Nama"
+      ],
+      "answer": "Taa",
+      "funFact": "De geluiden zijn complex!",
+      "story": "De Taa-taal van Botswana heeft de meeste klikmedeklinkers van alle bekende talen, met tot wel 164 verschillende klikgeluiden die in spraak worden gebruikt."
+    },
+    {
+      "question": "Welk schrift gloeit?",
+      "options": [
+        "Orakelbeenderen",
+        "Runen",
+        "Ogham",
+        "Spijkerschrift"
+      ],
+      "answer": "Orakelbeenderen",
+      "funFact": "Het materiaal is eeuwenoud!",
+      "story": "Chinese Oracle Bone-inscripties onthullen, wanneer ze onder speciaal licht worden onderzocht, fluorescerende sporen als gevolg van de organische materialen die worden gebruikt in het oude snijproces."
+    },
+    {
+      "question": "Welk alfabet zingt?",
+      "options": [
+        "Solresol",
+        "Blissymbolen",
+        "Zichtbare spraak",
+        "Shaviaanse"
+      ],
+      "answer": "Solresol",
+      "funFact": "Het systeem is muzikaal!",
+      "story": "Solresol, uitgevonden door François Sudre in 1827, is een muzikale taal die de zeven muzieknoten (do, re, mi, fa, sol, la, si) gebruikt om woorden te vormen."
+    }
+  ]
+}

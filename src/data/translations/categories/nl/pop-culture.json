@@ -1,0 +1,306 @@
+{
+  "category": "Popcultuur",
+  "description": "Test uw kennis van films, tv-programma's, beroemdheden en entertainmenttrends",
+  "questions": [
+    {
+      "question": "Welke film gebruikte de meeste CGI?",
+      "options": [
+        "Avatar",
+        "Wrekers",
+        "Star Wars",
+        "Heer der Ringen"
+      ],
+      "answer": "Avatar",
+      "funFact": "Het renderen duurde jaren!",
+      "story": "James Camerons Avatar maakte gebruik van baanbrekende CGI-technologie, waarbij het renderen van sommige frames meer dan 100 uur in beslag nam, waardoor de duurste CGI-film van zijn tijd ontstond."
+    },
+    {
+      "question": "Bij welk concert werden de meeste hologrammen gebruikt?",
+      "options": [
+        "Coachella 2012",
+        "Tokio 2019",
+        "Londen 2018",
+        "Vegas 2020"
+      ],
+      "answer": "Coachella 2012",
+      "funFact": "De technologie was revolutionair!",
+      "story": "Op het Coachella-festival van 2012 was een baanbrekende hologramvoorstelling van Tupac Shakur te zien, die een nieuwe standaard zette voor virtuele optredens."
+    },
+    {
+      "question": "Welk spel had de grootste wereld?",
+      "options": [
+        "Niemandshemel",
+        "Minecraft",
+        "GTA V",
+        "Oudere rollen"
+      ],
+      "answer": "Niemandshemel",
+      "funFact": "De wereld wordt procedureel gegenereerd!",
+      "story": "No Man's Sky beschikt over 18 biljoen unieke planeten, waardoor het wiskundig onmogelijk is om ze allemaal te bezoeken, zelfs als je je hele leven hebt gespeeld."
+    },
+    {
+      "question": "Welk album is van kleur veranderd?",
+      "options": [
+        "Zwarte ster",
+        "Limonade",
+        "Bekeken",
+        "Anti"
+      ],
+      "answer": "Zwarte ster",
+      "funFact": "Het effect werd ontdekt door fans!",
+      "story": "Het laatste album van David Bowie, 'Blackstar', had een zwarte hoes die, bij blootstelling aan zonlicht, een veld van gloeiende sterren onthulde."
+    },
+    {
+      "question": "Welke show gebruikte AI-schrijven?",
+      "options": [
+        "Zonnebloem",
+        "Zwarte spiegel",
+        "Westwereld",
+        "Meneer Robot"
+      ],
+      "answer": "Zonnebloem",
+      "funFact": "De AI heeft alles geschreven!",
+      "story": "Sunspring was de eerste film met een script dat volledig door een AI was geschreven, waarbij gebruik werd gemaakt van neurale netwerken die waren getraind op honderden sciencefictionscenario's."
+    },
+    {
+      "question": "Welke artiest gebruikte blockchain als eerste?",
+      "options": [
+        "Grimes",
+        "Piep",
+        "Banksy",
+        "Damien Hirst"
+      ],
+      "answer": "Grimes",
+      "funFact": "De verkoop was een record!",
+      "story": "Grimes verkocht in 20 minuten voor 6 miljoen dollar aan digitale kunst als NFT's, waarmee hij pionierde in het gebruik van blockchain-technologie in de reguliere kunstverkoop."
+    },
+    {
+      "question": "Welke muziekvideo maakte gebruik van deepfakes?",
+      "options": [
+        "DALL·E",
+        "Diepe nostalgie",
+        "Wombo",
+        "Opnieuw gezicht"
+      ],
+      "answer": "DALL·E",
+      "funFact": "De technologie was controversieel!",
+      "story": "De eerste muziekvideo die volledig werd gemaakt met door DALL·E AI gegenereerde beelden leidde tot discussies over kunstmatige creativiteit in de kunst."
+    },
+    {
+      "question": "Welk festival gebruikte drones?",
+      "options": [
+        "Olympische Spelen 2020",
+        "Superbowl 2022",
+        "NYE 2023",
+        "FIFA-2022"
+      ],
+      "answer": "Olympische Spelen 2020",
+      "funFact": "De show vestigde records!",
+      "story": "Tijdens de openingsceremonie van de Olympische Spelen in Tokio vormden 1.824 drones een roterende wereldbol aan de nachtelijke hemel, waarmee een record werd gevestigd op het gebied van droneshows."
+    },
+    {
+      "question": "Welke strip gebruikte AR als eerste?",
+      "options": [
+        "Wonder",
+        "gelijkstroom",
+        "Afbeelding",
+        "Donker paard"
+      ],
+      "answer": "Wonder",
+      "funFact": "De functie was interactief!",
+      "story": "Met Marvel's AR-strips konden lezers hun telefoon op pagina's richten om animaties, karakterinformatie en inhoud achter de schermen te bekijken."
+    },
+    {
+      "question": "In welke fase werden de meeste projecties gebruikt?",
+      "options": [
+        "U2",
+        "Pink Floyd",
+        "Beyonce",
+        "Dame Gaga"
+      ],
+      "answer": "U2",
+      "funFact": "Het scherm was enorm!",
+      "story": "Tijdens de 360°-tour van U2 was het grootste LED-scherm te zien dat ooit bij concerten werd gebruikt, met projecties met hoge resolutie die vanuit elke hoek in het stadion zichtbaar waren."
+    },
+    {
+      "question": "Bij welk concert werden het meest drones gebruikt?",
+      "options": [
+        "Dame Gaga",
+        "Travis Scott",
+        "BTS",
+        "Koudspel"
+      ],
+      "answer": "Dame Gaga",
+      "funFact": "De show vestigde records!",
+      "story": "Tijdens de rustshow van Lady Gaga in de Super Bowl waren 300 gesynchroniseerde drones te zien die dynamische lichtformaties in de lucht creëerden, wat een record vestigde op het gebied van live-entertainment."
+    },
+    {
+      "question": "Welke film gebruikte echte robots?",
+      "options": [
+        "Pacifische rand",
+        "Transformatoren",
+        "Echt staal",
+        "Chappie"
+      ],
+      "answer": "Pacifische rand",
+      "funFact": "De machines waren enorm!",
+      "story": "Pacific Rim bouwde robotcockpits en ledematen op ware grootte voor het filmen, waardoor de grootste robots met praktische effecten ontstonden die ooit in een film zijn gebruikt."
+    },
+    {
+      "question": "Welk spel scant de werkelijkheid?",
+      "options": [
+        "Pokémon GO",
+        "Binnenkomen",
+        "Minecraft-aarde",
+        "Harry Potter"
+      ],
+      "answer": "Pokémon GO",
+      "funFact": "De technologie is geavanceerd!",
+      "story": "Pokemon GO maakt gebruik van geavanceerde AR-technologie om locaties uit de echte wereld in kaart te brengen en te scannen, waardoor een wereldwijde gameomgeving ontstaat die over de werkelijkheid heen ligt."
+    },
+    {
+      "question": "Welk podium roteert het meest?",
+      "options": [
+        "U2 360",
+        "Rollende stenen",
+        "Madonna",
+        "Pink Floyd"
+      ],
+      "answer": "U2 360",
+      "funFact": "De structuur was enorm!",
+      "story": "Tijdens de 360° Tour van U2 was het grootste roterende podium ooit gebouwd, bijgenaamd 'The Claw', met een gewicht van 190 ton en een hoogte van 65 voet."
+    },
+    {
+      "question": "Welke show maakt gebruik van echt weer?",
+      "options": [
+        "Weerbericht",
+        "Stormjagers",
+        "Wolkenatlas",
+        "Hemelwacht"
+      ],
+      "answer": "Weerbericht",
+      "funFact": "Het systeem is uniek!",
+      "story": "De kunstinstallatie Weather Report maakt gebruik van realtime weergegevens om meeslepende licht- en geluidservaringen te creëren die de huidige atmosferische omstandigheden weerspiegelen."
+    },
+    {
+      "question": "Welke muziekvideo kost het meest?",
+      "options": [
+        "Schreeuw",
+        "Druk jezelf uit",
+        "Sterf nog een dag",
+        "Verhaaltje voor het slapengaan"
+      ],
+      "answer": "Schreeuw",
+      "funFact": "De set was futuristisch!",
+      "story": "De muziekvideo 'Scream' van Michael en Janet Jackson kostte in 1995 $7 miljoen, met uitgebreide ruimtestationsets en geavanceerde speciale effecten, waardoor het de duurste muziekvideo ooit gemaakt is."
+    },
+    {
+      "question": "Welke film is het langst gefilmd?",
+      "options": [
+        "Jeugd",
+        "Avatar",
+        "De andere kant van de wind",
+        "Ogen wijd dicht"
+      ],
+      "answer": "Jeugd",
+      "funFact": "De cast wordt natuurlijk ouder!",
+      "story": "Richard Linklaters 'Boyhood' werd twaalf jaar lang gefilmd, waarbij dezelfde acteurs werden gevolgd die op natuurlijke wijze ouder werden, waardoor een ongekende kroniek van opgroeien in realtime ontstond."
+    },
+    {
+      "question": "Welk spel heeft de meeste spelers?",
+      "options": [
+        "PUBG mobiel",
+        "Minecraft",
+        "Roblox",
+        "Fortnite"
+      ],
+      "answer": "PUBG mobiel",
+      "funFact": "Miljarden hebben gespeeld!",
+      "story": "PUBG Mobile heeft het record voor meest gedownloade games met meer dan 1 miljard downloads en een piek van gelijktijdige spelers die meer dan 50 miljoen spelers tegelijkertijd bereiken."
+    },
+    {
+      "question": "Welk concert verdiende het meeste?",
+      "options": [
+        "Ed Sheeran",
+        "U2",
+        "Taylor Swift",
+        "Rollende stenen"
+      ],
+      "answer": "Ed Sheeran",
+      "funFact": "De tournee duurde twee jaar!",
+      "story": "De Divide Tour van Ed Sheeran (2017-2019) werd de meest opbrengende tour aller tijden en verdiende $ 776,2 miljoen met 258 shows op zes continenten."
+    },
+    {
+      "question": "Welke cosplay kost het meest?",
+      "options": [
+        "Thanos",
+        "IJzeren man",
+        "Hulkbuster",
+        "Transformatoren"
+      ],
+      "answer": "Thanos",
+      "funFact": "Het pak was volledig functioneel!",
+      "story": "Het duurste cosplaykostuum was een volledig animatronisch Thanos-pak gemaakt door Julian Checkley, met werkende Infinity Gauntlet en gezichtsuitdrukkingen, dat meer dan $ 1.600.000 kostte."
+    },
+    {
+      "question": "Welk themapark is het grootste?",
+      "options": [
+        "Disneywereld",
+        "Universeel",
+        "Zes vlaggen",
+        "Ceder punt"
+      ],
+      "answer": "Disneywereld",
+      "funFact": "Het is twee keer zo groot als Manhattan!",
+      "story": "Walt Disney World Resort in Florida beslaat 25.000 hectare en is daarmee het grootste themapark ter wereld. "
+    },
+    {
+      "question": "Welke conventie trekt het meeste?",
+      "options": [
+        "Komiket",
+        "Comic-Con",
+        "Gamescom",
+        "E3"
+      ],
+      "answer": "Komiket",
+      "funFact": "De lijn omspant kilometers!",
+      "story": "Comiket (Comic Market) in Tokio is 's werelds grootste fanconventie en trekt tijdens de drie dagen ruim 700.000 bezoekers. "
+    },
+    {
+      "question": "Welke filmset is het grootst?",
+      "options": [
+        "Dau",
+        "Waterwereld",
+        "Cleopatra",
+        "Ben-Hur"
+      ],
+      "answer": "Dau",
+      "funFact": "Het werd een echte stad!",
+      "story": "De Russische film 'Dau' bouwde een hele Sovjetstad van 130.000 vierkante meter, waar acteurs drie jaar lang onder periodenauwkeurige omstandigheden leefden, waardoor het de grootste filmset ooit werd gebouwd."
+    },
+    {
+      "question": "Welke première was het langst?",
+      "options": [
+        "Wrekers",
+        "Star Wars",
+        "Heer der Ringen",
+        "Harry Potter"
+      ],
+      "answer": "Wrekers",
+      "funFact": "Fans kampeerden dagenlang!",
+      "story": "Bij de wereldpremière van 'Avengers: Endgame' in Los Angeles lag de langste rode loper uit de geschiedenis op 600 meter hoogte, en het evenement duurde meer dan 5 uur met fanactiviteiten en vieringen."
+    },
+    {
+      "question": "Welke fanclub is het grootst?",
+      "options": [
+        "BTS-leger",
+        "Swifties",
+        "Beliebers",
+        "Bijenkorf"
+      ],
+      "answer": "BTS-leger",
+      "funFact": "Ze beïnvloeden mondiale trends!",
+      "story": "BTS's fanclub 'ARMY' is de grootste ter wereld, met wereldwijd meer dan 40 miljoen geregistreerde leden. "
+    }
+  ]
+}

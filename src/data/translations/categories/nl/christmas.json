@@ -1,0 +1,342 @@
+{
+  "category": "Kerstmis",
+  "description": "Test je kennis van kersttradities, geschiedenis en vieringen",
+  "questions": [
+    {
+      "question": "Welk land begon met de traditie van het ophangen van kerstbomen?",
+      "options": [
+        "Verenigde Staten",
+        "Engeland",
+        "Duitsland",
+        "Frankrijk"
+      ],
+      "answer": "Duitsland",
+      "funFact": "De eerste versierde kerstboom stond in 1510 in Riga, Letland!",
+      "story": "De moderne kerstboomtraditie begon in het Duitsland van de 16e eeuw, waar vrome christenen versierde bomen in huis brachten. "
+    },
+    {
+      "question": "Wat is het best verkochte kerstlied aller tijden?",
+      "options": [
+        "Stille Nacht",
+        "Witte Kerstmis",
+        "Jingle Bells",
+        "Alles wat ik wil voor Kerstmis ben jij"
+      ],
+      "answer": "Witte Kerstmis",
+      "funFact": "Van de hit van Bing Crosby zijn wereldwijd meer dan 50 miljoen exemplaren verkocht!",
+      "story": "'White Christmas', geschreven door Irving Berlin en uitgevoerd door Bing Crosby, werd voor het eerst uitgebracht in 1942 tijdens de Tweede Wereldoorlog. "
+    },
+    {
+      "question": "Hoe noemen ze in Australië de Kerstman?",
+      "options": [
+        "Kerstman",
+        "Kris Kringle",
+        "Sint Nick",
+        "Vader tijd"
+      ],
+      "answer": "Kerstman",
+      "funFact": "Australische kerstvieringen omvatten vaak strandbarbecues en surfen!",
+      "story": "In Australië valt Kerstmis in de zomer, wat leidt tot unieke tradities. "
+    },
+    {
+      "question": "Van welke plant wordt traditioneel een kerstkrans gemaakt?",
+      "options": [
+        "Pijnboom",
+        "Hulst",
+        "Maretak",
+        "Klimop"
+      ],
+      "answer": "Hulst",
+      "funFact": "Hulstbladeren en bessen worden vaak gebruikt in kerstversiering!",
+      "story": "Hulst is een plant met glanzende groene bladeren en felrode bessen, die veel wordt gebruikt in kerstkransen en -versieringen. "
+    },
+    {
+      "question": "Hoe heet het traditionele kerstballet?",
+      "options": [
+        "Het Zwanenmeer",
+        "De Notenkraker",
+        "Giselle",
+        "Coppelia"
+      ],
+      "answer": "De Notenkraker",
+      "funFact": "'De Notenkraker' is een populair ballet dat tijdens de kerstperiode wordt opgevoerd!",
+      "story": "'De Notenkraker' is een ballet gecomponeerd door Pjotr ​​Iljitsj Tsjaikovski, gebaseerd op een verhaal van E.T.A. "
+    },
+    {
+      "question": "Welk land wordt gecrediteerd voor het starten van de traditie van de kerstboom?",
+      "options": [
+        "Duitsland",
+        "Engeland",
+        "Frankrijk",
+        "Verenigde Staten"
+      ],
+      "answer": "Duitsland",
+      "funFact": "De traditie van het versieren van kerstbomen vindt zijn oorsprong in Duitsland!",
+      "story": "De moderne kerstboomtraditie begon in het 16e-eeuwse Duitsland, waar vrome christenen versierde bomen in huis brachten. "
+    },
+    {
+      "question": "Hoe heet het rendier met een rode neus?",
+      "options": [
+        "Dasher",
+        "Danser",
+        "Rudolf",
+        "Blitzen"
+      ],
+      "answer": "Rudolf",
+      "funFact": "Rudolph the Red-Nosed Rendier is een geliefd kerstpersonage!",
+      "story": "Rudolph the Red-Nosed Reindeer is een fictief personage dat in 1939 door Robert L. May werd gecreëerd voor een verhaal met kerstthema. "
+    },
+    {
+      "question": "Welk kerstliedje is oorspronkelijk geschreven voor Thanksgiving?",
+      "options": [
+        "Jingle Bells",
+        "Stille Nacht",
+        "Dek de hallen",
+        "Frosty de Sneeuwman"
+      ],
+      "answer": "Jingle Bells",
+      "funFact": "'Jingle Bells' is oorspronkelijk geschreven voor een Thanksgiving-feest!",
+      "story": "'Jingle Bells' is een populair kerstlied, geschreven door James Lord Pierpont in 1857. Oorspronkelijk getiteld 'The One Horse Open Sleigh', was het bedoeld voor een Thanksgiving-programma in een kerk in Savannah, Georgia. "
+    },
+    {
+      "question": "Wat is de traditionele kerstmaaltijd in Engeland?",
+      "options": [
+        "Rosbief",
+        "Kalkoen",
+        "Ham",
+        "Lam"
+      ],
+      "answer": "Kalkoen",
+      "funFact": "Gebraden kalkoen met alles erop en eraan is een traditionele kerstmaaltijd in Engeland!",
+      "story": "In Engeland is het kerstdiner een feestelijke maaltijd met meestal gebraden kalkoen, vulling, geroosterde groenten en cranberrysaus. "
+    },
+    {
+      "question": "Welk land staat bekend om de kersttraditie ‘KFC for Christmas’?",
+      "options": [
+        "Verenigde Staten",
+        "Japan",
+        "Australië",
+        "Canada"
+      ],
+      "answer": "Japan",
+      "funFact": "In Japan is het een populaire traditie om op eerste kerstdag KFC te eten!",
+      "story": "In Japan is het eten van KFC met Kerstmis sinds de jaren zeventig een populaire traditie geworden. "
+    },
+    {
+      "question": "Hoe heet het personage dat Kerstmis steelt in het boek van Dr. Seuss?",
+      "options": [
+        "De Grinch",
+        "Vrek",
+        "Ijzig",
+        "Jack Vorst"
+      ],
+      "answer": "De Grinch",
+      "funFact": "De Grinch is een personage gecreëerd door Dr. Seuss die Kerstmis probeert te stelen!",
+      "story": "De Grinch is een fictief personage gecreëerd door Dr. Seuss in het boek 'How the Grinch Stole Christmas!' "
+    },
+    {
+      "question": "Welk land staat bekend om de traditie van ‘Las Posadas’ tijdens Kerstmis?",
+      "options": [
+        "Mexico",
+        "Spanje",
+        "Italië",
+        "Filippijnen"
+      ],
+      "answer": "Mexico",
+      "funFact": "Las Posadas is een traditioneel Mexicaans feest voorafgaand aan Kerstmis!",
+      "story": "Las Posadas is een negendaags feest in Mexico dat de reis van Maria en Jozef naar Bethlehem herdenkt. "
+    },
+    {
+      "question": "Hoe heet de traditionele Italiaanse kersttaart?",
+      "options": [
+        "Panettone",
+        "Tiramisu",
+        "Cannoli",
+        "Pannacotta"
+      ],
+      "answer": "Panettone",
+      "funFact": "Panettone is een zoet brood dat tijdens de kerstperiode in Italië wordt genoten!",
+      "story": "Panettone is een traditionele Italiaanse kersttaart afkomstig uit Milaan. "
+    },
+    {
+      "question": "Welk land staat bekend om de kerstmarkttraditie?",
+      "options": [
+        "Duitsland",
+        "Frankrijk",
+        "Oostenrijk",
+        "Zwitserland"
+      ],
+      "answer": "Duitsland",
+      "funFact": "Duitsland staat bekend om zijn traditionele kerstmarkten, bekend als 'Weihnachtsmärkte'!",
+      "story": "Kerstmarkten, of 'Weihnachtsmärkte', zijn een gekoesterde traditie in Duitsland, die teruggaat tot de late middeleeuwen. "
+    },
+    {
+      "question": "Wat is de traditionele kerstbloem?",
+      "options": [
+        "Roos",
+        "Kerstster",
+        "Lelie",
+        "Gele narcis"
+      ],
+      "answer": "Kerstster",
+      "funFact": "Kerststerren komen oorspronkelijk uit Midden-Amerika en staan ​​bekend als de 'Flor de Noche Buena'!",
+      "story": "De kerstster is een populaire kerstplant die bekend staat om zijn felrode en groene bladeren. "
+    },
+    {
+      "question": "Welk land wordt gecrediteerd voor het starten van de kerstboomtraditie?",
+      "options": [
+        "Verenigde Staten",
+        "Duitsland",
+        "Verenigd Koninkrijk",
+        "Frankrijk"
+      ],
+      "answer": "Duitsland",
+      "funFact": "De kerstboomtraditie gaat terug tot de 16e eeuw in Duitsland!",
+      "story": "De traditie van het versieren van kerstbomen ontstond in de 16e eeuw in Duitsland. "
+    },
+    {
+      "question": "Hoe heet het traditionele kerstballet?",
+      "options": [
+        "Het Zwanenmeer",
+        "De Notenkraker",
+        "Giselle",
+        "Coppelia"
+      ],
+      "answer": "De Notenkraker",
+      "funFact": "Het Notenkrakerballet is gebaseerd op een verhaal van E.T.A. ",
+      "story": "De Notenkraker is een klassiek kerstballet gecomponeerd door Pjotr ​​Iljitsj Tsjaikovski, gebaseerd op het verhaal 'De Notenkraker en de Muizenkoning' van E.T.A. "
+    },
+    {
+      "question": "Welk rendier staat bekend om zijn glimmende rode neus?",
+      "options": [
+        "Dasher",
+        "Danser",
+        "Rudolf",
+        "Vixen"
+      ],
+      "answer": "Rudolf",
+      "funFact": "Rudolph the Red-Nosed Reindeer werd in 1939 gemaakt als promotiepersonage!",
+      "story": "Rudolph the Red-Nosed Reindeer is een fictief personage gecreëerd door Robert L. May in 1939 als onderdeel van een promotiecampagne voor Montgomery Ward, een warenhuis. "
+    },
+    {
+      "question": "Wat is het traditionele kerstdessert van Italië?",
+      "options": [
+        "Panettone",
+        "Tiramisu",
+        "Cannoli",
+        "Gelato"
+      ],
+      "answer": "Panettone",
+      "funFact": "De bereiding van dit feestelijke brood duurt meerdere dagen op traditionele wijze!",
+      "story": "Panettone ontstond in Milaan tijdens de Renaissance. "
+    },
+    {
+      "question": "Welk land begon met de traditie van kerstkaarten?",
+      "options": [
+        "Engeland",
+        "Duitsland",
+        "Verenigde Staten",
+        "Frankrijk"
+      ],
+      "answer": "Engeland",
+      "funFact": "De eerste commerciële kerstkaarten werden geproduceerd in de jaren 1840!",
+      "story": "De traditie van het versturen van kerstkaarten begon in 1843 toen Sir Henry Cole kunstenaar John Callcott Horsley de opdracht gaf om de eerste commerciële kerstkaart in Londen te ontwerpen. "
+    },
+    {
+      "question": "Wat is de traditionele kerstavondmaaltijd in Polen?",
+      "options": [
+        "Wigilia",
+        "Geroosterde kalkoen",
+        "Ham",
+        "Vis en chips"
+      ],
+      "answer": "Wigilia",
+      "funFact": "Dit feest begint traditioneel wanneer de eerste ster aan de hemel verschijnt!",
+      "story": "Wigilia is het traditionele kerstavondmaal in Polen, bestaande uit twaalf vleesloze gerechten die de twaalf apostelen vertegenwoordigen. "
+    },
+    {
+      "question": "Welke stad begon met de traditie van de kerstboom?",
+      "options": [
+        "Riga",
+        "Berlijn",
+        "Wenen",
+        "Kopenhagen"
+      ],
+      "answer": "Riga",
+      "funFact": "Een plaquette markeert de plaats van de eerste versierde boom uit 1510!",
+      "story": "De eerste gedocumenteerde kerstboom werd in 1510 tentoongesteld in Riga, Letland. De Broederschap van Zwartkoppen, een gilde van ongehuwde kooplieden, richtte en versierde tijdens de kerstperiode een boom in hun gildezaal. "
+    },
+    {
+      "question": "Wat is een traditionele kerstversiering op de Filippijnen?",
+      "options": [
+        "Parool",
+        "Lauwerkrans",
+        "Klatergoud",
+        "Maretak"
+      ],
+      "answer": "Parool",
+      "funFact": "Deze stervormige lantaarns symboliseren het leidende licht van Bethlehem!",
+      "story": "De Parol is een stervormige kerstlantaarn die uniek is voor de Filippijnse cultuur. "
+    },
+    {
+      "question": "Wat is de traditionele kerstpudding van Australië?",
+      "options": [
+        "Pavlova",
+        "Vruchtentaart",
+        "Kleinigheid",
+        "Gehakt Taart"
+      ],
+      "answer": "Pavlova",
+      "funFact": "Dit dessert is gemaakt ter ere van het bezoek van een beroemde Russische ballerina!",
+      "story": "De Pavlova, een dessert op basis van meringue, gegarneerd met slagroom en vers fruit, is een kerstproduct geworden in Australië. "
+    },
+    {
+      "question": "Welk land viert Kerstmis met een gigantische geit?",
+      "options": [
+        "Zweden",
+        "Noorwegen",
+        "Denemarken",
+        "Finland"
+      ],
+      "answer": "Zweden",
+      "funFact": "Deze massieve strostructuur is wereldwijd beroemd geworden!",
+      "story": "De Gävle-geit is een gigantische versie van de traditionele Zweedse Yule-geit, die jaarlijks in Gävle, Zweden wordt opgericht. "
+    },
+    {
+      "question": "Wat is het traditionele kerstbrood van Duitsland?",
+      "options": [
+        "Stol",
+        "Krakeling",
+        "Pompernikkel",
+        "Roggebrood"
+      ],
+      "answer": "Stol",
+      "funFact": "Middeleeuwse bakkers hadden speciale toestemming nodig om boter in dit feestelijke brood te gebruiken!",
+      "story": "Stollen is een fruitbrood gemaakt met gedroogd fruit, noten en kruiden, waar traditioneel van wordt genoten tijdens de kerstperiode. "
+    },
+    {
+      "question": "Welk dier helpt mee met het bezorgen van cadeautjes in Spanje?",
+      "options": [
+        "Caga Tio",
+        "Rendier",
+        "Ezel",
+        "Paard"
+      ],
+      "answer": "Caga Tio",
+      "funFact": "Deze unieke traditie omvat een holle boomstam versierd met een lachend gezicht!",
+      "story": "Caga Tió, of het 'poepblok', is een unieke Catalaanse kersttraditie. "
+    },
+    {
+      "question": "Hoe heet de traditionele kerstmarkt in het Duits?",
+      "options": [
+        "Christkindlmarkt",
+        "Weihnachtsfest",
+        "Adventmarkt",
+        "Winterfeest"
+      ],
+      "answer": "Christkindlmarkt",
+      "funFact": "Deze betoverende markten dateren uit de Middeleeuwen!",
+      "story": "Christkindlmarkt, wat 'Christuskindmarkt' betekent, is een straatmarkt die verband houdt met de viering van Kerstmis tijdens de vier weken van de advent. "
+    }
+  ]
+}

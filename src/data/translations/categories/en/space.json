@@ -1,0 +1,165 @@
+{
+  "questions": [
+    {
+      "question": "Which planet has square clouds?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "answer": "Venus",
+      "funFact": "The atmosphere here is thicker than Earth's oceans!",
+      "story": "Venus's atmosphere features unique geometric cloud formations. Scientists discovered these square-shaped clouds in 2015 using data from Japan's Akatsuki spacecraft. The unusual pattern is caused by gravity waves in the planet's super-dense atmosphere."
+    },
+    {
+      "question": "Which space object smells like raspberries?",
+      "options": ["Sagittarius B2", "Orion Nebula", "Crab Nebula", "Horsehead Nebula"],
+      "answer": "Sagittarius B2",
+      "funFact": "This region contains billions of liters of alcohol!",
+      "story": "Sagittarius B2, a giant molecular cloud near the center of our galaxy, contains ethyl formate, which gives raspberries their flavor. Scientists discovered this using spectroscopy, which analyzes the chemical composition of distant objects."
+    },
+    {
+      "question": "Which astronaut played golf in space?",
+      "options": ["Alan Shepard", "Neil Armstrong", "Buzz Aldrin", "John Glenn"],
+      "answer": "Alan Shepard",
+      "funFact": "The special club head was smuggled in a sock!",
+      "story": "During the Apollo 14 mission, Alan Shepard hit two golf balls on the Moon. He attached a modified 6-iron head to a lunar sample collection tool. Due to the Moon's low gravity, he claimed one ball went for 'miles and miles.'"
+    },
+    {
+      "question": "Which space mission carried tree seeds?",
+      "options": ["Apollo 14", "Gemini 3", "Mercury 7", "Vostok 1"],
+      "answer": "Apollo 14",
+      "funFact": "Many of these seeds grew into historic landmarks!",
+      "story": "The Apollo 14 mission carried hundreds of tree seeds to orbit the Moon. After returning to Earth, these 'Moon Trees' were planted across the United States. Some grew into massive trees that still stand today as living monuments to space exploration."
+    },
+    {
+      "question": "Which space object rains glass sideways?",
+      "options": ["HD 189733b", "Kepler-16b", "WASP-12b", "Gliese 436b"],
+      "answer": "HD 189733b",
+      "funFact": "The winds here move faster than sound!",
+      "story": "HD 189733b is an exoplanet where silicate particles condense in the atmosphere and are blown sideways by extreme winds. The planet appears deep blue, but its 'rain' would be deadly, with glass shards moving at thousands of miles per hour."
+    },
+    {
+      "question": "Which space suit was designed by a bra maker?",
+      "options": ["Apollo", "Mercury", "Gemini", "Vostok"],
+      "answer": "Apollo",
+      "funFact": "The company had experience with rubber garments!",
+      "story": "Playtex, known for making bras and girdles, won the contract to make Apollo spacesuits. Their experience with flexible rubber materials and precision stitching proved crucial. The seamstresses used the same sewing machines they used for bras."
+    },
+    {
+      "question": "Which space rock contains dinosaur bones?",
+      "options": ["ALH 84001", "Murchison", "Allende", "Tagish Lake"],
+      "answer": "ALH 84001",
+      "funFact": "This object is older than human civilization!",
+      "story": "ALH 84001, a Martian meteorite found in Antarctica, contains structures that some scientists believe could be fossilized bacteria. While this claim is debated, the meteorite has provided valuable insights into Mars's ancient history."
+    },
+    {
+      "question": "Which space telescope runs on perfume?",
+      "options": ["Spitzer", "Hubble", "Chandra", "Kepler"],
+      "answer": "Spitzer",
+      "funFact": "The cooling system lasted longer than expected!",
+      "story": "The Spitzer Space Telescope used liquid helium to cool its instruments. When depleted, it continued operating in 'warm mode.' The helium cooling system was similar to those used in the perfume industry for extracting scents."
+    },
+    {
+      "question": "Which space food was never eaten?",
+      "options": ["Corn Flakes", "Ice Cream", "Coca-Cola", "M&Ms"],
+      "answer": "Corn Flakes",
+      "funFact": "These were specially designed for zero gravity!",
+      "story": "Kellogg's created special cube-shaped corn flakes for the Apollo missions, but they were never eaten in space. The astronauts preferred other foods, and the cubes were too crumbly for zero gravity environments."
+    },
+    {
+      "question": "Which space object is shaped like a sombrero?",
+      "options": ["M104", "Andromeda", "Whirlpool", "Pinwheel"],
+      "answer": "M104",
+      "funFact": "This galaxy contains over 800 billion stars!",
+      "story": "The Sombrero Galaxy, M104, gets its name from its distinctive shape, caused by a large bulge of stars and an unusual dust lane. It was discovered in 1781 and is visible through small telescopes despite being 28 million light-years away."
+    },
+    {
+      "question": "Which planet rains diamonds?",
+      "options": ["Neptune", "Uranus", "Saturn", "Jupiter"],
+      "answer": "Neptune",
+      "funFact": "The planet has extreme pressure!",
+      "story": "Deep within this ice giant, carbon atoms are compressed under such extreme conditions that they crystallize into diamonds, which then fall through the planet's layers."
+    },
+    {
+      "question": "Which moon has geysers?",
+      "options": ["Enceladus", "Europa", "Titan", "Io"],
+      "answer": "Enceladus",
+      "funFact": "The eruptions reach incredible heights!",
+      "story": "This small moon shoots massive plumes of water ice into space through cracks in its icy surface, creating a spectacular display visible from great distances."
+    },
+    {
+      "question": "Which star changes color most?",
+      "options": ["V838 Monocerotis", "Betelgeuse", "Antares", "Rigel"],
+      "answer": "V838 Monocerotis",
+      "funFact": "The star's light echo creates spectacular views!",
+      "story": "V838 Monocerotis underwent a rare stellar outburst in 2002, dramatically changing colors as it expanded to become one of the largest known stars in the Milky Way."
+    },
+    {
+      "question": "Which asteroid spins fastest?",
+      "options": ["2008 HJ", "Vesta", "Ceres", "Pallas"],
+      "answer": "2008 HJ",
+      "funFact": "The rotation is incredibly rapid!",
+      "story": "Asteroid 2008 HJ completes one rotation in just 42.7 seconds, making it the fastest-spinning natural object known in our solar system."
+    },
+    {
+      "question": "Which galaxy forms most stars?",
+      "options": ["GN-z11", "IC 1101", "Phoenix", "Hercules A"],
+      "answer": "GN-z11",
+      "funFact": "The galaxy is incredibly distant!",
+      "story": "GN-z11, the most distant and earliest known galaxy, forms stars at a rate 20 times faster than the Milky Way, creating the equivalent of 24 suns per year."
+    },
+    {
+      "question": "Which nebula changes fastest?",
+      "options": ["Stingray", "Crab", "Ring", "Helix"],
+      "answer": "Stingray",
+      "funFact": "The changes are visible within weeks!",
+      "story": "The Stingray Nebula, discovered in 1987, is the youngest known planetary nebula and has been observed shrinking and changing brightness dramatically over just decades."
+    },
+    {
+      "question": "Which planet orbits fastest?",
+      "options": ["WASP-12b", "KELT-9b", "HAT-P-7b", "HD 189733b"],
+      "answer": "WASP-12b",
+      "funFact": "The speed is mind-boggling!",
+      "story": "WASP-12b orbits its star in just 26 hours, moving at an incredible speed of 217 kilometers per second, making it one of the fastest-orbiting exoplanets known."
+    },
+    {
+      "question": "Which moon has rainbows?",
+      "options": ["Titan", "Ganymede", "Callisto", "Europa"],
+      "answer": "Titan",
+      "funFact": "The atmosphere is incredibly thick!",
+      "story": "This large moon's dense atmosphere and unique chemical composition create spectacular rainbow-like effects when sunlight interacts with its atmosphere."
+    },
+    {
+      "question": "Which planet has hexagonal storms?",
+      "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+      "answer": "Saturn",
+      "funFact": "The pattern has lasted for decades!",
+      "story": "Saturn's north pole features a persistent hexagonal-shaped storm system spanning 30,000 kilometers across, discovered by the Voyager mission and still monitored by modern telescopes."
+    },
+    {
+      "question": "Which comet contains alcohol?",
+      "options": ["Lovejoy", "Halley", "Hale-Bopp", "McNaught"],
+      "answer": "Lovejoy",
+      "funFact": "It releases tons per second!",
+      "story": "Comet Lovejoy releases ethyl alcohol and sugar into space as it travels, producing the equivalent of 500 bottles of wine every second during its most active period."
+    },
+    {
+      "question": "Which black hole spins fastest?",
+      "options": ["GRS 1915+105", "Cygnus X-1", "M87*", "Sagittarius A*"],
+      "answer": "GRS 1915+105",
+      "funFact": "It spins at near light speed!",
+      "story": "GRS 1915+105, a stellar-mass black hole in our galaxy, spins at 1,150 times per second, reaching 98% of the maximum spin rate allowed by Einstein's theory of relativity."
+    },
+    {
+      "question": "Which moon has volcanoes of ice?",
+      "options": ["Triton", "Miranda", "Oberon", "Ariel"],
+      "answer": "Triton",
+      "funFact": "The eruptions reach 8 km high!",
+      "story": "Neptune's largest moon, Triton, has cryovolcanoes that erupt with liquid nitrogen, methane, and dust, creating plumes that rise 8 kilometers into its thin atmosphere."
+    },
+    {
+      "question": "Which space rock sings?",
+      "options": ["Comet 67P", "Ryugu", "Bennu", "Psyche"],
+      "answer": "Comet 67P",
+      "funFact": "The frequency is below human hearing!",
+      "story": "Comet 67P/Churyumov-Gerasimenko produces a mysterious 'song' - oscillations in its magnetic field at 40-50 millihertz, detected by the Rosetta spacecraft in 2014."
+    }
+  ]
+}

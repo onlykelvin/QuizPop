@@ -1,0 +1,66 @@
+{
+  "category": "Geografie",
+  "description": "Ontdek de landschappen, culturen en natuurlijke wonderen van de wereld",
+  "questions": [
+    {
+      "question": "Welk meer verandert van kleur?",
+      "options": [
+        "Heuvelachtiger",
+        "Natron",
+        "Retba",
+        "Kelimutu"
+      ],
+      "answer": "Heuvelachtiger",
+      "funFact": "De schaduw is constant!",
+      "story": "Lake Hillier in Australië behoudt het hele jaar door zijn felroze kleur dankzij de aanwezigheid van Dunaliella salina-microalgen en het hoge zoutgehalte."
+    },
+    {
+      "question": "Welke grot gloeit blauw?",
+      "options": [
+        "Wachtomo",
+        "Jenolan",
+        "Luray",
+        "Mammoet"
+      ],
+      "answer": "Wachtomo",
+      "funFact": "De weergave is natuurlijk!",
+      "story": "De Waitomo-grotten in Nieuw-Zeeland herbergen duizenden bioluminescente glimwormen die een prachtig blauw licht op de plafonds van de grot creëren."
+    },
+    {
+      "question": "Welke woestijn bloeit het meest?",
+      "options": [
+        "Atacama",
+        "Sahara",
+        "Mojave",
+        "Gobi"
+      ],
+      "answer": "Atacama",
+      "funFact": "Het evenement is zeldzaam!",
+      "story": "De Chileense Atacama-woestijn, 's werelds droogste niet-polaire woestijn, barst na zeldzame regenbuien uit in kleurrijke bloei van meer dan 200 bloemsoorten."
+    },
+    {
+      "question": "Welk eiland beweegt het snelst?",
+      "options": [
+        "Surtsey",
+        "Sholan",
+        "Zalzala",
+        "Noorderoog"
+      ],
+      "answer": "Surtsey",
+      "funFact": "De veranderingen zijn zichtbaar!",
+      "story": "Het IJslandse eiland Surtsey, gevormd door een vulkaanuitbarsting in 1963, erodeert zo snel dat het elk jaar enkele meters kustlijn verliest."
+    },
+    {
+      "question": "Welke berg wordt het hoogst?",
+      "options": [
+        "Nanga Parbat",
+        "K2",
+        "Everest",
+        "Denali"
+      ],
+      "answer": "Nanga Parbat",
+      "funFact": "De stijging is meetbaar!",
+      "story": "De Pakistaanse Nanga Parbat stijgt sneller dan welke andere berg op aarde dan ook en wint met een snelheid van 7 millimeter per jaar als gevolg van tektonische activiteit."
+    }
+  ]
+}

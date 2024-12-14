@@ -1,0 +1,462 @@
+{
+  "category": "Boekenclub",
+  "description": "Ontdek literaire klassiekers, boekbesprekingen en leescultuur",
+  "questions": [
+    {
+      "question": "Van welke boekenclubselectie van Oprah Winfrey werden meer dan 2 miljoen exemplaren verkocht nadat ze waren gekozen?",
+      "options": [
+        "Het diepe einde van de oceaan",
+        "De weg",
+        "De Correcties",
+        "Een miljoen kleine stukjes"
+      ],
+      "answer": "Het diepe einde van de oceaan",
+      "funFact": "Oprah's Book Club heeft sinds de oprichting in 1996 meer dan 90 boeken uitgebracht!",
+      "story": "Toen Oprah in 1996 'The Deep End of the Ocean' van Jacquelyn Mitchard als haar eerste boekenclubkeuze selecteerde, ontstond wat uitgevers 'The Oprah Effect' noemen. "
+    },
+    {
+      "question": "Wat is de term voor een groep die samen online een boek leest en bespreekt?",
+      "options": [
+        "E-club",
+        "Virtuele boekenclub",
+        "Digitale leescirkel",
+        "Cyberbibliotheek"
+      ],
+      "answer": "Virtuele boekenclub",
+      "funFact": "De eerste grote begon op AOL in 1996!",
+      "story": "Virtuele boekenclubs zijn enorm populair geworden tijdens het digitale tijdperk, waardoor lezers over de hele wereld met elkaar in contact konden komen en literatuur konden bespreken. "
+    },
+    {
+      "question": "Welke klassieke roman werd in 1936 voor het eerst gepubliceerd als boekenclubselectie?",
+      "options": [
+        "Weg met de wind",
+        "Van muizen en mensen",
+        "Rebekka",
+        "De Hobbit"
+      ],
+      "answer": "Weg met de wind",
+      "funFact": "Dankzij de selectie van het Boek van de Maand Club zijn er in het eerste jaar meer dan een miljoen exemplaren verkocht!",
+      "story": "Margaret Mitchells 'Gone with the Wind' werd in 1936 verkozen tot Book of the Month Club-selectie, waardoor het een enorm succes werd. "
+    },
+    {
+      "question": "Welke auteur schreef 'The Catcher in the Rye'?",
+      "options": [
+        "JD Salinger",
+        "F.Scott Fitzgerald",
+        "Ernest Hemingway",
+        "Johannes Steinbeck"
+      ],
+      "answer": "JD Salinger",
+      "funFact": "'The Catcher in the Rye' werd in 1951 gepubliceerd en er zijn wereldwijd meer dan 65 miljoen exemplaren van verkocht!",
+      "story": "'The Catcher in the Rye' is een roman van J.D. Salinger die het verhaal volgt van Holden Caulfield, een tiener die door het leven in New York City navigeert nadat hij van de middelbare school is gestuurd. "
+    },
+    {
+      "question": "Wat is de term voor een boek dat door een auteur onder een andere naam is geschreven?",
+      "options": [
+        "Pseudoniem",
+        "Alias",
+        "pseudoniem",
+        "Nom de pluim"
+      ],
+      "answer": "Pseudoniem",
+      "funFact": "Veel beroemde auteurs, waaronder Mark Twain en George Orwell, schreven onder pseudoniemen!",
+      "story": "Een pseudoniem, of pseudoniem, is een fictieve naam die door een auteur wordt gebruikt om zijn identiteit te verbergen of om verschillende genres van zijn werk te scheiden. "
+    },
+    {
+      "question": "Welk boek is het eerste in de 'Harry Potter'-serie?",
+      "options": [
+        "Harry Potter en de Geheime Kamer",
+        "Harry Potter en de gevangene van Azkaban",
+        "Harry Potter en de Steen der Wijzen",
+        "Harry Potter en de Vuurbeker"
+      ],
+      "answer": "Harry Potter en de Steen der Wijzen",
+      "funFact": "Van de 'Harry Potter'-serie zijn wereldwijd meer dan 500 miljoen exemplaren verkocht!",
+      "story": "'Harry Potter en de Steen der Wijzen', in sommige regio's ook wel 'Harry Potter en de Steen der Wijzen' genoemd, is het eerste boek van J.K. "
+    },
+    {
+      "question": "Welke auteur schreef 'To Kill a Mockingbird'?",
+      "options": [
+        "Harper Lee",
+        "Toni Morrison",
+        "Alice Walker",
+        "Maya Angelou"
+      ],
+      "answer": "Harper Lee",
+      "funFact": "'To Kill a Mockingbird' won in 1961 de Pulitzerprijs voor fictie!",
+      "story": "'To Kill a Mockingbird' is een roman van Harper Lee die thema's van raciaal onrecht en morele groei in het Amerikaanse Zuiden tijdens de jaren dertig onderzoekt. "
+    },
+    {
+      "question": "Wat is het genre van een boek dat zich richt op futuristische technologie en ruimteverkenning?",
+      "options": [
+        "Fantasie",
+        "Sciencefiction",
+        "Mysterie",
+        "Romantiek"
+      ],
+      "answer": "Sciencefiction",
+      "funFact": "Sciencefiction onderzoekt vaak thema's als technologie, ruimtevaart en de toekomst!",
+      "story": "Sciencefiction is een literatuurgenre dat fantasierijke en futuristische concepten onderzoekt, waarbij vaak geavanceerde technologie, ruimteverkenning, tijdreizen en buitenaards leven betrokken zijn. "
+    },
+    {
+      "question": "Welke auteur heeft de fictieve detective Sherlock Holmes gemaakt?",
+      "options": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Edgar Allan Poe",
+        "Raymond Chandler"
+      ],
+      "answer": "Arthur Conan Doyle",
+      "funFact": "Sherlock Holmes verscheen voor het eerst in de roman 'A Study in Scarlet' in 1887!",
+      "story": "Sherlock Holmes is een fictieve detective gecreëerd door Sir Arthur Conan Doyle. "
+    },
+    {
+      "question": "Wat is de term voor een boek dat deel uitmaakt van een serie?",
+      "options": [
+        "Volume",
+        "Editie",
+        "Afbetaling",
+        "Vervolg"
+      ],
+      "answer": "Afbetaling",
+      "funFact": "Veel populaire boekenreeksen, zoals 'The Lord of the Rings' en 'The Hunger Games', verschijnen in afleveringen!",
+      "story": "Een aflevering is een enkel boek in een serie, een verzameling gerelateerde werken met gemeenschappelijke karakters, instellingen of thema's. "
+    },
+    {
+      "question": "Welk boek staat bekend als de eerste moderne roman?",
+      "options": [
+        "Don Quichot",
+        "Trots en vooroordeel",
+        "Moby-Dick",
+        "De Grote Gatsby"
+      ],
+      "answer": "Don Quichot",
+      "funFact": "'Don Quixote' is geschreven door Miguel de Cervantes en in twee delen gepubliceerd in 1605 en 1615!",
+      "story": "'Don Quixote' is een roman van Miguel de Cervantes die het verhaal vertelt van een edelman die een zelfbenoemde dolende ridder wordt. "
+    },
+    {
+      "question": "Welke auteur schreef '1984'?",
+      "options": [
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "George Orwel",
+        "Philip K. Dick"
+      ],
+      "answer": "George Orwel",
+      "funFact": "'1984' verscheen in 1949 en is in meer dan 65 talen vertaald!",
+      "story": "'1984' is een dystopische roman van George Orwell die thema's als totalitarisme, surveillance en censuur onderzoekt. "
+    },
+    {
+      "question": "Wat is de term voor een boek dat gebaseerd is op ware gebeurtenissen of iemands leven?",
+      "options": [
+        "Fictie",
+        "Non-fictie",
+        "Biografie",
+        "Autobiografie"
+      ],
+      "answer": "Non-fictie",
+      "funFact": "Non-fictieboeken kunnen biografieën, memoires en historische verslagen bevatten!",
+      "story": "Non-fictie is een literatuurgenre dat feitelijke informatie presenteert over echte gebeurtenissen, mensen of onderwerpen. "
+    },
+    {
+      "question": "Welke auteur schreef 'Pride and Prejudice'?",
+      "options": [
+        "Jane Austen",
+        "Charlotte Brontë",
+        "Emily Dickinson",
+        "Maria Shelley"
+      ],
+      "answer": "Jane Austen",
+      "funFact": "'Pride and Prejudice' heette oorspronkelijk 'First Impressions'!",
+      "story": "'Pride and Prejudice' is een klassieke roman geschreven door Jane Austen, voor het eerst gepubliceerd in 1813. De roman onderzoekt thema's als liefde, klasse en reputatie aan de hand van het verhaal van Elizabeth Bennet en Mr. Darcy. "
+    },
+    {
+      "question": "Welke roman begint met de regel 'Noem me Ismaël'?",
+      "options": [
+        "Moby-Dick",
+        "De Grote Gatsby",
+        "1984",
+        "Een spotvogel doden"
+      ],
+      "answer": "Moby-Dick",
+      "funFact": "'Moby-Dick' is geïnspireerd op echte walvisexpedities!",
+      "story": "'Moby-Dick' is een roman van Herman Melville, gepubliceerd in 1851. Het verhaal volgt de obsessieve zoektocht van kapitein Ahab om de ongrijpbare witte walvis, Moby Dick, op te sporen. "
+    },
+    {
+      "question": "Wie is de auteur van '1984'?",
+      "options": [
+        "George Orwel",
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "Kurt Vonnegut"
+      ],
+      "answer": "George Orwel",
+      "funFact": "'1984' introduceerde het concept van 'Big Brother'!",
+      "story": "'1984' is een dystopische roman geschreven door George Orwell, gepubliceerd in 1949. Het verhaal speelt zich af in een totalitaire samenleving geregeerd door de partij en haar leider, Big Brother. "
+    },
+    {
+      "question": "In welk boek komt het personage Atticus Finch voor?",
+      "options": [
+        "Een spotvogel doden",
+        "De Vanger in de Rogge",
+        "De druiven der toorn",
+        "De Grote Gatsby"
+      ],
+      "answer": "Een spotvogel doden",
+      "funFact": "Atticus Finch wordt beschouwd als een van de grootste literaire helden!",
+      "story": "'To Kill a Mockingbird' is een roman van Harper Lee, gepubliceerd in 1960. Het verhaal speelt zich af in de raciaal geladen sfeer van het Amerikaanse Zuiden in de jaren dertig en volgt de jonge Scout Finch en haar broer Jem terwijl ze omgaan met kwesties als ras en rechtvaardigheid. "
+    },
+    {
+      "question": "Wie schreef 'The Great Gatsby'?",
+      "options": [
+        "F.Scott Fitzgerald",
+        "Ernest Hemingway",
+        "Johannes Steinbeck",
+        "Willem Faulkner"
+      ],
+      "answer": "F.Scott Fitzgerald",
+      "funFact": "'The Great Gatsby' wordt vaak gezien als een kritiek op de American Dream!",
+      "story": "'The Great Gatsby' is een roman van F. Scott Fitzgerald, gepubliceerd in 1925. Het verhaal speelt zich af tijdens de Roaring Twenties en volgt de mysterieuze miljonair Jay Gatsby en zijn obsessie met de mooie Daisy Buchanan. "
+    },
+    {
+      "question": "In welke roman speelt het personage Holden Caulfield?",
+      "options": [
+        "De Vanger in de Rogge",
+        "De Grote Gatsby",
+        "Heer van de vliegen",
+        "Dappere nieuwe wereld"
+      ],
+      "answer": "De Vanger in de Rogge",
+      "funFact": "Holden Caulfield is een iconisch symbool geworden van tieneropstand!",
+      "story": "'The Catcher in the Rye' is een roman van JD Salinger, gepubliceerd in 1951. Het verhaal wordt verteld door Holden Caulfield, een tiener die van de middelbare school is gestuurd en gedesillusioneerd is in de wereld van volwassenen. "
+    },
+    {
+      "question": "Wie is de auteur van 'Brave New World'?",
+      "options": [
+        "Aldous Huxley",
+        "George Orwel",
+        "Ray Bradbury",
+        "H.G. Wells"
+      ],
+      "answer": "Aldous Huxley",
+      "funFact": "'Brave New World' voorziet een toekomst van genetische manipulatie en sociale controle!",
+      "story": "'Brave New World' is een dystopische roman geschreven door Aldous Huxley, gepubliceerd in 1932. Het verhaal speelt zich af in een technologisch geavanceerde samenleving waar individualiteit wordt onderdrukt en mensen worden geconditioneerd om zich te conformeren. "
+    },
+    {
+      "question": "In welk boek komt het personage Jay Gatsby voor?",
+      "options": [
+        "De Grote Gatsby",
+        "De Vanger in de Rogge",
+        "1984",
+        "Een spotvogel doden"
+      ],
+      "answer": "De Grote Gatsby",
+      "funFact": "Jay Gatsby staat bekend om zijn extravagante feesten en mysterieuze verleden!",
+      "story": "'The Great Gatsby' is een roman van F. Scott Fitzgerald, gepubliceerd in 1925. Het verhaal volgt de enigmatische miljonair Jay Gatsby en zijn achtervolging van de ongrijpbare Daisy Buchanan. "
+    },
+    {
+      "question": "Wie schreef 'De druiven der gramschap'?",
+      "options": [
+        "Johannes Steinbeck",
+        "Ernest Hemingway",
+        "F.Scott Fitzgerald",
+        "Willem Faulkner"
+      ],
+      "answer": "Johannes Steinbeck",
+      "funFact": "'The Grapes of Wrath' won in 1940 de Pulitzerprijs!",
+      "story": "'The Grapes of Wrath' is een roman van John Steinbeck, gepubliceerd in 1939. Het verhaal volgt de familie Joad terwijl ze tijdens de Grote Depressie van Oklahoma naar Californië reizen op zoek naar een beter leven. "
+    },
+    {
+      "question": "In welke roman speelt het personage Elizabeth Bennet?",
+      "options": [
+        "Trots en vooroordeel",
+        "Gevoel en gevoeligheid",
+        "Emma",
+        "Mansfieldpark"
+      ],
+      "answer": "Trots en vooroordeel",
+      "funFact": "Elizabeth Bennet staat bekend om haar humor en onafhankelijkheid!",
+      "story": "'Pride and Prejudice' is een roman van Jane Austen, voor het eerst gepubliceerd in 1813. Het verhaal volgt Elizabeth Bennet, een energieke jonge vrouw die zich bezighoudt met kwesties als klasse, familie en romantiek in het Engeland van het begin van de 19e eeuw. "
+    },
+    {
+      "question": "In welke roman speelt het personage Winston Smith?",
+      "options": [
+        "1984",
+        "Dappere nieuwe wereld",
+        "Fahrenheit 451",
+        "Dierenboerderij"
+      ],
+      "answer": "1984",
+      "funFact": "De werktitel van de roman was 'De laatste man in Europa'!",
+      "story": "Het dystopische meesterwerk van George Orwell volgt Winston Smith, een laaggeplaatst partijlid in een totalitaire staat. "
+    },
+    {
+      "question": "Wie schreef 'Honderd jaar eenzaamheid'?",
+      "options": [
+        "Gabriël García Márquez",
+        "Isabel Allende",
+        "Jorge Luis Borges",
+        "Pablo Neruda"
+      ],
+      "answer": "Gabriël García Márquez",
+      "funFact": "De auteur liet zich inspireren door de vertelstijl van zijn grootmoeder!",
+      "story": "Het meesterwerk van Gabriel García Márquez volgt zeven generaties van de familie Buendía in de mythische stad Macondo. "
+    },
+    {
+      "question": "In welk toneelstuk van Shakespeare staat de regel 'To be, or not to be'?",
+      "options": [
+        "Gehucht",
+        "Macbeth",
+        "Koning Lear",
+        "Othello"
+      ],
+      "answer": "Gehucht",
+      "funFact": "Deze beroemde monoloog bevat meer dan 260 woorden!",
+      "story": "De monoloog van Hamlet in Act 3, Scene 1 is misschien wel de beroemdste passage in de Engelse literatuur. "
+    },
+    {
+      "question": "Welke roman begint met 'Het was de beste der tijden, het was de slechtste der tijden'?",
+      "options": [
+        "Een verhaal over twee steden",
+        "Grote verwachtingen",
+        "Oliver Twist",
+        "David Copperfield"
+      ],
+      "answer": "Een verhaal over twee steden",
+      "funFact": "Het laatste hoofdstuk van de roman is geïnspireerd op een toneelstuk!",
+      "story": "De historische roman van Charles Dickens, die zich afspeelt in Londen en Parijs voor en tijdens de Franse Revolutie, werd gepubliceerd in 1859. Het verhaal volgt verschillende personages die gevangen zitten in de gewelddadige onrust van het revolutionaire Parijs. "
+    },
+    {
+      "question": "Wie schreef 'The Canterbury Tales'?",
+      "options": [
+        "Geoffrey Chaucer",
+        "Willem Langland",
+        "John Gower",
+        "Thomas Malory"
+      ],
+      "answer": "Geoffrey Chaucer",
+      "funFact": "Het originele manuscript is geschreven in het Middelengels dialect!",
+      "story": "Geoffrey Chaucer schreef The Canterbury Tales aan het einde van de 14e eeuw en creëerde daarmee een meesterwerk dat een levendig kijkje geeft in het middeleeuwse leven. "
+    },
+    {
+      "question": "Welke auteur heeft de detective Hercule Poirot gemaakt?",
+      "options": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Dorothy L. Sayers",
+        "Raymond Chandler"
+      ],
+      "answer": "Agatha Christie",
+      "funFact": "Dit personage verscheen in 33 romans en 54 korte verhalen!",
+      "story": "Agatha Christie creëerde Hercule Poirot, de kieskeurige Belgische detective, in 1920. Het personage werd geïnspireerd door de Belgische vluchtelingen die Christie observeerde tijdens de Eerste Wereldoorlog. Poirots kenmerkende persoonlijkheidskenmerken, waaronder zijn eivormige hoofd en prachtige snorren, werden iconisch in detectivefictie. "
+    },
+    {
+      "question": "In welke Russische roman speelt het personage Anna Karenina?",
+      "options": [
+        "Anna Karenina",
+        "Oorlog en vrede",
+        "Misdaad en straf",
+        "Dokter Zjivago"
+      ],
+      "answer": "Anna Karenina",
+      "funFact": "De auteur heeft dit werk zeventien keer gereviseerd vóór publicatie!",
+      "story": "Anna Karenina van Leo Tolstoj, gepubliceerd tussen 1875 en 1877, vertelt het tragische verhaal van een getrouwde aristocraat en haar affaire met graaf Vronski. "
+    },
+    {
+      "question": "Welke auteur schreef 'De kleur paars'?",
+      "options": [
+        "Alice Walker",
+        "Toni Morrison",
+        "Maya Angelou",
+        "Zora Neale Hurston"
+      ],
+      "answer": "Alice Walker",
+      "funFact": "Het manuscript werd met potlood in verschillende notitieboekjes geschreven!",
+      "story": "De met de Pulitzerprijs bekroonde roman van Alice Walker werd in 1982 gepubliceerd. Het verhaal is geschreven in briefvorm door middel van brieven aan God en volgt Celie, een jong Afro-Amerikaans meisje dat opgroeit in Georgië. "
+    },
+    {
+      "question": "Wie schreef 'Don Quichot'?",
+      "options": [
+        "Miguel de Cervantes",
+        "Federico Garcia Lorca",
+        "Pablo Neruda",
+        "Gabriël García Márquez"
+      ],
+      "answer": "Miguel de Cervantes",
+      "funFact": "De auteur schreef een groot deel van dit werk terwijl hij in de gevangenis zat!",
+      "story": "Miguel de Cervantes publiceerde Don Quixote in twee delen (1605 en 1615), waarmee hij creëerde wat vaak de eerste moderne roman wordt genoemd. "
+    },
+    {
+      "question": "Welke dichter schreef 'De Raaf'?",
+      "options": [
+        "Edgar Allan Poe",
+        "Walt Whitman",
+        "Emily Dickinson",
+        "Robert Vorst"
+      ],
+      "answer": "Edgar Allan Poe",
+      "funFact": "De auteur heeft meer dan tien jaar besteed aan het perfectioneren van zijn poëzietheorie voordat hij dit stuk schreef!",
+      "story": "Edgar Allan Poe publiceerde in 1845 'The Raven' en creëerde daarmee een van de beroemdste gedichten uit de Amerikaanse literatuur. "
+    },
+    {
+      "question": "Welke bibliotheek drijft?",
+      "options": [
+        "Woord over water",
+        "Boek schip",
+        "Rivier lezen",
+        "Zwevende boeken"
+      ],
+      "answer": "Woord over water",
+      "funFact": "Het schip is historisch!",
+      "story": "Word on Water is de enige drijvende boekwinkel van Londen, gehuisvest in een 100 jaar oud Nederlands schip dat langs Regent's Canal vaart en boeken en culturele evenementen aanbiedt."
+    },
+    {
+      "question": "Welke bibliotheek leent zaden uit?",
+      "options": [
+        "Zadenbibliotheek",
+        "Plantenbank",
+        "Boeken laten groeien",
+        "Tuin leest"
+      ],
+      "answer": "Zadenbibliotheek",
+      "funFact": "De collectie groeit jaarlijks!",
+      "story": "De Seed Library van de Oakland Public Library leent groente- en bloemenzaden uit aan klanten, die zaden van hun gekweekte planten kunnen 'teruggeven'."
+    },
+    {
+      "question": "Welke boekwinkel straalt?",
+      "options": [
+        "Zhongshuge",
+        "Lichtgevend",
+        "Heldere boeken",
+        "Gloed lezen"
+      ],
+      "answer": "Zhongshuge",
+      "funFact": "Het ontwerp is uniek!",
+      "story": "De Chinese boekwinkel Zhongshuge heeft spiegelplafonds en LED-verlichte boekenplanken, waardoor de oneindige illusie ontstaat dat boeken zich in de ruimte uitstrekken."
+    },
+    {
+      "question": "Welke bibliotheek klimt?",
+      "options": [
+        "Boek berg",
+        "Piekpagina's",
+        "Top plank",
+        "Hoge boeken"
+      ],
+      "answer": "Boek berg",
+      "funFact": "De vorm is piramideachtig!",
+      "story": "De Boekenberg in Spijkenisse, Nederland, is een glazen piramide met een ononderbroken pad van boekenplanken die spiraalvormig omhoog lopen naar de top."
+    },
+    {
+      "question": "Welke bibliotheek verplaatst boeken?",
+      "options": [
+        "Joe en Rika",
+        "Pagina's verplaatsen",
+        "Boekstroom",
+        "Plankverschuiving"
+      ],
+      "answer": "Joe en Rika",
+      "funFact": "Het systeem is geautomatiseerd!",
+      "story": "De Joe and Rika Mansueto Library van de Universiteit van Chicago gebruikt robotkranen om boeken op te halen uit een ondergrondse opslagkluis van vijf verdiepingen."
+    }
+  ]
+}
