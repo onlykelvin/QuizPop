@@ -24,12 +24,20 @@ export const useQuizStore = create<QuizState>((set) => ({
   questions: [],
   gameMode: 'classic',
   setModalOpen: (isOpen) => set({ isModalOpen: isOpen }),
-  setCategory: (category) => set({ 
-    selectedCategory: category,
-    questions: category.questions,
-    currentQuestion: 0,
-    score: 0
-  }),
+  setCategory: (category) => {
+    // Create a copy of the questions array and shuffle it
+    const shuffledQuestions = [...category.questions].sort(() => Math.random() - 0.5);
+    
+    set({ 
+      selectedCategory: {
+        ...category,
+        questions: shuffledQuestions
+      },
+      questions: shuffledQuestions,
+      currentQuestion: 0,
+      score: 0
+    });
+  },
   nextQuestion: () => set((state) => ({ currentQuestion: state.currentQuestion + 1 })),
   incrementScore: () => set((state) => ({ score: state.score + 1 })),
   resetQuiz: () => set({ 
