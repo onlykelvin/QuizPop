@@ -22,7 +22,7 @@ i18n
       en: { translation: en },
       nl: { translation: nl }
     },
-    fallbackLng: 'en',
+    fallbackLng: 'nl',
     interpolation: {
       escapeValue: true // Security: Enable HTML escaping
     },
