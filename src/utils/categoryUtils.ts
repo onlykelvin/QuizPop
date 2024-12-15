@@ -8,7 +8,7 @@ export async function loadAllCategories(): Promise<Category[]> {
   ];
   
   const loadedCategories: Category[] = [];
-  const currentLanguage = localStorage.getItem('preferred-language') || 'nl';
+  const currentLanguage = localStorage.getItem('preferred-language') || 'en';
 
   for (const category of categories) {
     try {
