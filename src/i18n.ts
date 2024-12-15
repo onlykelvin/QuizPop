@@ -38,7 +38,12 @@ i18n
     react: {
       useSuspense: true // Enable Suspense for loading translations
     }
+  }).then(() => {
+    // Store detected language in local storage
+    const detectedLanguage = i18n.language;
+    localStorage.setItem(CACHE_KEY, detectedLanguage);
   });
+
 
 // Add error handling for missing translations
 i18n.on('missingKey', (lngs, namespace, key) => {
