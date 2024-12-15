@@ -1,4 +1,5 @@
 import { Category, Question } from '../types';
+import i18n from '../i18n';
 
 export async function loadAllCategories(): Promise<Category[]> {
   const categories = [
@@ -8,7 +9,7 @@ export async function loadAllCategories(): Promise<Category[]> {
   ];
   
   const loadedCategories: Category[] = [];
-  const currentLanguage = localStorage.getItem('preferred-language') || 'en';
+  const currentLanguage = localStorage.getItem('preferred-language') || i18n.language || 'en';
 
   for (const category of categories) {
     try {
@@ -35,7 +36,7 @@ export function createRandomCategory(categories: Category[]): Category {
   );
   
   const shuffledQuestions = [...allQuestions].sort(() => Math.random() - 0.5);
-  const currentLanguage = localStorage.getItem('preferred-language') || 'en';
+  const currentLanguage = localStorage.getItem('preferred-language') || i18n.language || 'en';
 
   return {
     category: currentLanguage === 'en' ? 'Random Mix' : 'Willekeurige Mix',
@@ -47,7 +48,7 @@ export function createRandomCategory(categories: Category[]): Category {
 }
 
 export async function loadCategoryQuestions(categoryId: string): Promise<Category> {
-  const currentLanguage = localStorage.getItem('preferred-language') || 'en';
+  const currentLanguage = localStorage.getItem('preferred-language') || i18n.language || 'en';
   
   try {
     const response = await import(`../data/translations/categories/${currentLanguage}/${categoryId}.json`);
