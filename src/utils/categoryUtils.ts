@@ -1,5 +1,4 @@
 import { Category, Question } from '../types';
-import i18n from '../i18n';
 
 export async function loadAllCategories(): Promise<Category[]> {
   const categories = [
