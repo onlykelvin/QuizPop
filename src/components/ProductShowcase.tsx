@@ -1,9 +1,32 @@
-import React from 'react';
+import React, { useEffect, useRef } from 'react';
 import { Box, Brain, Zap, Users } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 
 export function ProductShowcase() {
   const { t } = useTranslation();
+  const videoRef = useRef<HTMLVideoElement | null>(null);
+
+  useEffect(() => {
+    const videoElement = videoRef.current;
+    if (!videoElement) return;
+
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          videoElement.play();
+        } else {
+          videoElement.pause();
+        }
+      },
+      { threshold: 0.5 }
+    );
+
+    observer.observe(videoElement);
+
+    return () => {
+      observer.disconnect();
+    };
+  }, []);
 
   return (
     <section className="py-24 bg-white">
@@ -20,11 +43,10 @@ export function ProductShowcase() {
 
         <div className="grid md:grid-cols-2 gap-16 items-center mb-20">
           <div>
-            <img
-              src="https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&q=80&w=800"
-              alt="QuizPop Cards"
-              className="rounded-2xl shadow-2xl"
-            />
+            <video ref={videoRef} width="560" height="315" controls>
+              <source src="https://quizpop.nl/assets/video/QuizPopIntroduction.mp4" type="video/mp4" />
+              Your browser does not support the video tag.
+            </video>
           </div>
           <div>
             <h3 className="text-3xl font-bold text-gray-900 mb-6">
