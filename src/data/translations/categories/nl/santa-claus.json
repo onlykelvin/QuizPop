@@ -1,0 +1,162 @@
+{
+  "category": "Kerstman",
+  "description": "Ontdek de geschiedenis, legendes en tradities van de Kerstman over de hele wereld",
+  "questions": [
+    {
+      "question": "Wat was de oorspronkelijke naam van Sinterklaas?",
+      "options": [
+        "Sinterklaas",
+        "Kris Kringle",
+        "Kerstman",
+        "Pere Noel"
+      ],
+      "answer": "Sinterklaas",
+      "funFact": "Hij was een echte persoon die in de 4e eeuw in het hedendaagse Turkije leefde!",
+      "story": "Sinterklaas was een christelijke bisschop die bekend stond om zijn vrijgevigheid en het geven van geschenken, vooral aan de armen. "
+    },
+    {
+      "question": "Welke kleur had het pak van de Kerstman vóór de Coca-Cola-advertenties?",
+      "options": [
+        "Groente",
+        "Bruin",
+        "Blauw",
+        "Diverse kleuren"
+      ],
+      "answer": "Diverse kleuren",
+      "funFact": "De Kerstman droeg groen, bruin, bruin en zelfs paars voordat het rode pak standaard werd!",
+      "story": "Hoewel Coca-Cola de kerstman in het rode pak niet heeft uitgevonden, hielpen hun advertenties uit de jaren dertig van kunstenaar Haddon Sundblom zijn uiterlijk te standaardiseren. "
+    },
+    {
+      "question": "In welk land laten kinderen wortels achter voor de rendieren van de Kerstman in klompen?",
+      "options": [
+        "Duitsland",
+        "Nederland",
+        "Denemarken",
+        "Zweden"
+      ],
+      "answer": "Nederland",
+      "funFact": "De kinderen laten hooi en wortels in hun schoenen achter voor het paard van Sinterklaas, geen rendieren!",
+      "story": "In de Nederlandse traditie arriveert Sinterklaas (de basis voor de Kerstman) per stoomboot uit Spanje en rijdt op een wit paard genaamd Amerigo. "
+    },
+    {
+      "question": "Welk rendier gloeit blauw?",
+      "options": [
+        "Ster hert",
+        "Nachtlampje",
+        "Maan schijnt",
+        "Hemel gloed"
+      ],
+      "answer": "Ster hert",
+      "funFact": "Het rendier werd ontdekt in 1823!",
+      "story": "Volgens poollegendes heeft dit bijzondere rendier een vacht die gloeit met een zacht blauw licht, waardoor de slee van de Kerstman door bijzonder stormachtig weer wordt geleid."
+    },
+    {
+      "question": "Welke elf bouwt robots?",
+      "options": [
+        "Technische Tinker",
+        "Bot-bouwer",
+        "Mech-merk",
+        "Toestel Smit"
+      ],
+      "answer": "Technische Tinker",
+      "funFact": "De werkplaats maakt gebruik van duurzame energie!",
+      "story": "Deze innovatieve elf combineert traditioneel speelgoedmaken met geavanceerde robotica, waardoor uniek hybride speelgoed ontstaat dat ouderwetse charme combineert met moderne technologie."
+    },
+    {
+      "question": "Welke slee vliegt onder water?",
+      "options": [
+        "Zee-slee",
+        "Golf Ruiter",
+        "Oceaan glijden",
+        "Aqua-slee"
+      ],
+      "answer": "Zee-slee",
+      "funFact": "Het voertuig is eeuwen geleden gebouwd!",
+      "story": "Deze speciale leveringsslee kan worden getransformeerd om onder water te reizen, waardoor de Kerstman kinderen kan bereiken die in onderwateronderzoeksstations en onderzeeërs wonen."
+    },
+    {
+      "question": "In welke werkplaats wordt speelgoed verbouwd?",
+      "options": [
+        "Tuinwinkel",
+        "Kweekruimte",
+        "Spruitruimte",
+        "Plantenspel"
+      ],
+      "answer": "Tuinwinkel",
+      "funFact": "De tuin beslaat hectares!",
+      "story": "In deze unieke workshop cultiveren elfen speciale planten die uitgroeien tot speelgoed, met behulp van magische mest en zorgvuldige vormgeving ervan terwijl ze zich ontwikkelen."
+    },
+    {
+      "question": "Welke elf schildert dromen?",
+      "options": [
+        "Droomborstel",
+        "Slaapkunstenaar",
+        "Nachtelijke verf",
+        "Rust kleur"
+      ],
+      "answer": "Droomborstel",
+      "funFact": "Het duurt maanden voordat de schilderijen zijn voltooid!",
+      "story": "Deze getalenteerde elf maakt schilderijen die op kerstavond tot leven komen in de dromen van kinderen, waardoor ze een voorproefje krijgen van de prachtige cadeaus die ze zullen ontvangen."
+    },
+    {
+      "question": "Welk rendier maakt muziek?",
+      "options": [
+        "Lied Hoef",
+        "Stem Hert",
+        "Melodie Prancer",
+        "Let op Buck"
+      ],
+      "answer": "Lied Hoef",
+      "funFact": "De geluiden dragen kilometers ver!",
+      "story": "Dit muzikale rendier creëert prachtige melodieën terwijl hij door de lucht rent, waarbij elke hoefslag een andere toon produceert die samenkomt in kerstliederen."
+    },
+    {
+      "question": "Welke elf controleert het weer?",
+      "options": [
+        "Stormwachter",
+        "Wolkenmeester",
+        "Windwachter",
+        "Sneeuwwachter"
+      ],
+      "answer": "Stormwachter",
+      "funFact": "Het gereedschap is eeuwenoud!",
+      "story": "Deze krachtige elf gebruikt eeuwenoude magische gereedschappen om perfecte weersomstandigheden te garanderen voor de kerstavondreis van de Kerstman rond de wereld."
+    },
+    {
+      "question": "Welke werkplaats beweegt dagelijks?",
+      "options": [
+        "Wandelwinkel",
+        "Verhuizen",
+        "Dwaal werk",
+        "Verschuif ruimte"
+      ],
+      "answer": "Wandelwinkel",
+      "funFact": "Het gebouw maakt gebruik van speciale magie!",
+      "story": "Deze magische werkplaats kan zichzelf elke dag naar verschillende delen van de Noordpool verplaatsen, waardoor het voor nieuwsgierige ontdekkingsreizigers moeilijker wordt om de geheime basis van de Kerstman te vinden."
+    },
+    {
+      "question": "Welke elf spreekt tegen speelgoed?",
+      "options": [
+        "Speelgoedpraat",
+        "Geschenk Spreek",
+        "Speel Chat",
+        "Huidige stem"
+      ],
+      "answer": "Speelgoedpraat",
+      "funFact": "Het vermogen ontwikkelt zich in de loop der jaren!",
+      "story": "Deze speciale elf heeft het unieke vermogen om met speelgoed te communiceren, waardoor elk cadeau perfect bij een kind met Kerstmis past."
+    },
+    {
+      "question": "Welke slee buigt de tijd?",
+      "options": [
+        "Tijd twist",
+        "Klok bocht",
+        "Uur curve",
+        "Momentflex"
+      ],
+      "answer": "Tijd twist",
+      "funFact": "De technologie is topgeheim!",
+      "story": "Deze geavanceerde slee kan tijdelijke bubbels creëren waarmee de Kerstman alle cadeautjes in één nacht kan bezorgen door de tijdsstroom te manipuleren."
+    }
+  ]
+}

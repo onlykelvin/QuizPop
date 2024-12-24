@@ -1,0 +1,42 @@
+{
+  "category": "Nature",
+  "description": "Test your knowledge about fascinating natural phenomena and wonders",
+  "difficulty": "Medium",
+  "questions": [
+    {
+      "question": "Which tree lives longest?",
+      "options": ["Methuselah", "General Sherman", "Hyperion", "Old Tjikko"],
+      "answer": "Methuselah",
+      "funFact": "The location is secret!",
+      "story": "Methuselah, a Great Basin Bristlecone Pine in California's White Mountains, is over 4,800 years old, making it one of Earth's oldest living organisms."
+    },
+    {
+      "question": "Which cave glows brightest?",
+      "options": ["Waitomo", "Jenolan", "Luray", "Mammoth"],
+      "answer": "Waitomo",
+      "funFact": "The ceiling sparkles!",
+      "story": "New Zealand's Waitomo Caves host thousands of bioluminescent glowworms that create a natural starry ceiling, attracting visitors from around the world."
+    },
+    {
+      "question": "Which flower blooms fastest?",
+      "options": ["Talipot Palm", "Titan Arum", "Night Bloom", "Desert Rose"],
+      "answer": "Talipot Palm",
+      "funFact": "The event is rare!",
+      "story": "The Talipot Palm flowers only once after 30-80 years of growth, producing the largest flowering structure in the plant kingdom within weeks."
+    },
+    {
+      "question": "Which crystal grows largest?",
+      "options": ["Naica Selenite", "Brazilian Quartz", "Bolivian Amethyst", "Russian Beryl"],
+      "answer": "Naica Selenite",
+      "funFact": "The cave is extreme!",
+      "story": "Mexico's Cave of Crystals contains the world's largest known natural crystals, with selenite beams up to 39 feet long and weighing 55 tons."
+    },
+    {
+      "question": "Which waterfall flows pink?",
+      "options": ["Rio Tinto", "Blood Falls", "Pink Cascade", "Rose Stream"],
+      "answer": "Blood Falls",
+      "funFact": "The color is natural!",
+      "story": "Antarctica's Blood Falls flows red due to iron-rich saltwater from an ancient underground lake, creating a striking contrast against the white glacier."
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "category": "Geschiedenis",
+  "description": "Reis door de tijd en ontdek de gebeurtenissen die onze wereld hebben gevormd",
+  "questions": [
+    {
+      "question": "In welk jaar eindigde de Tweede Wereldoorlog?",
+      "options": [
+        "1943",
+        "1944",
+        "1945",
+        "1946"
+      ],
+      "answer": "1945",
+      "funFact": "Het laatste land dat zich in de Tweede Wereldoorlog formeel overgaf, waren Rusland en Japan in 1956, waarmee officieel een einde kwam aan de staat van oorlog tussen hen.",
+      "story": "Het einde van de oorlog werd gekenmerkt door twee verschillende overgaveceremonies: die van Duitsland in mei en die van Japan in september, na de verwoestende atoombomaanslagen op Hiroshima en Nagasaki."
+    },
+    {
+      "question": "Wie was de eerste president van de Verenigde Staten?",
+      "options": [
+        "Johannes Adams",
+        "Thomas Jefferson",
+        "George Washington",
+        "Benjamin Franklin"
+      ],
+      "answer": "George Washington",
+      "funFact": "Hij heeft nooit in het Witte Huis gewoond; het werd pas na zijn presidentschap voltooid!",
+      "story": "Washington was aanvankelijk terughoudend om president te worden, maar werd unaniem gekozen en schiep veel belangrijke precedenten, waaronder het beperken van zichzelf tot twee termijnen, een traditie die duurde tot de FDR."
+    },
+    {
+      "question": "Welk eeuwenoude wonder bevond zich in Alexandrië?",
+      "options": [
+        "De vuurtoren",
+        "De Kolossus",
+        "De hangende tuinen",
+        "De piramides"
+      ],
+      "answer": "De vuurtoren",
+      "funFact": "Dit oude wonder van Alexandrië was tussen de 120 en 137 meter hoog en bleef eeuwenlang het hoogste door de mens gemaakte bouwwerk.",
+      "story": "De vuurtoren, gebouwd rond 280 voor Christus, gebruikte spiegels om overdag het zonlicht te reflecteren en 's nachts het vuur, waardoor schepen veilig naar de haven werden geleid. "
+    },
+    {
+      "question": "Welke oude beschaving heeft het concept nul uitgevonden?",
+      "options": [
+        "Maya",
+        "Indiaas",
+        "Egyptische",
+        "Chinese"
+      ],
+      "answer": "Indiaas",
+      "funFact": "Deze beschaving ontwikkelde een van de meest nauwkeurige kalenders van de antieke wereld!",
+      "story": "De Indianen ontwikkelden onafhankelijk het concept van nul rond 500 CE, waarbij ze een schelpsymbool gebruikten om het weer te geven. "
+    },
+    {
+      "question": "Welk imperium had de eerste postdienst?",
+      "options": [
+        "Perzisch",
+        "Romeins",
+        "Chinese",
+        "Mongool"
+      ],
+      "answer": "Perzisch",
+      "funFact": "Dit eeuwenoude systeem kon in slechts zeven dagen berichten over een afstand van 2677 kilometer bezorgen!",
+      "story": "Het Perzische rijk onder Cyrus de Grote richtte rond 550 vGT de eerste systematische postdienst op. "
+    },
+    {
+      "question": "Welke beschaving heeft de eerste bekende bibliotheek gebouwd?",
+      "options": [
+        "Sumerisch",
+        "Egyptische",
+        "Grieks",
+        "Chinese"
+      ],
+      "answer": "Sumerisch",
+      "funFact": "De antieke collectie bevatte ruim 30.000 kleitabletten!",
+      "story": "De eerste bekende bibliotheek werd rond 2500 v.Chr. gesticht in de oude stad Nippur, Sumerië. "
+    },
+    {
+      "question": "Welk eeuwenoude wonder was eigenlijk een vuurtoren?",
+      "options": [
+        "Pharos",
+        "Kolos",
+        "Mausoleum",
+        "Tuinen"
+      ],
+      "answer": "Pharos",
+      "funFact": "Dit bouwwerk bleef eeuwenlang het hoogste door de mens gemaakte gebouw!",
+      "story": "De Pharos van Alexandrië werd tussen 280 en 247 vGT op het eiland Pharos gebouwd. "
+    },
+    {
+      "question": "Welke beschaving heeft het papiergeld uitgevonden?",
+      "options": [
+        "Chinese",
+        "Perzisch",
+        "Romeins",
+        "Indiaas"
+      ],
+      "answer": "Chinese",
+      "funFact": "Vroege versies werden gemaakt van de schors van moerbeibomen!",
+      "story": "Papiergeld werd voor het eerst geïntroduceerd tijdens de Tang-dynastie (618-907 CE) in China. "
+    },
+    {
+      "question": "Welke oude stad had vloerverwarming?",
+      "options": [
+        "Mohenjodaro",
+        "Athene",
+        "Rome",
+        "Babylon"
+      ],
+      "answer": "Mohenjodaro",
+      "funFact": "Deze stad had ruim 4000 jaar geleden een geavanceerd stedenbouwkundig systeem!",
+      "story": "Mohenjo-daro, in de beschaving van de Indusvallei, had rond 2500 v.Chr. Geavanceerde vloerverwarming. "
+    },
+    {
+      "question": "Welk imperium heeft nooit een vredesverdrag getekend om een ​​einde te maken aan de Eerste Wereldoorlog?",
+      "options": [
+        "Andorra",
+        "Rusland",
+        "Ottomaanse Rijk",
+        "Bulgarije"
+      ],
+      "answer": "Andorra",
+      "funFact": "Deze kleine natie werd per ongeluk buiten het Verdrag van Versailles gehouden!",
+      "story": "Het kleine vorstendom Andorra was technisch gezien van 1914 tot 1939 in oorlog met Duitsland, omdat het per ongeluk werd weggelaten uit het Verdrag van Versailles. "
+    },
+    {
+      "question": "Welke oude cultuur heeft ijs uitgevonden?",
+      "options": [
+        "Chinese",
+        "Perzisch",
+        "Romeins",
+        "Egyptische"
+      ],
+      "answer": "Chinese",
+      "funFact": "Het originele recept gebruikte bergsneeuw en melk!",
+      "story": "Het eerste bekende ijs werd gemaakt tijdens de Tang-dynastie in China, rond 618-907 CE. "
+    },
+    {
+      "question": "Welke beschaving had het eerste schriftelijke huwelijkscontract?",
+      "options": [
+        "Babylonisch",
+        "Egyptische",
+        "Grieks",
+        "Romeins"
+      ],
+      "answer": "Babylonisch",
+      "funFact": "Deze oude documenten zijn op kleitabletten geschreven!",
+      "story": "De Babyloniërs creëerden rond 1800 vGT de eerste bekende schriftelijke huwelijkscontracten. "
+    },
+    {
+      "question": "Welk imperium had de eerste professionele brandweerlieden?",
+      "options": [
+        "Romeins",
+        "Perzisch",
+        "Grieks",
+        "Chinese"
+      ],
+      "answer": "Romeins",
+      "funFact": "Deze oude teams gebruikten een emmerbrigadesysteem en waterpompen!",
+      "story": "Marcus Licinius Crassus richtte rond 70 vGT de eerste professionele brandweermacht op in Rome. "
+    },
+    {
+      "question": "Welke bibliotheek brandde het langst?",
+      "options": [
+        "Alexandrië",
+        "Bagdad",
+        "Nalanda",
+        "Constantinopel"
+      ],
+      "answer": "Alexandrië",
+      "funFact": "Het gebouw was enorm!",
+      "story": "De Grote Bibliotheek van Alexandrië brandde in de loop van de eeuwen meerdere keren af, waarbij de grootste brand tijdens de burgeroorlog van Julius Caesar in 48 vGT enkele maanden duurde."
+    },
+    {
+      "question": "Welke muur beweegt het meest?",
+      "options": [
+        "Hadrianus",
+        "Grote Muur",
+        "Antonijn",
+        "Berlijn"
+      ],
+      "answer": "Hadrianus",
+      "funFact": "De structuur is dynamisch!",
+      "story": "De Muur van Hadrianus in Groot-Brittannië verschuift jaarlijks enkele millimeters als gevolg van geologische krachten, waardoor het de meest mobiele oude muur is die nog overeind staat."
+    },
+    {
+      "question": "Welk verdrag kwam het verst?",
+      "options": [
+        "Tordesilla's",
+        "Versailles",
+        "Westfalen",
+        "Utrecht"
+      ],
+      "answer": "Tordesilla's",
+      "funFact": "Het document heeft de oceanen overgestoken!",
+      "story": "Het Verdrag van Tordesillas uit 1494 tussen Spanje en Portugal verdeelde de hele onontdekte wereld en trof gebieden op meerdere continenten."
+    },
+    {
+      "question": "Welk zwaard buigt het meest?",
+      "options": [
+        "Katana",
+        "Rapier",
+        "Shamshir",
+        "Gladius"
+      ],
+      "answer": "Katana",
+      "funFact": "Het staal is gelaagd!",
+      "story": "De Japanse Katana kan tot 30 graden buigen zonder te breken dankzij het unieke smeedproces waarbij duizenden gevouwen staallagen betrokken zijn."
+    },
+    {
+      "question": "Welk kasteel drijft?",
+      "options": [
+        "Matsumoto",
+        "Bodiam",
+        "Chambord",
+        "Eilean Donan"
+      ],
+      "answer": "Matsumoto",
+      "funFact": "Het ontwerp is uniek!",
+      "story": "Het Japanse Matsumoto-kasteel lijkt op het water te drijven vanwege het innovatieve ontwerp met diepe grachten en donkere buitenkant, waardoor het de bijnaam 'Crow Castle' krijgt."
+    }
+  ]
+}

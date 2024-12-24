@@ -1,0 +1,181 @@
+{
+  "category": "Pop Culture",
+  "description": "Test your knowledge of movies, TV shows, celebrities, and entertainment trends",
+  "questions": [
+    {
+      "question": "Which movie used most CGI?",
+      "options": ["Avatar", "Avengers", "Star Wars", "Lord of Rings"],
+      "answer": "Avatar",
+      "funFact": "The rendering took years!",
+      "story": "James Cameron's Avatar used groundbreaking CGI technology, with some frames taking over 100 hours to render, creating the most expensive CGI movie of its time."
+    },
+    {
+      "question": "Which concert used most holograms?",
+      "options": ["Coachella 2012", "Tokyo 2019", "London 2018", "Vegas 2020"],
+      "answer": "Coachella 2012",
+      "funFact": "The technology was revolutionary!",
+      "story": "The 2012 Coachella festival featured a groundbreaking hologram performance of Tupac Shakur, setting a new standard for virtual performances."
+    },
+    {
+      "question": "Which game had largest world?",
+      "options": ["No Man's Sky", "Minecraft", "GTA V", "Elder Scrolls"],
+      "answer": "No Man's Sky",
+      "funFact": "The world is procedurally generated!",
+      "story": "No Man's Sky features 18 quintillion unique planets, making it mathematically impossible to visit them all even if you spent a lifetime playing."
+    },
+    {
+      "question": "Which album changed color?",
+      "options": ["Blackstar", "Lemonade", "Views", "Anti"],
+      "answer": "Blackstar",
+      "funFact": "The effect was discovered by fans!",
+      "story": "David Bowie's final album 'Blackstar' featured a black cover that, when exposed to sunlight, revealed a field of glowing stars."
+    },
+    {
+      "question": "Which show used AI writing?",
+      "options": ["Sunspring", "Black Mirror", "Westworld", "Mr. Robot"],
+      "answer": "Sunspring",
+      "funFact": "The AI wrote everything!",
+      "story": "Sunspring was the first film with a script entirely written by an AI, using neural networks trained on hundreds of sci-fi screenplays."
+    },
+    {
+      "question": "Which artist used blockchain first?",
+      "options": ["Grimes", "Beeple", "Banksy", "Damien Hirst"],
+      "answer": "Grimes",
+      "funFact": "The sale was record-breaking!",
+      "story": "Grimes sold $6 million worth of digital art as NFTs in 20 minutes, pioneering the use of blockchain technology in mainstream art sales."
+    },
+    {
+      "question": "Which music video used deepfakes?",
+      "options": ["DALL·E", "Deep Nostalgia", "Wombo", "Reface"],
+      "answer": "DALL·E",
+      "funFact": "The technology was controversial!",
+      "story": "The first music video created entirely using DALL·E AI generated imagery sparked discussions about artificial creativity in art."
+    },
+    {
+      "question": "Which festival used drones?",
+      "options": ["Olympics 2020", "Super Bowl 2022", "NYE 2023", "FIFA 2022"],
+      "answer": "Olympics 2020",
+      "funFact": "The show set records!",
+      "story": "The Tokyo Olympics opening ceremony featured 1,824 drones forming a rotating globe in the night sky, setting a record for drone shows."
+    },
+    {
+      "question": "Which comic used AR first?",
+      "options": ["Marvel", "DC", "Image", "Dark Horse"],
+      "answer": "Marvel",
+      "funFact": "The feature was interactive!",
+      "story": "Marvel's AR comics allowed readers to point their phones at pages to see animations, character information, and behind-the-scenes content."
+    },
+    {
+      "question": "Which stage used most projections?",
+      "options": ["U2", "Pink Floyd", "Beyoncé", "Lady Gaga"],
+      "answer": "U2",
+      "funFact": "The screen was massive!",
+      "story": "U2's 360° tour featured the largest LED screen ever used in concert, with high-resolution projections visible from any angle in the stadium."
+    },
+    {
+      "question": "Which concert used drones most?",
+      "options": ["Lady Gaga", "Travis Scott", "BTS", "Coldplay"],
+      "answer": "Lady Gaga",
+      "funFact": "The show set records!",
+      "story": "Lady Gaga's Super Bowl halftime show featured 300 synchronized drones creating dynamic light formations in the sky, setting a record for live entertainment."
+    },
+    {
+      "question": "Which movie used real robots?",
+      "options": ["Pacific Rim", "Transformers", "Real Steel", "Chappie"],
+      "answer": "Pacific Rim",
+      "funFact": "The machines were massive!",
+      "story": "Pacific Rim built full-scale robot cockpits and limbs for filming, creating the largest practical effects robots ever used in a movie."
+    },
+    {
+      "question": "Which game scans reality?",
+      "options": ["Pokemon GO", "Ingress", "Minecraft Earth", "Harry Potter"],
+      "answer": "Pokemon GO",
+      "funFact": "The technology is advanced!",
+      "story": "Pokemon GO uses advanced AR technology to map and scan real-world locations, creating a global gaming environment overlaid on reality."
+    },
+    {
+      "question": "Which stage rotates most?",
+      "options": ["U2 360", "Rolling Stones", "Madonna", "Pink Floyd"],
+      "answer": "U2 360",
+      "funFact": "The structure was huge!",
+      "story": "U2's 360° Tour featured the largest rotating stage ever built, nicknamed 'The Claw', weighing 190 tons with a height of 165 feet."
+    },
+    {
+      "question": "Which show uses real weather?",
+      "options": ["Weather Report", "Storm Chasers", "Cloud Atlas", "Sky Watch"],
+      "answer": "Weather Report",
+      "funFact": "The system is unique!",
+      "story": "The Weather Report art installation uses real-time weather data to create immersive light and sound experiences that reflect current atmospheric conditions."
+    },
+    {
+      "question": "Which music video cost most?",
+      "options": ["Scream", "Express Yourself", "Die Another Day", "Bedtime Story"],
+      "answer": "Scream",
+      "funFact": "The set was futuristic!",
+      "story": "Michael and Janet Jackson's 'Scream' music video cost $7 million in 1995, featuring elaborate space station sets and cutting-edge special effects, making it the most expensive music video ever made."
+    },
+    {
+      "question": "Which movie filmed longest?",
+      "options": ["Boyhood", "Avatar", "The Other Side of the Wind", "Eyes Wide Shut"],
+      "answer": "Boyhood",
+      "funFact": "The cast aged naturally!",
+      "story": "Richard Linklater's 'Boyhood' was filmed over 12 years, following the same actors as they aged naturally, creating an unprecedented chronicle of growing up in real time."
+    },
+    {
+      "question": "Which game has most players?",
+      "options": ["PUBG Mobile", "Minecraft", "Roblox", "Fortnite"],
+      "answer": "PUBG Mobile",
+      "funFact": "Billions have played!",
+      "story": "PUBG Mobile holds the record for most downloaded game with over 1 billion downloads, and peak concurrent players reaching over 50 million players simultaneously."
+    },
+    {
+      "question": "Which concert earned most?",
+      "options": ["Ed Sheeran", "U2", "Taylor Swift", "Rolling Stones"],
+      "answer": "Ed Sheeran",
+      "funFact": "The tour lasted two years!",
+      "story": "Ed Sheeran's Divide Tour (2017-2019) became the highest-grossing tour of all time, earning $776.2 million from 258 shows across six continents."
+    },
+    {
+      "question": "Which cosplay cost most?",
+      "options": ["Thanos", "Iron Man", "Hulkbuster", "Transformers"],
+      "answer": "Thanos",
+      "funFact": "The suit was fully functional!",
+      "story": "The most expensive cosplay costume was a fully animatronic Thanos suit created by Julian Checkley, featuring working Infinity Gauntlet and facial expressions, costing over $1,600,000."
+    },
+    {
+      "question": "Which theme park is largest?",
+      "options": ["Disney World", "Universal", "Six Flags", "Cedar Point"],
+      "answer": "Disney World",
+      "funFact": "It's twice the size of Manhattan!",
+      "story": "Walt Disney World Resort in Florida spans 25,000 acres, making it the largest theme park in the world. The property includes four theme parks, two water parks, and 27 themed resort hotels."
+    },
+    {
+      "question": "Which convention draws most?",
+      "options": ["Comiket", "Comic-Con", "Gamescom", "E3"],
+      "answer": "Comiket",
+      "funFact": "The line spans miles!",
+      "story": "Comiket (Comic Market) in Tokyo is the world's largest fan convention, attracting over 700,000 attendees during its three-day run. The event focuses on self-published manga and cosplay."
+    },
+    {
+      "question": "Which movie set is biggest?",
+      "options": ["Dau", "Waterworld", "Cleopatra", "Ben-Hur"],
+      "answer": "Dau",
+      "funFact": "It became a real city!",
+      "story": "The Russian film 'Dau' built an entire Soviet city spanning 130,000 square feet, where actors lived for three years under period-accurate conditions, making it the largest film set ever constructed."
+    },
+    {
+      "question": "Which premiere was longest?",
+      "options": ["Avengers", "Star Wars", "Lord of Rings", "Harry Potter"],
+      "answer": "Avengers",
+      "funFact": "Fans camped for days!",
+      "story": "The world premiere of 'Avengers: Endgame' in Los Angeles featured the longest red carpet in history at 2,000 feet, and the event lasted over 5 hours with fan activities and celebrations."
+    },
+    {
+      "question": "Which fan club is biggest?",
+      "options": ["BTS Army", "Swifties", "Beliebers", "Beyhive"],
+      "answer": "BTS Army",
+      "funFact": "They influence global trends!",
+      "story": "BTS's fan club 'ARMY' is the largest in the world, with over 40 million registered members globally. The fandom has broken numerous social media records and influenced music chart rankings worldwide."
+    }
+  ]
+}

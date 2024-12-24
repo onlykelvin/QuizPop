@@ -1,0 +1,147 @@
+{
+  "category": "Pets",
+  "description": "Test your knowledge about fascinating pets and animal companions",
+  "difficulty": "Medium",
+  "questions": [
+    {
+      "question": "Which pet lives longest?",
+      "options": ["Koi Fish", "Tortoise", "Parrot", "Cat"],
+      "answer": "Koi Fish",
+      "funFact": "They pass generations!",
+      "story": "Japanese Koi fish can live over 200 years, with the oldest verified Koi, named Hanako, living to 226 years old in Gifu, Japan."
+    },
+    {
+      "question": "Which dog remembers most?",
+      "options": ["Border Collie", "Poodle", "German Shepherd", "Golden"],
+      "answer": "Border Collie",
+      "funFact": "The memory is amazing!",
+      "story": "Border Collies can remember over 1,000 words and objects, with Chaser, the smartest dog on record, knowing 1,022 unique toys by name."
+    },
+    {
+      "question": "Which cat jumps highest?",
+      "options": ["Waffle", "Alley", "Tiger", "Snow"],
+      "answer": "Waffle",
+      "funFact": "The record stands!",
+      "story": "Waffle the Warrior Cat holds the world record for highest jump by a cat, reaching 7 feet 6 inches in a single bound."
+    },
+    {
+      "question": "Which hamster runs farthest?",
+      "options": ["Syrian", "Robo", "Chinese", "Winter"],
+      "answer": "Robo",
+      "funFact": "The distance is huge!",
+      "story": "Roborovski Dwarf Hamsters can run up to 8 kilometers per night in their wheels, equivalent to a human running a marathon."
+    },
+    {
+      "question": "Which bird talks clearest?",
+      "options": ["African Grey", "Amazon", "Macaw", "Cockatoo"],
+      "answer": "African Grey",
+      "funFact": "The vocabulary is vast!",
+      "story": "African Grey Parrots can learn over 1,000 words and speak them clearly, with Einstein, a famous parrot, knowing over 200 words and phrases."
+    },
+    {
+      "question": "Which pet fish changes gender?",
+      "options": ["Clownfish", "Betta", "Guppy", "Goldfish"],
+      "answer": "Clownfish",
+      "funFact": "They live in family groups!",
+      "story": "Clownfish can change their gender to maintain their social hierarchy. When the female dies, the dominant male changes into a female, and the largest juvenile becomes the new male."
+    },
+    {
+      "question": "Which rabbit breed is smallest?",
+      "options": ["Netherlands Dwarf", "Holland Lop", "Mini Rex", "Lionhead"],
+      "answer": "Netherlands Dwarf",
+      "funFact": "They weigh less than most cats!",
+      "story": "Netherlands Dwarf rabbits typically weigh only 1.1-2.5 pounds as adults, making them perfect apartment pets. They were first developed in the Netherlands in the 1940s."
+    },
+    {
+      "question": "Which pet lizard bonds most?",
+      "options": ["Bearded Dragon", "Gecko", "Iguana", "Skink"],
+      "answer": "Bearded Dragon",
+      "funFact": "They show affection differently!",
+      "story": "Bearded Dragons can recognize their owners and show affection by waving their arms, becoming more active when their owner is present, and even climbing onto them for attention."
+    },
+    {
+      "question": "Which guinea pig breed lives longest?",
+      "options": ["American", "Peruvian", "Abyssinian", "Texel"],
+      "answer": "American",
+      "funFact": "Their lifespans vary significantly!",
+      "story": "American guinea pigs typically live 4-8 years, longer than other breeds. Their hardy genetics and simple coat maintenance contribute to their longevity."
+    },
+    {
+      "question": "Which pet snail is largest?",
+      "options": ["Giant African Land", "Roman", "Garden", "Apple"],
+      "answer": "Giant African Land",
+      "funFact": "They can live decades!",
+      "story": "Giant African Land Snails can grow up to 8 inches long and live up to 10 years. They're intelligent enough to recognize their owners and can remember faces for months."
+    },
+    {
+      "question": "Which pet turtle swims fastest?",
+      "options": ["Red-Eared Slider", "Painted", "Map", "Musk"],
+      "answer": "Red-Eared Slider",
+      "funFact": "They're excellent swimmers!",
+      "story": "Red-Eared Sliders can swim up to 3 miles per hour, making them the fastest pet turtle species. They use this speed in the wild to catch fish and escape predators."
+    },
+    {
+      "question": "Which pet bird lives longest?",
+      "options": ["Macaw", "Cockatoo", "Amazon", "Conure"],
+      "answer": "Macaw",
+      "funFact": "They outlive many owners!",
+      "story": "Macaws can live up to 50 years in captivity, with some documented cases of birds living over 100 years. Charlie, a blue-and-yellow macaw, is documented to have lived 104 years."
+    },
+    {
+      "question": "Which ferret sleeps most?",
+      "options": ["Sable", "Albino", "Black-Footed", "Champagne"],
+      "answer": "Sable",
+      "funFact": "They're professional nappers!",
+      "story": "Sable ferrets sleep up to 20 hours a day, the most among pet ferret varieties. This high sleep requirement is due to their extremely fast metabolism."
+    },
+    {
+      "question": "Which gerbil digs deepest?",
+      "options": ["Mongolian", "Fat-Tailed", "Shaw's", "Great"],
+      "answer": "Mongolian",
+      "funFact": "Their burrows are complex!",
+      "story": "Mongolian gerbils can dig burrow systems up to 6 feet deep in the wild. As pets, they maintain this natural digging behavior, creating elaborate tunnel systems in their enclosures."
+    },
+    {
+      "question": "Which pet snake grows slowest?",
+      "options": ["Ball Python", "Corn Snake", "Rosy Boa", "King Snake"],
+      "answer": "Ball Python",
+      "funFact": "They're very patient growers!",
+      "story": "Ball Pythons have the slowest growth rate among common pet snakes, taking 3-5 years to reach full size. This slow growth contributes to their long lifespan of 20-30 years."
+    },
+    {
+      "question": "Which pet fish glows brightest?",
+      "options": ["GloFish", "Firefish", "LightFin", "NeonTetra"],
+      "answer": "GloFish",
+      "funFact": "They shine under blacklight!",
+      "story": "GloFish were originally developed by scientists at the National University of Singapore to detect water pollution. Using genes from naturally bioluminescent jellyfish, they created fish that glow vibrantly under blue light. These fish now come in six stunning colors and have become popular aquarium pets worldwide."
+    },
+    {
+      "question": "Which pet parrot solves puzzles fastest?",
+      "options": ["Einstein", "Alex", "Griffin", "Chaser"],
+      "answer": "Einstein",
+      "funFact": "She knows over 200 tasks!",
+      "story": "Einstein, an African Grey Parrot at the Knoxville Zoo, holds the record for fastest puzzle-solving among birds. She can complete complex mechanical puzzles in under 2 minutes, demonstrating remarkable problem-solving abilities. Her handlers regularly create new challenges to keep her mind sharp."
+    },
+    {
+      "question": "Which pet chameleon changes fastest?",
+      "options": ["Panther", "Veiled", "Jackson's", "Yemen"],
+      "answer": "Panther",
+      "funFact": "They have crystal cells!",
+      "story": "The Panther Chameleon can change colors in just 20 seconds using specialized cells called iridophores. These cells contain nanocrystals that can be rearranged to reflect different wavelengths of light. Scientists at the University of Geneva discovered that their color-changing ability is more sophisticated than any artificial technology."
+    },
+    {
+      "question": "Which pet tortoise walks farthest?",
+      "options": ["Bertie", "Timothy", "Jonathan", "Lonesome George"],
+      "answer": "Bertie",
+      "funFact": "He's faster than you think!",
+      "story": "Bertie, a South African leopard tortoise living in Adventure Valley, Durham, holds the Guinness World Record for the fastest tortoise, covering 18 feet in 19.59 seconds. His daily walks often exceed half a mile, and he particularly enjoys exploring his enclosure's varied terrain during warm summer days."
+    },
+    {
+      "question": "Which pet spider weaves largest?",
+      "options": ["Mexican Red Knee", "Chilean Rose", "Costa Rican Zebra", "Brazilian Black"],
+      "answer": "Mexican Red Knee",
+      "funFact": "The web is architectural!",
+      "story": "The Mexican Red Knee Tarantula creates the largest and most intricate webs among pet spiders. In 2022, a specimen named Aragog created a web spanning 2 feet in diameter, using different silk types for structural support and prey capture. These spiders can spend up to 8 hours crafting their masterpiece webs."
+    }
+  ]
+}
