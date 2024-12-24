@@ -72,6 +72,7 @@ export function Hero() {
               </button>
               <Link
                 to="/how-it-works"
+                onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
                 className="mt-4 inline-flex items-center text-sm text-purple-600 hover:text-purple-800 transition-colors"
               >
                 <span>{t('modes.classic.learnMore')}</span>
@@ -105,6 +106,7 @@ export function Hero() {
               </button>
               <Link
                 to="/how-it-works"
+                onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
                 className="mt-4 inline-flex items-center text-sm text-purple-600 hover:text-purple-800 transition-colors"
               >
                 <span>{t('modes.quizMaster.learnMore')}</span>
