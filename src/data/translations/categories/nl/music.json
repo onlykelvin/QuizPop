@@ -1,0 +1,582 @@
+{
+  "category": "Muziek",
+  "description": "Test je kennis van muziekgeschiedenis, theorie en artiesten",
+  "questions": [
+    {
+      "question": "Welke componist schreef 'Symfonie nr. 5'?",
+      "options": [
+        "Mozart",
+        "Bach",
+        "Beethoven",
+        "Tsjaikovski"
+      ],
+      "answer": "Beethoven",
+      "funFact": "Hij was bijna volledig doof toen hij zijn Negende symfonie componeerde!",
+      "story": "De beroemde opening van Beethovens Vijfde symfonie (da-da-da-dum) wordt vaak 'het lot dat op de deur klopt' genoemd. "
+    },
+    {
+      "question": "Welk instrument staat bekend als de 'King of Instruments'?",
+      "options": [
+        "Piano",
+        "Orgaan",
+        "Viool",
+        "Gitaar"
+      ],
+      "answer": "Orgaan",
+      "funFact": "De grootste ter wereld heeft ruim 33.000 pijpen!",
+      "story": "Het pijporgel verdiende deze titel vanwege zijn complexiteit en kracht. "
+    },
+    {
+      "question": "Welk decennium staat bekend als de 'Britse invasie' in de muziek?",
+      "options": [
+        "jaren vijftig",
+        "Jaren 60",
+        "Jaren 70",
+        "Jaren 80"
+      ],
+      "answer": "Jaren 60",
+      "funFact": "Het eerste Amerikaanse tv-optreden van The Beatles werd door 73 miljoen kijkers bekeken!",
+      "story": "De Britse invasie begon toen The Beatles in februari 1964 op de Ed Sullivan Show verschenen. Dit culturele fenomeen zorgde ervoor dat Britse rockbands als The Beatles, The Rolling Stones en The Who de Amerikaanse hitlijsten domineerden en de populaire muziek voor altijd veranderden."
+    },
+    {
+      "question": "Wie staat bekend als de 'Queen of Soul'?",
+      "options": [
+        "Aretha Franklin",
+        "Diana Ross",
+        "Whitney Houston",
+        "Tina Turner"
+      ],
+      "answer": "Aretha Franklin",
+      "funFact": "Ze was de eerste vrouw die werd opgenomen in de Rock and Roll Hall of Fame!",
+      "story": "Aretha Franklins hits als 'Respect' en 'Think' werden volksliederen voor burgerrechten en feminisme. "
+    },
+    {
+      "question": "Welke bekende gitarist staat bekend om nummers als 'Purple Haze' en 'Hey Joe'?",
+      "options": [
+        "Erik Clapton",
+        "Jimi Hendrix",
+        "Carlos Santana",
+        "Snij"
+      ],
+      "answer": "Jimi Hendrix",
+      "funFact": "Hij was linkshandig, maar speelde een rechtshandige gitaar die ondersteboven stond!",
+      "story": "Jimi Hendrix bracht een revolutie teweeg in het gitaarspel met zijn innovatieve technieken en opwindende optredens. "
+    },
+    {
+      "question": "Welke muziekterm betekent 'zacht spelen'?",
+      "options": [
+        "Sterk",
+        "Piano",
+        "Mezzo",
+        "Allegro"
+      ],
+      "answer": "Piano",
+      "funFact": "Het woord komt van het Italiaanse 'pianoforte', wat 'zacht-luid' betekent.",
+      "story": "De dynamische aanduidingen 'piano' (zacht) en 'forte' (luid) vinden hun oorsprong in de klassieke muziek. "
+    },
+    {
+      "question": "Welk iconisch album is van Pink Floyd?",
+      "options": [
+        "Abdijweg",
+        "Geruchten",
+        "De donkere kant van de maan",
+        "Hotel Californië"
+      ],
+      "answer": "De donkere kant van de maan",
+      "funFact": "Dit album stond ruim 950 weken in de Billboard-hitlijsten!",
+      "story": "'The Dark Side of the Moon', uitgebracht in 1973, onderzoekt thema's als leven, dood en psychische aandoeningen. "
+    },
+    {
+      "question": "Wat is het hoogste vrouwenstemtype in de klassieke muziek?",
+      "options": [
+        "Mezzosopraan",
+        "Sopraan",
+        "Alt",
+        "Alt"
+      ],
+      "answer": "Sopraan",
+      "funFact": "Bekende stemmen zijn onder meer Maria Callas en Renée Fleming.",
+      "story": "De sopraanstem wordt gevierd vanwege zijn vermogen om de hoogste noten in opera- en koormuziek te raken. "
+    },
+    {
+      "question": "Wie wordt vaak de 'King of Pop' genoemd?",
+      "options": [
+        "Michaël Jackson",
+        "Elvis Presley",
+        "Prins",
+        "Justin Timberlake"
+      ],
+      "answer": "Michaël Jackson",
+      "funFact": "'Thriller' is het best verkochte album aller tijden!",
+      "story": "Michael Jackson transformeerde muziek, dans en muziekvideo's met hits als 'Billie Jean' en 'Beat It'. "
+    },
+    {
+      "question": "Welke klassieke componist begon op vijfjarige leeftijd met componeren?",
+      "options": [
+        "Bach",
+        "Mozart",
+        "Chopin",
+        "Haydn"
+      ],
+      "answer": "Mozart",
+      "funFact": "Hij schreef meer dan 600 werken in zijn korte leven!",
+      "story": "Wolfgang Amadeus Mozart was een wonderkind dat als kind door Europa toerde en het publiek verbaasde met zijn vaardigheden. "
+    },
+    {
+      "question": "Welke band heeft het album 'Rumours' uitgebracht?",
+      "options": [
+        "Fleetwood Mac",
+        "De Adelaars",
+        "De Rollende Stenen",
+        "Leidde Zeppelin"
+      ],
+      "answer": "Fleetwood Mac",
+      "funFact": "Van 'Rumours' zijn wereldwijd meer dan 40 miljoen exemplaren verkocht!",
+      "story": "'Rumours', opgenomen tijdens een periode van persoonlijke onrust onder de bandleden, bevat hits als 'Go Your Own Way' en 'Dreams'. "
+    },
+    {
+      "question": "Welke jazzmuzikant is beroemd om zijn trompetspel en hits als 'What a Wonderful World'?",
+      "options": [
+        "Lodewijk Armstrong",
+        "Mijl Davis",
+        "Duizelige Gillespie",
+        "John Coltrane"
+      ],
+      "answer": "Lodewijk Armstrong",
+      "funFact": "Zijn bijnaam was 'Satchmo', een afkorting van 'Satchel Mouth'!",
+      "story": "De schorre stem en het virtuoze trompetspel van Louis Armstrong brachten jazz naar het reguliere publiek. "
+    },
+    {
+      "question": "Welke toonladder wordt vaak gebruikt in bluesmuziek?",
+      "options": [
+        "Grote schaal",
+        "Kleine schaal",
+        "Pentatonische schaal",
+        "Chromatische schaal"
+      ],
+      "answer": "Pentatonische schaal",
+      "funFact": "De toonladder heeft vijf noten en is terug te vinden in veel wereldmuziektradities!",
+      "story": "De pentatonische toonladder geeft blues zijn kenmerkende geluid, vaak met toegevoegde 'blauwe tonen' voor expressiviteit. "
+    },
+    {
+      "question": "Welk instrument werd oorspronkelijk gebruikt om berichten te verzenden?",
+      "options": [
+        "Trommel",
+        "Hoorn",
+        "Fluit",
+        "Klok"
+      ],
+      "answer": "Trommel",
+      "funFact": "Deze berichten waren tot op 11 km afstand te horen!",
+      "story": "Talking drums werden in West-Afrika ontwikkeld als een geavanceerd communicatiesysteem. "
+    },
+    {
+      "question": "Welke componist was ook een ervaren zwaardvechter?",
+      "options": [
+        "Saint-Saëns",
+        "Händel",
+        "Bach",
+        "Mozart"
+      ],
+      "answer": "Saint-Saëns",
+      "funFact": "Deze muzikant was ook een gerenommeerd astronoom en wiskundige!",
+      "story": "Camille Saint-Saëns was niet alleen een muzikaal wonderkind, maar blonk ook op veel andere gebieden uit. "
+    },
+    {
+      "question": "Welke muzieknoot werd ooit door de kerk verboden?",
+      "options": [
+        "Tritonus",
+        "Zevende",
+        "Verminderde vijfde",
+        "Verhoogde vierde"
+      ],
+      "answer": "Tritonus",
+      "funFact": "Middeleeuwse muzikanten noemden dit interval 'het duivelsinterval'!",
+      "story": "Tijdens de middeleeuwen werd het tritonusinterval als zo dissonant beschouwd dat het uit religieuze muziek werd verbannen. "
+    },
+    {
+      "question": "Welk instrument kan noten spelen die beneden het menselijk gehoor liggen?",
+      "options": [
+        "Orgaan",
+        "Piano",
+        "Harp",
+        "Cello"
+      ],
+      "answer": "Orgaan",
+      "funFact": "Het grootste van deze instrumenten heeft pijpen die langer zijn dan een voetbalveld!",
+      "story": "Het pijporgel in het Boardwalk Hall Auditorium in Atlantic City heeft pijpen die noten kunnen produceren bij 8 Hz, ruim onder het menselijke gehoorbereik van 20 Hz. "
+    },
+    {
+      "question": "Welke componist schreef muziek in code?",
+      "options": [
+        "Bach",
+        "Mozart",
+        "Beethoven",
+        "Schumann"
+      ],
+      "answer": "Bach",
+      "funFact": "Deze componist verborg vaak wiskundige patronen in zijn muziek!",
+      "story": "Johann Sebastian Bach verwerkte regelmatig muzikale cryptografie in zijn composities. "
+    },
+    {
+      "question": "Welk instrument is gemaakt van een oorlogsschip?",
+      "options": [
+        "Grote Ben",
+        "Vrijheidsbel",
+        "Tsaar Bel",
+        "Geweldig Paulus"
+      ],
+      "answer": "Grote Ben",
+      "funFact": "Het metaal uit dit militaire schip was een fortuin waard!",
+      "story": "De bel die bekend staat als de Big Ben is gegoten uit metaal van buitgemaakte Franse oorlogsschepen. "
+    },
+    {
+      "question": "Welke componist heeft zijn beroemdste werk nog nooit gehoord?",
+      "options": [
+        "Beethoven",
+        "Mozart",
+        "Schubert",
+        "Tsjaikovski"
+      ],
+      "answer": "Beethoven",
+      "funFact": "Deze muzikant bleef dirigeren, zelfs nadat hij zijn gehoor verloor!",
+      "story": "Tegen de tijd dat Beethoven zijn Negende symfonie componeerde, was hij volledig doof. "
+    },
+    {
+      "question": "Welk instrument werd oorspronkelijk gemaakt van gordeldieren?",
+      "options": [
+        "Charango",
+        "Ukelele",
+        "Banjo",
+        "Mandoline"
+      ],
+      "answer": "Charango",
+      "funFact": "Dit kleine instrument produceert verrassend luide geluiden!",
+      "story": "De charango, een klein snaarinstrument uit de Andes, werd traditioneel gemaakt met de schaal van een gordeldier als resonerende kamer. "
+    },
+    {
+      "question": "Welk nummer is in volledige stilte geschreven?",
+      "options": [
+        "4'33\"",
+        "Het geluid van stilte",
+        "Stille Nacht",
+        "Geluiden van stilte"
+      ],
+      "answer": "4'33\"",
+      "funFact": "De première veroorzaakte grote controverse!",
+      "story": "John Cage's beroemde compositie '4'33'' bestaat uit drie delen waarin geen noten worden gespeeld. Het stuk is geïnspireerd op Cage's bezoek aan een echovrije kamer, waar hij ontdekte dat absolute stilte niet bestaat. De 'muziek' bestaat uit "
+    },
+    {
+      "question": "Welk instrument vereist een medische controle?",
+      "options": [
+        "Stradivarius",
+        "Guarneri",
+        "Amati",
+        "Bergonzi"
+      ],
+      "answer": "Stradivarius",
+      "funFact": "Deze instrumenten zijn elk miljoenen dollars waard!",
+      "story": "Stradivarius-violen vereisen regelmatige 'controles' door gespecialiseerde vioolartsen om hun conditie op peil te houden. "
+    },
+    {
+      "question": "Welk instrument is gemaakt van ijs?",
+      "options": [
+        "IJs Hoorn",
+        "Vorstfluit",
+        "Sneeuwharp",
+        "Glaciale trommel"
+      ],
+      "answer": "IJs Hoorn",
+      "funFact": "De instrumenten moeten onder het vriespunt bewaard worden!",
+      "story": "In Zweden maken muzikanten hoorns van ijs uit bevroren rivieren. "
+    },
+    {
+      "question": "Welke componist schreef ondersteboven?",
+      "options": [
+        "Bach",
+        "Mozart",
+        "Beethoven",
+        "Händel"
+      ],
+      "answer": "Bach",
+      "funFact": "Hij kon spiegelbeeldpartituren schrijven!",
+      "story": "Johann Sebastian Bach kon muziek componeren terwijl hij een partituur ondersteboven aan de andere kant van de tafel las. "
+    },
+    {
+      "question": "Welk nummer werd als eerste in de ruimte gespeeld?",
+      "options": [
+        "Jingle Bells",
+        "Gefeliciteerd",
+        "Twinkle Twinkle",
+        "Geweldige genade"
+      ],
+      "answer": "Jingle Bells",
+      "funFact": "Er werd gebruik gemaakt van een uniek instrument!",
+      "story": "Op 16 december 1965 voerden astronauten aan boord van de Gemini 6 'Jingle Bells' uit met behulp van een mondharmonica en sleebellen die ze aan boord van het ruimtevaartuig hadden gesmokkeld."
+    },
+    {
+      "question": "Welk instrument maakt gebruik van groenten?",
+      "options": [
+        "Groenten Orkest",
+        "Wortel Fluit",
+        "Komkommer trommel",
+        "Aardappelpiano"
+      ],
+      "answer": "Groenten Orkest",
+      "funFact": "De instrumenten worden soep na concerten!",
+      "story": "Het Weense Groentenorkest maakt vóór elke uitvoering instrumenten van verse groenten. "
+    },
+    {
+      "question": "Welke piano heeft maar één toets?",
+      "options": [
+        "Mono-piano",
+        "Enkele noot",
+        "Eén sleutelwonder",
+        "Solo-piano"
+      ],
+      "answer": "Mono-piano",
+      "funFact": "Het duurde jaren om het ontwerp te perfectioneren!",
+      "story": "Een Duitse kunstenaar creëerde een piano die alleen de middelste C speelt. Het instrument is bedoeld om het conventionele begrip van wat een muziekinstrument is uit te dagen."
+    },
+    {
+      "question": "Welk nummer werd verboden omdat het te lang was?",
+      "options": [
+        "Amerikaanse taart",
+        "Trap naar de hemel",
+        "Boheemse rapsodie",
+        "In-A-Gadda-Da-Vida"
+      ],
+      "answer": "Amerikaanse taart",
+      "funFact": "Het nummer verwijst naar een beroemd luchtvaartevenement!",
+      "story": "Veel radiostations weigerden aanvankelijk 'American Pie' te spelen vanwege de ongebruikelijke lengte van 8,5 minuten. "
+    },
+    {
+      "question": "Welk instrument speelt zichzelf?",
+      "options": [
+        "Eolische harp",
+        "Windgong",
+        "Regen stok",
+        "Donder trommel"
+      ],
+      "answer": "Eolische harp",
+      "funFact": "De oude Grieken gebruikten soortgelijke apparaten!",
+      "story": "De Eolische harp wordt bespeeld door de wind die over de snaren gaat. "
+    },
+    {
+      "question": "Welk concert duurde 639 jaar?",
+      "options": [
+        "Zo langzaam mogelijk",
+        "Langspeler",
+        "Tijd uitrekken",
+        "Eeuwig lied"
+      ],
+      "answer": "Zo langzaam mogelijk",
+      "funFact": "De eerste nootwissel duurde 17 maanden!",
+      "story": "John Cage's 'As Slow As Mogelijk' begon in 2001 in een Duitse kerk te spelen en zal naar verwachting in 2640 eindigen. Het orgel is speciaal voor deze uitvoering gebouwd."
+    },
+    {
+      "question": "Voor welk instrument is vuur nodig?",
+      "options": [
+        "Pyrofoon",
+        "Vlam orgel",
+        "Vuurpiano",
+        "Warmte Harp"
+      ],
+      "answer": "Pyrofoon",
+      "funFact": "De uitvinder was een natuurkundige!",
+      "story": "De Pyrofoon, of 'vuurorgel', gebruikt gecontroleerde vlammen om muzieknoten te creëren. "
+    },
+    {
+      "question": "Welke componist schreef tijdens het slaapwandelen?",
+      "options": [
+        "Tsjaikovski",
+        "Brahms",
+        "Schumann",
+        "Wagner"
+      ],
+      "answer": "Tsjaikovski",
+      "funFact": "Hij had compositiegereedschap naast zijn bed!",
+      "story": "Tsjaikovski componeerde soms muziek tijdens het slaapwandelen. "
+    },
+    {
+      "question": "Welk instrument speelt het diepst?",
+      "options": [
+        "Octobas",
+        "Contrabas",
+        "Subcontrabas",
+        "Bas"
+      ],
+      "answer": "Octobas",
+      "funFact": "De maat is enorm!",
+      "story": "De Octobass, die 3,5 meter hoog is, produceert tonen zo laag dat ze eerder gevoeld dan gehoord worden, en bereikt frequenties zo laag als 16 Hz."
+    },
+    {
+      "question": "Welk concert speelt het langst?",
+      "options": [
+        "Langspeler",
+        "Zo langzaam als",
+        "Tijd stuk",
+        "Voor altijd"
+      ],
+      "answer": "Langspeler",
+      "funFact": "De compositie is complex!",
+      "story": "Longplayer begon op 31 december 1999 in Londen te spelen en zal tot 2999 zonder herhaling doorgaan, met behulp van Tibetaanse klankschalen."
+    },
+    {
+      "question": "Welk orgel klinkt het verst?",
+      "options": [
+        "Promenadezaal",
+        "Atlantische stad",
+        "Kristal",
+        "Geweldig"
+      ],
+      "answer": "Promenadezaal",
+      "funFact": "De pijpen zijn enorm!",
+      "story": "Het Boardwalk Hall Auditorium-orgel in Atlantic City is 's werelds grootste muziekinstrument, met pijpen die zes kilometer verderop te horen zijn."
+    },
+    {
+      "question": "Welke viool kost het meest?",
+      "options": [
+        "Messias",
+        "Dame Blunt",
+        "Dolfijn",
+        "Rood"
+      ],
+      "answer": "Messias",
+      "funFact": "Het hout is uniek!",
+      "story": "De Messiah Stradivarius, gemaakt in 1716, is de duurste viool ter wereld, met een waarde van meer dan $ 20 miljoen en nooit in het openbaar bespeeld."
+    },
+    {
+      "question": "Welke trommel klopt het langst?",
+      "options": [
+        "Vredestrom",
+        "Eenheidsklop",
+        "Wereld ritme",
+        "Mondiale polsslag"
+      ],
+      "answer": "Vredestrom",
+      "funFact": "De traditie gaat verder!",
+      "story": "Het Peace Drum Project in Whittier, Alaska, heeft sinds 1971 een ononderbroken drumbeat gehandhaafd, waarbij verschillende drummers de klok rond in ploegendiensten draaiden."
+    },
+    {
+      "question": "Welke viool kost het meest?",
+      "options": [
+        "Messias Stradivarius",
+        "Dame Blunt",
+        "Vieuxtemps Guarneri",
+        "Molitor"
+      ],
+      "answer": "Dame Blunt",
+      "funFact": "Het is meer dan 300 jaar oud!",
+      "story": "De Lady Blunt Stradivarius-viool, gemaakt in 1721, werd in 2011 voor $ 15,9 miljoen verkocht. Vernoemd naar Lady Anne Blunt, die de viool 30 jaar in bezit had, is het een van de best bewaarde Stradivari-instrumenten."
+    },
+    {
+      "question": "Welk concert was het koudst?",
+      "options": [
+        "IJsmuziek",
+        "Winterspel",
+        "Iglo feest",
+        "Sneeuwgeluid"
+      ],
+      "answer": "IJsmuziek",
+      "funFact": "De instrumenten waren gemaakt van ijs!",
+      "story": "Op het Ice Music Festival in Noorwegen worden concerten gegeven op instrumenten die uit ijs zijn gesneden bij temperaturen onder de -2°C. "
+    },
+    {
+      "question": "Welk nummer werd het langst gespeeld?",
+      "options": [
+        "Langspeler",
+        "Zo langzaam mogelijk",
+        "Tijd uitrekken",
+        "Eeuwige muziek"
+      ],
+      "answer": "Langspeler",
+      "funFact": "Het zal 1000 jaar lang spelen!",
+      "story": "Longplayer, gecomponeerd door Jem Finer, begon te spelen op 31 december 1999 en zal zonder herhaling doorgaan tot 2999. Het gebruikt algoritmen om unieke combinaties te genereren uit een bronopname van 20 minuten."
+    },
+    {
+      "question": "Welke plaat draait het snelst?",
+      "options": [
+        "Jac Wit",
+        "De witte strepen",
+        "Derde mens",
+        "Ultra-LP"
+      ],
+      "answer": "Jac Wit",
+      "funFact": "Het speelt van binnen naar buiten!",
+      "story": "Jack White's 'Lazaretto' Ultra LP is voorzien van een met de hand geëtst hologram en een verborgen nummer dat op 78 RPM wordt afgespeeld, waardoor het de snelst spelende plaat is die commercieel is uitgebracht."
+    },
+    {
+      "question": "Welk koor is het grootste?",
+      "options": [
+        "Engel stad",
+        "Wereldvrede",
+        "Mondiale harmonie",
+        "Eenheidsstem"
+      ],
+      "answer": "Engel stad",
+      "funFact": "Ze vulden een stadion!",
+      "story": "Het Angel City Chorale vestigde in 2019 een wereldrecord met 883 zangers die samen optraden in de Rose Bowl in Pasadena, Californië, waardoor een ongekende muur van geluid ontstond."
+    },
+    {
+      "question": "Welk concert was het hoogst?",
+      "options": [
+        "Everest Live",
+        "Alpenshow",
+        "Summit optreden",
+        "Topprestaties"
+      ],
+      "answer": "Everest Live",
+      "funFact": "De apparatuur moest speciaal aangepast worden!",
+      "story": "In 2019 trad een groep muzikanten op in het Mount Everest Base Camp (5.364 meter), waarmee ze een wereldrecord vestigden voor het concert op de hoogste hoogte. "
+    },
+    {
+      "question": "Welke viool kost het meest?",
+      "options": [
+        "Vieuxtemps Guarneri",
+        "Messias Stradivari",
+        "Dame Blunt",
+        "Molitor"
+      ],
+      "answer": "Vieuxtemps Guarneri",
+      "funFact": "Het wordt vandaag de dag nog steeds gespeeld!",
+      "story": "De Vieuxtemps Guarneri, gemaakt in 1741, werd in 2012 voor naar schatting $ 16 miljoen verkocht. In tegenstelling tot veel waardevolle violen in musea, wordt dit instrument nog steeds gebruikt bij uitvoeringen, en wordt het momenteel bespeeld door Anne Akiko Meyers in levenslange bruikleen."
+    },
+    {
+      "question": "Welke trommel is het grootst?",
+      "options": [
+        "Geweldige bas",
+        "Donderrol",
+        "Mega-beat",
+        "Reuze Tom"
+      ],
+      "answer": "Geweldige bas",
+      "funFact": "Er zijn meerdere spelers nodig!",
+      "story": "De grootste trommel ter wereld, de Great Bass Drum uit Glasgow, heeft een diameter van 5,5 meter en er zijn minstens vier mensen nodig om erop te spelen. "
+    },
+    {
+      "question": "Welk koor is het grootste?",
+      "options": [
+        "Indiase stem",
+        "Engel geluid",
+        "Harmonie groep",
+        "Vredeskoor"
+      ],
+      "answer": "Indiase stem",
+      "funFact": "Maandenlang hebben ze geoefend!",
+      "story": "Het grootste kooroptreden vond plaats in India in 2018, met 121.440 deelnemers die in perfecte harmonie zongen. "
+    },
+    {
+      "question": "Welke piano drijft?",
+      "options": [
+        "Kristallen piano",
+        "Glas groot",
+        "Watermuziek",
+        "Vloeibare sleutels"
+      ],
+      "answer": "Kristallen piano",
+      "funFact": "Het is volledig transparant!",
+      "story": "De Crystal Piano, gemaakt door Heintzman & Co., is volledig gemaakt van acryl en lijkt te zweven op het podium. "
+    }
+  ]
+}

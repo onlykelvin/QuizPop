@@ -1,0 +1,42 @@
+{
+  "category": "Videogames",
+  "description": "Test je kennis van de gamegeschiedenis, personages en iconische titels",
+  "questions": [
+    {
+      "question": "Wat was de eerste commercieel succesvolle videogame?",
+      "options": [
+        "Ruimteoorlog!",
+        "Pong",
+        "Ruimte-indringers",
+        "Pac-Man"
+      ],
+      "answer": "Pong",
+      "funFact": "De eerste machine van dit spel stopte met werken omdat deze zo vol zat met kwartjes!",
+      "story": "Pong, uitgebracht door Atari in 1972, werd geïnstalleerd in Andy Capp's Tavern in Sunnyvale, Californië. "
+    },
+    {
+      "question": "Wie is Mario's dinosaurus-metgezel?",
+      "options": [
+        "Yoshi",
+        "Bowser",
+        "Koopa",
+        "Pad"
+      ],
+      "answer": "Yoshi",
+      "funFact": "Zijn metgezel zou oorspronkelijk een koopa (schildpad) zijn, maar werd tijdens de ontwikkeling veranderd in een dinosaurus!",
+      "story": "Yoshi verscheen voor het eerst in Super Mario World (1990) voor de Super Nintendo. "
+    },
+    {
+      "question": "Welke game introduceerde het 'Battle Royale'-genre in mainstream gaming?",
+      "options": [
+        "Fortnite",
+        "PUBG",
+        "H1Z1",
+        "Minecraft"
+      ],
+      "answer": "PUBG",
+      "funFact": "Dit spel is geïnspireerd op de Japanse roman en film 'Battle Royale'!",
+      "story": "PlayerUnknown's Battlegrounds (PUBG) werd uitgebracht in 2017 en zorgde voor een revolutie in online gaming. "
+    }
+  ]
+}

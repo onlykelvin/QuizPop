@@ -1,0 +1,27 @@
+{
+  "category": "Video Games",
+  "description": "Test your knowledge of gaming history, characters, and iconic titles",
+  "questions": [
+    {
+      "question": "What was the first commercially successful video game?",
+      "options": ["Spacewar!", "Pong", "Space Invaders", "Pac-Man"],
+      "answer": "Pong",
+      "funFact": "The first machine of this game stopped working because it was so full of quarters!",
+      "story": "Released by Atari in 1972, Pong was installed in Andy Capp's Tavern in Sunnyvale, California. The next day, the machine stopped working because its coin collector was overflowing with quarters. This simple tennis simulation helped launch the video game industry."
+    },
+    {
+      "question": "Who is Mario's dinosaur companion?",
+      "options": ["Yoshi", "Bowser", "Koopa", "Toad"],
+      "answer": "Yoshi",
+      "funFact": "His companion was originally supposed to be a koopa (turtle), but was changed to a dinosaur during development!",
+      "story": "Yoshi first appeared in Super Mario World (1990) for the Super Nintendo. The character was created by Shigefumi Hino and was designed to help Mario after Shigeru Miyamoto wanted Mario to ride a horse in the game. The idea evolved into the friendly dinosaur we know today."
+    },
+    {
+      "question": "Which game introduced the 'Battle Royale' genre to mainstream gaming?",
+      "options": ["Fortnite", "PUBG", "H1Z1", "Minecraft"],
+      "answer": "PUBG",
+      "funFact": "This game was inspired by the Japanese novel and film 'Battle Royale'!",
+      "story": "PlayerUnknown's Battlegrounds (PUBG) was released in 2017 and revolutionized online gaming. Creator Brendan Greene was inspired by the Japanese film 'Battle Royale' and the Hunger Games series. The game's success led to the explosion of the battle royale genre."
+    }
+  ]
+}

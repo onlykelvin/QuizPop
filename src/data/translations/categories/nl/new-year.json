@@ -1,0 +1,282 @@
+{
+  "category": "Nieuwjaar",
+  "description": "Ontdek tradities, vieringen en geschiedenis van het nieuwe jaar over de hele wereld",
+  "questions": [
+    {
+      "question": "Welke stad staat bekend om de baldropping op oudejaarsavond?",
+      "options": [
+        "Londen",
+        "Parijs",
+        "New York",
+        "Tokio"
+      ],
+      "answer": "New York",
+      "funFact": "De Times Square Ball weegt 11.875 pond en is bedekt met 2.688 Waterford Crystal-driehoeken!",
+      "story": "De eerste New Year's Eve Ball-drop op Times Square vond plaats in 1907. De traditie werd gestart door Adolph Ochs, eigenaar van de New York Times, ter vervanging van het vuurwerk dat door stadsambtenaren was verboden. "
+    },
+    {
+      "question": "Wat is de traditionele Spaanse nieuwjaarsgewoonte om twaalf uur per dag om middernacht te eten?",
+      "options": [
+        "Chocolade",
+        "Druiven",
+        "Noten",
+        "Koekjes"
+      ],
+      "answer": "Druiven",
+      "funFact": "De traditie begon in de jaren 1890, toen de telers in Madrid een recordoogst hadden!",
+      "story": "Las doce uvas de la suerte (De twaalf druiven van geluk) is een Spaanse traditie waarbij bij elke belslag om middernacht één druif wordt gegeten. "
+    },
+    {
+      "question": "Welke kalender viert Nieuwjaar in februari?",
+      "options": [
+        "Islamitische kalender",
+        "Chinese kalender",
+        "Hebreeuwse kalender",
+        "Perzische kalender"
+      ],
+      "answer": "Chinese kalender",
+      "funFact": "Hun nieuwjaarsviering duurt 15 dagen!",
+      "story": "Het Chinese Nieuwjaar, ook wel bekend als het Lentefestival, is gebaseerd op de maankalender. "
+    },
+    {
+      "question": "Welke cultuur viert 15 dagen lang Nieuwjaar?",
+      "options": [
+        "Chinese",
+        "Thais",
+        "Vietnamees",
+        "Koreaans"
+      ],
+      "answer": "Chinese",
+      "funFact": "Elke dag van deze viering heeft zijn eigen speciale tradities!",
+      "story": "Het Chinese Nieuwjaar, ook wel Lentefestival genoemd, wordt 15 dagen lang gevierd met elke dag verschillende gebruiken en activiteiten. "
+    },
+    {
+      "question": "Welk land laat op oudejaarsavond een gigantische dennenappel vallen?",
+      "options": [
+        "Arizona",
+        "Florida",
+        "Californië",
+        "Texas"
+      ],
+      "answer": "Arizona",
+      "funFact": "Deze traditie begon in de jaren negentig om het lokale erfgoed te eren!",
+      "story": "Flagstaff, Arizona, laat om middernacht op oudejaarsavond een verlichte dennenappel van ruim 1,80 meter hoog en 25 kilo wegen. "
+    },
+    {
+      "question": "Welke cultuur viert nieuwjaar in april?",
+      "options": [
+        "Thais",
+        "Indiaas",
+        "Perzisch",
+        "Ethiopisch"
+      ],
+      "answer": "Thais",
+      "funFact": "Bij deze viering hoort een landelijk waterfestival!",
+      "story": "Songkran, het Thaise Nieuwjaar, wordt in april gevierd met het grootste waterfestival ter wereld. "
+    },
+    {
+      "question": "Welk dier vertegenwoordigt het eerste nieuwjaarsfeest?",
+      "options": [
+        "Rat",
+        "Draak",
+        "Os",
+        "Tijger"
+      ],
+      "answer": "Rat",
+      "funFact": "Dit wezen wordt geassocieerd met rijkdom en overschotten!",
+      "story": "In de Chinese dierenriemlegende won de Rat de race om de volgorde van de dierenriemdieren te bepalen door op de rug van de Os te rijden en er op het laatste moment af te springen om als eerste over de finish te komen. "
+    },
+    {
+      "question": "Welk land viert Nieuwjaar met 108 belsignalen?",
+      "options": [
+        "Japan",
+        "Korea",
+        "China",
+        "Vietnam"
+      ],
+      "answer": "Japan",
+      "funFact": "Dit ritueel vindt landelijk plaats in boeddhistische tempels!",
+      "story": "Japanse tempels luiden 108 keer hun klokken op oudejaarsavond in een traditie genaamd Joya no Kane. "
+    },
+    {
+      "question": "Welke cultuur voorspelt het komende jaar met behulp van gesmolten metaal?",
+      "options": [
+        "Fins",
+        "Duits",
+        "Russisch",
+        "Zweeds"
+      ],
+      "answer": "Fins",
+      "funFact": "Deze traditie dateert uit de Vikingtijd!",
+      "story": "In Finland beoefenen mensen op oudejaarsavond 'molybdomantie' door tin te smelten en het snel in koud water te laten vallen. "
+    },
+    {
+      "question": "Welk land viert Nieuwjaar met lege koffers?",
+      "options": [
+        "Colombia",
+        "Brazilië",
+        "Argentinië",
+        "Chili"
+      ],
+      "answer": "Colombia",
+      "funFact": "Er wordt aangenomen dat deze traditie het komende jaar avontuur zal brengen!",
+      "story": "Colombianen vieren oudejaarsavond door om middernacht met lege koffers een blokje om te lopen. "
+    },
+    {
+      "question": "Welke cultuur verbrandt vogelverschrikkers voor nieuwjaar?",
+      "options": [
+        "Ecuadoraans",
+        "Mexicaans",
+        "Peruaans",
+        "Venezolaans"
+      ],
+      "answer": "Ecuadoraans",
+      "funFact": "Deze beeltenissen worden vaak gemaakt om op publieke figuren te lijken!",
+      "story": "In Ecuador maken mensen vogelverschrikkerachtige beeltenissen genaamd 'años viejos' (oude jaren) die op oudejaarsavond om middernacht worden verbrand. "
+    },
+    {
+      "question": "Welke vrucht wordt in Spanje traditioneel om middernacht gegeten?",
+      "options": [
+        "Druiven",
+        "Sinaasappelen",
+        "Vijgen",
+        "Granaatappels"
+      ],
+      "answer": "Druiven",
+      "funFact": "Deze traditie begon als gevolg van een overoogst in de 19e eeuw!",
+      "story": "Bij de Spaanse nieuwjaarsvieringen wordt om middernacht twaalf druiven gegeten, één bij elke klokslag. "
+    },
+    {
+      "question": "Welk land viert Nieuwjaar door borden kapot te slaan?",
+      "options": [
+        "Denemarken",
+        "Griekenland",
+        "Duitsland",
+        "Nederland"
+      ],
+      "answer": "Denemarken",
+      "funFact": "Hoe meer kapotte gerechten, hoe populairder je wordt beschouwd!",
+      "story": "In Denemarken bewaren mensen het hele jaar door hun oude borden om ze op oudejaarsavond tegen de deur van vrienden te breken. "
+    },
+    {
+      "question": "Welke stad viert feest onder water?",
+      "options": [
+        "Sleutel Largo",
+        "Miami-strand",
+        "Koraal baai",
+        "Parel Baai"
+      ],
+      "answer": "Sleutel Largo",
+      "funFact": "Het feest begon in 1990!",
+      "story": "Tijdens deze unieke nieuwjaarsviering dalen duikers af naar een onderwaterpodium waar ze deelnemen aan festiviteiten, waaronder een aftelling en champagnetoost."
+    },
+    {
+      "question": "Welke stad racet bedden?",
+      "options": [
+        "Blad uitvoeren",
+        "Kussenrace",
+        "Bedsprint",
+        "Slaap streepje"
+      ],
+      "answer": "Blad uitvoeren",
+      "funFact": "De traditie is tientallen jaren oud!",
+      "story": "In deze eigenzinnige nieuwjaarstraditie versieren teams bedden met wielen en racen ze door de straten van de stad, terwijl ze pyjama's dragen en strijden om verschillende themaprijzen."
+    },
+    {
+      "question": "Welke stad bevriest de tijd?",
+      "options": [
+        "IJsklok",
+        "Vorst tijd",
+        "Sneeuwwacht",
+        "Kristal Uur"
+      ],
+      "answer": "IJsklok",
+      "funFact": "Het duurt weken om het beeld te maken!",
+      "story": "Kunstenaars in deze stad creëren een enorme klok geheel gemaakt van ijs, die op oudejaarsavond om middernacht op dramatische wijze uiteenspat, wat de nieuwe start symboliseert."
+    },
+    {
+      "question": "Welk dorp drijft lantaarns?",
+      "options": [
+        "Hemel hoop",
+        "Licht zweven",
+        "Sterren opkomst",
+        "Gloed wens"
+      ],
+      "answer": "Hemel hoop",
+      "funFact": "Voor het evenement zijn speciale vergunningen nodig!",
+      "story": "Deze gemeenschap viert feest door duizenden biologisch afbreekbare lantaarns de nachtelijke hemel in te sturen, die allemaal geschreven hoop en dromen voor het komende jaar met zich meedragen."
+    },
+    {
+      "question": "Welke stad bouwt een sneeuwdoolhof?",
+      "options": [
+        "Vorstpad",
+        "Sneeuw manier",
+        "Ijs doolhof",
+        "Winterwandeling"
+      ],
+      "answer": "Vorstpad",
+      "funFact": "Het doolhof verandert jaarlijks!",
+      "story": "Deze stad creëert een uitgebreid doolhof van sneeuw en ijs, waar mensen vóór middernacht doorheen moeten navigeren om geluk het komende jaar te garanderen."
+    },
+    {
+      "question": "Welke stad draait de tijd om?",
+      "options": [
+        "Terug klok",
+        "Tijd beurt",
+        "Uur omdraaien",
+        "Omgekeerd horloge"
+      ],
+      "answer": "Terug klok",
+      "funFact": "Het evenement trekt duizenden!",
+      "story": "Deze stad viert feest door alle klokken achteruit te zetten voor het laatste uur van het jaar, waarbij de festiviteiten in omgekeerde volgorde plaatsvinden totdat het aftellen begint."
+    },
+    {
+      "question": "Welke eilandplanten dromen?",
+      "options": [
+        "Droom eiland",
+        "Hoopplant",
+        "Wens tuin",
+        "Toekomstige groei"
+      ],
+      "answer": "Droom eiland",
+      "funFact": "De traditie is eeuwenoud!",
+      "story": "Bewoners van dit eiland planten om middernacht speciale zaden, in de overtuiging dat de hoogte van de planten die groeien hun fortuin in het komende jaar zal voorspellen."
+    },
+    {
+      "question": "Welke stad schildert zonsopgang?",
+      "options": [
+        "Dageraad kunst",
+        "Zon verf",
+        "Licht tekenen",
+        "Ochtend kleur"
+      ],
+      "answer": "Dageraad kunst",
+      "funFact": "Het evenement trekt artiesten van over de hele wereld!",
+      "story": "Kunstenaars verzamelen zich in deze stad om de eerste zonsopgang van het nieuwe jaar te schilderen, waardoor een galerij met interpretaties ontstaat die het hele jaar door wordt getoond."
+    },
+    {
+      "question": "Welke stad bouwt bruggen?",
+      "options": [
+        "Linkstad",
+        "Bruggen bouwen",
+        "Verbind stad",
+        "Spanplaats"
+      ],
+      "answer": "Linkstad",
+      "funFact": "Voor de bruggen zijn bijzondere materialen gebruikt!",
+      "story": "Burgers bouwen op oudejaarsavond tijdelijke bruggen tussen gebouwen, als symbool voor verbindingen die ze het komende jaar hopen te maken."
+    },
+    {
+      "question": "Welk dorp laat de tijd smelten?",
+      "options": [
+        "Tijdstroom",
+        "Smelt horloge",
+        "Uur stroom",
+        "Klokdaling"
+      ],
+      "answer": "Tijdstroom",
+      "funFact": "Het beeld weegt tonnen!",
+      "story": "Dit dorp creëert een enorme ijssculptuur van het oudejaarsgetal, die tijdens oudejaarsavond geleidelijk wordt gesmolten met behulp van verschillende artistieke methoden."
+    }
+  ]
+}

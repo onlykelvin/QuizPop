@@ -1,0 +1,366 @@
+{
+  "category": "Technologie",
+  "description": "Test uw kennis van computers, gadgets en digitale innovatie",
+  "questions": [
+    {
+      "question": "Welke robotboerderijen verticaal?",
+      "options": [
+        "FarmBot",
+        "AgBot",
+        "OogstBot",
+        "CropBot"
+      ],
+      "answer": "FarmBot",
+      "funFact": "Het ontwerp is open source!",
+      "story": "FarmBot is een geautomatiseerde precisielandbouwrobot die gewassen in verticale tuinen kan planten, water geven en monitoren, wat een revolutie teweegbrengt in de stadslandbouw."
+    },
+    {
+      "question": "Welke computer leest hersengolven?",
+      "options": [
+        "Neuralink",
+        "HersenCo",
+        "Emotioneel",
+        "MindWave"
+      ],
+      "answer": "Neuralink",
+      "funFact": "Het apparaat is microscopisch klein!",
+      "story": "De hersen-computerinterface van Neuralink gebruikt duizenden microscopisch kleine draadjes om de hersenactiviteit met ongekende precisie te lezen."
+    },
+    {
+      "question": "Welke drone plant bomen?",
+      "options": [
+        "DroneSeed",
+        "BoomBot",
+        "BosDrone",
+        "Groene Copter"
+      ],
+      "answer": "DroneSeed",
+      "funFact": "Het systeem werkt in zwermen!",
+      "story": "DroneSeed gebruikt zwermen zware drones om gebieden na bosbranden snel te herbebossen, waarbij speciaal ontworpen zaadvaten worden geplant."
+    },
+    {
+      "question": "Welke telefoon buigt volledig?",
+      "options": [
+        "Samsung vouw",
+        "Huawei Mate",
+        "Xiaomi-mix",
+        "Oppo Vind"
+      ],
+      "answer": "Samsung vouw",
+      "funFact": "Het scherm is ultradun!",
+      "story": "De Samsung Galaxy Fold was een pionier in de categorie opvouwbare telefoons met een scherm dat zonder schade volledig in tweeën kan worden gevouwen."
+    },
+    {
+      "question": "Welk horloge meet de zuurstof in het bloed?",
+      "options": [
+        "Apple Watch",
+        "Fitbit",
+        "Garmin",
+        "Samsung"
+      ],
+      "answer": "Apple Watch",
+      "funFact": "De sensor maakt gebruik van licht!",
+      "story": "De Apple Watch Series 6 introduceerde bloedzuurstofmonitoring met behulp van LED-lampjes om het licht te meten dat door de bloedvaten wordt gereflecteerd."
+    },
+    {
+      "question": "Welke drukker maakt organen?",
+      "options": [
+        "CELLINK",
+        "Organovo",
+        "Biobots",
+        "3D-systemen"
+      ],
+      "answer": "CELLINK",
+      "funFact": "Het proces duurt uren!",
+      "story": "De bioprinters van CELLINK kunnen levende weefselstructuren creëren met behulp van bio-inkt die menselijke cellen bevat, waardoor het onderzoek naar orgaantransplantaties wordt bevorderd."
+    },
+    {
+      "question": "Welke auto rijdt onder water?",
+      "options": [
+        "Rinspeed sQuba",
+        "Amphicar",
+        "Waterauto",
+        "Gibbs Aquada"
+      ],
+      "answer": "Rinspeed sQuba",
+      "funFact": "De cabine blijft droog!",
+      "story": "De Rinspeed sQuba is 's werelds eerste duikauto die kan onderdompelen en onder water kan rijden terwijl de passagiers veilig blijven."
+    },
+    {
+      "question": "Welke bril helpt blinden zien?",
+      "options": [
+        "OfCam",
+        "eSight",
+        "NuOgen",
+        "IrisVisie"
+      ],
+      "answer": "OfCam",
+      "funFact": "Het apparaat is discreet!",
+      "story": "OrCam MyEye hecht zich aan een bril en gebruikt AI om tekst te lezen, gezichten te herkennen en de omgeving te beschrijven voor visueel beperkte gebruikers."
+    },
+    {
+      "question": "Welk toetsenbord projecteert licht?",
+      "options": [
+        "Celluon",
+        "Lasertype",
+        "Virtuele sleutels",
+        "Licht bord"
+      ],
+      "answer": "Celluon",
+      "funFact": "Het apparaat is draagbaar!",
+      "story": "Het lasertoetsenbord van Celluon projecteert een QWERTY-toetsenbord van volledige grootte op elk vlak oppervlak en detecteert vingerbewegingen tijdens het typen."
+    },
+    {
+      "question": "Welk scherm buigt het meest?",
+      "options": [
+        "LG Flex",
+        "Sony-rol",
+        "Scherpe bocht",
+        "TCL-vouw"
+      ],
+      "answer": "LG Flex",
+      "funFact": "De straal is verstelbaar!",
+      "story": "Het LG Flex-display kan naar verschillende krommingen buigen, waardoor gebruikers hun kijkervaring kunnen aanpassen voor optimaal comfort."
+    },
+    {
+      "question": "Welke robot voert een operatie uit?",
+      "options": [
+        "Da Vinci",
+        "Versius",
+        "ROSA",
+        "Mako"
+      ],
+      "answer": "Da Vinci",
+      "funFact": "Het systeem heeft meerdere armen!",
+      "story": "Met het Da Vinci Surgical System kunnen chirurgen minimaal invasieve procedures uitvoeren met ongekende precisie met behulp van robotarmen die worden bestuurd vanaf een console."
+    },
+    {
+      "question": "Welke satelliet reinigt de ruimte?",
+      "options": [
+        "ClearSpace-1",
+        "VerwijderDEBRIS",
+        "CleanSpace Eén",
+        "Astroschaal"
+      ],
+      "answer": "ClearSpace-1",
+      "funFact": "De missie gaat binnenkort van start!",
+      "story": "ClearSpace-1 is de eerste satelliet die speciaal is ontworpen om ruimteschroot op te vangen en te verwijderen, met behulp van een uniek vierarmig vangmechanisme."
+    },
+    {
+      "question": "Welke headset leest lippen?",
+      "options": [
+        "TranscribeGlas",
+        "OogSpreek",
+        "SpraakLens",
+        "VoiceView"
+      ],
+      "answer": "TranscribeGlas",
+      "funFact": "Het apparaat is lichtgewicht!",
+      "story": "TranscribeGlass gebruikt AI om lippen te lezen en spraak in realtime om te zetten in tekst, waardoor dove en slechthorende personen effectiever kunnen communiceren."
+    },
+    {
+      "question": "Welke stof genereert stroom?",
+      "options": [
+        "PowerFelt",
+        "E-textiel",
+        "ThermoTex",
+        "VoltWear"
+      ],
+      "answer": "PowerFelt",
+      "funFact": "Het materiaal is flexibel!",
+      "story": "PowerFelt, ontwikkeld door Wake Forest University, zet lichaamswarmte en beweging om in elektrische energie, waardoor mogelijk kleine elektronische apparaten van stroom worden voorzien."
+    },
+    {
+      "question": "Welke robot onderzoekt vulkanen?",
+      "options": [
+        "VulkaanBot",
+        "RoboKrater",
+        "LavaBot",
+        "MagmaBot"
+      ],
+      "answer": "VulkaanBot",
+      "funFact": "Het ontwerp is hittebestendig!",
+      "story": "NASA's VolcanoBot is ontworpen om vulkanische kloven te onderzoeken die te gevaarlijk zijn voor mensen, en levert cruciale gegevens op over vulkanische systemen en mogelijke uitbarstingen."
+    },
+    {
+      "question": "Welke chip is het kleinst?",
+      "options": [
+        "IBM 2nm",
+        "TSMC 3nm",
+        "Intel 4",
+        "Samsung 3nm"
+      ],
+      "answer": "IBM 2nm",
+      "funFact": "Het is kleiner dan DNA!",
+      "story": "IBM's 2-nanometer chiptechnologie, aangekondigd in 2021, kan 50 miljard transistors in een ruimte ter grootte van een vingernagel plaatsen, wat ongekende rekenkracht en energie-efficiëntie belooft."
+    },
+    {
+      "question": "Welke AI schrijft muziek?",
+      "options": [
+        "Open AI MuseNet",
+        "Google Magenta",
+        "AIVA",
+        "Amper"
+      ],
+      "answer": "Open AI MuseNet",
+      "funFact": "Het kent meerdere stijlen!",
+      "story": "OpenAI's MuseNet kan muziekcomposities van 4 minuten genereren in 15 verschillende stijlen, van klassiek tot jazz, met behulp van diepe neurale netwerken die zijn getraind op honderdduizenden MIDI-composities."
+    },
+    {
+      "question": "Welke robot beklimt muren?",
+      "options": [
+        "Hoogtevrees",
+        "Muurbot",
+        "Gekko-robot",
+        "SpiderBot"
+      ],
+      "answer": "Hoogtevrees",
+      "funFact": "Het tart de zwaartekracht!",
+      "story": "De VertiGo-robot van Disney Research gebruikt propellers om neerwaartse kracht te creëren, waardoor hij soepel tegen muren en over plafonds kan rijden terwijl hij de controle en stabiliteit behoudt."
+    },
+    {
+      "question": "Welke batterij laadt het snelst op?",
+      "options": [
+        "Xiaomi HyperCharge",
+        "OPPO-flitser",
+        "Vivo Super",
+        "Huawei-Turbo"
+      ],
+      "answer": "Xiaomi HyperCharge",
+      "funFact": "Minuten om volledig op te laden!",
+      "story": "Xiaomi's HyperCharge-technologie kan een telefoonbatterij van 4.000 mAh in slechts 8 minuten bij 200 W volledig opladen, waarmee een wereldrecord wordt gevestigd voor het snelst mobiel opladen."
+    },
+    {
+      "question": "Welke computer is het koudst?",
+      "options": [
+        "IBM Q Systeem Eén",
+        "D-golf",
+        "Google Sycamore",
+        "Honeywell H1"
+      ],
+      "answer": "IBM Q Systeem Eén",
+      "funFact": "Het is bijna het absolute nulpunt!",
+      "story": "IBM's Q System One-kwantumcomputer werkt op 0,015 Kelvin (-273,135 ° C), waardoor het een van de koudste plekken in het universum is, noodzakelijk voor het in stand houden van kwantumtoestanden."
+    },
+    {
+      "question": "Welke robot zwemt het diepst?",
+      "options": [
+        "Hadal-verkenner",
+        "Diepe Rover",
+        "Nautilus",
+        "Alvin"
+      ],
+      "answer": "Hadal-verkenner",
+      "funFact": "Het is drukbestendig!",
+      "story": "De Hadal Explorer-robot, ontwikkeld door Woods Hole Oceanographic Institution, kan tot 11.000 meter duiken en de diepste loopgraven van de oceaan verkennen met geavanceerde sensoren en camera's."
+    },
+    {
+      "question": "Welke lens verandert van kleur?",
+      "options": [
+        "Acuvue Oasys",
+        "Lucht Optix",
+        "Puur Visie",
+        "Biofiniteit"
+      ],
+      "answer": "Acuvue Oasys",
+      "funFact": "De overgang gebeurt automatisch!",
+      "story": "Acuvue Oasys met Transitions is de eerste contactlens die automatisch donkerder wordt bij blootstelling aan fel licht, waarbij gebruik wordt gemaakt van fotochromische technologie om het visuele comfort te verbeteren."
+    },
+    {
+      "question": "Welke camera kijkt door muren?",
+      "options": [
+        "Vayyar",
+        "Xaver",
+        "Wandzicht",
+        "Thermisch oog"
+      ],
+      "answer": "Vayyar",
+      "funFact": "Geen straling gebruikt!",
+      "story": "De 4D-beeldtechnologie van Vayyar maakt gebruik van radiofrequentiegolven om 3D-beelden te creëren van objecten achter muren, wat helpt bij zoek- en reddingsacties, medische monitoring en beveiligingstoepassingen."
+    },
+    {
+      "question": "Welke verf genereert stroom?",
+      "options": [
+        "Zonneverf",
+        "Lichtvangst",
+        "PowerCoat",
+        "EnergieInkt"
+      ],
+      "answer": "Zonneverf",
+      "funFact": "Werkt bij weinig licht!",
+      "story": "Zonneverf, ontwikkeld door RMIT University, bevat synthetisch molybdeensulfide dat waterdamp splitst in waterstof en zuurstof, waardoor zelfs uit vochtige lucht schone energie wordt gegenereerd."
+    },
+    {
+      "question": "Welke schoenen veteren zichzelf?",
+      "options": [
+        "Nike HyperAdapt",
+        "Poema Fi",
+        "Adidas GMR",
+        "Onder pantser HOVR"
+      ],
+      "answer": "Nike HyperAdapt",
+      "funFact": "Ze voelen voetdruk!",
+      "story": "De HyperAdapt-schoenen van Nike maken gebruik van een 'adaptief vetersysteem' dat automatisch strakker wordt wanneer je instapt, waarbij sensoren worden gebruikt om de voetpositie te detecteren en de pasvorm dienovereenkomstig aan te passen."
+    },
+    {
+      "question": "Welke microscoop ziet atomen?",
+      "options": [
+        "Kwantumbereik",
+        "Nion STEM",
+        "Atoomkracht",
+        "Elektronen oog"
+      ],
+      "answer": "Kwantumbereik",
+      "funFact": "Het is ongelooflijk nauwkeurig!",
+      "story": "De Quantum Electron Microscope, ontwikkeld aan het MIT, kan individuele atomen in beeld brengen zonder kwetsbare monsters te beschadigen door gebruik te maken van kwantuminteracties, waarbij een resolutie van minder dan 1 angstrom wordt bereikt."
+    },
+    {
+      "question": "Welke lift gaat het verst?",
+      "options": [
+        "KONE UltraRope",
+        "Otis SkyRise",
+        "Schindler 7000",
+        "ThyssenKrupp TWIN"
+      ],
+      "answer": "KONE UltraRope",
+      "funFact": "De kabels zijn van koolstofvezel!",
+      "story": "Dankzij de UltraRope-technologie van KONE kunnen liften in één keer een afstand van wel 1.000 meter afleggen, waarbij gebruik wordt gemaakt van koolstofvezelkabels die lichter en duurzamer zijn dan traditionele staalkabels."
+    },
+    {
+      "question": "Welke robot leest emoties?",
+      "options": [
+        "Peper",
+        "NAO",
+        "ASIMO",
+        "Atlas"
+      ],
+      "answer": "Peper",
+      "funFact": "Het reageert op stemming!",
+      "story": "De Pepper-robot van SoftBank maakt gebruik van gezichtsherkenning en stemanalyse om menselijke emoties te detecteren en zijn gedrag en reacties aan te passen op basis van de emotionele toestand van de persoon met wie hij communiceert."
+    },
+    {
+      "question": "Welke printer is het snelst?",
+      "options": [
+        "Landa S10",
+        "HPIndigo",
+        "Xerox iGen",
+        "Canon Oce"
+      ],
+      "answer": "Landa S10",
+      "funFact": "De inkt is microscopisch klein!",
+      "story": "De Landa S10 Nanographic Printing Press kan 6.500 vellen per uur printen in acht kleuren, met behulp van nanopigmenten op waterbasis die een ultradunne laag vormen op elk substraat."
+    },
+    {
+      "question": "Welke scanner leest gedachten?",
+      "options": [
+        "VolgendeMind",
+        "MindReader",
+        "Gedachtenscan",
+        "Hersenzin"
+      ],
+      "answer": "VolgendeMind",
+      "funFact": "Het is niet-invasief!",
+      "story": "Het apparaat van NextMind maakt gebruik van niet-invasieve EEG-technologie om visuele neurale activiteit in realtime te decoderen, waardoor gebruikers digitale interfaces rechtstreeks met hun gedachten kunnen besturen."
+    }
+  ]
+}

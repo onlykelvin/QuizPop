@@ -1,0 +1,200 @@
+{
+  "nav": {
+    "about": "Over Ons",
+    "howItWorks": "Hoe Het Werkt",
+    "contact": "Contact",
+    "AudioNotification": "Beheer en kies muziek via de audio speler hieronder."
+  },
+  "hero": {
+    "title": "QuizPop",
+    "subtitle": "Quizmagie wacht! Gezellige trivia of actieve sessies. Speel, leer en creëer herinneringen met vrienden."
+  },
+  "modes": {
+    "classic": {
+      "title": "Klassieke Modus",
+      "description": "Snelle trivia met leuke hints en boeiende verhalen. Perfect voor solo of groepsspel!",
+      "randomMix": "Willekeurige Mix",
+      "chooseCategory": "Kies Categorie",
+      "learnMore": "Ontdek hoe de Klassieke Modus werkt"
+    },
+    "quizMaster": {
+      "title": "QuizMaster Modus",
+      "description": "Laat één speler de QuizMaster zijn. De eerste die buzzert krijgt de spotlight—voor spannende en teamvriendelijke triviamomenten.",
+      "randomMix": "Willekeurige Mix",
+      "chooseCategory": "Kies Categorie",
+      "learnMore": "Ontdek hoe de QuizMaster Modus werkt"
+    }
+  },
+  "quiz": {
+    "score": "Score",
+    "question": "Vraag",
+    "scoreTab": {
+      "toggle": "Team Scores Tonen/Verbergen",
+      "increment": "Score Verhogen",
+      "decrement": "Score Verlagen"
+    },
+    "funFact": "Leuk Weetje",
+    "story": "Verhaal",
+    "actions": {
+      "next": "Volgende Vraag",
+      "finish": "Quiz Afronden",
+      "quit": "Quiz Verlaten",
+      "reveal": "Antwoord Tonen"
+    }
+  },
+  "categoryModal": {
+    "title": "Kies een Categorie",
+    "mainCategories": "Hoofdcategorieën",
+    "specialCategories": "Speciale Categorieën",
+    "showMore": "Toon Alles",
+    "showLess": "Toon Minder"
+  },
+  "highScores": {
+    "title": "Hoogste Scores",
+    "mode": "Modus",
+    "date": "Datum",
+    "score": "Score",
+    "percentage": "Percentage",
+    "noScores": "Nog geen hoogste scores. Begin met spelen om records te zetten!"
+  },
+  "stats": {
+    "title": "Quiz Voltooid!",
+    "category": "Categorie",
+    "score": "Score",
+    "greatJob": "Goed gedaan! Je beheerst deze categorie!",
+    "actions": {
+      "home": "Terug naar Home",
+      "share": "Deel je topscore!",
+      "game": "Deel je score!" 
+    },
+    "shareText": "🎯 Ik heb net {score}/{total} ({percentage}%) gescoord op de {category} quiz in QuizPop! Kun jij mijn score verslaan?"
+  },
+  "about": {
+    "title": "Over Ons",
+    "description1": "Bij QuizPop draait alles om het creëren van betekenisvolle verbindingen door plezier en leren. Onze missie is om innovatieve manieren te bieden om mensen samen te brengen, vreugde te creëren en een vleugje ontdekking toe te voegen aan elke interactie.",
+    "description2": "Van het strakke ontwerp van onze QuizPop-knoppen tot de zorgvuldig ontwikkelde quiz-webapp, alles wat we maken komt voort uit onze passie voor unieke ervaringen die vermaken en inspireren. Of het nu gaat om een casual spelletjesavond of een levendige familiebijeenkomst, QuizPop maakt van momenten herinneringen."
+  },
+  "howItWorks": {
+    "title": "Hoe Het Werkt",
+    "subtitle": "Interactief Plezier Ontmoet Memorabel Leren",
+    "description": "Transformeer je quiz-avonden met QuizPop's intuïtieve ontwerp. Met vijf levendige knoppen en een strakke mastercontrol creëert QuizPop een naadloze manier om te spelen, te leren en samen te lachen. Perfect voor familie-avonden, teambuilding, klaslokalen of feestjes, QuizPop brengt mensen dichter bij elkaar terwijl er onvergetelijke momenten worden gecreëerd.",
+    "features": {
+      "gameplay": "Meeslepende spelervaring",
+      "gameplayDesc": "Voel de spanning als spelers indrukken met hun antwoorden via QuizPop's fysieke knoppen.",
+      "control": "Gebruiksvriendelijke mastercontrol",
+      "controlDesc": "De QuizMaster neemt moeiteloos de leiding met de afstandsbediening-stijl mastercontrol.",
+      "groups": "Perfect voor groepen",
+      "groupsDesc": "Ontworpen voor 2 tot 6+ spelers, van casual plezier tot competitieve quizzen.",
+      "learning": "Eindeloos leren en entertainment",
+      "learningDesc": "Gebruik de QuizPop web-app om toegang te krijgen tot een schat aan categorieën, vragen en feiten."
+    },
+    "setup": {
+      "title": "Hoe Het Werkt",
+      "subtitle": "QuizPop opzetten is net zo eenvoudig als leuk:",
+      "steps": {
+        "step1": "Verzamel je team: Elke speler krijgt één van de vijf knoppen.",
+        "step2": "QuizMaster heeft de controle: Gebruik de mastercontrol om het spel te beheren en antwoorden op het grote scherm te tonen.",
+        "step3": "Druk in om te antwoorden: De eerste die op hun knop drukt mag antwoorden.",
+        "step4": "Veel plezier en leer: Of antwoorden nu goed of fout zijn, elke vraag komt met interessante feiten en context."
+      }
+    },
+    "gameModes": {
+      "classic": {
+        "title": "Klassieke Modus",
+        "description": "Perfect voor casual quizspel, deze modus laat iedereen multiple-choice vragen beantwoorden, genieten van leuke weetjes en nieuwe dingen leren na elk antwoord."
+      },
+      "quizMaster": {
+        "title": "QuizMaster Modus",
+        "description": "De ultieme ervaring! De QuizMaster gebruikt de mastercontrol om het spel te beheren, terwijl spelers indrukken om te antwoorden. Na het onthullen van het juiste antwoord, licht de QuizMaster de knop van de winnende speler groen op—of geeft een rood licht om foute antwoorden aan te geven."
+      }
+    },
+    "why": {
+      "title": "Waarom QuizPop?",
+      "description": "Bij QuizPop geloven we in het samenbrengen van mensen door plezier, leren en gedeelde ervaringen. Of je nu je kennis test of vriendelijke competitie aanwakkert, QuizPop is ontworpen om onvergetelijke momenten te creëren."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Heb je vragen? Hulp nodig? Wil je je QuizPop-verhalen met ons delen? We horen graag van je!",
+    "email": {
+      "title": "E-mail Ons",
+      "description": "Stuur ons je vragen, feedback of zeg gewoon hallo!",
+      "address": "contact@quizpop.com"
+    },
+    "support": {
+      "title": "Ondersteuning",
+      "description": "Technische hulp nodig of vragen over je bestelling?",
+      "address": "support@quizpop.com"
+    }
+  },
+  "footer": {
+    "mainCategories": "Hoofdcategorieën",
+    "specialCategories": "Speciale Categorieën",
+    "about": "Over",
+    "connect": "Verbinden",
+    "shareWebsite": "Deel deze website",
+    "rights": "© 2024 QuizPop. Alle rechten voorbehouden."
+  },
+  "categories": {
+    "main": {
+      "science": "Wetenschap",
+      "history": "Geschiedenis",
+      "art": "Kunst",
+      "literature": "Literatuur",
+      "music": "Muziek",
+      "geography": "Aardrijkskunde",
+      "technology": "Technologie",
+      "sports": "Sport",
+      "foodDrink": "Eten & Drinken",
+      "nature": "Natuur & Milieu",
+      "popCulture": "Popcultuur",
+      "mythology": "Mythologie & Folklore",
+      "languages": "Talen & Taalkunde"
+    },
+    "special": {
+      "newYear": "Nieuwjaar",
+      "christmas": "Kerstmis",
+      "easter": "Pasen",
+      "santaClaus": "Sinterklaas",
+      "winter": "Winter",
+      "summer": "Zomer",
+      "autumn": "Herfst",
+      "spring": "Lente",
+      "bookClub": "Boekenclub",
+      "travel": "Reizen",
+      "sciFiFantasy": "Sci-Fi & Fantasy",
+      "videoGames": "Videogames",
+      "health": "Gezondheid & Welzijn",
+      "fashion": "Mode & Stijl"
+    }
+  },
+  "productShowcase": {
+    "title": "Introductie QuizPop",
+    "subtitle": "Breng het plezier en de spanning van interactieve quizzen tot leven met QuizPop, de ultieme combinatie van digitaal spel en fysieke interactie.",
+    "description": "Ontworpen voor memorabele momenten, veranderen QuizPop's knoppen en mastercontrol elke bijeenkomst in een spannende, kennisrijke ervaring.",
+    "features": {
+      "title": "Interactief Plezier Ontmoet Memorabel Leren",
+      "description": "Transformeer je quiz-avonden met QuizPop's intuïtieve ontwerp. Met vijf levendige knoppen en een strakke mastercontrol creëert QuizPop een naadloze manier om te spelen, te leren en samen te lachen. QuizPop brengt mensen dichter bij elkaar terwijl er onvergetelijke momenten worden gecreëerd.",
+      "list": {
+        "gameplay": "Meeslepende spelervaring. - Voel de spanning als spelers indrukken met hun antwoorden via QuizPop's fysieke knoppen.",
+        "control": "Gebruiksvriendelijke mastercontrol. - De QuizMaster neemt moeiteloos de leiding met de QuizPop mastercontrol.",
+        "groups": "Perfect voor groepen. - Ontworpen voor 2 tot 6+ spelers, van casual plezier tot competitieve quizzen.",
+        "learning": "Eindeloos leren en entertainment. - Gebruik de QuizPop web-app om toegang te krijgen tot een schat aan categorieën, vragen en feiten."
+      }
+    },
+    "specs": {
+      "whatsInside": {
+        "title": "Wat Zit Erin",
+        "description": "5 buzz-in knoppen, 1 mastercontrol, toegang tot de QuizPop web-app."
+      },
+      "howItWorks": {
+        "title": "Hoe Het Werkt",
+        "description": "QuizPop opzetten is net zo eenvoudig als leuk. Zie 'Hoe het werkt' onderaan deze pagina."
+      },
+      "perfectFor": {
+        "title": "Perfect Voor",
+        "description": "Familie-spelletjesavonden, klaslokalen, teambuilding, feestjes en bijeenkomsten."
+      }
+    }
+  }
+}

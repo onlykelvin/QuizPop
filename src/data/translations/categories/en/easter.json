@@ -1,0 +1,398 @@
+{
+  "category": "Easter",
+  "description": "Learn about Easter traditions, symbols, and celebrations worldwide",
+  "questions": [
+    {
+      "question": "Which country is credited with starting the tradition of Easter eggs?",
+      "options": ["Germany", "Persia", "Egypt", "Greece"],
+      "answer": "Persia",
+      "funFact": "The tradition of decorating eggs dates back over 2,500 years!",
+      "story": "The ancient Persians painted eggs for Nowruz, their New Year celebration, which falls on the Spring equinox. This tradition spread along trade routes and was eventually incorporated into Christian Easter celebrations, with eggs symbolizing new life and resurrection."
+    },
+    {
+      "question": "What is the traditional Easter bread of Italy called?",
+      "options": ["Panettone", "Colomba", "Ciabatta", "Focaccia"],
+      "answer": "Colomba",
+      "funFact": "This bread is shaped like a dove to symbolize peace and the Holy Spirit!",
+      "story": "The Colomba di Pasqua (Easter Dove) dates back to the 6th century in Lombardy. According to legend, it was created to commemorate a peace offering made by a dove during a battle. The bread is similar to panettone but shaped like a dove and topped with almonds and pearl sugar."
+    },
+    {
+      "question": "Which flower is most associated with Easter?",
+      "options": ["Rose", "Lily", "Tulip", "Daisy"],
+      "answer": "Lily",
+      "funFact": "This flower symbolize purity and new life!",
+      "story": "The Easter lily became associated with the holiday in the late 1800s when they were brought to the United States from Bermuda. According to Christian tradition, lilies are said to have grown where Jesus's sweat fell to the ground in his final hours."
+    },
+    {
+      "question": "What is the traditional Easter flower?",
+      "options": ["Rose", "Tulip", "Lily", "Daffodil"],
+      "answer": "Lily",
+      "funFact": "Easter lilies are often associated with purity and new beginnings!",
+      "story": "The Easter lily is a symbol of purity, hope, and new life, making it a popular flower for Easter celebrations. Its trumpet-shaped white blooms are often used in church decorations and floral arrangements during the holiday season. The flower's association with Easter dates back to biblical times, when it was said to have sprung from the ground where Jesus' blood fell."
+    },
+    {
+      "question": "Which animal is a symbol of Easter and is known for laying eggs?",
+      "options": ["Duck", "Chicken", "Rabbit", "Goose"],
+      "answer": "Rabbit",
+      "funFact": "The Easter Bunny is a popular character in Easter celebrations!",
+      "story": "The Easter Bunny is a folkloric figure and symbol of Easter, often depicted as a rabbit bringing Easter eggs. The tradition of the Easter Bunny originated in Germany, where it was believed that a hare would lay colored eggs for children to find. The character has since become a beloved part of Easter celebrations around the world."
+    },
+    {
+      "question": "What is the name of the week leading up to Easter Sunday?",
+      "options": ["Holy Week", "Passion Week", "Easter Week", "Lent"],
+      "answer": "Holy Week",
+      "funFact": "Holy Week includes important days such as Palm Sunday and Good Friday!",
+      "story": "Holy Week is the week leading up to Easter Sunday and is the final week of Lent in the Christian calendar. It commemorates the events of Jesus' last week on Earth, including his entry into Jerusalem on Palm Sunday, his crucifixion on Good Friday, and his resurrection on Easter Sunday."
+    },
+    {
+      "question": "What is the traditional Easter bread of Greece?",
+      "options": ["Pita", "Tsoureki", "Focaccia", "Brioche"],
+      "answer": "Tsoureki",
+      "funFact": "Tsoureki is a sweet, braided bread often flavored with orange zest and spices!",
+      "story": "Tsoureki is a traditional Greek Easter bread that is sweet and often braided. It is flavored with orange zest, mahleb, and sometimes mastic, giving it a unique aroma and taste. The bread is usually baked with a red-dyed egg nestled in the dough, symbolizing the blood of Christ and the resurrection."
+    },
+    {
+      "question": "Which holiday is celebrated on the first Sunday after the first full moon following the vernal equinox?",
+      "options": ["Christmas", "Easter", "Thanksgiving", "Halloween"],
+      "answer": "Easter",
+      "funFact": "Easter's date changes each year based on the lunar calendar!",
+      "story": "Easter is a movable feast, meaning its date is not fixed to the calendar year. Instead, it is determined by the lunar calendar, falling on the first Sunday after the first full moon following the vernal equinox. This calculation was established by the Council of Nicaea in 325 AD to standardize the celebration of Easter across the Christian church."
+    },
+    {
+      "question": "What is the traditional Easter egg decoration technique in Ukraine?",
+      "options": ["Pysanky", "Batik", "Decoupage", "Marbling"],
+      "answer": "Pysanky",
+      "funFact": "Pysanky involves using wax and dyes to create intricate designs on eggs!",
+      "story": "Pysanky is a traditional Ukrainian art form of decorating eggs using a wax-resist method. The process involves drawing designs on the eggs with wax, then dipping them in dyes. The wax is removed to reveal the colorful patterns underneath. Pysanky eggs are often given as gifts during Easter celebrations and are treasured for their intricate beauty."
+    },
+    {
+      "question": "Which candy is most associated with Easter in the United States?",
+      "options": ["Chocolate bunnies", "Jelly beans", "Marshmallow chicks", "Candy canes"],
+      "answer": "Chocolate bunnies",
+      "funFact": "Chocolate bunnies are a popular Easter treat in the United States!",
+      "story": "Chocolate bunnies are a beloved Easter candy in the United States, often given as gifts or included in Easter baskets. The tradition of chocolate bunnies dates back to the 19th century, when German immigrants brought the idea to America. Today, chocolate bunnies come in various sizes and flavors, delighting children and adults alike during the Easter season."
+    },
+    {
+      "question": "What is the name of the traditional Easter parade held in New York City?",
+      "options": ["Macy's Parade", "Easter Parade", "St. Patrick's Parade", "Thanksgiving Parade"],
+      "answer": "Easter Parade",
+      "funFact": "The Easter Parade is a long-standing tradition in New York City!",
+      "story": "The Easter Parade is an annual event held in New York City on Easter Sunday. Participants don elaborate hats and costumes as they stroll along Fifth Avenue, celebrating the arrival of spring. The tradition dates back to the mid-19th century and has become a symbol of fashion and creativity during the Easter season."
+    },
+    {
+      "question": "Which country is known for the tradition of 'egg rolling' during Easter?",
+      "options": ["United States", "United Kingdom", "Australia", "Canada"],
+      "answer": "United Kingdom",
+      "funFact": "Egg rolling is a popular Easter activity in the United Kingdom!",
+      "story": "Egg rolling is a traditional Easter activity in the United Kingdom, where participants roll hard-boiled eggs down a hill or slope. The event symbolizes the rolling away of the stone from Jesus' tomb, marking his resurrection. Egg rolling is a fun and competitive activity enjoyed by families and communities during the Easter holiday."
+    },
+    {
+      "question": "What is the traditional Easter cake in Italy?",
+      "options": ["Panettone", "Colomba", "Tiramisu", "Cannoli"],
+      "answer": "Colomba",
+      "funFact": "Colomba is a dove-shaped cake enjoyed during Easter in Italy!",
+      "story": "Colomba di Pasqua is a traditional Italian Easter cake shaped like a dove, symbolizing peace and the Holy Spirit. The cake is similar to panettone, with a soft, sweet dough and candied fruits. It is often topped with almonds and sugar, making it a delicious and festive treat for Easter celebrations in Italy."
+    },
+    {
+      "question": "What flower is traditionally associated with Easter?",
+      "options": ["Easter Lily", "Rose", "Tulip", "Daisy"],
+      "answer": "Easter Lily",
+      "funFact": "These elegant white flowers originated from Japan's Ryukyu Islands!",
+      "story": "The Easter Lily became associated with the holiday in the 1880s when it was first imported to Bermuda. The flower's pure white color and trumpet shape have made it a powerful symbol of hope and renewal. During the spring season, these beautiful blooms grace churches and homes worldwide, their fragrant presence adding to the celebration of new beginnings."
+    },
+    {
+      "question": "In which country did the Easter Bunny tradition originate?",
+      "options": ["Germany", "United States", "England", "France"],
+      "answer": "Germany",
+      "funFact": "Medieval folklore included many stories about hares and springtime!",
+      "story": "The Easter Bunny tradition began in Germany during the Middle Ages. The first written mention of the 'Easter Hare' appears in German writings from the 1600s. German settlers brought this tradition to America in the 1700s, where it gradually evolved into the modern practice of the Easter Bunny bringing baskets filled with treats and colored eggs."
+    },
+    {
+      "question": "What is the traditional Easter bread of Greece?",
+      "options": ["Tsoureki", "Brioche", "Challah", "Panettone"],
+      "answer": "Tsoureki",
+      "funFact": "This sweet bread is flavored with an ancient spice from the Mediterranean!",
+      "story": "Tsoureki is a sweet, braided bread that holds deep cultural significance in Greek Easter celebrations. The bread is flavored with mahlepi, a spice made from cherry pits, and mastic, a resin from trees that grow only on the Greek island of Chios. Its braided shape symbolizes the Holy Trinity, and red-dyed eggs are often baked into the bread's braids."
+    },
+    {
+      "question": "Which European city is famous for its Easter Market?",
+      "options": ["Vienna", "Paris", "Rome", "Madrid"],
+      "answer": "Vienna",
+      "funFact": "This historic market tradition dates back to medieval times!",
+      "story": "Vienna's Easter Market, or 'Ostermarkt,' transforms the city's squares into festive marketplaces. The most famous is held at Schönbrunn Palace, featuring hundreds of stalls selling traditional crafts, decorated eggs, and regional delicacies. Visitors can watch artisans demonstrate egg decorating techniques and enjoy traditional Austrian Easter treats."
+    },
+    {
+      "question": "What is the traditional Easter game played in Northern England?",
+      "options": ["Egg Rolling", "Egg Hunt", "Egg Tapping", "Egg Painting"],
+      "answer": "Egg Rolling",
+      "funFact": "This centuries-old tradition takes place on grassy hills and slopes!",
+      "story": "Egg Rolling is a beloved Easter tradition in Northern England, particularly in Preston, Lancashire. Participants roll decorated hard-boiled eggs down grassy hills, with the winner being the egg that rolls the furthest without breaking. The tradition symbolizes the rolling away of the stone from Jesus's tomb and has been practiced for generations."
+    },
+    {
+      "question": "What is the traditional Easter dessert of Italy?",
+      "options": ["Colomba", "Tiramisu", "Cannoli", "Gelato"],
+      "answer": "Colomba",
+      "funFact": "This festive bread is shaped like a symbolic spring messenger!",
+      "story": "Colomba di Pasqua, or Easter Dove Bread, is a traditional Italian Easter dessert. This sweet bread is shaped like a dove, symbolizing peace and the Holy Spirit. The recipe dates back to the 6th century in Lombardy, and the bread is topped with pearl sugar and almonds, creating a delicious contrast of textures."
+    },
+    {
+      "question": "Which country celebrates Easter Monday with water fights?",
+      "options": ["Poland", "Spain", "Greece", "Italy"],
+      "answer": "Poland",
+      "funFact": "This playful tradition is known as 'Wet Monday' in local culture!",
+      "story": "In Poland, Easter Monday is celebrated with Śmigus-dyngus, a tradition where people playfully sprinkle water on each other. This custom dates back to pagan times and was associated with the symbolic cleansing of winter and welcoming of spring. Today, it has evolved into a nationwide water fight, with everyone from children to adults participating in the fun."
+    },
+    {
+      "question": "What is the traditional Easter bread of Russia?",
+      "options": ["Kulich", "Babka", "Challah", "Panettone"],
+      "answer": "Kulich",
+      "funFact": "This tall, cylindrical bread is blessed by priests before being eaten!",
+      "story": "Kulich is a tall, cylindrical sweet bread that's an essential part of Russian Easter celebrations. The bread is traditionally baked in special tall tins and decorated with white icing and colorful sprinkles. According to tradition, families bring their kulich to church for blessing on Easter Saturday, and it's enjoyed throughout the Easter season."
+    },
+    {
+      "question": "Which animal delivers Easter eggs in Australia?",
+      "options": ["Bilby", "Kangaroo", "Koala", "Wombat"],
+      "answer": "Bilby",
+      "funFact": "This native marsupial has long ears similar to a rabbit!",
+      "story": "In Australia, the Easter Bilby has largely replaced the Easter Bunny as a symbol of the holiday. This change began in the 1990s to raise awareness about the endangered bilby, a native marsupial threatened by introduced rabbits. Many Australian confectioners now make chocolate bilbies instead of bunnies, helping to promote conservation efforts."
+    },
+    {
+      "question": "What is the traditional Easter cake of the UK?",
+      "options": ["Simnel Cake", "Victoria Sponge", "Fruit Cake", "Carrot Cake"],
+      "answer": "Simnel Cake",
+      "funFact": "This festive cake has been enjoyed since medieval times!",
+      "story": "Simnel Cake is a light fruit cake with layers of marzipan and a distinctive decoration of eleven marzipan balls on top. The cake has been part of British Easter celebrations since medieval times, when servants would take them home to their mothers on Mothering Sunday. The eleven balls represent the eleven faithful apostles, making it rich in symbolic meaning."
+    },
+    {
+      "question": "Which country celebrates Easter with water fights?",
+      "options": ["Poland", "Hungary", "Romania", "Slovakia"],
+      "answer": "Poland",
+      "funFact": "This tradition dates back to pagan spring rituals!",
+      "story": "Śmigus-dyngus, also known as Wet Monday, is a Polish Easter tradition where people drench each other with water on Easter Monday. Originally a pagan tradition marking the end of winter, it was later incorporated into Easter celebrations. Young men would traditionally sprinkle water on young women they admired, though today everyone participates in the playful water battles."
+    },
+    {
+      "question": "What is the traditional Easter bread of Greece?",
+      "options": ["Tsoureki", "Brioche", "Challah", "Panettone"],
+      "answer": "Tsoureki",
+      "funFact": "The bread's distinctive aroma comes from an ancient spice trade route!",
+      "story": "Tsoureki is a sweet, braided bread traditionally served at Easter in Greece. The three-strand braid symbolizes the Holy Trinity. The bread is flavored with mahlab, a spice made from cherry pits, and mastic, a resin from trees that grow only on the Greek island of Chios. Red-dyed eggs are often baked into the bread's braids."
+    },
+    {
+      "question": "Which flower is known as the 'Easter Bell'?",
+      "options": ["Daffodil", "Tulip", "Lily", "Iris"],
+      "answer": "Daffodil",
+      "funFact": "These flowers can survive freezing temperatures!",
+      "story": "Daffodils, also known as Easter Bells or Lenten Lilies, have been associated with Easter celebrations for centuries. In Wales, it was believed that the first person to spot a daffodil in spring would have good luck for the year. The flowers' ability to push through frozen ground made them a powerful symbol of rebirth and renewal."
+    },
+    {
+      "question": "What is the traditional Easter game of egg tapping called in Croatia?",
+      "options": ["Tucanje", "Pisanice", "Kucanje", "Bojanje"],
+      "answer": "Tucanje",
+      "funFact": "Winners of this game keep their opponents' eggs as trophies!",
+      "story": "Tucanje is a traditional Croatian Easter game where players tap their decorated eggs against each other's. The person whose egg remains uncracked is declared the winner and is said to have good luck for the year. The game is played throughout Croatia and neighboring countries, with each region having its own variations and traditions."
+    },
+    {
+      "question": "Which animal delivers Easter eggs in Switzerland?",
+      "options": ["Cuckoo", "Rabbit", "Fox", "Rooster"],
+      "answer": "Cuckoo",
+      "funFact": "This tradition varies by region within the country!",
+      "story": "In some parts of Switzerland, it's not the Easter Bunny but the Easter Cuckoo that brings eggs to children. This tradition likely stems from the cuckoo's role as a herald of spring. Children leave small nests or baskets outside their homes, and the Easter Cuckoo fills them with colored eggs and treats during the night."
+    },
+    {
+      "question": "What is the traditional Easter Monday activity in Slovakia?",
+      "options": ["Oblievačka", "Šibačka", "Kraslice", "Veľkonočné"],
+      "answer": "Oblievačka",
+      "funFact": "Participants often wear special clothing for this celebration!",
+      "story": "Oblievačka is a Slovak Easter Monday tradition where men visit women's houses and sprinkle them with water or perfume. In return, women give them decorated eggs or tie ribbons to their whips. The tradition is believed to bring health and beauty to the women for the coming year. Each region has its own unique variations of this custom."
+    },
+    {
+      "question": "Which Italian city holds the Scoppio del Carro on Easter?",
+      "options": ["Florence", "Rome", "Venice", "Milan"],
+      "answer": "Florence",
+      "funFact": "The cart used in this ceremony is over 500 years old!",
+      "story": "The Scoppio del Carro (Explosion of the Cart) is a folk tradition in Florence, Italy. A large, decorated cart is pulled through the city by white oxen to the cathedral square. During Easter Mass, a mechanical dove flies out from the altar, ignites the cart filled with fireworks, creating a spectacular display. The tradition dates back to the First Crusade."
+    },
+    {
+      "question": "What is the traditional Easter dessert of Russia?",
+      "options": ["Paskha", "Kulich", "Babka", "Mazurek"],
+      "answer": "Paskha",
+      "funFact": "This dessert is traditionally molded in a special pyramidal form!",
+      "story": "Paskha is a traditional Russian Easter dessert made from tvorog (cottage cheese), butter, dried fruit, and nuts. It's molded in a special wooden form called a pasochnitsa, which imprints Orthodox Christian symbols on the sides. The pyramid shape symbolizes the tomb of Christ, and the dessert is traditionally served alongside kulich, a sweet Easter bread."
+    },
+    {
+      "question": "Which country has an Easter tradition called 'Pace Egg Plays'?",
+      "options": ["England", "Scotland", "Ireland", "Wales"],
+      "answer": "England",
+      "funFact": "These performances often feature a character in a horned mask!",
+      "story": "Pace Egg Plays are traditional folk plays performed in villages across Northern England during Easter. The plays, dating back to medieval times, feature characters like St. George, the Turkish Knight, and the Doctor. The term 'Pace' comes from the Latin 'Pasch' meaning Easter. Performers, known as Pace Eggers, would traditionally collect pace eggs as payment."
+    },
+    {
+      "question": "Which city has chocolate streets?",
+      "options": ["Perugia", "Brussels", "Zurich", "Geneva"],
+      "answer": "Perugia",
+      "funFact": "The festival lasts for 10 days!",
+      "story": "During Easter, this Italian city hosts a chocolate festival where the streets are lined with chocolate stalls, and artisans create elaborate chocolate sculptures."
+    },
+    {
+      "question": "Which country flies kites at Easter?",
+      "options": ["Bermuda", "Jamaica", "Bahamas", "Barbados"],
+      "answer": "Bermuda",
+      "funFact": "The tradition began in the 19th century!",
+      "story": "On Good Friday, the sky fills with colorful handmade kites. According to local tradition, a teacher used a kite to explain Christ's ascension to heaven to their students."
+    },
+    {
+      "question": "Which town has an Easter tree?",
+      "options": ["Saalfeld", "Dresden", "Munich", "Hamburg"],
+      "answer": "Saalfeld",
+      "funFact": "The decorations take weeks to complete!",
+      "story": "A family decorates an apple tree with thousands of painted Easter eggs each year. The tradition began in 1965 and has grown to become a major tourist attraction."
+    },
+    {
+      "question": "Which country has Easter witches?",
+      "options": ["Sweden", "Norway", "Denmark", "Finland"],
+      "answer": "Sweden",
+      "funFact": "Children dress up in special costumes!",
+      "story": "During Easter, children dress as witches and go door-to-door trading paintings and drawings for sweets, similar to Halloween trick-or-treating."
+    },
+    {
+      "question": "Which city holds underwater egg hunts?",
+      "options": ["Key West", "Miami", "Tampa", "Orlando"],
+      "answer": "Key West",
+      "funFact": "Special eggs are used for the event!",
+      "story": "Scuba divers participate in an underwater Easter egg hunt in the Florida Keys. The event raises money for local children's charities."
+    },
+    {
+      "question": "Which country has Easter whipping?",
+      "options": ["Czech Republic", "Slovakia", "Hungary", "Poland"],
+      "answer": "Czech Republic",
+      "funFact": "The tradition uses special willow branches!",
+      "story": "Men playfully whip women with decorated willow branches on Easter Monday. The custom is believed to bring health and youth for the coming year."
+    },
+    {
+      "question": "Which city has glow-in-dark egg hunts?",
+      "options": ["Las Vegas", "Reno", "Phoenix", "Denver"],
+      "answer": "Las Vegas",
+      "funFact": "The event happens at midnight!",
+      "story": "The city hosts nighttime Easter egg hunts using special luminescent eggs. Participants use flashlights to find eggs hidden throughout parks and public spaces."
+    },
+    {
+      "question": "Which country races with eggs on spoons?",
+      "options": ["New Zealand", "Australia", "Canada", "South Africa"],
+      "answer": "New Zealand",
+      "funFact": "The races are part of larger festivals!",
+      "story": "Communities organize egg and spoon races where participants must balance an egg while running. The tradition has evolved into a major community event."
+    },
+    {
+      "question": "Which town paints Easter rock art?",
+      "options": ["Copper Harbor", "Silver City", "Gold Beach", "Crystal Bay"],
+      "answer": "Copper Harbor",
+      "funFact": "The tradition started recently!",
+      "story": "Residents paint Easter-themed art on large rocks around town, creating a community-wide scavenger hunt that attracts visitors from surrounding areas."
+    },
+    {
+      "question": "Which egg paints dreams?",
+      "options": ["Dream Shell", "Vision Egg", "Mind Oval", "Sleep Sphere"],
+      "answer": "Dream Shell",
+      "funFact": "The colors change hourly!",
+      "story": "This magical Easter egg reveals different patterns based on nearby people's dreams, creating a constantly changing display of collective imagination."
+    },
+    {
+      "question": "Which basket grows candy?",
+      "options": ["Sweet Grow", "Candy Rise", "Treat Sprout", "Sugar Bloom"],
+      "answer": "Sweet Grow",
+      "funFact": "The process is natural!",
+      "story": "This special Easter basket contains soil that grows crystalline candy formations, creating an ever-replenishing supply of sweets."
+    },
+    {
+      "question": "Which bunny builds rainbows?",
+      "options": ["Color Hop", "Rainbow Jump", "Prism Leap", "Spectrum Skip"],
+      "answer": "Color Hop",
+      "funFact": "The effect is temporary!",
+      "story": "This magical Easter bunny creates rainbow bridges as it hops, leaving temporary paths of colorful light in its wake."
+    },
+    {
+      "question": "Which hunt reverses time?",
+      "options": ["Time Seek", "Clock Search", "Hour Find", "Past Look"],
+      "answer": "Time Seek",
+      "funFact": "The game lasts hours!",
+      "story": "This special Easter egg hunt allows participants to see past hiding spots, showing ghostly images of where eggs were previously hidden."
+    },
+    {
+      "question": "Which parade floats light?",
+      "options": ["Beam March", "Glow Walk", "Light Step", "Ray Move"],
+      "answer": "Beam March",
+      "funFact": "The route is traditional!",
+      "story": "This unique Easter parade features participants who appear to float on beams of light as they march through the streets."
+    },
+    {
+      "question": "Which garden sings spring?",
+      "options": ["Song Bloom", "Note Growth", "Tune Plant", "Melody Green"],
+      "answer": "Song Bloom",
+      "funFact": "The concert is annual!",
+      "story": "This Easter garden creates musical notes as its flowers bloom, producing a natural symphony that celebrates spring's arrival."
+    },
+    {
+      "question": "Which cross shapes clouds?",
+      "options": ["Cloud Form", "Sky Shape", "Air Cross", "Mist Build"],
+      "answer": "Cloud Form",
+      "funFact": "The sight draws crowds!",
+      "story": "This special Easter cross creates intricate cloud formations above it, forming different shapes that tell ancient stories."
+    },
+    {
+      "question": "Which bell moves mountains?",
+      "options": ["Peak Ring", "Hill Tone", "Mount Sound", "Rock Chime"],
+      "answer": "Peak Ring",
+      "funFact": "The sound is powerful!",
+      "story": "This Easter bell's ring causes nearby hills to temporarily rise and fall, creating a rolling landscape effect."
+    },
+    {
+      "question": "Which lily paints air?",
+      "options": ["Air Bloom", "Sky Flower", "Wind Petal", "Cloud Bud"],
+      "answer": "Air Bloom",
+      "funFact": "The display is magical!",
+      "story": "This Easter lily releases pollen that creates visible patterns in the air, painting temporary designs that float on the breeze."
+    },
+    {
+      "question": "Which feast grows joy?",
+      "options": ["Happy Meal", "Joy Food", "Smile Feast", "Glad Dine"],
+      "answer": "Happy Meal",
+      "funFact": "The effect is contagious!",
+      "story": "This special Easter feast features food that creates a spreading wave of happiness among those who share the meal."
+    },
+    {
+      "question": "Which city makes giant omelettes?",
+      "options": ["Bessières", "Bordeaux", "Lyon", "Nice"],
+      "answer": "Bessières",
+      "funFact": "The tradition is centuries old!",
+      "story": "Every Easter Monday, the French town of Bessières creates a massive omelette using over 15,000 eggs, continuing a tradition that dates back to Napoleon's time."
+    },
+    {
+      "question": "Which country races eggs uphill?",
+      "options": ["Scotland", "Ireland", "Wales", "England"],
+      "answer": "Scotland",
+      "funFact": "The event draws thousands!",
+      "story": "In Auchterhouse, Scotland, participants roll decorated eggs up Dundee Law hill in a unique Easter tradition that tests both skill and endurance."
+    },
+    {
+      "question": "Which city floats Easter eggs?",
+      "options": ["Venice", "Amsterdam", "Copenhagen", "Stockholm"],
+      "answer": "Venice",
+      "funFact": "The boats are decorated!",
+      "story": "Venice celebrates Easter with a unique water parade where decorated egg-shaped boats float through the canals in the annual Regata delle Uova."
+    },
+    {
+      "question": "Which town makes chocolate eggs?",
+      "options": ["Bariloche", "Cusco", "Mendoza", "Santiago"],
+      "answer": "Bariloche",
+      "funFact": "The process takes months!",
+      "story": "Argentina's Bariloche creates the largest handmade Easter eggs in South America, with master chocolatiers working for months to craft these massive chocolate sculptures."
+    },
+    {
+      "question": "Which village paints biggest eggs?",
+      "options": ["Kolomyia", "Kiev", "Lviv", "Odessa"],
+      "answer": "Kolomyia",
+      "funFact": "The museum is unique!",
+      "story": "Ukraine's Kolomyia houses the world's largest collection of pysanky (decorated Easter eggs) in its famous Pysanka Museum, shaped like a giant Easter egg."
+    }
+  ]
+}

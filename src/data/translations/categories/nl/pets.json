@@ -1,0 +1,247 @@
+{
+  "category": "Huisdieren",
+  "description": "Test je kennis over fascinerende huisdieren en gezelschapsdieren",
+  "difficulty": "Medium",
+  "questions": [
+    {
+      "question": "Welk huisdier leeft het langst?",
+      "options": [
+        "Koi vissen",
+        "Schildpad",
+        "Papegaai",
+        "Kat"
+      ],
+      "answer": "Koi vissen",
+      "funFact": "Ze gaan generaties voorbij!",
+      "story": "Japanse koivissen kunnen meer dan 200 jaar oud worden, waarbij de oudste geverifieerde koi, Hanako genaamd, 226 jaar oud wordt in Gifu, Japan."
+    },
+    {
+      "question": "Welke hond onthoudt het meest?",
+      "options": [
+        "Bordercollie",
+        "Poedel",
+        "Duitse herder",
+        "Gouden"
+      ],
+      "answer": "Bordercollie",
+      "funFact": "Het geheugen is geweldig!",
+      "story": "Border Collies kunnen meer dan 1.000 woorden en voorwerpen onthouden, waarbij Chaser, de slimste hond ooit, 1.022 unieke speelgoedjes bij naam kent."
+    },
+    {
+      "question": "Welke kat springt het hoogst?",
+      "options": [
+        "Wafel",
+        "Steeg",
+        "Tijger",
+        "Sneeuw"
+      ],
+      "answer": "Wafel",
+      "funFact": "Het record staat!",
+      "story": "Waffle the Warrior Cat heeft het wereldrecord voor de hoogste sprong van een kat, met een bereik van 2,5 meter in één sprong."
+    },
+    {
+      "question": "Welke hamster rent het verst?",
+      "options": [
+        "Syrisch",
+        "Robo",
+        "Chinese",
+        "Winter"
+      ],
+      "answer": "Robo",
+      "funFact": "De afstand is enorm!",
+      "story": "Roborovski-dwerghamsters kunnen in hun wielen tot wel 8 kilometer per nacht rennen, wat overeenkomt met een mens die een marathon loopt."
+    },
+    {
+      "question": "Welke vogel praat het helderst?",
+      "options": [
+        "Afrikaans grijs",
+        "Amazone",
+        "Ara",
+        "Kaketoe"
+      ],
+      "answer": "Afrikaans grijs",
+      "funFact": "De woordenschat is enorm!",
+      "story": "Afrikaanse grijze papegaaien kunnen meer dan 1.000 woorden leren en deze duidelijk uitspreken, terwijl Einstein, een beroemde papegaai, meer dan 200 woorden en zinsneden kent."
+    },
+    {
+      "question": "Welke huisdierenvis verandert van geslacht?",
+      "options": [
+        "Anemoonvis",
+        "Betta",
+        "Guppie",
+        "Goudvis"
+      ],
+      "answer": "Anemoonvis",
+      "funFact": "Ze leven in familiegroepen!",
+      "story": "Anemoonvissen kunnen van geslacht veranderen om hun sociale hiërarchie te behouden. "
+    },
+    {
+      "question": "Welk konijnenras is het kleinst?",
+      "options": [
+        "Nederlandse dwerg",
+        "Hollandse Lop",
+        "Mini-Rex",
+        "Leeuwenkop"
+      ],
+      "answer": "Nederlandse dwerg",
+      "funFact": "Ze wegen minder dan de meeste katten!",
+      "story": "Nederlandse dwergkonijnen wegen als volwassene doorgaans slechts 1,1 tot 2,5 pond, waardoor ze perfecte huisdieren zijn. "
+    },
+    {
+      "question": "Welke huisdierhagedis hecht het meest?",
+      "options": [
+        "Baardagaam",
+        "Gekko",
+        "Leguaan",
+        "Huid"
+      ],
+      "answer": "Baardagaam",
+      "funFact": "Ze tonen genegenheid op een andere manier!",
+      "story": "Baardagamen kunnen hun baasjes herkennen en genegenheid tonen door met hun armen te zwaaien, actiever te worden als hun baasje aanwezig is, en zelfs op ze te klimmen voor aandacht."
+    },
+    {
+      "question": "Welk caviaras leeft het langst?",
+      "options": [
+        "Amerikaans",
+        "Peruaans",
+        "Abessijn",
+        "Texel"
+      ],
+      "answer": "Amerikaans",
+      "funFact": "Hun levensduur varieert aanzienlijk!",
+      "story": "Amerikaanse cavia’s leven doorgaans 4 tot 8 jaar, langer dan andere rassen. "
+    },
+    {
+      "question": "Welke huisdierenslak is het grootst?",
+      "options": [
+        "Gigantisch Afrikaans land",
+        "Romeins",
+        "Tuin",
+        "Appel"
+      ],
+      "answer": "Gigantisch Afrikaans land",
+      "funFact": "Ze kunnen tientallen jaren leven!",
+      "story": "Reusachtige Afrikaanse landslakken kunnen tot 20 centimeter lang worden en maximaal 10 jaar oud worden. "
+    },
+    {
+      "question": "Welke huisdierenschildpad zwemt het snelst?",
+      "options": [
+        "Roodwangschildpad",
+        "Geschilderd",
+        "Kaart",
+        "Muskus"
+      ],
+      "answer": "Roodwangschildpad",
+      "funFact": "Het zijn uitstekende zwemmers!",
+      "story": "Roodwangschildpadden kunnen tot 5 km per uur zwemmen, waardoor ze de snelste soort schildpadden zijn. "
+    },
+    {
+      "question": "Welke huisdiervogel leeft het langst?",
+      "options": [
+        "Ara",
+        "Kaketoe",
+        "Amazone",
+        "Conuur"
+      ],
+      "answer": "Ara",
+      "funFact": "Ze overleven veel eigenaren!",
+      "story": "Ara's kunnen in gevangenschap wel 50 jaar oud worden, en sommige gedocumenteerde gevallen van vogels leven meer dan 100 jaar. "
+    },
+    {
+      "question": "Welke fret slaapt het meest?",
+      "options": [
+        "Sabel",
+        "Albino",
+        "Zwartvoetig",
+        "Champagne"
+      ],
+      "answer": "Sabel",
+      "funFact": "Het zijn professionele nappers!",
+      "story": "Sabelfretten slapen tot 20 uur per dag, het meeste onder de huisdierfretten. "
+    },
+    {
+      "question": "Welke gerbil graaft het diepst?",
+      "options": [
+        "Mongools",
+        "Met dikke staart",
+        "van Shaw",
+        "Geweldig"
+      ],
+      "answer": "Mongools",
+      "funFact": "Hun holen zijn complex!",
+      "story": "Mongoolse gerbils kunnen in het wild holen tot wel 1,80 meter diep graven. "
+    },
+    {
+      "question": "Welke huisdierenslang groeit het langzaamst?",
+      "options": [
+        "Bal Python",
+        "Maïs Slang",
+        "Roze Boa",
+        "Koning Slang"
+      ],
+      "answer": "Bal Python",
+      "funFact": "Het zijn zeer geduldige telers!",
+      "story": "Balpythons groeien het langzaamst onder de gewone huisdierenslangen; het duurt 3 tot 5 jaar voordat ze hun volledige grootte bereiken. "
+    },
+    {
+      "question": "Welke huisdierenvis gloeit het helderst?",
+      "options": [
+        "GloFish",
+        "Vuurvis",
+        "LichtFin",
+        "NeonTetra"
+      ],
+      "answer": "GloFish",
+      "funFact": "Ze schijnen onder blacklight!",
+      "story": "GloFish werd oorspronkelijk ontwikkeld door wetenschappers van de Nationale Universiteit van Singapore om watervervuiling op te sporen. "
+    },
+    {
+      "question": "Welke papegaai als huisdier lost de puzzels het snelst op?",
+      "options": [
+        "Einstein",
+        "Alex",
+        "Griffioen",
+        "Jager"
+      ],
+      "answer": "Einstein",
+      "funFact": "Ze kent meer dan 200 taken!",
+      "story": "Einstein, een Afrikaanse grijze papegaai in de dierentuin van Knoxville, heeft het record voor het snelst oplossen van puzzels onder vogels. "
+    },
+    {
+      "question": "Welke kameleon verandert het snelst?",
+      "options": [
+        "Panter",
+        "Gesluierd",
+        "Jackson's",
+        "Jemen"
+      ],
+      "answer": "Panter",
+      "funFact": "Ze hebben kristalcellen!",
+      "story": "De Panterkameleon kan in slechts 20 seconden van kleur veranderen met behulp van gespecialiseerde cellen die iridoforen worden genoemd. "
+    },
+    {
+      "question": "Welke schildpad loopt het verst?",
+      "options": [
+        "Bertie",
+        "Timotheüs",
+        "Jonathan",
+        "Eenzame George"
+      ],
+      "answer": "Bertie",
+      "funFact": "Hij is sneller dan je denkt!",
+      "story": "Bertie, een Zuid-Afrikaanse luipaardschildpad die in Adventure Valley, Durham woont, heeft het Guinness Wereldrecord voor de snelste schildpad, met een afstand van 5,5 meter in 19,59 seconden. "
+    },
+    {
+      "question": "Welke huisdierenspin weeft het grootst?",
+      "options": [
+        "Mexicaanse rode knie",
+        "Chileense roos",
+        "Costa Ricaanse Zebra",
+        "Braziliaans zwart"
+      ],
+      "answer": "Mexicaanse rode knie",
+      "funFact": "Het web is architectonisch!",
+      "story": "De Mexicaanse Red Knee Tarantula creëert de grootste en meest ingewikkelde webben onder huisdierenspinnen. "
+    }
+  ]
+}

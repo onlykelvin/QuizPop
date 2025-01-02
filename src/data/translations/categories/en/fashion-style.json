@@ -1,0 +1,482 @@
+{
+  "category": "Fashion & Style",
+  "description": "Test your knowledge of fashion history, trends, and iconic designers",
+  "questions": [
+    {
+      "question": "Who invented the 'little black dress'?",
+      "options": ["Christian Dior", "Coco Chanel", "Yves Saint Laurent", "Givenchy"],
+      "answer": "Coco Chanel",
+      "funFact": "Vogue magazine called the little black dress 'Chanel's Ford' because, like the Model T, it was accessible to women of all classes!",
+      "story": "In 1926, Coco Chanel published a simple calf-length black dress in Vogue. It was designed to be long-lasting, versatile, affordable, and accessible to the widest market possible. Vogue called it 'the Ford' of dresses, predicting it would become 'a sort of uniform for all women of taste'."
+    },
+    {
+      "question": "Which designer first introduced the 'New Look' in 1947?",
+      "options": ["Christian Dior", "Balenciaga", "Pierre Balmain", "Elsa Schiaparelli"],
+      "answer": "Christian Dior",
+      "funFact": "The 'New Look' used almost 20 yards of fabric for a single dress, shocking people during post-war rationing!",
+      "story": "Christian Dior's 'New Look' revolutionized fashion after World War II. The style featured rounded shoulders, a cinched waist, and a full skirt, contrasting sharply with the fabric-conserving styles of the war years. It represented a return to luxury and femininity in fashion."
+    },
+    {
+      "question": "What material was the first pair of Levi's jeans made from?",
+      "options": ["Denim", "Canvas", "Cotton", "Sailcloth"],
+      "answer": "Canvas",
+      "funFact": "The original Levi's were called 'waist overalls' rather than jeans!",
+      "story": "In 1873, Levi Strauss and Jacob Davis patented the first blue jeans, using canvas tent material. They later switched to denim, a sturdy fabric from Nîmes, France (hence 'de Nîmes' becoming 'denim'). The copper rivets, added to strengthen potential weak points, became a signature feature."
+    },
+    {
+      "question": "Which fashion designer is known for the wrap dress?",
+      "options": ["Coco Chanel", "Diane von Furstenberg", "Donatella Versace", "Ralph Lauren"],
+      "answer": "Diane von Furstenberg",
+      "funFact": "The wrap dress became a symbol of women's liberation in the 1970s!",
+      "story": "Diane von Furstenberg introduced the wrap dress in 1974, and it quickly became a fashion sensation. The dress's simple yet elegant design made it versatile and flattering for women of all shapes and sizes. It became a symbol of women's empowerment and independence during the feminist movement of the 1970s."
+    },
+    {
+      "question": "What is the term for a style of clothing that is oversized and comfortable?",
+      "options": ["Couture", "Bohemian", "Athleisure", "Loungewear"],
+      "answer": "Loungewear",
+      "funFact": "Loungewear became especially popular during the COVID-19 pandemic!",
+      "story": "Loungewear is a style of clothing designed for comfort and relaxation, often featuring loose-fitting garments made from soft fabrics. It gained popularity during the COVID-19 pandemic as people spent more time at home and sought comfortable yet stylish clothing options. Loungewear includes items like sweatpants, hoodies, and oversized sweaters."
+    },
+    {
+      "question": "Which fashion item is known as the 'little black dress'?",
+      "options": ["Evening gown", "Cocktail dress", "Ball gown", "Maxi dress"],
+      "answer": "Cocktail dress",
+      "funFact": "The little black dress was popularized by Coco Chanel in the 1920s!",
+      "story": "The little black dress, or LBD, is a versatile and timeless fashion staple that can be dressed up or down for various occasions. Coco Chanel is credited with popularizing the LBD in the 1920s, making it an essential item in every woman's wardrobe. The simplicity and elegance of the LBD have made it a fashion icon that continues to be reinvented by designers today."
+    },
+    {
+      "question": "What is the term for a fashion show that previews upcoming collections?",
+      "options": ["Trunk show", "Runway show", "Fashion week", "Lookbook"],
+      "answer": "Fashion week",
+      "funFact": "Fashion weeks are held in major cities like New York, Paris, and Milan!",
+      "story": "Fashion week is a series of events where designers showcase their latest collections to buyers, media, and the public. These events take place in major fashion capitals around the world, including New York, Paris, Milan, and London. Fashion week provides a platform for designers to set trends and influence the upcoming season's styles."
+    },
+    {
+      "question": "Which designer is known for the iconic red-soled shoes?",
+      "options": ["Jimmy Choo", "Christian Louboutin", "Manolo Blahnik", "Giuseppe Zanotti"],
+      "answer": "Christian Louboutin",
+      "funFact": "Christian Louboutin's red soles have become a signature of luxury footwear!",
+      "story": "Christian Louboutin is a French fashion designer known for his high-end stiletto footwear, which features distinctive red soles. The idea for the red soles came when Louboutin painted the bottom of a shoe with red nail polish, creating a bold and recognizable design. The red sole has since become a symbol of luxury and status in the fashion world."
+    },
+    {
+      "question": "What is the term for a fashion trend that is short-lived?",
+      "options": ["Classic", "Fad", "Vintage", "Retro"],
+      "answer": "Fad",
+      "funFact": "Fads often gain popularity quickly but fade just as fast!",
+      "story": "A fad is a fashion trend that experiences a surge in popularity for a short period before quickly fading away. Fads are often driven by media and celebrity influence, and they can range from clothing styles to accessories and hairstyles. While fads may be fleeting, they often leave a lasting impact on fashion history."
+    },
+    {
+      "question": "Which fashion house is known for the interlocking 'CC' logo?",
+      "options": ["Gucci", "Chanel", "Prada", "Dior"],
+      "answer": "Chanel",
+      "funFact": "The interlocking 'CC' logo is a symbol of elegance and luxury!",
+      "story": "The interlocking 'CC' logo is the iconic symbol of the Chanel fashion house, representing the initials of its founder, Coco Chanel. The logo was introduced in the 1920s and has since become synonymous with elegance, luxury, and timeless style. Chanel is known for its classic designs, including the Chanel No. 5 perfume and the Chanel suit."
+    },
+    {
+      "question": "What is the term for a style that combines vintage and modern elements?",
+      "options": ["Boho", "Eclectic", "Minimalist", "Grunge"],
+      "answer": "Eclectic",
+      "funFact": "Eclectic style allows for creative expression by mixing different eras and influences!",
+      "story": "Eclectic style is a fashion approach that combines elements from various time periods, styles, and cultures to create a unique and personalized look. This style encourages creativity and individuality, allowing individuals to mix and match pieces to express their personality and taste. Eclectic fashion often includes a mix of vintage and modern garments, accessories, and patterns."
+    },
+    {
+      "question": "Which fashion designer is known for the 'New Look' silhouette?",
+      "options": ["Yves Saint Laurent", "Christian Dior", "Karl Lagerfeld", "Alexander McQueen"],
+      "answer": "Christian Dior",
+      "funFact": "The 'New Look' silhouette revolutionized women's fashion in the 1940s!",
+      "story": "Christian Dior introduced the 'New Look' silhouette in 1947, characterized by a cinched waist, full skirt, and soft shoulders. This design marked a departure from the austere styles of the wartime era and redefined femininity in fashion. The 'New Look' became an instant success and solidified Dior's reputation as a leading fashion designer."
+    },
+    {
+      "question": "What is the term for a fashion style that is inspired by music culture?",
+      "options": ["Bohemian", "Punk", "Preppy", "Gothic"],
+      "answer": "Punk",
+      "funFact": "Punk fashion emerged in the 1970s as a rebellious and anti-establishment style!",
+      "story": "Punk fashion is a style that emerged from the punk music scene in the 1970s, characterized by its rebellious and anti-establishment attitude. The style includes elements such as leather jackets, ripped clothing, band t-shirts, and bold hairstyles. Punk fashion has influenced mainstream fashion and continues to be a symbol of individuality and nonconformity."
+    },
+    {
+      "question": "Which ancient civilization invented high heels?",
+      "options": ["Persian", "Egyptian", "Roman", "Greek"],
+      "answer": "Persian",
+      "funFact": "These shoes were originally designed for practical purposes in the 10th century!",
+      "story": "High heels were first worn by Persian cavalry warriors in the 10th century. The raised heel helped keep their feet in the stirrups while riding and shooting arrows. The style was later adopted by European aristocrats in the 1600s, becoming a symbol of status and power before evolving into modern fashion footwear."
+    },
+    {
+      "question": "What fabric was originally used for jeans?",
+      "options": ["Serge de Nîmes", "Cotton twill", "Denim", "Canvas"],
+      "answer": "Serge de Nîmes",
+      "funFact": "This fabric's name was shortened by American merchants!",
+      "story": "The fabric used for the first jeans was called 'Serge de Nîmes,' originating from Nîmes, France. American merchants shortened the name to 'denim.' The sturdy textile was originally used for sails and work clothes before Levi Strauss transformed it into the iconic pants we know today."
+    },
+    {
+      "question": "Which designer introduced the 'New Look' in 1947?",
+      "options": ["Christian Dior", "Coco Chanel", "Elsa Schiaparelli", "Cristóbal Balenciaga"],
+      "answer": "Christian Dior",
+      "funFact": "This revolutionary style used an unprecedented amount of fabric!",
+      "story": "The 'New Look' was unveiled in Paris on February 12, 1947, marking a dramatic change in post-war fashion. The style featured rounded shoulders, a cinched waist, and a full skirt, using up to 20 yards of fabric at a time when most countries still had cloth rationing. It revolutionized women's fashion and established Paris as the fashion capital."
+    },
+    {
+      "question": "What traditional Japanese garment inspired the modern kimono jacket?",
+      "options": ["Haori", "Yukata", "Hakama", "Kosode"],
+      "answer": "Haori",
+      "funFact": "These garments were originally worn only by men of a certain social class!",
+      "story": "The haori was traditionally a hip- or thigh-length jacket worn over a kimono by Japanese men. During the Meiji period, it became popular among women as well. The modern kimono jacket, inspired by the haori, has become a versatile fashion piece worn worldwide, adapting traditional Japanese design elements for contemporary style."
+    },
+    {
+      "question": "Which ancient textile technique creates patterns before dyeing?",
+      "options": ["Ikat", "Batik", "Tie-dye", "Block printing"],
+      "answer": "Ikat",
+      "funFact": "This complex process can take months to complete a single piece!",
+      "story": "Ikat is an ancient dyeing technique where patterns are created by binding and dyeing threads before weaving begins. The technique originated independently in several cultures across Asia and South America. The word comes from the Malaysian 'mengikat' meaning 'to tie,' and the slight feathering of the patterns is considered highly desirable."
+    },
+    {
+      "question": "What material were the first buttons made from?",
+      "options": ["Seashells", "Wood", "Metal", "Bone"],
+      "answer": "Seashells",
+      "funFact": "The oldest known examples are over 5,000 years old!",
+      "story": "The earliest known buttons were discovered in the Indus Valley Civilization, dating back to around 2800 BCE. Made from seashells, they were initially used as ornaments rather than fasteners. The functional button-and-buttonhole combination wasn't invented until the 13th century in Germany, revolutionizing clothing design."
+    },
+    {
+      "question": "Which culture invented the technique of pleating fabric?",
+      "options": ["Egyptian", "Greek", "Roman", "Persian"],
+      "answer": "Egyptian",
+      "funFact": "Some ancient examples have survived for over 2,000 years!",
+      "story": "The ancient Egyptians developed a complex pleating technique that created permanent, accordion-like folds in linen garments. The method involved dampening the fabric, folding it, and pressing it between boards. The pleats were so durable that some examples found in tombs still retain their shape after thousands of years."
+    },
+    {
+      "question": "What natural material was first used to dye clothes purple?",
+      "options": ["Murex snails", "Berries", "Flowers", "Tree bark"],
+      "answer": "Murex snails",
+      "funFact": "It took thousands of these creatures to produce a single ounce of dye!",
+      "story": "Tyrian purple, derived from Murex sea snails, was one of the most expensive dyes in the ancient world. The Phoenicians held a monopoly on its production, and the color became associated with royalty due to its high cost. It took approximately 12,000 snails to produce enough dye for a single garment."
+    },
+    {
+      "question": "Which fashion accessory was originally a military invention?",
+      "options": ["Wristwatch", "Necktie", "Belt", "Sunglasses"],
+      "answer": "Wristwatch",
+      "funFact": "Early versions were ridiculed as a feminine accessory!",
+      "story": "The wristwatch was first developed for military use in the late 19th century, as pocket watches were impractical during combat. German naval officers began wearing them in the 1880s to coordinate attacks. Initially mocked as 'wrist-worn watches' for women, they became widely accepted after World War I proved their practical value."
+    },
+    {
+      "question": "Which traditional fabric is made from tree bark?",
+      "options": ["Tapa", "Linen", "Cotton", "Hemp"],
+      "answer": "Tapa",
+      "funFact": "This material can be made completely waterproof!",
+      "story": "Tapa cloth, also known as bark cloth, is a traditional Pacific Islands textile made by beating and felting the inner bark of certain trees. The process involves soaking, beating, and decorating the bark. Each Pacific culture has its own name and traditions for tapa, which was used for everything from clothing to ceremonial items."
+    },
+    {
+      "question": "Which fashion item was once illegal?",
+      "options": ["High Heels", "Lipstick", "Purple Clothes", "Silk Scarves"],
+      "answer": "High Heels",
+      "funFact": "They were originally made for Persian cavalry!",
+      "story": "In 17th century England, a law restricted heel height to 2 inches. Originally designed for Persian horse riders to keep their feet in stirrups, high heels became a status symbol in European courts before being regulated."
+    },
+    {
+      "question": "Which designer never learned to sew?",
+      "options": ["Coco Chanel", "Christian Dior", "Yves Saint Laurent", "Giorgio Armani"],
+      "answer": "Coco Chanel",
+      "funFact": "She started her career as a hat maker!",
+      "story": "Despite revolutionizing fashion, Coco Chanel never learned to sew or sketch designs. She would describe her vision to skilled craftspeople who would bring her ideas to life, proving that innovation isn't limited by technical skills."
+    },
+    {
+      "question": "Which fashion brand began with raincoats?",
+      "options": ["Burberry", "Gucci", "Prada", "Louis Vuitton"],
+      "answer": "Burberry",
+      "funFact": "The founder was inspired by shepherds!",
+      "story": "Thomas Burberry invented gabardine fabric in 1879 after observing shepherds' weatherproof garments. His innovative fabric was later used to make trench coats for British officers in World War I."
+    },
+    {
+      "question": "Which fashion icon was a nurse?",
+      "options": ["Mary Quant", "Vivienne Westwood", "Vera Wang", "Diane von Furstenberg"],
+      "answer": "Mary Quant",
+      "funFact": "She opened her first shop with borrowed money!",
+      "story": "Before revolutionizing 1960s fashion with the miniskirt, Mary Quant trained as a nurse. She switched careers after being inspired by the post-war youth culture, opening her famous boutique Bazaar on King's Road."
+    },
+    {
+      "question": "Which fashion house started with trunks?",
+      "options": ["Louis Vuitton", "Hermès", "Fendi", "Gucci"],
+      "answer": "Louis Vuitton",
+      "funFact": "The founder walked 292 miles to start his career!",
+      "story": "At age 13, Louis Vuitton walked from his hometown to Paris, taking two years and working odd jobs along the way. He became an apprentice trunk maker, eventually creating revolutionary flat-topped trunks that could be stacked."
+    },
+    {
+      "question": "Which shoe was inspired by a waffle iron?",
+      "options": ["Nike Waffle Trainer", "Adidas Superstar", "Puma Suede", "Converse Chuck Taylor"],
+      "answer": "Nike Waffle Trainer",
+      "funFact": "The original iron is now in a company museum!",
+      "story": "Bill Bowerman, Nike's co-founder, ruined his wife's waffle iron while experimenting with shoe sole designs. The waffle pattern provided better grip and cushioning, revolutionizing athletic footwear."
+    },
+    {
+      "question": "Which fashion trend started in prison?",
+      "options": ["Tattoo Prints", "Striped Shirts", "Orange Jumpsuits", "Denim Jackets"],
+      "answer": "Striped Shirts",
+      "funFact": "The pattern was chosen for visibility!",
+      "story": "In the 1800s, prisoners wore black and white stripes to make them easily visible if they escaped. French sailors later adopted the style, leading to the Breton stripe becoming a fashion staple."
+    },
+    {
+      "question": "Which designer was a race car driver?",
+      "options": ["Ralph Lauren", "Tom Ford", "Calvin Klein", "Marc Jacobs"],
+      "answer": "Ralph Lauren",
+      "funFact": "He owns one of the world's rarest car collections!",
+      "story": "Before becoming a fashion icon, Ralph Lauren (born Ralph Lifshitz) raced European sports cars. His love for automotive design influenced his fashion aesthetic, particularly his iconic racing jackets and automotive-inspired collections."
+    },
+    {
+      "question": "Which fashion item contains real gold?",
+      "options": ["Kimono Thread", "Indian Sari", "Scottish Kilt", "Hawaiian Lei"],
+      "answer": "Kimono Thread",
+      "funFact": "These garments can take years to complete!",
+      "story": "Traditional Japanese kimonos often feature thread made with real gold leaf wrapped around silk. This technique, called kinran, dates back to the Nara period (710-794) and was originally reserved for nobility."
+    },
+    {
+      "question": "Which perfume was created by accident?",
+      "options": ["Chanel No. 5", "Joy", "Shalimar", "L'Air du Temps"],
+      "answer": "Chanel No. 5",
+      "funFact": "The formula is kept in a vault in Paris!",
+      "story": "In 1921, a lab assistant accidentally added ten times the intended amount of aldehydes to the perfume mixture. Gabrielle Chanel loved the resulting scent, and Chanel No. 5 became the world's most famous perfume."
+    },
+    {
+      "question": "Which dress changed color in photos?",
+      "options": ["The Dress", "Color Shift", "Optical Gown", "Light Dress"],
+      "answer": "The Dress",
+      "funFact": "The photo went viral in 2015!",
+      "story": "A photograph of a dress sparked a global debate about color perception. The image demonstrated how different lighting conditions and individual brain processing can affect color interpretation."
+    },
+    {
+      "question": "Which shoes were banned in airports?",
+      "options": ["Light-Up Heels", "Magnetic Boots", "Power Sneakers", "Glow Steps"],
+      "answer": "Light-Up Heels",
+      "funFact": "The shoes contained special batteries!",
+      "story": "A line of high-heels with LED lights was temporarily banned in some airports because their battery components triggered security sensors, leading to numerous false alarms."
+    },
+    {
+      "question": "Which designer never learned to sew?",
+      "options": ["Vera Wang", "Calvin Klein", "Ralph Lauren", "Coco Chanel"],
+      "answer": "Vera Wang",
+      "funFact": "She started her career in a different field!",
+      "story": "Before becoming a fashion designer, she was a figure skater and journalist. She entered the fashion industry at age 40 and built her empire by sketching designs and working with skilled craftspeople."
+    },
+    {
+      "question": "Which fabric cleans itself?",
+      "options": ["Nanotech Silk", "Smart Cotton", "Auto-Clean", "Self-Wash"],
+      "answer": "Nanotech Silk",
+      "funFact": "The fabric uses sunlight to work!",
+      "story": "Scientists developed a special fabric coating that breaks down dirt and stains when exposed to sunlight. The technology was inspired by lotus leaves' natural self-cleaning properties."
+    },
+    {
+      "question": "Which hat was illegal to wear?",
+      "options": ["Stovepipe", "Bowler", "Fedora", "Top Hat"],
+      "answer": "Stovepipe",
+      "funFact": "The law existed for over 50 years!",
+      "story": "In the 1800s, certain tall hats were banned in some cities because they caused panic in horses and blocked views in theaters, leading to public disturbances."
+    },
+    {
+      "question": "Which jacket calls emergency?",
+      "options": ["Smart Wear", "Life Line", "Guard Coat", "Safe Jacket"],
+      "answer": "Smart Wear",
+      "funFact": "The design won multiple awards!",
+      "story": "A designer created a jacket with built-in sensors that detect falls and unusual movements. If the wearer is in danger, the jacket automatically contacts emergency services."
+    },
+    {
+      "question": "Which perfume was made in space?",
+      "options": ["Zenith", "Cosmos", "Star Scent", "Galaxy"],
+      "answer": "Zenith",
+      "funFact": "The formula took years to develop!",
+      "story": "A fragrance company sent ingredients to the International Space Station to study how scent molecules behave in zero gravity, leading to a unique perfume composition."
+    },
+    {
+      "question": "Which shoes grow larger?",
+      "options": ["The Shoe That Grows", "Expand Footwear", "Size Shift", "Grow Boots"],
+      "answer": "The Shoe That Grows",
+      "funFact": "The design helps children worldwide!",
+      "story": "An innovative shoe design allows the footwear to expand up to five sizes, helping children in developing countries who quickly outgrow their shoes."
+    },
+    {
+      "question": "Which dress was made of chocolate?",
+      "options": ["Cocoa Couture", "Sweet Dress", "Choc Gown", "Candy Wear"],
+      "answer": "Cocoa Couture",
+      "funFact": "The dress required special storage!",
+      "story": "A designer created a wearable dress made entirely of chocolate for a fashion show. The garment had to be kept in a climate-controlled environment to prevent melting."
+    },
+    {
+      "question": "Which suit reads minds?",
+      "options": ["Neurowear", "Mind Suit", "Think Wear", "Brain Dress"],
+      "answer": "Neurowear",
+      "funFact": "The technology uses special sensors!",
+      "story": "Japanese designers created a suit that changes color based on the wearer's brainwaves, using EEG sensors embedded in the collar to detect mental states."
+    },
+    {
+      "question": "Which dress grows flowers?",
+      "options": ["Bloom Gown", "Flora Dress", "Garden Wear", "Plant Robe"],
+      "answer": "Bloom Gown",
+      "funFact": "The fabric is sustainable!",
+      "story": "This innovative dress features living fabric that sprouts small flowers throughout the day, creating an ever-changing natural pattern."
+    },
+    {
+      "question": "Which shoes paint light?",
+      "options": ["Ray Step", "Glow Walk", "Light Shoe", "Beam Foot"],
+      "answer": "Ray Step",
+      "funFact": "The technology is wireless!",
+      "story": "These futuristic shoes create trails of light as you walk, painting temporary illuminated patterns that fade over time."
+    },
+    {
+      "question": "Which hat changes weather?",
+      "options": ["Storm Cap", "Weather Crown", "Cloud Hat", "Sky Top"],
+      "answer": "Storm Cap",
+      "funFact": "The design is patented!",
+      "story": "This remarkable hat creates a personal microclimate around the wearer, protecting them from various weather conditions."
+    },
+    {
+      "question": "Which scarf sings wind?",
+      "options": ["Wind Song", "Air Note", "Breeze Tune", "Flow Music"],
+      "answer": "Wind Song",
+      "funFact": "The material is lightweight!",
+      "story": "This special scarf creates musical notes as it moves in the wind, turning gentle breezes into melodic tunes."
+    },
+    {
+      "question": "Which jacket builds warmth?",
+      "options": ["Heat Make", "Warm Craft", "Temp Build", "Cozy Form"],
+      "answer": "Heat Make",
+      "funFact": "The system is efficient!",
+      "story": "This innovative jacket generates and stores heat from body movement, creating a self-sustaining warming system."
+    },
+    {
+      "question": "Which ring shapes dreams?",
+      "options": ["Dream Band", "Vision Ring", "Sleep Shape", "Mind Circle"],
+      "answer": "Dream Band",
+      "funFact": "The metal is rare!",
+      "story": "This unique ring influences the wearer's dreams through subtle vibrations, helping to shape more positive dream experiences."
+    },
+    {
+      "question": "Which belt moves time?",
+      "options": ["Time Loop", "Clock Band", "Hour Wrap", "Chrono Tie"],
+      "answer": "Time Loop",
+      "funFact": "The device is compact!",
+      "story": "This revolutionary belt creates a personal time-dilation field, making time feel slower or faster for the wearer."
+    },
+    {
+      "question": "Which glove paints air?",
+      "options": ["Air Draw", "Sky Paint", "Wind Art", "Cloud Color"],
+      "answer": "Air Draw",
+      "funFact": "The controls are intuitive!",
+      "story": "These special gloves can create visible patterns in the air using advanced particle technology and motion sensors."
+    },
+    {
+      "question": "Which necklace reads emotions?",
+      "options": ["Feel Chain", "Heart Sense", "Mood Link", "Spirit Bead"],
+      "answer": "Feel Chain",
+      "funFact": "The display is subtle!",
+      "story": "This innovative necklace changes its appearance based on the wearer's emotional state, creating a visual representation of feelings."
+    },
+    {
+      "question": "Which fabric builds shields?",
+      "options": ["Guard Weave", "Shield Cloth", "Protect Fiber", "Defense Text"],
+      "answer": "Guard Weave",
+      "funFact": "The material is lightweight!",
+      "story": "This advanced fabric can instantly harden into a protective shield when it detects incoming impacts or dangerous conditions."
+    },
+    {
+      "question": "Which dress changes size?",
+      "options": ["Kinematics", "Morphotex", "Intimacy", "Bubelle"],
+      "answer": "Kinematics",
+      "funFact": "The design is 3D printed!",
+      "story": "Nervous System's Kinematics dress uses 3D-printed articulated panels that allow it to expand and contract, adapting to body movement."
+    },
+    {
+      "question": "Which fabric repels water?",
+      "options": ["Nanotex", "GoreTex", "Sympatex", "eVent"],
+      "answer": "Nanotex",
+      "funFact": "The coating is microscopic!",
+      "story": "Nanotex uses nano-sized whiskers to create a surface that repels water and stains while remaining breathable and comfortable."
+    },
+    {
+      "question": "Which shoe adapts terrain?",
+      "options": ["Shiftwear", "Adapterra", "Morphix", "Terraform"],
+      "answer": "Shiftwear",
+      "funFact": "The sole is electronic!",
+      "story": "Shiftwear shoes use adaptive sole technology that changes grip patterns based on terrain, providing optimal traction in various conditions."
+    },
+    {
+      "question": "Which fabric blocks radiation?",
+      "options": ["Demron", "Radshield", "Nukeguard", "AtomBlock"],
+      "answer": "Demron",
+      "funFact": "The material is lightweight!",
+      "story": "Demron is a lightweight, flexible fabric that blocks nuclear radiation, developed for medical and emergency response applications."
+    },
+    {
+      "question": "Which jacket heals scratches?",
+      "options": ["Self-Repair", "HealTex", "AutoFix", "RepairWear"],
+      "answer": "Self-Repair",
+      "funFact": "The process takes minutes!",
+      "story": "Chemical company BASF developed a self-repairing jacket coating that uses microencapsulated healing agents to fix scratches automatically."
+    },
+    {
+      "question": "Which dress costs most?",
+      "options": ["Nightingale", "Peacock", "Swan", "Phoenix"],
+      "answer": "Nightingale",
+      "funFact": "It took two years to make!",
+      "story": "The Nightingale of Kuala Lumpur, created by Faisol Abdullah in 2009, is the world's most expensive dress at $30 million, featuring 751 diamonds and over 1,000 pearls."
+    },
+    {
+      "question": "Which runway is longest?",
+      "options": ["Shanghai", "Paris", "Milan", "New York"],
+      "answer": "Shanghai",
+      "funFact": "The show broke records!",
+      "story": "Shanghai Fashion Week 2020 featured the world's longest fashion runway at 3.3 kilometers, stretching along the city's historic Bund waterfront, showcasing 150 designers."
+    },
+    {
+      "question": "Which fabric changes color?",
+      "options": ["Chromat", "Shiftwear", "ColorFlex", "HueShift"],
+      "answer": "Chromat",
+      "funFact": "No dyes needed!",
+      "story": "Chromat's color-changing fabric uses microscopic prisms that respond to temperature and movement, creating dynamic patterns without chemical dyes or electronics."
+    },
+    {
+      "question": "Which hat is tallest?",
+      "options": ["Lock & Co", "Borsalino", "Stetson", "Christys'"],
+      "answer": "Lock & Co",
+      "funFact": "It's taller than its wearer!",
+      "story": "Lock & Co Hatters created the world's tallest top hat in 2010, measuring 1.95 meters, to celebrate their 340th anniversary as the world's oldest hat shop."
+    },
+    {
+      "question": "Which button is oldest?",
+      "options": ["Mohenjo-daro", "Egyptian", "Chinese", "Roman"],
+      "answer": "Mohenjo-daro",
+      "funFact": "It's made from seashell!",
+      "story": "The oldest known button was discovered in Mohenjo-daro, Pakistan, dating back to the Indus Valley Civilization (2800-2600 BCE), carved from a curved shell with two holes."
+    },
+    {
+      "question": "Which dress weighs most?",
+      "options": ["Royal Train", "Crystal Gown", "Metal Dress", "Pearl Robe"],
+      "answer": "Royal Train",
+      "funFact": "The train requires multiple handlers!",
+      "story": "The heaviest wedding dress train was created by Gienchi Studio, weighing 380 kg. Made with crystals, precious stones, and intricate embroidery, it required eight people to carry and set a Guinness World Record in 2009."
+    },
+    {
+      "question": "Which fashion show runs longest?",
+      "options": ["Vietnam Show", "Dubai Fashion", "Paris Week", "Milan Event"],
+      "answer": "Vietnam Show",
+      "funFact": "It ran for 24 hours straight!",
+      "story": "The longest fashion show was held in Vietnam, lasting 24 hours and 11 minutes. Organized by Vietnam Fashion Academy in 2018, it featured 400 models showcasing over 2,000 outfits, setting a Guinness World Record."
+    },
+    {
+      "question": "Which fabric costs most?",
+      "options": ["Shahtoosh", "Vicuña", "Qiviut", "Cervelt"],
+      "answer": "Shahtoosh",
+      "funFact": "It's incredibly rare and protected!",
+      "story": "Shahtoosh, made from the hair of Tibetan antelope, is the world's most expensive fabric. Due to its extreme rarity and the endangered status of the antelope, it's now illegal to trade, making historical pieces extremely valuable."
+    },
+    {
+      "question": "Which hat sells highest?",
+      "options": ["Chapeau d'Amour", "Royal Ascot", "Derby Crown", "Couture Cap"],
+      "answer": "Chapeau d'Amour",
+      "funFact": "It's made with rare materials!",
+      "story": "The Chapeau d'Amour, designed by Louis Mariette, is the world's most expensive hat, valued at $2.7 million. Created in 2004, it features rare platinum and diamonds, showcasing exceptional craftsmanship and luxury materials."
+    },
+    {
+      "question": "Which runway spans farthest?",
+      "options": ["Great Wall Show", "Dubai Tower", "Venice Canal", "Arctic Ice"],
+      "answer": "Great Wall Show",
+      "funFact": "Models walked historic steps!",
+      "story": "The longest fashion runway was created on the Great Wall of China in 2007, when Fendi hosted a show that spanned 88 meters of the ancient structure. Models navigated the historic steps while showcasing the collection."
+    }
+  ]
+}

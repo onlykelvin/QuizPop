@@ -1,0 +1,167 @@
+{
+  "category": "Mythology & Folklore",
+  "description": "Explore ancient myths, legends, and cultural stories from around the world",
+  "questions": [
+    {
+      "question": "In Norse mythology, what is the name of Thor's hammer?",
+      "options": ["Gungnir", "Mjolnir", "Gram", "Hofund"],
+      "answer": "Mjolnir",
+      "funFact": "It means 'crusher' or 'grinder' in Old Norse!",
+      "story": "According to Norse mythology, Mjolnir was forged by dwarven brothers Eitri and Brokkr. During its creation, Loki transformed into a fly and stung Eitri, causing the hammer's handle to be shorter than intended. Despite this flaw, it became Thor's most powerful weapon."
+    },
+    {
+      "question": "Which creature from Greek mythology had the head of a bull and the body of a man?",
+      "options": ["Centaur", "Minotaur", "Chimera", "Hydra"],
+      "answer": "Minotaur",
+      "funFact": "This creature was kept in a labyrinth designed by Daedalus, the same inventor who created the wings of Icarus!",
+      "story": "The Minotaur was born to Pasiphaë, wife of King Minos of Crete, after she fell in love with a bull sent by Poseidon. The creature was kept in an elaborate maze and was eventually slain by the hero Theseus, who found his way out using Ariadne's thread."
+    },
+    {
+      "question": "In Japanese folklore, what is a Kitsune?",
+      "options": ["A dragon", "A fox spirit", "A thunder god", "A mountain demon"],
+      "answer": "A fox spirit",
+      "funFact": "Kitsune are said to grow additional tails as they age, with nine tails being the maximum!",
+      "story": "In Japanese folklore, Kitsune are intelligent foxes with magical abilities that increase with their age. They can shapeshift into human form, often appearing as beautiful women. Some Kitsune serve as messengers of Inari, the Shinto deity of fertility and rice."
+    },
+    {
+      "question": "Which mythological creature was originally described as invisible?",
+      "options": ["Unicorn", "Dragon", "Phoenix", "Griffin"],
+      "answer": "Unicorn",
+      "funFact": "Early tales of this creature were inspired by real animals!",
+      "story": "In early Greek accounts, unicorns were described as swift, fierce creatures that couldn't be seen directly. The myth evolved from travelers' tales of real animals, and the creature became visible in later medieval European folklore, where it symbolized purity and grace."
+    },
+    {
+      "question": "Which culture's myths have no creation story?",
+      "options": ["Chinese", "Greek", "Egyptian", "Norse"],
+      "answer": "Chinese",
+      "funFact": "This mythology focuses on natural cycles rather than origins!",
+      "story": "Traditional Chinese mythology notably lacks a creation myth explaining how the universe began. Instead, it describes the world as always existing in cycles of order and chaos. The earliest Chinese texts focus on how the world was organized rather than created."
+    },
+    {
+      "question": "Which mythological figure never died?",
+      "options": ["Utnapishtim", "Achilles", "Hercules", "Gilgamesh"],
+      "answer": "Utnapishtim",
+      "funFact": "This character appears in one of humanity's oldest written stories!",
+      "story": "In the Epic of Gilgamesh, Utnapishtim was granted eternal life by the gods after surviving a great flood. He lived at the mouth of all rivers and shared wisdom with those who sought him out. His story predates similar flood narratives in other cultures' mythologies."
+    },
+    {
+      "question": "Which folklore creature changes shape based on its age?",
+      "options": ["Kitsune", "Werewolf", "Selkie", "Doppelganger"],
+      "answer": "Kitsune",
+      "funFact": "These beings were believed to grow wiser with each passing century!",
+      "story": "In Japanese folklore, these magical foxes gain additional tails as they age, becoming more powerful and wise. They can take human form, create illusions, and possess great knowledge. The most powerful and oldest have nine tails and immense magical abilities."
+    },
+    {
+      "question": "Which mythological place was underwater?",
+      "options": ["Dwarka", "Atlantis", "El Dorado", "Avalon"],
+      "answer": "Dwarka",
+      "funFact": "Archaeological evidence suggests this city actually existed!",
+      "story": "According to Hindu mythology, Dwarka was a magnificent city built by Krishna that was submerged by the ocean. Marine archaeological expeditions have discovered ancient structures off the coast of modern Dwarka, India, suggesting the myth may be based on historical events."
+    },
+    {
+      "question": "Which culture had no gods in their mythology?",
+      "options": ["Bushongo", "Aztec", "Celtic", "Hindu"],
+      "answer": "Bushongo",
+      "funFact": "This African culture's stories focused on natural forces!",
+      "story": "The Bushongo people of Central Africa had a unique mythology that didn't include gods or divine beings. Instead, their stories featured natural forces and human-like characters who shaped the world through their actions and choices."
+    },
+    {
+      "question": "Which mythological weapon could think for itself?",
+      "options": ["Gáe Bulg", "Excalibur", "Mjolnir", "Gungnir"],
+      "answer": "Gáe Bulg",
+      "funFact": "This weapon required special training to use properly!",
+      "story": "In Irish mythology, the Gáe Bulg was a spear made from the bones of a sea monster. It would split into multiple barbs upon entering an opponent and could only be removed by cutting away the flesh. The weapon was said to have a mind of its own and required specific techniques to wield."
+    },
+    {
+      "question": "Which mythological beast was actually helpful to humans?",
+      "options": ["Domovoi", "Banshee", "Goblin", "Imp"],
+      "answer": "Domovoi",
+      "funFact": "These creatures were considered part of the family!",
+      "story": "In Slavic folklore, the Domovoi was a house spirit that helped with chores, protected the home, and cared for animals. Each house had its own Domovoi, who would only become mischievous if the family didn't follow proper household traditions or moved away."
+    },
+    {
+      "question": "Which mythological figure invented mathematics?",
+      "options": ["Thoth", "Athena", "Apollo", "Hermes"],
+      "answer": "Thoth",
+      "funFact": "This deity was associated with the moon and wisdom!",
+      "story": "In Egyptian mythology, Thoth was credited with inventing mathematics, geometry, astronomy, and many other fields of knowledge. He was depicted as a scribe who recorded and judged the deeds of the dead, and was considered the patron of scribes and wisdom."
+    },
+    {
+      "question": "Which folklore creature could grant wishes but wasn't magical?",
+      "options": ["Zashiki Warashi", "Leprechaun", "Djinn", "Fairy"],
+      "answer": "Zashiki Warashi",
+      "funFact": "These spirits were known to play harmless pranks!",
+      "story": "In Japanese folklore, Zashiki Warashi were child-like house spirits that brought good fortune to the homes they inhabited. Rather than using magic, they influenced luck through their presence and actions. Families would try to keep them happy with small gifts and by maintaining a peaceful household."
+    },
+    {
+      "question": "Which creature weaves rainbows?",
+      "options": ["Sky Spider", "Color Weaver", "Rainbow Maker", "Light Spinner"],
+      "answer": "Sky Spider",
+      "funFact": "The legend originated in ancient times!",
+      "story": "According to Pacific Island mythology, this mystical creature spins giant webs between clouds, which catch the sunlight and create rainbows across the sky."
+    },
+    {
+      "question": "Which spirit plants dreams?",
+      "options": ["Dream Sower", "Sleep Walker", "Night Gardener", "Rest Farmer"],
+      "answer": "Dream Sower",
+      "funFact": "The spirit only appears at twilight!",
+      "story": "In Central American folklore, this spirit tends to a garden of dreams, planting different varieties that bloom in people's minds while they sleep."
+    },
+    {
+      "question": "Which dragon builds cities?",
+      "options": ["Stone Wing", "City Maker", "Build Drake", "Urban Wyrm"],
+      "answer": "Stone Wing",
+      "funFact": "The creature works only at night!",
+      "story": "Eastern European legends tell of a dragon that constructs entire cities using its breath to shape stone, creating elaborate structures that appear mysteriously overnight."
+    },
+    {
+      "question": "Which giant knits storms?",
+      "options": ["Storm Weaver", "Cloud Knitter", "Weather Giant", "Sky Sewer"],
+      "answer": "Storm Weaver",
+      "funFact": "The giant uses special needles!",
+      "story": "Nordic mythology speaks of a giant who knits weather patterns using clouds as yarn, creating different types of storms depending on the stitches used."
+    },
+    {
+      "question": "Which fairy trades memories?",
+      "options": ["Mind Merchant", "Memory Trader", "Think Fairy", "Dream Dealer"],
+      "answer": "Mind Merchant",
+      "funFact": "The fairy appears in mirrors!",
+      "story": "Celtic folklore tells of a mysterious fairy who allows people to trade memories with each other, storing them in special dewdrops until the exchange is complete."
+    },
+    {
+      "question": "Which troll paints seasons?",
+      "options": ["Season Brush", "Time Painter", "Year Stroke", "Color Change"],
+      "answer": "Season Brush",
+      "funFact": "The troll uses magical pigments!",
+      "story": "Scandinavian tales describe a troll who changes the seasons by painting the landscape, using different colors to bring about spring, summer, autumn, and winter."
+    },
+    {
+      "question": "Which witch grows music?",
+      "options": ["Song Garden", "Tune Witch", "Music Grow", "Note Plant"],
+      "answer": "Song Garden",
+      "funFact": "The garden blooms at midnight!",
+      "story": "African folklore tells of a witch who maintains a magical garden where different melodies grow like plants, each with its own unique magical properties."
+    },
+    {
+      "question": "Which spirit collects time?",
+      "options": ["Time Keeper", "Clock Ghost", "Hour Spirit", "Age Collect"],
+      "answer": "Time Keeper",
+      "funFact": "The spirit never sleeps!",
+      "story": "Asian mythology describes a spirit that collects moments of time in special vessels, preserving them for when they might be needed again in the future."
+    },
+    {
+      "question": "Which mermaid builds bridges?",
+      "options": ["Wave Walker", "Sea Bridge", "Tide Cross", "Ocean Span"],
+      "answer": "Wave Walker",
+      "funFact": "The bridges appear at dawn!",
+      "story": "South American legends tell of a mermaid who creates temporary bridges across waters using frozen waves, allowing travelers to cross safely during specific times."
+    },
+    {
+      "question": "Which phoenix heals forests?",
+      "options": ["Green Flame", "Forest Fire", "Tree Light", "Wood Burn"],
+      "answer": "Green Flame",
+      "funFact": "The bird appears every century!",
+      "story": "Middle Eastern mythology speaks of a special phoenix whose flames restore dead forests to life, turning barren landscapes into lush woodlands overnight."
+    }
+  ]
+}

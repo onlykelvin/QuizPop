@@ -1,0 +1,132 @@
+{
+  "category": "Summer",
+  "description": "Test your knowledge about summer activities, weather, and traditions",
+  "questions": [
+    {
+      "question": "What causes a mirage on a hot summer day?",
+      "options": ["Light reflection", "Heat waves", "Light refraction", "Humidity"],
+      "answer": "Light refraction",
+      "funFact": "The word 'mirage' comes from the Latin 'mirare', meaning 'to look at' or 'to wonder at'!",
+      "story": "A mirage occurs when light rays bend due to layers of air at different temperatures. On hot days, the air near the ground is warmer than the air above it, causing light to bend upward. This creates the illusion of water on the road, which is actually a reflection of the sky."
+    },
+    {
+      "question": "Which summer Olympic Games were the first to be broadcast on television?",
+      "options": ["1936 Berlin", "1948 London", "1952 Helsinki", "1956 Melbourne"],
+      "answer": "1936 Berlin",
+      "funFact": "This olympics was broadcast to special viewing rooms around Berlin, reaching about 162,000 viewers!",
+      "story": "The 1936 Berlin Olympics marked many firsts, including the first torch relay and the first televised sports event. The German Post Office transmitted 72 hours of live Olympic coverage to viewing halls in Berlin and Potsdam using a then-revolutionary electronic system."
+    },
+    {
+      "question": "What is the summer solstice?",
+      "options": ["Longest night", "Shortest day", "Longest day", "Mid-summer"],
+      "answer": "Longest day",
+      "funFact": "In the Arctic Circle, the sun doesn't set at all on the summer solstice!",
+      "story": "The summer solstice occurs when Earth's axis is most tilted toward the sun, resulting in the longest day of the year in the Northern Hemisphere. Ancient civilizations celebrated this day with festivals and rituals, many of which continue today in various forms."
+    },
+    {
+      "question": "Which summer festival lasts 100 days?",
+      "options": ["BBC Proms", "Coachella", "Glastonbury", "Summerfest"],
+      "answer": "BBC Proms",
+      "funFact": "This festival started as a way to make classical music more accessible!",
+      "story": "The BBC Proms, founded in 1895, is the world's longest-running classical music festival. Originally called 'promenade concerts' because audiences could walk around during performances, it now features over 70 concerts in London's Royal Albert Hall."
+    },
+    {
+      "question": "Which summer sport was played in evening wear?",
+      "options": ["Croquet", "Tennis", "Golf", "Badminton"],
+      "answer": "Croquet",
+      "funFact": "This game was once banned from public parks!",
+      "story": "In Victorian England, croquet was played in formal evening wear, including top hats and long dresses. It was one of the first outdoor sports that men and women could play together, leading to its reputation as a matchmaking activity."
+    },
+    {
+      "question": "Which summer treat was invented by an 11-year-old?",
+      "options": ["Popsicle", "Ice Cream Cone", "Snow Cone", "Slushie"],
+      "answer": "Popsicle",
+      "funFact": "The invention was discovered after a cold night!",
+      "story": "Frank Epperson accidentally left a mixture of powdered soda and water with a stirring stick on his porch during a cold night in 1905. The next morning, he discovered the frozen treat. He patented it 18 years later."
+    },
+    {
+      "question": "Which summer job paid in chocolate?",
+      "options": ["Ice Cream Taster", "Lifeguard", "Camp Counselor", "Tour Guide"],
+      "answer": "Ice Cream Taster",
+      "funFact": "Early tasters had to pass a rigorous tongue sensitivity test!",
+      "story": "In the 1920s, ice cream companies paid their professional tasters partially in chocolate bars. The practice started because refrigeration was unreliable, and chocolate was more stable for transportation as payment."
+    },
+    {
+      "question": "Which summer palace floats on water?",
+      "options": ["Lake Palace", "Summer Palace", "Peterhof", "Versailles"],
+      "answer": "Lake Palace",
+      "funFact": "The builders used special boats made of marble!",
+      "story": "The Lake Palace in Udaipur, India, appears to float on Lake Pichola. Built in 1746 as a summer retreat, it features intricate marble work and gardens. During construction, builders used special marble boats to transport materials."
+    },
+    {
+      "question": "Which summer Olympics had no medals?",
+      "options": ["1900", "1896", "1904", "1908"],
+      "answer": "1900",
+      "funFact": "Winners received unusual prizes instead!",
+      "story": "The 1900 Paris Olympics awarded prizes like umbrellas, paintings, and cups instead of medals. The games were part of the World's Fair, and many athletes didn't even know they were competing in the Olympics."
+    },
+    {
+      "question": "Which summer fruit is not a fruit?",
+      "options": ["Rhubarb", "Tomato", "Avocado", "Cucumber"],
+      "answer": "Rhubarb",
+      "funFact": "This plant was once more valuable than saffron!",
+      "story": "Rhubarb is actually a vegetable, specifically the stem of the plant. In medieval Europe, it was highly prized for its medicinal properties and was traded along the Silk Road. Venice had a monopoly on its trade for centuries."
+    },
+    {
+      "question": "Which summer beach glows blue?",
+      "options": ["Vaadhoo", "Bondi", "Copacabana", "Waikiki"],
+      "answer": "Vaadhoo",
+      "funFact": "Local fishermen use this phenomenon to navigate!",
+      "story": "The beach at Vaadhoo Island in the Maldives features bioluminescent phytoplankton that create a stunning blue glow at night. This natural phenomenon, known as the 'Sea of Stars,' occurs when the microorganisms are disturbed by waves."
+    },
+    {
+      "question": "Which summer game uses a shuttlecock?",
+      "options": ["Badminton", "Tennis", "Volleyball", "Cricket"],
+      "answer": "Badminton",
+      "funFact": "These projectiles can travel faster than race cars!",
+      "story": "Badminton evolved from an ancient game called battledore and shuttlecock, played in ancient China, Japan, and India. British military officers in India developed the modern rules in the 1860s, creating the game we know today."
+    },
+    {
+      "question": "Which summer hat weighs only 3 ounces?",
+      "options": ["Panama", "Fedora", "Boater", "Trilby"],
+      "answer": "Panama",
+      "funFact": "The finest ones can hold water without leaking!",
+      "story": "Despite their name, Panama hats are made in Ecuador. The finest ones, called Montecristi superfinos, are woven from special palm fronds and can take up to six months to make. They're so finely woven they can pass through a wedding ring."
+    },
+    {
+      "question": "Which summer cave stays frozen?",
+      "options": ["Eisriesenwelt", "Dachstein", "Scărișoara", "Dobšinská"],
+      "answer": "Eisriesenwelt",
+      "funFact": "The name means 'World of Ice Giants'!",
+      "story": "Austria's Eisriesenwelt remains frozen even in summer due to its unique chimney effect ventilation system, maintaining ice formations throughout the year."
+    },
+    {
+      "question": "Which summer lake turns pink?",
+      "options": ["Lake Hillier", "Lake Retba", "Hutt Lagoon", "Las Coloradas"],
+      "answer": "Lake Hillier",
+      "funFact": "The color remains vibrant year-round!",
+      "story": "Australia's Lake Hillier maintains its bright pink color even in summer due to the presence of Dunaliella salina microalgae and high salt concentration."
+    },
+    {
+      "question": "Which summer mountain rains daily?",
+      "options": ["Mount Waialeale", "Cherrapunji", "Tutunendo", "Lloró"],
+      "answer": "Mount Waialeale",
+      "funFact": "The peak is often hidden in clouds!",
+      "story": "Hawaii's Mount Waialeale receives rain almost every day of summer, averaging 450 inches annually due to its unique location and topography."
+    },
+    {
+      "question": "Which summer waterfall boils?",
+      "options": ["Deildartunguhver", "Geysir", "Strokkur", "Krýsuvík"],
+      "answer": "Deildartunguhver",
+      "funFact": "The water emerges scalding hot!",
+      "story": "Iceland's Deildartunguhver hot spring waterfall flows at 97°C (207°F) even in summer, producing 180 liters of boiling water per second."
+    },
+    {
+      "question": "Which summer garden floats?",
+      "options": ["Xochimilco", "Venice", "Kashmir", "Bangkok"],
+      "answer": "Xochimilco",
+      "funFact": "The technique is centuries old!",
+      "story": "Mexico City's Xochimilco features ancient Aztec floating gardens called chinampas, which still produce crops throughout summer using traditional agricultural methods."
+    }
+  ]
+}
