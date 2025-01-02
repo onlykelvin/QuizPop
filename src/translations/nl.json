@@ -29,7 +29,7 @@
     "score": "Score",
     "question": "Vraag",
     "scoreTab": {
-      "toggle": "Team Scores Tonen/Verbergen",
+      "toggle": "Toggle Scorebord",
       "increment": "Score Verhogen",
       "decrement": "Score Verlagen"
     },
