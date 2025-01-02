@@ -29,7 +29,7 @@
     "score": "Score",
     "question": "Question",
     "scoreTab": {
-      "toggle": "Toggle Team Scores",
+      "toggle": "Toggle Scoreboard",
       "increment": "Increase Score",
       "decrement": "Decrease Score"
     },
