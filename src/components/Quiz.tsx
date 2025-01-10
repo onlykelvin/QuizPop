@@ -1,11 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import { useQuizStore } from '../store/quizStore';
 import { useAudioStore } from '../store/audioStore';
-import { CheckCircle2, XCircle, Lightbulb, BookOpen } from 'lucide-react';
+import { CheckCircle2, XCircle, Lightbulb, BookOpen, ClipboardList } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 import clsx from 'clsx';
 import { StatsModal } from './StatsModal';
 import { AudioTooltip } from './AudioTooltip';
+import { ScoreTab } from './ScoreTab';
 
 export function Quiz() {
   const { selectedCategory, currentQuestion, questions, score, nextQuestion, incrementScore, resetQuiz, gameMode } = useQuizStore();
@@ -14,6 +15,7 @@ export function Quiz() {
   const [isAnswerCorrect, setIsAnswerCorrect] = useState<boolean | null>(null);
   const [showStats, setShowStats] = useState(false);
   const [showAudioTooltip, setShowAudioTooltip] = useState(true);
+  const [showScoreTab, setShowScoreTab] = useState(true);
   const { t } = useTranslation();
 
   const question = questions[currentQuestion];
@@ -146,15 +148,24 @@ export function Quiz() {
               </div>
             </div>
           )}
-        </div>
 
-        <div className="mt-8 flex justify-end">
-          <button
-            onClick={handleQuit}
-            className="px-6 py-3 text-purple-600 hover:text-purple-800 font-medium text-lg transition-colors"
-          >
-            {t('quiz.actions.quit')}
-          </button>
+          <ScoreTab visible={showScoreTab} onToggle={() => setShowScoreTab(!showScoreTab)} />
+          
+          <div className="mt-8 flex justify-end">
+            <button
+              onClick={() => setShowScoreTab(!showScoreTab)}
+              className="px-4 py-3 border-2 border-purple-600 text-purple-600 rounded-xl hover:bg-purple-50 transition-colors font-medium text-lg flex items-center gap-2 mr-4"
+            >
+              <ClipboardList className="w-5 h-5" />
+              {t('quiz.scoreTab.toggle')}
+            </button>
+            <button
+              onClick={handleQuit}
+              className="px-6 py-3 text-purple-600 hover:text-purple-800 font-medium text-lg transition-colors"
+            >
+              {t('quiz.actions.quit')}
+            </button>
+          </div>
         </div>
       </div>
 
