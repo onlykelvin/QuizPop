@@ -107,6 +107,7 @@ export function Footer() {
             </ul>
             
             <h3 className="text-lg font-bold text-gray-900 mb-4 mt-6">{t('footer.language')}</h3>
+            <p className="text-gray-600 text-sm mb-2">{t('footer.languageDescription')}</p>
             <ul className="space-y-2">
               <li><LanguageToggle /></li>
             </ul>
