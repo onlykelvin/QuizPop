@@ -104,6 +104,10 @@ export function Footer() {
               <li><Link to="/about" onClick={handleNavigation} className="text-gray-600 hover:text-purple-600">{t('nav.about')}</Link></li>
               <li><Link to="/how-it-works" onClick={handleNavigation} className="text-gray-600 hover:text-purple-600">{t('nav.howItWorks')}</Link></li>
               <li><Link to="/contact" onClick={handleNavigation} className="text-gray-600 hover:text-purple-600">{t('nav.contact')}</Link></li>
+            </ul>
+            
+            <h3 className="text-lg font-bold text-gray-900 mb-4 mt-6">{t('footer.language')}</h3>
+            <ul className="space-y-2">
               <li><LanguageToggle /></li>
             </ul>
           </div>
