@@ -22,11 +22,6 @@ function App() {
   
   useNavigationHandler();
 
-  // Preload all categories on app start
-  useEffect(() => {
-    loadAllCategories().catch(console.error);
-  }, []);
-
   return (
     <Router>
       <div className="min-h-screen bg-purple-50 flex flex-col">
