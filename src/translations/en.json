@@ -134,7 +134,8 @@
     "connect": "Connect",
     "shareWebsite": "Share this website",
     "rights": "© 2024 QuizPop. All rights reserved.",
-    "language": "Languages"
+    "language": "Languages",
+    "languageDescription": "Play QuizPop now in Dutch!"
   },
   "categories": {
     "main": {
