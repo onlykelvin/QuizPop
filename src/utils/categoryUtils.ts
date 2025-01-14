@@ -43,7 +43,7 @@ export function createRandomCategory(categories: Category[]): Category {
   );
   
   const shuffledQuestions = [...allQuestions].sort(() => Math.random() - 0.5);
-  const currentLanguage = localStorage.getItem('preferred-language') || i18n.use(LanguageDetector) || 'en';
+  const currentLanguage = i18n.language || 'en';
 
   return {
     category: currentLanguage === 'en' ? 'Random Mix' : 'Willekeurige Mix',
