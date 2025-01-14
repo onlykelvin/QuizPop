@@ -8,9 +8,37 @@ const categoryCache: Record<string, Category> = {};
 
 export async function loadAllCategories(): Promise<Category[]> {
   const categories = [
-    'art', 'history', 'music', 'science', 'geography',
-    'technology', 'sports', 'food-drink', 'nature-environment',
-    'pop-culture', 'mythology-folklore', 'languages-linguistics'
+    'art',
+    'autumn',
+    'book-club',
+    'christmas',
+    'easter',
+    'fashion-style',
+    'food-drink',
+    'geography',
+    'health-wellness',
+    'history',
+    'languages-linguistics',
+    'literature',
+    'music',
+    'mythology-folklore',
+    'nature-environment',
+    'nature',
+    'new-year',
+    'pets',
+    'pop-culture',
+    'santa-claus',
+    'sci-fi-fantasy',
+    'science',
+    'space',
+    'sports',
+    'spring',
+    'summer',
+    'technology',
+    'travel',
+    'valentines',
+    'video-games',
+    'winter'
   ];
   
   const loadedCategories: Category[] = [];
