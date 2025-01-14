@@ -6,14 +6,12 @@ export function useLanguage() {
   const { i18n } = useTranslation();
   const isInitialLoad = useRef(true);
 
-  // Ensure HTML lang attribute is updated
+  // Ensure HTML lang attribute is updated and load categories on initial detection
   useEffect(() => {
     document.documentElement.lang = i18n.language;
     
-    // Only reload categories when language changes after initial load
-    if (!isInitialLoad.current) {
-      loadAllCategories().catch(console.error);
-    }
+    // Load categories both on initial load and language changes
+    loadAllCategories().catch(console.error);
     isInitialLoad.current = false;
   }, [i18n.language]);
 
