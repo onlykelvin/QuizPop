@@ -24,7 +24,7 @@ export function HowItWorks() {
               src="/assets/images/quizpop/quizpop_controller_main.jpg" 
               alt={t('howItWorks.images.quizpopBanner')}
               className="rounded-2xl shadow-lg max-w-full h-auto"
-              style={{ maxWidth: '800px' }}
+              style={{ maxWidth: '100%' }}
             />
           </div>
         </div>
@@ -94,8 +94,8 @@ export function HowItWorks() {
               <img 
                 src="/assets/images/howitworks/classic_mode.png"
                 alt={t('howItWorks.gameModes.classic.title')}
-                className="rounded-2xl shadow-lg max-w-full h-auto"
-                style={{ maxWidth: '600px' }}
+                className="rounded-2xl shadow-lg max-w-full h-auto px-4 sm:px-0"
+                style={{ maxWidth: '300px', width: '100%' }}
               />
             </div>
             <p className="text-gray-600 mb-8">{t('howItWorks.gameModes.classic.description')}</p>
@@ -105,8 +105,8 @@ export function HowItWorks() {
               <img 
                 src="/assets/images/howitworks/quizmaster_mode.png"
                 alt={t('howItWorks.gameModes.quizMaster.title')}
-                className="rounded-2xl shadow-lg max-w-full h-auto"
-                style={{ maxWidth: '600px' }}
+                className="rounded-2xl shadow-lg max-w-full h-auto px-4 sm:px-0"
+                style={{ maxWidth: '300px', width: '100%' }}
               />
             </div>
             <p className="text-gray-600 mb-8">{t('howItWorks.gameModes.quizMaster.description')}</p>
@@ -119,8 +119,8 @@ export function HowItWorks() {
               <img 
                 src="/assets/images/howitworks/music_player.png"
                 alt={t('howItWorks.musicPlayer.title')}
-                className="rounded-2xl shadow-lg max-w-full h-auto"
-                style={{ maxWidth: '600px' }}
+                className="rounded-2xl shadow-lg max-w-full h-auto px-4 sm:px-0"
+                style={{ maxWidth: '300px', width: '100%' }}
               />
             </div>
           </div>
@@ -132,8 +132,8 @@ export function HowItWorks() {
               <img 
                 src="/assets/images/howitworks/score_board.png"
                 alt={t('howItWorks.scoreBoard.title')}
-                className="rounded-2xl shadow-lg max-w-full h-auto"
-                style={{ maxWidth: '600px' }}
+                className="rounded-2xl shadow-lg max-w-full h-auto px-4 sm:px-0"
+                style={{ maxWidth: '300px', width: '100%' }}
               />
             </div>
           </div>
@@ -145,8 +145,8 @@ export function HowItWorks() {
               <img 
                 src="/assets/images/howitworks/high_scores.png"
                 alt={t('howItWorks.highScores.title')}
-                className="rounded-2xl shadow-lg max-w-full h-auto"
-                style={{ maxWidth: '600px' }}
+                className="rounded-2xl shadow-lg max-w-full h-auto px-4 sm:px-0"
+                style={{ maxWidth: '300px', width: '100%' }}
               />
             </div>
           </div>
