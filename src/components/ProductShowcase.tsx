@@ -46,7 +46,7 @@ export function ProductShowcase() {
               src="/assets/images/quizpop/quizpop_wide.jpg" 
               alt="QuizPop Banner" 
               className="rounded-2xl shadow-lg max-w-full h-auto"
-              style={{ maxWidth: '800px' }}
+              style={{ maxWidth: '100%' }}
             />
           </div>
           
