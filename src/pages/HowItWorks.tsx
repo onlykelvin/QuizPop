@@ -21,7 +21,7 @@ export function HowItWorks() {
           </Link>
           <div className="mt-8 flex justify-center">
             <img 
-              src="/assets/images/quizpop/quizpop_wide.jpg" 
+              src="/assets/images/quizpop/quizpop_controller_main.jpg" 
               alt={t('howItWorks.images.quizpopBanner')}
               className="rounded-2xl shadow-lg max-w-full h-auto"
               style={{ maxWidth: '800px' }}
