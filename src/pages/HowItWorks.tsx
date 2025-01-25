@@ -19,6 +19,14 @@ export function HowItWorks() {
               {t('hero.title')}
             </span>
           </Link>
+          <div className="mt-8 flex justify-center">
+            <img 
+              src="/assets/images/quizpop/quizpop_wide.jpg" 
+              alt={t('howItWorks.images.quizpopBanner')}
+              className="rounded-2xl shadow-lg max-w-full h-auto"
+              style={{ maxWidth: '800px' }}
+            />
+          </div>
         </div>
 
         <div className="space-y-8">
@@ -58,13 +66,102 @@ export function HowItWorks() {
           </div>
 
           <div className="bg-white rounded-2xl shadow-xl p-8 md:p-12">
+            <h2 className="text-2xl font-bold text-gray-900 mb-6">{t('howItWorks.abundanceQuestions.title')}</h2>
+            <div className="space-y-4 text-gray-600">
+              <ul className="list-disc list-inside space-y-2 ml-4">
+                {t('howItWorks.abundanceQuestions.description', { returnObjects: true }).map((text, index) => (
+                  <li key={index}>{text}</li>
+                ))}
+              </ul>
+            </div>
+          </div>
+
+          <div className="bg-white rounded-2xl shadow-xl p-8 md:p-12">
+            <h2 className="text-2xl font-bold text-gray-900 mb-6">{t('howItWorks.funFactsContext.title')}</h2>
+            <div className="space-y-4 text-gray-600">
+              <ul className="list-disc list-inside space-y-2 ml-4">
+                {t('howItWorks.funFactsContext.description', { returnObjects: true }).map((text, index) => (
+                  <li key={index}>{text}</li>
+                ))}
+              </ul>
+            </div>
+          </div>
+
+
+          <div className="bg-white rounded-2xl shadow-xl p-8 md:p-12">
             <h2 className="text-2xl font-bold text-gray-900 mb-6">{t('howItWorks.gameModes.classic.title')}</h2>
+            <div className="mt-8 flex justify-center mb-8">
+              <img 
+                src="/assets/images/howitworks/classic_mode.png"
+                alt={t('howItWorks.gameModes.classic.title')}
+                className="rounded-2xl shadow-lg max-w-full h-auto"
+                style={{ maxWidth: '600px' }}
+              />
+            </div>
             <p className="text-gray-600 mb-8">{t('howItWorks.gameModes.classic.description')}</p>
             
             <h2 className="text-2xl font-bold text-gray-900 mb-6">{t('howItWorks.gameModes.quizMaster.title')}</h2>
+            <div className="mt-8 flex justify-center mb-8">
+              <img 
+                src="/assets/images/howitworks/quizmaster_mode.png"
+                alt={t('howItWorks.gameModes.quizMaster.title')}
+                className="rounded-2xl shadow-lg max-w-full h-auto"
+                style={{ maxWidth: '600px' }}
+              />
+            </div>
             <p className="text-gray-600 mb-8">{t('howItWorks.gameModes.quizMaster.description')}</p>
           </div>
 
+          <div className="bg-white rounded-2xl shadow-xl p-8 md:p-12">
+            <h2 className="text-2xl font-bold text-gray-900 mb-6">{t('howItWorks.musicPlayer.title')}</h2>
+            <p className="text-gray-600 mb-8">{t('howItWorks.musicPlayer.description')}</p>
+            <div className="mt-8 flex justify-center">
+              <img 
+                src="/assets/images/howitworks/music_player.png"
+                alt={t('howItWorks.musicPlayer.title')}
+                className="rounded-2xl shadow-lg max-w-full h-auto"
+                style={{ maxWidth: '600px' }}
+              />
+            </div>
+          </div>
+
+          <div className="bg-white rounded-2xl shadow-xl p-8 md:p-12">
+            <h2 className="text-2xl font-bold text-gray-900 mb-6">{t('howItWorks.scoreBoard.title')}</h2>
+            <p className="text-gray-600 mb-8">{t('howItWorks.scoreBoard.description')}</p>
+            <div className="mt-8 flex justify-center">
+              <img 
+                src="/assets/images/howitworks/score_board.png"
+                alt={t('howItWorks.scoreBoard.title')}
+                className="rounded-2xl shadow-lg max-w-full h-auto"
+                style={{ maxWidth: '600px' }}
+              />
+            </div>
+          </div>
+
+          <div className="bg-white rounded-2xl shadow-xl p-8 md:p-12">
+            <h2 className="text-2xl font-bold text-gray-900 mb-6">{t('howItWorks.highScores.title')}</h2>
+            <p className="text-gray-600 mb-8">{t('howItWorks.highScores.description')}</p>
+            <div className="mt-8 flex justify-center">
+              <img 
+                src="/assets/images/howitworks/high_scores.png"
+                alt={t('howItWorks.highScores.title')}
+                className="rounded-2xl shadow-lg max-w-full h-auto"
+                style={{ maxWidth: '600px' }}
+              />
+            </div>
+          </div>
+
+          <div className="bg-white rounded-2xl shadow-xl p-8 md:p-12">
+            <h2 className="text-2xl font-bold text-gray-900 mb-6">{t('howItWorks.rainbowMode.title')}</h2>
+            <p className="text-gray-600 mb-4">{t('howItWorks.rainbowMode.description')}</p>
+            <p className="text-gray-600 font-semibold mb-2">{t('howItWorks.rainbowMode.scoring')}</p>
+            <ul className="list-disc list-inside space-y-2 ml-4 text-gray-600">
+              {[0, 1, 2, 3].map((index) => (
+                <li key={index}>{t(`howItWorks.rainbowMode.points.${index}`)}</li>
+              ))}
+            </ul>
+          </div>
+          
           <div className="bg-white rounded-2xl shadow-xl p-8 md:p-12">
             <h2 className="text-2xl font-bold text-gray-900 mb-6">{t('howItWorks.why.title')}</h2>
             <p className="text-gray-600">{t('howItWorks.why.description')}</p>
