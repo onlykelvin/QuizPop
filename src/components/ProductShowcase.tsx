@@ -41,6 +41,18 @@ export function ProductShowcase() {
           </p>
         </div>
 
+        <div className="mt-8 flex justify-center">
+            <img 
+              src="/assets/images/quizpop/quizpop_wide.jpg" 
+              alt="QuizPop Banner" 
+              className="rounded-2xl shadow-lg max-w-full h-auto"
+              style={{ maxWidth: '800px' }}
+            />
+          </div>
+          
+          <br></br>
+          <br></br>
+          <br></br> 
         <div className="grid md:grid-cols-2 gap-16 items-center mb-20">
           <div>
             <video ref={videoRef} width="560" height="315" controls>
