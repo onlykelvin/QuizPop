@@ -55,7 +55,8 @@
     "date": "Date",
     "score": "Score",
     "percentage": "Percentage",
-    "noScores": "No high scores yet. Start playing to set some records!"
+    "noScores": "No high scores yet. Start playing to set some records!",
+    "description": "Your highscores are automatically saved after quitting a quiz. Share you best highscore to impress and challenge your friends!"
   },
   "stats": {
     "title": "Quiz Complete!",
@@ -111,6 +112,29 @@
     "why": {
       "title": "Why QuizPop?",
       "description": "At QuizPop, we believe in bringing people together through fun, learning, and shared experiences. Whether you're testing your knowledge or sparking friendly competition, QuizPop is designed to create unforgettable moments."
+    },
+    "musicPlayer": {
+      "title": "Music Player",
+      "description": "Choose the right track for you gameplay! Control it via the button on the bottom right corner, shuffle for hearing all the songs or choose one and immersive yourself in the quiz."
+    },
+    "scoreBoard": {
+      "title": "Score Board",
+      "description": "Keep track of every teams score using the scoreboard. You can toggle the visibility if not needed."
+    },
+    "highScores": {
+      "title": "High Scores",
+      "description": "Your highscores are automatically saved after quitting a quiz. Share you best highscore to impress and challenge your friends!"
+    },
+    "rainbowMode": {
+      "title": "Rainbow Mode",
+      "description": "There is a chance of RAINBOW mode when every round starts! In this special mode, all buttons display a circling rainbow animation.",
+      "scoring": "The scoring system adds an exciting twist:",
+      "points": [
+        "Everyone can answer the question",
+        "If you got the answer correct, you will receive the amount of players or teams that answered added to your score!",
+        "If you got the answer incorrect, you will receive the amount of players or teams that answered subtracted to your score!",
+        "This adds a thrilling risk-reward element to the gameplay!"
+      ]
     }
   },
   "contact": {

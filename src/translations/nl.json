@@ -50,12 +50,13 @@
     "showLess": "Toon Minder"
   },
   "highScores": {
-    "title": "Hoogste Scores",
+    "title": "Topscores",
     "mode": "Modus",
     "date": "Datum",
     "score": "Score",
     "percentage": "Percentage",
-    "noScores": "Nog geen hoogste scores. Begin met spelen om records te zetten!"
+    "noScores": "Nog geen hoogste scores. Begin met spelen om records te zetten!",
+    "description": "Je topscores worden automatisch opgeslagen na het beëindigen van een quiz. Deel je beste topscore om je vrienden te imponeren en uit te dagen!"
   },
   "stats": {
     "title": "Quiz Voltooid!",
@@ -111,6 +112,46 @@
     "why": {
       "title": "Waarom QuizPop?",
       "description": "Bij QuizPop geloven we in het samenbrengen van mensen door plezier, leren en gedeelde ervaringen. Of je nu je kennis test of vriendelijke competitie aanwakkert, QuizPop is ontworpen om onvergetelijke momenten te creëren."
+    },
+    "musicPlayer": {
+      "title": "Muziekspeler",
+      "description": "Kies de juiste track voor je gameplay! Bedien het via de knop rechtsonder, shuffle om alle nummers te horen of kies er één en dompel jezelf onder in de quiz."
+    },
+    "scoreBoard": {
+      "title": "Scorebord",
+      "description": "Houd de score van elk team bij met het scorebord. Je kunt de zichtbaarheid uitschakelen indien niet nodig."
+    },
+    "highScores": {
+      "title": "Topscores",
+      "description": "Je topscores worden automatisch opgeslagen na het beëindigen van een quiz. Deel je beste topscore om je vrienden te imponeren en uit te dagen!"
+    },
+    "rainbowMode": {
+      "title": "Regenboog Modus",
+      "description": "Er is een kans op REGENBOOG modus bij elke nieuwe ronde! In deze speciale modus vertonen alle knoppen een cirkelende regenbooganimatie.",
+      "scoring": "Het scoresysteem voegt een spannende draai toe:",
+      "points": [
+        "Iedereen kan het antwoord geven",
+        "Als je het antwoord goed hebt, krijg je het aantal punten vermenigvuldigd met alle spelers of teams die geantwoord hebben bij je score opgeteld!",
+        "Als je het antwoord fout hebt, wordt het aantal punten vermenigvuldigd met alle spelers of teams die geantwoord hebben van je score afgetrokken!",
+        "Dit voegt een spannend risico-beloning element toe aan het spel!"
+      ]
+    },
+    "abundanceQuestions": {
+      "title": "Overvloed aan Vragen",
+      "description": [
+        "Raak nooit verveeld met het aantal vragen dat QuizPop te bieden heeft.",
+        "700+ vragen!",
+        "27+ categorieën!",
+        "Ervaar nieuwsgierigheid en leer elke keer iets nieuws voor eindeloos plezier."
+      ]
+    },
+    "funFactsContext": {
+      "title": "Leuke Weetjes & Context",
+      "description": [
+        "Een leuk weetje bij elke vraag om je een hint te geven!",
+        "Context of een verhaal over het juiste antwoord nadat je hebt geantwoord!",
+        "Leer iets nieuws bij elke vraag!"
+      ]
     }
   },
   "contact": {
