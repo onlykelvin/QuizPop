@@ -178,6 +178,12 @@
     "language": "Talen",
     "languageDescription": "Speel QuizPop nu ook in het Engels!"
   },
+  "welcome": {
+    "title": "Welkom bij QuizPop!",
+    "description": "Nieuw bij QuizPop? Ontdek hoe je het meeste uit je quiz-ervaring haalt met onze snelle handleiding. Leer over spelmodi, functies en tips om je gameplay te verbeteren.",
+    "continue": "Doorgaan naar Quiz",
+    "learnMore": "Ontdek Hoe Het Werkt"
+  },
   "categories": {
     "main": {
       "science": "Wetenschap",

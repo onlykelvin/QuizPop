@@ -161,6 +161,12 @@
     "language": "Languages",
     "languageDescription": "Play QuizPop now in Dutch!"
   },
+  "welcome": {
+    "title": "Welcome to QuizPop!",
+    "description": "New to QuizPop? Learn how to make the most of your quiz experience with our quick guide. Discover game modes, features, and tips to enhance your gameplay.",
+    "continue": "Continue to Quiz",
+    "learnMore": "Learn How It Works"
+  },
   "categories": {
     "main": {
       "science": "Science",
