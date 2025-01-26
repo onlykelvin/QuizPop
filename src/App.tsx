@@ -15,6 +15,7 @@ import { Contact } from './pages/Contact';
 import { useQuizStore } from './store/quizStore';
 import { useNavigationHandler } from './hooks/useNavigationHandler';
 import { useEffect } from 'react';
+import { WelcomePopup } from './components/WelcomePopup';
 import { loadAllCategories } from './utils/categoryUtils';
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
     <Router>
       <div className="min-h-screen bg-purple-50 flex flex-col">
         <Header />
+        <WelcomePopup />
         <main className="flex-grow">
           <Routes>
             <Route path="/about" element={<AboutUs />} />
