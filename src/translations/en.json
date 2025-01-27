@@ -66,7 +66,7 @@
     "actions": {
       "home": "Back to Home",
       "share": "Share highscore!",
-      "game": "Share your score!" 
+      "game": "Share your score!"
     },
     "shareText": "🎯 I just scored {score}/{total} ({percentage}%) on the {category} quiz in QuizPop! Can you beat my score?"
   },
@@ -98,6 +98,23 @@
         "step3": "Buzz in to answer: The first to press their button gets to answer.",
         "step4": "Have fun and learn: Whether answers are right or wrong, each question comes with exciting facts and context."
       }
+    },
+    "abundanceQuestions": {
+      "title": "Abundance of Questions",
+      "description": [
+        "Never get bored with the amount of questions QuizPop has to offer.",
+        "700+ questions!",
+        "27+ categories!",
+        "Experience curiosity and learn something new for endless fun."
+      ]
+    },
+    "funFactsContext": {
+      "title": "Fun Facts & Context",
+      "description": [
+        "A fun fact with every question to give you a hint!",
+        "Context or story about the correct answer after you've answered!",
+        "Learn something new with every question!"
+      ]
     },
     "gameModes": {
       "classic": {
