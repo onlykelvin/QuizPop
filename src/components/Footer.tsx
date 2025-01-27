@@ -2,6 +2,7 @@ import React from 'react';
 import { useQuizStore } from '../store/quizStore';
 import { Brain, BookOpen, Atom, Palette, Music, Globe, Cpu, Dumbbell, UtensilsCrossed, Leaf, Tv2, BookMarked, Languages, Gift, Snowflake, Sun, Cloud, BookHeart, Plane, Gamepad2, Heart, Shirt, Github, Linkedin } from 'lucide-react';
 import { ShareButton } from './ShareButton';
+import { InstallPWA } from './InstallPWA';
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { LanguageToggle } from './LanguageToggle';
@@ -109,8 +110,13 @@ export function Footer() {
             <h3 className="text-lg font-bold text-gray-900 mb-4 mt-6">{t('footer.language')}</h3>
             <p className="text-gray-600 hover:text-purple-600">{t('footer.languageDescription')}</p>
             <br></br>
-            <ul className="space-y-2">
-              <li><LanguageToggle /></li>
+            <ul className="space-y-4">
+              <li>
+                <LanguageToggle />
+              </li>
+              <li>
+                <InstallPWA />
+              </li>
             </ul>
           </div>
           
