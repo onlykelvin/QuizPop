@@ -184,6 +184,9 @@
     "continue": "Continue to Quiz",
     "learnMore": "Learn How It Works"
   },
+  "pwa": {
+    "installPrompt": "Install App"
+  },
   "categories": {
     "main": {
       "science": "Science",
