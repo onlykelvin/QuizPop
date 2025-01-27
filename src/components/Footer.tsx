@@ -112,10 +112,6 @@ export function Footer() {
             <ul className="space-y-2">
               <li><LanguageToggle /></li>
             </ul>
-            <h3 className="text-lg font-bold text-gray-900 mb-4 mt-6">{t('footer.install')}</h3>
-            <ul className="space-y-2">
-              <li><InstallPWAButton /></li>
-            </ul>
           </div>
           
           <div>
