@@ -52,14 +52,12 @@ export function InstallPWA() {
   }
 
   return (
-    <div className="fixed bottom-20 right-4 z-50">
-      <button
-        onClick={handleInstallClick}
-        className="bg-purple-600 text-white rounded-xl px-4 py-3 flex items-center gap-2 shadow-lg hover:bg-purple-700 transition-colors"
-      >
-        <Download className="w-5 h-5" />
-        <span>{t('pwa.installPrompt')}</span>
-      </button>
-    </div>
+    <button
+      onClick={handleInstallClick}
+      className="flex items-center gap-2 text-gray-600 hover:text-purple-600 transition-colors"
+    >
+      <Download className="w-4 h-4" />
+      <span>{t('pwa.installPrompt')}</span>
+    </button>
   );
 }
