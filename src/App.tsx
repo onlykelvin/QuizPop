@@ -16,7 +16,6 @@ import { useQuizStore } from './store/quizStore';
 import { useNavigationHandler } from './hooks/useNavigationHandler';
 import { useEffect } from 'react';
 import { WelcomePopup } from './components/WelcomePopup';
-import { InstallPWA } from './components/InstallPWA';
 import { loadAllCategories } from './utils/categoryUtils';
 
 function App() {
@@ -29,7 +28,6 @@ function App() {
       <div className="min-h-screen bg-purple-50 flex flex-col">
         <Header />
         <WelcomePopup />
-        <InstallPWA />
         <main className="flex-grow">
           <Routes>
             <Route path="/about" element={<AboutUs />} />
