@@ -184,6 +184,9 @@
     "continue": "Doorgaan naar Quiz",
     "learnMore": "Ontdek Hoe Het Werkt"
   },
+  "pwa": {
+    "installPrompt": "App Installeren"
+  },
   "categories": {
     "main": {
       "science": "Wetenschap",
