@@ -19,6 +19,10 @@ import { WelcomePopup } from './components/WelcomePopup';
 import { loadAllCategories } from './utils/categoryUtils';
 
 function App() {
+  
+  useEffect(() => {
+    window.insidee?.init("1f49f786-1143-4b6d-9699-39262e87bba1");
+  }, []);
   const { selectedCategory, gameMode } = useQuizStore();
   
   useNavigationHandler();
