@@ -2,12 +2,11 @@
 <html>
 <head>
   <script>
-    // Get the current origin (domain) and pathname
+    // Get the current path
     var path = window.location.pathname;
-    var newUrl = window.location.origin + path;
-
-    // Redirect to the correct absolute URL
-    window.location.replace(newUrl);
+    
+    // Redirect to the homepage but preserve the path using a hash
+    window.location.replace("/" + path);
   </script>
 </head>
 <body>
