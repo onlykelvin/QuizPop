@@ -2,9 +2,10 @@
 <html>
 <head>
     <meta http-equiv="refresh" content="0; url='/'" />
-    <script>
-        window.location.href = '/';
-    </script>
+<script>
+  var path = window.location.pathname;
+  window.location.replace("/?" + path);
+</script>
 </head>
 <body>
     <p>If you are not redirected, <a href="/">click here</a>.</p>
