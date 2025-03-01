@@ -138,7 +138,7 @@ export function Footer() {
               </li>
               <li className="mt-4">
                 <img
-                  src="https://media.licdn.com/dms/image/v2/D4D03AQGz2L7WE6VQ-Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1727038073022?e=1739404800&v=beta&t=3TjfWBRf48jzOtw6CHuWyjDBcfP2cyXDxE7AgSfh2lk"
+                  src="https://avatars.githubusercontent.com/u/143399058?v=4"
                   alt="Portrait"
                   className="rounded-full w-16 h-16 object-cover"
                 />
